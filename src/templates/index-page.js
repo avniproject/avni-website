@@ -24,24 +24,27 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        display: 'flex',
+        justifyContent: 'flex-start',
+        alignItems: 'flex-end',
+        flexDirection: 'row',
+        paddingLeft: '1em',
       }}
     >
       <div
         style={{
           display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
           flexDirection: 'column',
+          lineHeight: '1',
+          width: '58%'
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className="has-text-weight-bold is-size-3-mobile is-size-3-tablet is-size-1-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'rgb(16, 16, 16)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -50,14 +53,15 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="is-size-6-mobile is-size-6-tablet is-size-4-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'rgb(48, 48, 48)',
             color: 'white',
-            lineHeight: '1',
+            lineHeight: '1.2',
             padding: '0.25em',
+            fontWeight: '200'
           }}
         >
           {subheading}
