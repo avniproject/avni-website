@@ -2,8 +2,14 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/17580.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: >-
+  Intelligent mobile data collection and reporting platform to empower your
+  on-ground team with real-time decisions
+subheading: >-
+  Designed primarily for the development sector, avni is used by non-profits and
+  governments to collect intervention-related data across sectors like
+  healthcare, environment, education and social welfare and to gain insights
+  into their programs
 mainpitch:
   title: Why Kaldi
   description: >
