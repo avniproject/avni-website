@@ -1,19 +1,15 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
   image,
   title,
-  heading,
   subheading,
-  mainpitch,
-  description,
-  intro,
+  features,
 }) => (
   <div>
     <div
@@ -29,38 +25,38 @@ export const IndexPageTemplate = ({
         alignItems: 'flex-end',
         flexDirection: 'row',
         paddingLeft: '1em',
+        height: '60vh'
       }}
     >
       <div
         style={{
           display: 'flex',
           flexDirection: 'column',
-          lineHeight: '1',
-          width: '58%'
+          width: '70%'
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-3-tablet is-size-1-widescreen"
+          className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-1-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
             backgroundColor: 'rgb(16, 16, 16)',
             color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
+            lineHeight: '1.1',
+            padding: '0.35em 0.5em',
           }}
         >
           {title}
         </h1>
         <h3
-          className="is-size-6-mobile is-size-6-tablet is-size-4-widescreen"
+          className="is-size-7-mobile is-size-6-tablet is-size-4-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
             backgroundColor: 'rgb(48, 48, 48)',
             color: 'white',
             lineHeight: '1.2',
-            padding: '0.25em',
+            padding: '0.35em',
             fontWeight: '200'
           }}
         >
@@ -68,47 +64,34 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <section className="section section--gradient">
+    <section>
+      <div className="container">
+        <div className="section">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <div className="content has-text-centered">
+                <h2>Trusted by</h2>
+                <div id="avni-customers" className="columns">
+                  <span className="column is-2">UNICEF</span>
+                  <span className="column is-2">Ministry of Health, Assam</span>
+                  <span className="column is-2">Jan Swasthya Sahyog</span>
+                  <span className="column is-2">SEWA</span>
+                  <span className="column is-2">IHMP</span>
+                  <span className="column is-2">TATA Trusts</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
       <div className="container">
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
+                <Features gridItems={features.blurbs} />
               </div>
             </div>
           </div>
@@ -121,11 +104,8 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
-  heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
+  features: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
 }
@@ -138,11 +118,8 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
-        heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        features={frontmatter.features}
       />
     </Layout>
   )
@@ -170,26 +147,19 @@ export const pageQuery = graphql`
             }
           }
         }
-        heading
         subheading
-        mainpitch {
-          title
-          description
-        }
-        description
-        intro {
+        features {
           blurbs {
-            image {
+            icon {
               childImageSharp {
                 fluid(maxWidth: 240, quality: 64) {
                   ...GatsbyImageSharpFluid
                 }
               }
             }
+            title
             text
           }
-          heading
-          description
         }
       }
     }
