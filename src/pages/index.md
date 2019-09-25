@@ -2,8 +2,7 @@
 templateKey: index-page
 image: /img/17580.jpg
 title: >
-  Intelligent mobile data collection and reporting platform to empower your
-  on-ground team with real-time decisions
+  Home - Avni Mobile Data Collection Platform
 caption: >-
   Intelligent mobile data collection and reporting platform to empower your
   on-ground team with real-time decisions
