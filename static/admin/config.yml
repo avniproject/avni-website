@@ -33,8 +33,8 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Subheading, name: subheading, widget: string}
-          - {label: Features, name: features, widget: object, fields: [ { label: Blurbs, name: blurbs, widget: list, fields: [ { label: Icon, name: icon, widget: image }, { label: Title, name: title, widget: markdown }, { label: Text, name: text, widget: markdown } ] } ]}
+          - {label: Description, name: description, widget: markdown}
+          - {label: Features, name: features, widget: object, fields: [ { label: Blurbs, name: blurbs, widget: list, fields: [ { label: Image, name: image, widget: image }, { label: Title, name: title, widget: markdown }, { label: Text, name: text, widget: markdown } ] } ]}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"

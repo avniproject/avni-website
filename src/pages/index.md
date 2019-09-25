@@ -1,30 +1,17 @@
 ---
 templateKey: index-page
-title: >-
+title: >
   Intelligent mobile data collection and reporting platform to empower your
   on-ground team with real-time decisions
 image: /img/17580.jpg
-heading: ' '
-subheading: >-
+description: >
   Designed primarily for the development sector, avni is used by non-profits and
   governments to collect intervention-related data across sectors like
   healthcare, environment, education and social welfare and to gain insights
   into their programs
-mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 features:
   blurbs:
-    - icon: /img/coffee.png
+    - image: /img/coffee.png
       title: ' '  
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -32,14 +19,14 @@ features:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - icon: /img/coffee-gear.png
+    - image: /img/coffee-gear.png
       title: ' '  
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - icon: /img/tutorials.png
+    - image: /img/tutorials.png
       title: ' '  
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -47,7 +34,7 @@ features:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - icon: /img/meeting-space.png
+    - image: /img/meeting-space.png
       title: ' '  
       text: >
         We believe that good coffee has the power to bring people together.

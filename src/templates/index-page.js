@@ -8,7 +8,7 @@ import Features from '../components/Features'
 export const IndexPageTemplate = ({
   image,
   title,
-  subheading,
+  description,
   features,
 }) => (
   <div>
@@ -60,7 +60,7 @@ export const IndexPageTemplate = ({
             fontWeight: '200'
           }}
         >
-          {subheading}
+          {description}
         </h3>
       </div>
     </div>
@@ -104,7 +104,7 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
-  subheading: PropTypes.string,
+  description: PropTypes.string,
   features: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -118,7 +118,7 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
-        subheading={frontmatter.subheading}
+        description={frontmatter.description}
         features={frontmatter.features}
       />
     </Layout>
@@ -147,10 +147,10 @@ export const pageQuery = graphql`
             }
           }
         }
-        subheading
+        description
         features {
           blurbs {
-            icon {
+            image {
               childImageSharp {
                 fluid(maxWidth: 240, quality: 64) {
                   ...GatsbyImageSharpFluid
