@@ -4,7 +4,9 @@ image: /img/17580.jpg
 title: >
   Intelligent mobile data collection and reporting platform to empower your
   on-ground team with real-time decisions
-caption: .
+caption: >-
+  Intelligent mobile data collection and reporting platform to empower your
+  on-ground team with real-time decisions
 description: >-
   Designed primarily for the development sector, _avni_ is used by non-profits
   and governments to collect intervention-related data across sectors like
