@@ -31,8 +31,9 @@ collections:
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: Caption Background, name: image, widget: image}
           - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
+          - {label: Caption, name: caption, widget: markdown}
           - {label: Description, name: description, widget: markdown}
           - {label: Features, name: features, widget: object, fields: [ { label: Blurbs, name: blurbs, widget: list, fields: [ { label: Image, name: image, widget: image }, { label: Title, name: title, widget: markdown }, { label: Text, name: text, widget: markdown } ] } ]}
       - file: "src/pages/about/index.md"

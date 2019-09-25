@@ -4,10 +4,12 @@ import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
+import { HTMLContent } from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
   title,
+  caption,
   description,
   features,
 }) => (
@@ -46,7 +48,7 @@ export const IndexPageTemplate = ({
             padding: '0.35em 0.5em',
           }}
         >
-          {title}
+          <HTMLContent className="content" content={caption}/>
         </h1>
         <h3
           className="is-size-7-mobile is-size-6-tablet is-size-4-widescreen"
@@ -60,7 +62,7 @@ export const IndexPageTemplate = ({
             fontWeight: '200'
           }}
         >
-          {description}
+          <HTMLContent className="content" content={description}/>
         </h3>
       </div>
     </div>
@@ -104,6 +106,7 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
+  caption: PropTypes.string,
   description: PropTypes.string,
   features: PropTypes.shape({
     blurbs: PropTypes.array,
@@ -118,6 +121,7 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
+        caption={frontmatter.caption}
         description={frontmatter.description}
         features={frontmatter.features}
       />
@@ -139,7 +143,6 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        title
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -147,6 +150,8 @@ export const pageQuery = graphql`
             }
           }
         }
+        title
+        caption
         description
         features {
           blurbs {
