@@ -41,7 +41,7 @@ features:
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
     - title: Collect data even when offline
-      image: /img/offline-icon.png
+      image: /img/cloud-off.png
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
