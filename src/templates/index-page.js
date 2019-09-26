@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
         alignItems: 'flex-end',
         flexDirection: 'row',
         paddingLeft: '1em',
-        height: '60vh'
+        height: '400px'
       }}
     >
       <div
@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
           on-ground team with real-time decisions
         </h1>
         <h3
-          className="is-size-7-mobile is-size-6-tablet is-size-4-widescreen"
+          className="is-size-6-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
