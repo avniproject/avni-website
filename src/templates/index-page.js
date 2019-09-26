@@ -4,13 +4,9 @@ import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import { HTMLContent } from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
-  title,
-  caption,
-  description,
   features,
 }) => (
   <div>
@@ -34,11 +30,11 @@ export const IndexPageTemplate = ({
         style={{
           display: 'flex',
           flexDirection: 'column',
-          width: '70%'
+          width: '96%'
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-1-widescreen"
+          className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
@@ -48,7 +44,8 @@ export const IndexPageTemplate = ({
             padding: '0.35em 0.5em',
           }}
         >
-          <HTMLContent className="content" content={caption}/>
+          Intelligent mobile data collection and reporting platform to empower your
+          on-ground team with real-time decisions
         </h1>
         <h3
           className="is-size-7-mobile is-size-6-tablet is-size-4-widescreen"
@@ -62,7 +59,10 @@ export const IndexPageTemplate = ({
             fontWeight: '200'
           }}
         >
-          <HTMLContent className="content" content={description}/>
+          Designed primarily for the development sector, <u>avni</u> is used by non-profits
+          and governments to collect intervention-related data across sectors like
+          healthcare, environment, education and social welfare and to gain insights
+          into their programs
         </h3>
       </div>
     </div>
@@ -105,9 +105,6 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  caption: PropTypes.string,
-  description: PropTypes.string,
   features: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -120,9 +117,6 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
-        caption={frontmatter.caption}
-        description={frontmatter.description}
         features={frontmatter.features}
       />
     </Layout>
@@ -150,9 +144,6 @@ export const pageQuery = graphql`
             }
           }
         }
-        title
-        caption
-        description
         features {
           blurbs {
             image {

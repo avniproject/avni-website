@@ -2,15 +2,7 @@
 templateKey: index-page
 image: /img/17580.jpg
 title: >
-  Home - Avni Mobile Data Collection Platform
-caption: >-
-  Intelligent mobile data collection and reporting platform to empower your
-  on-ground team with real-time decisions
-description: >-
-  Designed primarily for the development sector, _avni_ is used by non-profits
-  and governments to collect intervention-related data across sectors like
-  healthcare, environment, education and social welfare and to gain insights
-  into their programs
+  Avni - Open Source Data Collection & Insights Platform
 features:
   blurbs:
     - image: /img/coffee.png

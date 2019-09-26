@@ -33,8 +33,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Caption Background, name: image, widget: image}
-          - {label: Caption, name: caption, widget: text}
-          - {label: Description, name: description, widget: text}
           - label: Features
             name: features
             widget: object
