@@ -10,7 +10,7 @@ export const IndexPageTemplate = ({
   features,
 }) => (
   <div>
-    <section className="hero is-fullheight">
+    <section className="hero has-background-grey-lighter is-fullheight">
       <div className="hero-head">
         <header>
           <Navbar/>
@@ -26,22 +26,18 @@ export const IndexPageTemplate = ({
           justifyContent: 'flex-start',
           alignItems: 'flex-end',
           flexDirection: 'row',
-          paddingLeft: '1em',
         }}
       >
         <div
           style={{
             display: 'flex',
             flexDirection: 'column',
-            width: '98%'
           }}
         >
           <h1
             className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen"
             style={{
-              boxShadow:
-                'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-              backgroundColor: 'rgb(16, 16, 16)',
+              backgroundColor: 'rgb(16, 16, 16, 0.8)',
               color: 'white',
               lineHeight: '1.1',
               padding: '0.35em 0.5em',
@@ -53,9 +49,7 @@ export const IndexPageTemplate = ({
           <h5
             className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
             style={{
-              boxShadow:
-                'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-              backgroundColor: 'rgb(48, 48, 48)',
+              backgroundColor: 'rgb(48, 48, 48, 0.7)',
               color: 'white',
               lineHeight: '1.2',
               padding: '0.35em',
@@ -69,11 +63,11 @@ export const IndexPageTemplate = ({
           </h5>
         </div>
       </div>
-      <div className="hero-foot">
+      <div className="hero-foot section">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content has-text-centered">
-              <h2 className="is-size-3-mobile is-size-3-tablet is-size-2-widescreen">Trusted by</h2>
+              <h3 className="is-size-3-mobile is-size-3-tablet is-size-4-widescreen">Trusted by</h3>
               <div id="avni-customers" className="columns">
                 <span className="column is-2">UNICEF</span>
                 <span className="column is-2">Ministry of Health, Assam</span>
