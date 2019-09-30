@@ -15,8 +15,8 @@ export default function Index() {
             src="https://reporting.openchs.org/public/dashboard/de69d6d5-347f-41af-b84a-0967625bee24"
             frameBorder="0"
             width="100%"
-            height="3000"
             allowTransparency
+            style={{ minHeight: '3000px' }}
           />
         </div>
       </section>
