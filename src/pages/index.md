@@ -2,7 +2,7 @@
 templateKey: index-page
 title: |
   Avni - Open Source Data Collection & Insights Platform
-image: /img/17580.jpg
+image: /img/avni-jumbo-1.png
 features:
   blurbs:
     - title: Do multiple interventions with the same app
