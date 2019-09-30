@@ -1,34 +1,7 @@
 import React from "react";
 import Layout from "../../components/Layout";
+import FeatureTile, { VerticalTileGroup } from '../../components/Tile'
 
-
-function FeatureTile({ title, description }) {
-  return (
-    <div className="tile is-child">
-      <article className="box has-background-grey-lighter">
-        <h4 className="title">{title}</h4>
-        <p>
-          {description ||
-          `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing.`
-          }
-        </p>
-        <div style={{ textAlign: 'right' }}>
-          <a href='#'>... more</a>
-        </div>
-      </article>
-    </div>
-  );
-}
-
-function VerticalTileGroup({ children, extraClasses }) {
-  let classes = "tile is-parent is-vertical"
-  return (
-    <div className={ extraClasses ? `${classes} ${extraClasses}` : classes }>
-      {children}
-    </div>
-  );
-}
 
 export default function Index() {
   return (
@@ -50,15 +23,20 @@ export default function Index() {
           <div className="tile is-ancestor">
             <VerticalTileGroup>
               <FeatureTile title="Data entry via mobile and web"/>
-              <FeatureTile title="Data Insights (Reporting)"/>
+              <FeatureTile
+                title="Data Insights (Reporting)"
+                detailsLink='/features/reporting' />
               <FeatureTile title="Data Features"/>
               <FeatureTile title="Multi lingual"/>
             </VerticalTileGroup>
             <VerticalTileGroup>
-              <FeatureTile title="Smart, configurable forms" description={`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+              <FeatureTile
+                title="Smart, configurable forms"
+                description={`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing.`}/>
+            dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing.`}
+                detailsLink='/features/forms' />
               <FeatureTile title="On-field work management"/>
               <FeatureTile title="Device & Data Security"/>
             </VerticalTileGroup>
