@@ -17,58 +17,58 @@ export const IndexPageTemplate = ({
         </header>
       </div>
       <div
-          className="hero-body full-width-image"
+        className="hero-body full-width-image"
+        style={{
+          backgroundImage: `url(${
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+            })`,
+          display: 'flex',
+          justifyContent: 'flex-start',
+          alignItems: 'flex-end',
+          flexDirection: 'row',
+          paddingLeft: '1em',
+        }}
+      >
+        <div
           style={{
-            backgroundImage: `url(${
-              !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-              })`,
             display: 'flex',
-            justifyContent: 'flex-start',
-            alignItems: 'flex-end',
-            flexDirection: 'row',
-            paddingLeft: '1em',
+            flexDirection: 'column',
+            width: '98%'
           }}
         >
-          <div
+          <h1
+            className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen"
             style={{
-              display: 'flex',
-              flexDirection: 'column',
-              width: '98%'
+              boxShadow:
+                'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
+              backgroundColor: 'rgb(16, 16, 16)',
+              color: 'white',
+              lineHeight: '1.1',
+              padding: '0.35em 0.5em',
             }}
           >
-            <h1
-              className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen"
-              style={{
-                boxShadow:
-                  'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-                backgroundColor: 'rgb(16, 16, 16)',
-                color: 'white',
-                lineHeight: '1.1',
-                padding: '0.35em 0.5em',
-              }}
-            >
-              Intelligent <u>mobile data collection</u> and <u>reporting</u> platform to empower your
-              on-ground team with <u>real-time decisions</u>
-            </h1>
-            <h5
-              className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
-              style={{
-                boxShadow:
-                  'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-                backgroundColor: 'rgb(48, 48, 48)',
-                color: 'white',
-                lineHeight: '1.2',
-                padding: '0.35em',
-                fontWeight: '200',
-              }}
-            >
-              Designed for the development sector, <b>avni</b> is used by non-profits
-              and governments to collect intervention-related data across sectors like
-              healthcare, environment, education and social welfare and to gain insights
-              into their programs
-            </h5>
-          </div>
+            Intelligent <u>mobile data collection</u> and <u>reporting</u> platform to empower your
+            on-ground team with <u>real-time decisions</u>
+          </h1>
+          <h5
+            className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
+            style={{
+              boxShadow:
+                'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
+              backgroundColor: 'rgb(48, 48, 48)',
+              color: 'white',
+              lineHeight: '1.2',
+              padding: '0.35em',
+              fontWeight: '200',
+            }}
+          >
+            Designed for the development sector, <b>avni</b> is used by non-profits
+            and governments to collect intervention-related data across sectors like
+            healthcare, environment, education and social welfare and to gain insights
+            into their programs
+          </h5>
         </div>
+      </div>
       <div className="hero-foot">
         <div className="columns">
           <div className="column is-10 is-offset-1">
