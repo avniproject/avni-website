@@ -52,6 +52,9 @@ export default function LandingPageHero() {
               healthcare, environment, education and social welfare and to gain insights
               into their programs
             </h5>
+            <div style={{ textAlign: 'right' }}>
+              <a href="/demo" className="button is-dark is-outlined is-inverted">Try a Demo &raquo;</a>
+            </div>
           </div>
         </div>
         <div className="hero-foot section">
