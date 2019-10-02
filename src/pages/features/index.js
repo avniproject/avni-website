@@ -11,11 +11,11 @@ export default function Index() {
           <div className="content">
             <h1>Features</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-              ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-              mollit anim id est laborum. <a href="#healthcare-modules">See healthcare modules</a>
+              Designed initially as a tool for frontline health workers in rural communities,&nbsp;
+              <b>Avni</b> has many features specific to healthcare. <a href="#healthcare-modules">See healthcare modules</a>.
+              However this broad range of features also make it useful in a wider variety of scenarios
+              and it can be used for data collection purposes in areas beyond healthcare too.
+              For example, collecting long running information about dams, conducting surveys etc.
             </p>
           </div>
         </div>
@@ -48,9 +48,14 @@ export default function Index() {
             </VerticalTileGroup>
           </div>
           <div id="healthcare-modules" className="container" style={{ marginTop: '2em' }}>
-            <h5 className="has-text-weight-semibold" style={{ lineHeight: '4em' }}>
+            <h3 className="has-text-weight-semibold title">
               Healthcare specific modules
-            </h5>
+            </h3>
+            <p>
+              These are readymade modules you can start using rightaway if your intervention
+              is in any of these specific areas.
+            </p>
+            <br/>
             <div className="tile is-ancestor">
               <VerticalTileGroup>
                 <FeatureTile title="Mother Child Health" />
