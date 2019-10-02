@@ -14,6 +14,7 @@ export default function Index() {
           <iframe
             src="https://reporting.openchs.org/public/dashboard/de69d6d5-347f-41af-b84a-0967625bee24"
             frameBorder="0"
+            title="Usage statistics"
             width="100%"
             allowTransparency
             style={{ minHeight: '3000px' }}

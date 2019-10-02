@@ -3,10 +3,11 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
 import Features from '../components/Features'
-import Navbar from "../components/Navbar";
+import Navbar from "../components/Navbar"
+import banner from '../img/avni-main-banner.png'
 
+console.log(banner)
 export const IndexPageTemplate = ({
-  image,
   features,
 }) => (
   <div>
@@ -19,9 +20,7 @@ export const IndexPageTemplate = ({
       <div
         className="hero-body full-width-image"
         style={{
-          backgroundImage: `url(${
-            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-            })`,
+          backgroundImage: `url(${banner})`,
           display: 'flex',
           justifyContent: 'flex-start',
           alignItems: 'flex-end',
@@ -98,7 +97,6 @@ export const IndexPageTemplate = ({
 )
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   features: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -109,7 +107,6 @@ const IndexPage = ({ data }) => {
 
   return (
       <IndexPageTemplate
-        image={frontmatter.image}
         features={frontmatter.features}
       />
   )
@@ -129,13 +126,6 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         features {
           blurbs {
             image {
