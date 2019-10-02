@@ -13,12 +13,9 @@ export const IndexPageTemplate = ({
   <div>
     <section className="hero has-background-grey-lighter is-fullheight">
       <div className="hero-head">
-        <header>
-          <Navbar/>
-        </header>
+        <Navbar/>
       </div>
-      <div
-        className="hero-body full-width-image"
+      <div className="hero-body full-width-image"
         style={{
           backgroundImage: `url(${banner})`,
           display: 'flex',
@@ -27,7 +24,7 @@ export const IndexPageTemplate = ({
           flexDirection: 'row',
         }}
       >
-        <div
+        <div className="container"
           style={{
             display: 'flex',
             flexDirection: 'column',
