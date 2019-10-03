@@ -10,18 +10,22 @@ export default function Index() {
           <div className="column is-half">
             <div className="content">
               <h1 className="title">Demo</h1>
-              <h2>Install the app from Android Playstore</h2>
+              <h2>Install the app from Android Play Store</h2>
               <p>
-                On your Android device, go to play store&nbsp;
-                <a href="https://play.google.com/store/apps/details?id=com.openchsclient">[ link ]</a>,
+                On your Android device, go to <b>Play Store</b>&nbsp;
+                <a href="https://play.google.com/store/apps/details?id=com.openchsclient">[link]</a>,
                 &nbsp;search for OpenCHS, and <b>install</b> the app.
               </p>
               <p>
                 We have following logins (each meant for demonstrating different modules on the same platform).
                 <br/>
                 <br/>
-                Note: After trying one demo if you want to try a different demo login, then you would need to
-                uninstall the app and install it again.
+                <small>
+                  <i>
+                    <b>Note</b>: After trying one demo if you want to try a different demo login,
+                    then you would need to uninstall the app and install it again.
+                  </i>
+                </small>
               </p>
               <br/>
             </div>
@@ -79,9 +83,14 @@ export default function Index() {
                 <br/>
                 password=password
                 <br/>
-                (please note: this one doesn't use smart forms (with skip logic etc),
-                since it was developed as a custom module but now the platform supports
-                all rules including smart forms for custom modules too)
+                <br/>
+                <small>
+                  <i>
+                    <b>Note</b>: this one doesn't use smart forms (with skip logic etc),
+                    since it was developed as a custom module but now the platform supports
+                    all rules including smart forms for custom modules too
+                  </i>
+                </small>
               </p>
               <h4>Pregnancy, newborn and child growth</h4>
               <p>
@@ -89,8 +98,13 @@ export default function Index() {
                 <br/>
                 Password=password
                 <br/>
-                (please note: this one doesn't have visit scheduling and hence
-                My Dashboard is not useful in login)
+                <br/>
+                <small>
+                  <i>
+                    <b>Note</b>: this one doesn't have visit scheduling and hence
+                    My Dashboard is not useful in login
+                  </i>
+                </small>
               </p>
             </div>
           </div>

@@ -19,11 +19,12 @@ export default function LandingPageHero() {
                flexDirection: 'row',
              }}
         >
-          <div className="container"
-               style={{
-                 display: 'flex',
-                 flexDirection: 'column',
-               }}
+          <div
+            className="container"
+            style={{
+              display: 'flex',
+              flexDirection: 'column',
+            }}
           >
             <h1
               className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen"
@@ -52,8 +53,8 @@ export default function LandingPageHero() {
               healthcare, environment, education and social welfare and to gain insights
               into their programs
             </h5>
-            <div style={{ textAlign: 'right' }}>
-              <a href="/demo" className="button is-dark is-outlined is-inverted">Try a Demo &raquo;</a>
+            <div style={{ textAlign: 'center', paddingTop: '1em' }}>
+              <a href="/demo" className="button is-dark is-inverted"><b>Try the Demo &raquo;</b></a>
             </div>
           </div>
         </div>
