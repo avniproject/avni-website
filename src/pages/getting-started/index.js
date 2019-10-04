@@ -64,19 +64,19 @@ export default function Index() {
               <div className="columns">
                 <div className="column">
                   <div className="box content">
-                    <h5>On your own server</h5>
+                    <h5>Use Samanvay's cloud</h5>
                     <p>
-                      \\\ explain \\\
+                      Easiest way to get started. No need to
+                      setup servers and manage uptime - all the heavy lifting
+                      is taken care of for you.
                     </p>
                   </div>
                 </div>
                 <div className="column">
                   <div className="box content">
-                    <h5>Or use Samanvay's cloud</h5>
+                    <h5>On your own server</h5>
                     <p>
-                      Easiest way to get started. No need to
-                      setup servers and manage uptime - all the heavy lifting
-                      is taken care of for you.
+                      \\\ explain \\\
                     </p>
                   </div>
                 </div>
@@ -102,7 +102,7 @@ export default function Index() {
                     <ul>
                       <li>Define the catchments (or locations you operate in)</li>
                       <li>Design the forms as required by your program</li>
-                      <li>Define forms, workflows and data validation rules</li>
+                      <li>Define form / workflow and data validation rules</li>
                       <li>Define decision support rules (if you need any)</li>
                     </ul>
                   </div>
@@ -144,7 +144,7 @@ export default function Index() {
               <a href="mailto:hello@samanvayfoundation.org">
                 hello@samanvayfoundation.org
               </a>&nbsp;
-              and we'll be happy to help.
+              and we'll be happy to help you get setup.
             </p>
           </div>
         </div>
