@@ -1,19 +1,17 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About the Project
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+The **avni project**, previously called "OpenCHS", started out as a clinical decision support tool to aid frontline healthworkers in rural and remote areas of India to provide medical prescription and advice to the populace of those areas who lacked access to basic medical facilities.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+OpenCHS, short for "Open Community Health System", has been vital in augmenting the efforts of clinicians and their ground staff in NGOs and Governments to provide essential primary healthcare in regions with high incidence of maternal and infant mortality, malaria, tuberculosis, cancer etc.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+While healthcare sector has been the primary focus of **avni,** its extensive set of features and modular architecture also make it suitable for a broad set of use-cases and it is now being used for purposes (that we didn't anticipate initially!) like conducting screenings and surveys, tracking social welfare schemes of a community and even tracking data for dams! Essentially, if there is anything or anybody for which you need to track data over a long (or brief) period of time, **avni** can be customized to meet your requirements.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+# Team
+
+**avni** is developed by a team of software developers and folks with significant public sector experience from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts are funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/).
+
+// elaborate
