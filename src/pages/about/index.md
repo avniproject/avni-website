@@ -2,11 +2,11 @@
 templateKey: about-page
 title: About the Project
 ---
-The **avni project**, previously called "OpenCHS", started out as a clinical decision support tool to aid frontline healthworkers in rural and remote areas of India to provide medical prescription and advice to the populace of those areas who lacked access to basic medical facilities.
+The **avni project**, previously called "OpenCHS", has its roots as a clinical decision support tool designed to aid frontline healthworkers in providing medical prescription and sound advice in rural and remote areas of India where access to basic medical facilities is severely lacking.
 
 OpenCHS, short for "Open Community Health System", has been vital in augmenting the efforts of clinicians and their ground staff in NGOs and Governments to provide essential primary healthcare in regions with high incidence of maternal and infant mortality, malaria, tuberculosis, cancer etc.
 
-While healthcare sector has been the primary focus of **avni,** its extensive set of features and modular architecture also make it suitable for a broad set of use-cases and it is now being used for (unanticipated!) purposes like conducting screenings and surveys, tracking social welfare schemes of a community and even tracking data for dams! Essentially, if there is anything or anybody for which you need to track data over a long (or brief) period of time, **avni** can be customized to meet your requirements.
+While healthcare sector has been the primary focus of **avni,** its extensive set of features and modular architecture also make it suitable for a broad set of use-cases and it is now being used for (surprisingly!) purposes like conducting screenings and surveys, tracking social welfare schemes of a community and even tracking data for dams! That is, it has now evolved to being a mobile data collection tool with rich capabilities. Essentially, if there is anything or anybody for which you need to track data over a long (or brief) period of time, **avni** can be customized to meet your requirements.
 
 # Team
 
