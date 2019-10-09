@@ -1,6 +1,12 @@
 import React from "react";
 import Navbar from "./Navbar"
 import banner from '../img/avni-main-banner.png'
+import unicef_logo from '../img/unicef-logo.png'
+import moha_logo from '../img/moha-logo.png'
+import jss_logo from '../img/jss-logo.png'
+import ihmp_logo from '../img/ihmp-logo.png'
+import sewa_logo from '../img/sewa-logo.png'
+import tt_logo from '../img/tata_trusts-logo.png'
 
 export default function LandingPageHero() {
   return (
@@ -64,12 +70,12 @@ export default function LandingPageHero() {
               <div className="content has-text-centered">
                 <h3 className="is-size-3-mobile is-size-3-tablet is-size-4-widescreen">Trusted by</h3>
                 <div id="avni-customers" className="columns">
-                  <span className="column is-2">UNICEF</span>
-                  <span className="column is-2">Ministry of Health, Assam</span>
-                  <span className="column is-2">Jan Swasthya Sahyog</span>
-                  <span className="column is-2">SEWA</span>
-                  <span className="column is-2">IHMP</span>
-                  <span className="column is-2">TATA Trusts</span>
+                  <span className="column is-2"><img src={unicef_logo} /></span>
+                  <span className="column is-2"><img src={moha_logo}/></span>
+                  <span className="column is-2"><img src={jss_logo}/></span>
+                  <span className="column is-2"><img src={sewa_logo}/></span>
+                  <span className="column is-2"><img src={ihmp_logo}/></span>
+                  <span className="column is-2"><img src={tt_logo}/></span>
                 </div>
               </div>
             </div>
