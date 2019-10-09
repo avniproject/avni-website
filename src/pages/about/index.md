@@ -6,9 +6,7 @@ The **avni project**, previously called "OpenCHS", started out as a clinical dec
 
 OpenCHS, short for "Open Community Health System", has been vital in augmenting the efforts of clinicians and their ground staff in NGOs and Governments to provide essential primary healthcare in regions with high incidence of maternal and infant mortality, malaria, tuberculosis, cancer etc.
 
-While healthcare sector has been the primary focus of **avni,** its extensive set of features and modular architecture also make it suitable for a broad set of use-cases and it is now being used for purposes (that we didn't anticipate initially!) like conducting screenings and surveys, tracking social welfare schemes of a community and even tracking data for dams! Essentially, if there is anything or anybody for which you need to track data over a long (or brief) period of time, **avni** can be customized to meet your requirements.
-
-
+While healthcare sector has been the primary focus of **avni,** its extensive set of features and modular architecture also make it suitable for a broad set of use-cases and it is now being used for (unanticipated!) purposes like conducting screenings and surveys, tracking social welfare schemes of a community and even tracking data for dams! Essentially, if there is anything or anybody for which you need to track data over a long (or brief) period of time, **avni** can be customized to meet your requirements.
 
 # Team
 
