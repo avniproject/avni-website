@@ -70,12 +70,24 @@ export default function LandingPageHero() {
               <div className="content has-text-centered">
                 <h3 className="is-size-3-mobile is-size-3-tablet is-size-4-widescreen">Trusted by</h3>
                 <div id="avni-customers" className="columns">
-                  <span className="column is-2"><img src={unicef_logo} /></span>
-                  <span className="column is-2"><img src={moha_logo}/></span>
-                  <span className="column is-2"><img src={jss_logo}/></span>
-                  <span className="column is-2"><img src={sewa_logo}/></span>
-                  <span className="column is-2"><img src={ihmp_logo}/></span>
-                  <span className="column is-2"><img src={tt_logo}/></span>
+                  <span className="column is-2">
+                    <img src={unicef_logo} alt="UNICEF" />
+                  </span>
+                  <span className="column is-2">
+                    <img src={moha_logo} alt="Government of Assam"/>
+                  </span>
+                  <span className="column is-2">
+                    <img src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur" />
+                  </span>
+                  <span className="column is-2">
+                    <img src={sewa_logo} alt="SEWA Rural" />
+                  </span>
+                  <span className="column is-2">
+                    <img src={ihmp_logo} alt="Institute of Health Management, Pachod" />
+                  </span>
+                  <span className="column is-2">
+                    <img src={tt_logo} alt="Tata Trusts" />
+                  </span>
                 </div>
               </div>
             </div>
