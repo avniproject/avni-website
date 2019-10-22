@@ -5,7 +5,7 @@ import unicef_logo from '../img/unicef-logo.png'
 import moha_logo from '../img/moha-logo.png'
 import jss_logo from '../img/jss-logo.png'
 import ihmp_logo from '../img/ihmp-logo.png'
-import sewa_logo from '../img/sewa-logo.png'
+import sewa_rural_logo from '../img/sewa-rural.png'
 import tt_logo from '../img/tata_trusts-logo.png'
 
 export default function LandingPageHero() {
@@ -41,8 +41,7 @@ export default function LandingPageHero() {
                 padding: '0.35em 0.5em',
               }}
             >
-              Intelligent <u>mobile data collection</u> and <u>reporting</u> platform to empower your
-              on-ground team with <u>real-time decisions</u>
+              Platform for on field service delivery and data collection
             </h1>
             <h5
               className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
@@ -54,10 +53,8 @@ export default function LandingPageHero() {
                 fontWeight: '200',
               }}
             >
-              Designed for the development sector, <b>avni</b> is used by non-profits
-              and governments to collect intervention-related data across sectors like
-              healthcare, environment, education and social welfare and to gain insights
-              into their programs
+              Designed for the development sector, <b>avni</b> strengthens field capacity for non-profits
+              and governments across sectors - like health, water, education and social welfare
             </h5>
             <div style={{ textAlign: 'center', paddingTop: '1em' }}>
               <a href="/demo" className="button is-dark is-inverted"><b>Try the Demo &raquo;</b></a>
@@ -80,7 +77,7 @@ export default function LandingPageHero() {
                     <img src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur" />
                   </span>
                   <span className="column is-2">
-                    <img src={sewa_logo} alt="SEWA Rural" />
+                    <img src={sewa_rural_logo} alt="Sewa Rural" />
                   </span>
                   <span className="column is-2">
                     <img src={ihmp_logo} alt="Institute of Health Management, Pachod" />

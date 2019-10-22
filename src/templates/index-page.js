@@ -24,16 +24,16 @@ export const IndexPageTemplate = ({
       </div>
     </section>
   </div>
-)
+);
 
 IndexPageTemplate.propTypes = {
   features: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
-}
+};
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout hero={<LandingPageHero/>}>
@@ -42,7 +42,7 @@ const IndexPage = ({ data }) => {
       />
     </Layout>
   )
-}
+};
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
@@ -50,7 +50,7 @@ IndexPage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
 export default IndexPage
 
@@ -74,4 +74,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
