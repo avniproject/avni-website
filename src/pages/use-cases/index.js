@@ -39,19 +39,28 @@ export default function Index() {
                     </div>
                     <div id="healthcare-modules" className="container" style={{marginTop: '2em'}}>
                         <h5 className="has-text-weight-semibold" style={{lineHeight: '4em'}}>
-                            Healthcare specific use-cases
+                            Avni has seen most usage in the health. Some of the use cases are:
                         </h5>
                         <div className="tile is-ancestor">
                             <VerticalTileGroup>
-                                <UseCaseTile title="Mother Child Health"/>
-                                <UseCaseTile title="Sickle Cell"/>
+                                <UseCaseTile
+                                    title="Maternal and Child Health"
+                                    description="In health this has been the most common use-case. Avni for MCH has been used primarily at the ASHA/Village/Slum level for service delivery or for longitudinal data collection. For maternal program the usage spans from conception to PNC."
+                                />
+                                <UseCaseTile
+                                    title="Sickle Cell Screening and Treatment Initiation"
+                                    description="Avni helped manage the process of screening population for sickle cell disease, conducting lab tests, track lab results and connect with treatment if required."
+                                />
                             </VerticalTileGroup>
                             <VerticalTileGroup>
-                                <UseCaseTile title="Non-communicable diseases"/>
-                                <UseCaseTile title="Adolescent care"/>
+                                <UseCaseTile title="Common Cancer Screening and Referral"
+                                             description="Avni was used to screen people for common cancers (oral, breast and cervical) and refer them for hospital examination if found suspect."/>
+                                <UseCaseTile title="Adolescent care"
+                                             description="Track health, personal development and risk indicators of male and female adolescents - in schools and villages. Provide counselling, health advice and iron supplements for those identified as vulnerable or at risk."/>
                             </VerticalTileGroup>
                             <VerticalTileGroup>
-                                <UseCaseTile title="Child Nutrition & Growth"/>
+                                <UseCaseTile title="Child Nutrition & Growth Monitoring"
+                                             description="Avni is used in a block creche program to track the growth of children. Avni helps with growth indicators and growth faltering information"/>
                             </VerticalTileGroup>
                         </div>
                     </div>

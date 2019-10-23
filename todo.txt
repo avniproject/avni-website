@@ -1,1 +1,2 @@
 Change banner image on home.
+remove netlify footer
