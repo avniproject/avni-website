@@ -41,7 +41,7 @@ export default function LandingPageHero() {
                 padding: '0.35em 0.5em',
               }}
             >
-              Platform for on field service delivery and data collection
+              Open Source platform for on field service delivery and data collection
             </h1>
             <h5
               className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
