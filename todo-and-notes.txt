@@ -4,6 +4,7 @@ link to a good roadmap from the features page
 link to some of the heavy but appropriate terms like encounter. Rule.
 Social Alpha footer
 Use OpenCHS icon
+Fix the usage statistics before going live
 
 MVP without details on features
 should we have screenshots associated to features
