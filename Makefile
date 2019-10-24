@@ -1,3 +1,3 @@
 start:
-	nvm use
+	. /Users/vsingh/.nvm/nvm.sh use
 	gatsby develop
