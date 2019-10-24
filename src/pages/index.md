@@ -25,7 +25,7 @@ features:
       image: /img/cloud-off.png
       text: >
         Each field staff has their full required data available to them with complete functionality.
-    - title: ' Centralised database with complete data set with analytics platform'
+    - title: ' Centralised database with reporting and analytics platform'
       image: /img/crowd-of-users.png
       text: >-
         Each field staff saves data centrally to be used for analysis and monitoring by program management team. Use visualisations, excel downloads and filters.
