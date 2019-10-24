@@ -2,6 +2,8 @@ Change banner image on home.
 remove netlify footer
 link to a good roadmap from the features page
 link to some of the heavy but appropriate terms like encounter. Rule.
+Social Alpha footer
+Use OpenCHS icon
 
 MVP without details on features
 should we have screenshots associated to features

@@ -2,14 +2,14 @@
 templateKey: about-page
 title: About the Project
 ---
-The **avni project**, previously called "OpenCHS", has its roots as a clinical decision support tool designed to aid frontline healthworkers in providing medical prescription and sound advice in rural and remote areas of India where access to basic medical facilities is severely lacking.
+**Avni project** previously called "OpenCHS (Open Community Health System)", started as a open source community health worker platform designed for to aid them programs operating below primary health center level - i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means earth in English.
 
-OpenCHS, short for "Open Community Health System", has been vital in augmenting the efforts of clinicians and their ground staff in NGOs and Governments to provide essential primary healthcare in regions with high incidence of maternal and infant mortality, malaria, tuberculosis, cancer etc.
-
-While healthcare sector has been the primary focus of **avni,** its extensive set of features and modular architecture also make it suitable for a broad set of use-cases and it is now being used for (surprisingly!) purposes like conducting screenings and surveys, tracking social welfare schemes of a community and even tracking data for dams! That is, it has now evolved to being a mobile data collection tool with rich capabilities. Essentially, if there is anything or anybody for which you need to track data over a long (or brief) period of time, **avni** can be customized to meet your requirements.
 
 # Team
+**avni** is developed by software team of software with significant public sector, health, experience from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/). Recently [Soft Corner](http://www.soft-corner.com/) has the join the product development efforts with Samanvay.
 
-**avni** is developed by a team of software developers and folks with significant public sector experience from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts are funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/).
-
-// elaborate
+# Avni Software
+- [Source code](https://github.com/openchs)
+- [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
+- [CI Server and Binary Download](https://circleci.com/gh/OpenCHS) (requires login)
+- [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
