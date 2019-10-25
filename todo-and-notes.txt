@@ -1,10 +1,11 @@
-Change banner image on home.
-remove netlify footer
 link to a good roadmap from the features page
 link to some of the heavy but appropriate terms like encounter. Rule.
 Social Alpha footer
 Use OpenCHS icon
 Fix the usage statistics before going live
+Data model diagram
 
 MVP without details on features
 should we have screenshots associated to features
+
+What is the process for us to know that there is a service provider onboarded on Avni?

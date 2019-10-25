@@ -22,7 +22,7 @@ export default function Index() {
                 <div className="container" style={{marginTop: '2em'}}>
                     <div className="tile is-ancestor">
                         <VerticalTileGroup>
-                            <FeatureTile title="Complete program schema modelling"
+                            <FeatureTile title="Complete program data modelling"
                                          description="Ability to define any program's schema into individual types, their one or more programs and one or more program encounter types (e.g. Beneficiary, Pregnancy program and ANC/PNC/Delivery encounter types). Ability to link individuals via relationships."/>
                             <FeatureTile title="Search and service individuals, or work based on schedule"
                                          description="A work dashboard with the schedule for the field provider in the app. Ability to search individuals using full text search."/>
