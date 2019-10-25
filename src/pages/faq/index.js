@@ -40,7 +40,8 @@ export default function Index() {
                   <h1>Glossary of terms</h1>
                   <p>Avni allows for modelling and supporting usage for most type field work. Hence sometimes it needs to use terminology that is abstract - so that it applies for all sectors. We have detailed out few terms here. We welcome simpler and common term - suggestion from you.</p>
                   <ul>
-                      <li>Encounter: Most field data collection platform use the terminology form and form type. But this is insufficient for Avni. Avni allows for data model which supports repeated data collection for the same object/subject/individual - instead of collecting disconnected data (as in ODK/KoboCollect forms). The term "encounter" encapsulates the idea data collected in one of the repeated instances. Encounter is also referred to as visit sometimes. The term encounter is borrowed from health domain.</li>
+                      <li><b>Encounter</b>: Most field data collection platform use the terminology form and form type. But this is insufficient for Avni. Avni allows for data model which supports repeated data collection for the same object/subject/individual - instead of collecting disconnected data (as in ODK/KoboCollect forms). The term "encounter" encapsulates the idea data collected in one of the repeated instances. Encounter is also referred to as visit sometimes. The term encounter is borrowed from health care domain.</li>
+                      <li><b>Rule</b>: Avni provides flexibility of defining any kind of skip logic, calculation fields, when to show counselling tips, how to generate encounter/visit schedule and highlighting important information on the individual dashboard on mobile app. This is defined by writing program, which is referred to as rule.</li>
                   </ul>
               </div>
           </div>
