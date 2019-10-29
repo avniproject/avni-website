@@ -68,8 +68,7 @@ export default function Index() {
                                         <p>
                                             Easiest way to get started. No need to
                                             setup servers and manage uptime - all the heavy lifting
-                                            is taken care of for you. We are trying to make this experience self-serviceable (i.e. start without contacting Samanvay's
-                                            team). But for now to get started please contact Samanvay team at <b>avni@samanvayfoundation.org</b> to provision your
+                                            is taken care of for you. We are trying to make this experience self-serviceable (i.e. start without contacting Avni open source project team). But for now to get started please contact Avni team at <b>avni-project@googlegroups.com</b> to provision your
                                             implementation on the cloud instance. After provision you can do a most of implementation work on your own.
                                         </p>
                                     </div>
@@ -197,9 +196,9 @@ export default function Index() {
                     <div className="content">
                         <p>
                             For any questions you may have, please feel free to
-                            contact the Samanvay team at&nbsp;
-                            <a href="mailto:hello@samanvayfoundation.org">
-                                avni@samanvayfoundation.org
+                            contact us at&nbsp;
+                            <a href="mailto:avni-project@googlegroups.com">
+                                avni-project@googlegroups.com
                             </a>&nbsp;
                             and we'll be happy to help you get setup.
                         </p>
