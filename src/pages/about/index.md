@@ -2,14 +2,15 @@
 templateKey: about-page
 title: About the Project
 ---
-**Avni project** previously called "OpenCHS (Open Community Health System)", started as a open source community health worker platform designed for to aid them programs operating below primary health center level - i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means earth in English.
-
+The **Avni Project**, previously called "OpenCHS (Open Community Health System)", started as a open source community health worker platform designed to aid programs operating below primary health center level — i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means "earth" in Hindi.
 
 # Team
-**avni** is developed by software team of software with significant public sector, health, experience from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/). Recently [Soft Corner](http://www.soft-corner.com/) has the join the product development efforts with Samanvay.
+
+**avni** is developed by a team with significant experience in applying technology in the public and healthcare sectors from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/). Recently [Soft Corner](http://www.soft-corner.com/) has the joined the product development efforts with Samanvay.
 
 # Avni Software
-- [Source code](https://github.com/openchs)
-- [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
-- [CI Server and Binary Download](https://circleci.com/gh/OpenCHS) (requires login)
-- [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
+
+* [Source code](https://github.com/openchs)
+* [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
+* [CI Server and Binary Download](https://circleci.com/gh/OpenCHS) (requires login)
+* [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
