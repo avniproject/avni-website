@@ -23,10 +23,10 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "case-study"
+  - name: "case-studies"
     label: "Case studies"
     label_singular: "Case study"
-    folder: "src/pages/case-study"
+    folder: "src/pages/case-studies"
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "case-study"}
