@@ -1,16 +1,5 @@
 import React from "react";
 import Layout from "../../components/Layout";
-import { VerticalTileGroup } from "../../components/Tile";
-
-function Tile({ title }) {
-  return (
-    <div className="tile is-child">
-      <article className="box building-block content">
-        <h3>{title}</h3>
-      </article>
-    </div>
-  )
-}
 
 export default function Index() {
   return (
@@ -45,12 +34,6 @@ export default function Index() {
                   </ul>
               </div>
           </div>
-      </section>
-      <section className="section">
-        <div className="container">
-          <h2 className="title"></h2>
-          <hr/>
-        </div>
       </section>
       <br/>
       <br/>
