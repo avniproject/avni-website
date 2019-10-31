@@ -27,14 +27,14 @@ export default function Index() {
                             <FeatureTile title="Search and service individuals, or work based on schedule"
                                          description="A work dashboard with the schedule for the field provider in the app. Ability to search individuals using full text search."/>
                             <FeatureTile title="Counselling hints for field provider during encounter"
-                                         description="Ability to embed context specific hints (based on your rules) to support field providers in appropriately counselling the beneficiary."/>
+                                         description="Ability to embed context specific hints (based on your rules) to support field providers in appropriately counselling the beneficiary. IMAGE = counselling1.png and counselling2.png."/>
                             <FeatureTile title="Data secure on device"
                                          description="Data protected on the device by login. Change password and reset the password from the device (SMS, Email based OTP support)."/>
                         </VerticalTileGroup>
                         <VerticalTileGroup>
                             <FeatureTile
                                 title="Smart, configurable forms"
-                                description="Multiple pages per form, one or more questions per page; Skip logic; Calculated form fields - e.g. estimated date of delivery based on last menstrual period date; All commonly used data types with photo/video/geolocation capture support;"
+                                description="Multiple pages per form, one or more questions per page; Skip logic; Calculated form fields - e.g. estimated date of delivery based on last menstrual period date; All commonly used data types with photo/video/geolocation capture support; GIF: SkipLogic.gif and CalculatedField.gif"
                                 />
                             <FeatureTile title="Visit Schedule Management"
                                          description="Ability to define rules that automatically schedule visits in the future to be done by the field provider based on program's protocol. e.g. Follow up visit for post natal care after delivery. Cancel visits. Manually schedule visits."/>
