@@ -18,7 +18,12 @@ export default function Tile({ title, description, detailsLink, images }) {
             <a href={detailsLink}>... more</a>
           </div>
         }
-        {images && images.map(img => <ModalImage src={img.src} altText={img.altText} />)}
+        {images &&
+          <div>
+            <br/>
+            {images.map(img => <ModalImage src={img.src} altText={img.altText} />)}
+          </div>
+        }
       </article>
     </div>
   );
