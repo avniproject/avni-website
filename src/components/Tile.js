@@ -1,7 +1,8 @@
 import React from "react";
+import ModalImage from "./ModalImage";
 
 
-export default function Tile({ title, description, detailsLink }) {
+export default function Tile({ title, description, detailsLink, images }) {
   return (
     <div className="tile is-child">
       <article className="box has-background-grey-lighter">
@@ -17,6 +18,7 @@ export default function Tile({ title, description, detailsLink }) {
             <a href={detailsLink}>... more</a>
           </div>
         }
+        {images && images.map(img => <ModalImage src={img.src} altText={img.altText} />)}
       </article>
     </div>
   );
