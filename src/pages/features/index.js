@@ -11,11 +11,11 @@ export default function Index() {
                     <div className="content">
                         <h1>Features</h1>
                         <p>
-                            Designed initially as a tool for frontline health workers in rural communities,&nbsp;
-                            <b>Avni</b> has many features specific to healthcare. <a href="#health-features">See health specific features</a>.
-                            However this broad range of features also make it useful in a wider variety of scenarios
-                            and it can be used for data collection purposes in areas beyond healthcare too.
-                            For example, collecting long running information about dams, conducting surveys etc.
+                            Designed initially as a tool for frontline health workers in rural and urban slum communities,&nbsp;
+                            However the broad range of features also make it useful in a wider variety of scenarios
+                            and it can be used for data collection and service delivery purposes in areas beyond health too.
+                            For example, collecting long running information about dams, conducting surveys, conducting learning assessments etc.
+                            <b>Avni</b> has a few features that are specific to health. <a href="#health-features">See health specific features</a>. Please also see the <a href="https://github.com/OpenCHS/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product" target="_blank">road map</a> to understand upcoming features.
                         </p>
                     </div>
                 </div>
