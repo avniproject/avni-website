@@ -5,7 +5,6 @@ import imgCounselling1 from "../../img/counselling1.png";
 import imgCounselling2 from "../../img/counselling2.png";
 import imgSkipLogic from "../../img/SkipLogic.gif";
 import imgCalculatedField from "../../img/CalculatedField.gif";
-import ModalImage from "../../components/ModalImage";
 
 export default function Index() {
   return (
