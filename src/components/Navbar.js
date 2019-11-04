@@ -68,28 +68,28 @@ const Navbar = class extends React.Component {
             <div className="navbar-start has-text-centered">
             </div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/features">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/features">
                 Features
               </Link>
-              <Link className="navbar-item" to="/use-cases">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/use-cases">
                 Use Cases
               </Link>
-              <Link className="navbar-item" to="/usage-statistics">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/usage-statistics">
                 Usage Statistics
               </Link>
-              <Link className="navbar-item" to="/demo">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/demo">
                 Demo
               </Link>
-              <Link className="navbar-item" to="/getting-started">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/getting-started">
                 Get Started
               </Link>
-              <Link className="navbar-item" to="/faq">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/faq">
                 FAQ
               </Link>
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/blog">
                 Blog
               </Link>
             </div>
