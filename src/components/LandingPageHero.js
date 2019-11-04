@@ -62,8 +62,8 @@ export default function LandingPageHero() {
           </div>
         </div>
         <div className="hero-foot section">
-          <div className="content has-text-centered">
-            <h4 className="is-size-3-mobile is-size-3-tablet is-size-4-widescreen has-text-grey">
+          <div className="has-text-centered">
+            <h4 className="is-size-2-mobile is-size-2-tablet is-size-3-widescreen has-text-grey has-text-weight-bold">
               Trusted by
             </h4>
             <br/>
@@ -94,7 +94,7 @@ export default function LandingPageHero() {
                 </div>
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
-                <h5 className="has-text-grey">SEWA Rural</h5>
+                <h5 className="has-text-grey has-text-weight-bold">SEWA Rural</h5>
               </div>
             </div>
           </div>
