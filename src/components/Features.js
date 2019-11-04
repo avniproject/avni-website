@@ -4,7 +4,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import { Link } from 'gatsby'
 
 const FeatureGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
+  <div className="columns is-multiline is-mobile">
     <div className="column is-12 has-text-centered">
       <h2
         className="is-size-3-mobile is-size-3-tablet is-size-2-widescreen"
@@ -13,12 +13,12 @@ const FeatureGrid = ({ gridItems }) => (
       </h2>
     </div>
     {gridItems.map(item => (
-      <div key={item.text} className="column is-4">
+      <div key={item.text} className="column is-one-third-tablet is-full-mobile">
         <section className="section">
           <div className="has-text-centered">
             <div
               style={{
-                width: '240px',
+                width: '50%',
                 display: 'inline-block',
               }}
             >

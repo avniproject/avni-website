@@ -17,9 +17,9 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered has-background-grey-lighter has-text-black">
           <div className="container has-background-grey-lighter has-text-black">
             <div className="columns">
-              <div className="column is-2">
+              <div className="column is-one-third">
                 <section className="menu">
-                  <ul className="menu-list">
+                  <ul className="menu-list has-text-centered-mobile">
                     <li>
                       <Link to="/" className="navbar-item">
                         Home
@@ -43,9 +43,9 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-2">
+              <div className="column is-one-third">
                 <section>
-                  <ul className="menu-list">
+                  <ul className="menu-list has-text-centered-mobile">
                     <li>
                       <Link className="navbar-item" to="/getting-started">
                         Get Started
@@ -64,9 +64,9 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-2">
+              <div className="column is-one-third">
                 <section>
-                  <ul className="menu-list">
+                  <ul className="menu-list has-text-centered-mobile">
                     <li>
                       <Link className="navbar-item" to="/about">
                         About
