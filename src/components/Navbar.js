@@ -65,31 +65,53 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
-            </div>
+            <div className="navbar-start has-text-centered" />
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/features">
+              {
+                window.location.pathname !== '/' &&
+                  <Link to="/"
+                        className="navbar-item has-text-weight-bold is-uppercase">
+                    Home
+                  </Link>
+              }
+              <Link to="/features"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 Features
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/use-cases">
+              <Link to="/use-cases"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 Use Cases
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/usage-statistics">
+              <Link to="/usage-statistics"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 Usage Statistics
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/demo">
+              <Link to="/demo"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 Demo
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/getting-started">
+              <Link to="/getting-started"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 Get Started
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/faq">
+              <Link to="/faq"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 FAQ
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/about">
+              <Link to="/about"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 About
               </Link>
-              <Link className="navbar-item has-text-weight-bold is-uppercase has-text-grey" to="/blog">
+              <Link to="/blog"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
                 Blog
               </Link>
             </div>
