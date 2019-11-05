@@ -1,24 +1,58 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { graphql, Link } from "gatsby";
 
 import Layout from "../components/Layout"
 import Features from '../components/Features'
 import LandingPageHero from "../components/LandingPageHero";
+import { VerticalTileGroup } from "../components/Tile";
 
 export const IndexPageTemplate = ({
   features,
 }) => (
   <div>
+    <section style={{ borderBottom: '1px solid #CCCCCC', borderTop: '1px solid #CCCCCC' }}>
+      <div className="container">
+        <div className="section">
+          <div className="content">
+            <Features gridItems={features.blurbs} />
+          </div>
+        </div>
+      </div>
+    </section>
     <section>
       <div className="container">
         <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <Features gridItems={features.blurbs} />
+          <h2 className="has-text-centered is-size-3-mobile is-size-2-desktop has-text-weight-bold">
+            Next...
+          </h2>
+          <br/>
+          <br/>
+          <div className="tile is-ancestor content">
+            <VerticalTileGroup>
+              <div className="tile square-tile">
+                <Link to="/usage-statistics">
+                  <h5 className="has-text-info">Who is using Avni? See usage statistics</h5>
+                </Link>
               </div>
-            </div>
+              <div className="tile square-tile">
+                <Link to="/use-cases">
+                  <h5 className="has-text-info">What can it be used for?</h5>
+                </Link>
+              </div>
+            </VerticalTileGroup>
+            <VerticalTileGroup>
+              <div className="tile square-tile">
+                <Link to="/case-studies">
+                  <h5 className="has-text-info">Case Studies</h5>
+                </Link>
+              </div>
+              <div className="tile square-tile">
+                <Link to="/getting-started">
+                  <h5 className="has-text-info">How to get setup?</h5>
+                </Link>
+              </div>
+            </VerticalTileGroup>
           </div>
         </div>
       </div>

@@ -91,11 +91,6 @@ const Navbar = class extends React.Component {
                     className="navbar-item has-text-weight-bold is-uppercase">
                 Use Cases
               </Link>
-              <Link to="/usage-statistics"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Usage Statistics
-              </Link>
               <Link to="/case-studies"
                     activeClassName="active-nav-item"
                     className="navbar-item has-text-weight-bold is-uppercase">
