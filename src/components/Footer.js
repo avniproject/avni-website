@@ -82,6 +82,11 @@ const Footer = class extends React.Component {
           </div>
         </div>
         */}
+        <div className="has-text-right">
+          <a href="https://www.netlify.com">
+            <img alt="Netlify" src="https://www.netlify.com/img/global/badges/netlify-dark.svg"/>
+          </a>
+        </div>
       </footer>
     )
   }
