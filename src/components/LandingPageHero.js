@@ -17,7 +17,7 @@ export default function LandingPageHero() {
         <div className="hero-body full-width-image"
              style={{
                backgroundImage: `url(${banner})`,
-               backgroundPosition: 'right bottom',
+               backgroundPosition: 'center center',
                display: 'flex',
                justifyContent: 'flex-start',
                alignItems: 'flex-end',
