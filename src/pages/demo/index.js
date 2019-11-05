@@ -10,16 +10,13 @@ export default function Index() {
           <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
             <div className="content">
               <h1 className="title">Demo</h1>
-              <h2>Install the app from Android Play Store</h2>
+              <h3>Install the app from Android Play Store</h3>
               <p>
                 On your Android device, go to <b>Play Store</b>&nbsp;
                 <a href="https://play.google.com/store/apps/details?id=com.openchsclient">[link]</a>,
-                &nbsp;search for OpenCHS, and <b>install</b> the app.
+                &nbsp;search for OpenCHS, and <b>install</b> the app. See below the logins which you can use. These demos are inspired from real implementations of Avni, created to demonstrate flexibility of the platform.
               </p>
               <p>
-                We have following logins (each meant for demonstrating different modules on the same platform).
-                <br/>
-                <br/>
                 <small>
                   <i>
                     <b>Note</b>: After trying one demo if you want to try a different demo login,
@@ -49,21 +46,21 @@ export default function Index() {
             <div className="content">
               <h3>Recommended demos</h3>
               <hr/>
-              <h4>Adolescent Continuum of Care</h4>
+              <h5>Track and support adolescents under risk</h5>
               <p>
                 User=adol-demo
                 <br/>
                 Password=password
               </p>
 
-              <h4>Child Nutrition & Growth</h4>
+              <h5>Child growth monitoring</h5>
               <p>
                 User=phulwari-demo
                 <br/>
                 Password=password
               </p>
 
-              <h4>Longitudinal data capture for Dams</h4>
+              <h5>Data reporting of dam de-silting work</h5>
               <p>
                 User=ddm-demo
                 <br/>

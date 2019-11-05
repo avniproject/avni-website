@@ -64,7 +64,7 @@ export default function Index() {
                             <div className="columns">
                                 <div className="column">
                                     <div className="box content">
-                                        <h5>Use Samanvay's cloud</h5>
+                                        <h5>Use Samanvay's cloud service</h5>
                                         <p>
                                             Easiest way to get started. No need to
                                             setup servers and manage uptime - all the heavy lifting
@@ -76,9 +76,8 @@ export default function Index() {
                                 <div className="column">
                                     <div className="box content">
                                         <h5>On your own server</h5>
-                                        <p>
-                                            Link to road map.
-                                        </p>
+                                        <p>Avni has been deployed on-premises also. The documentation is unfortunately not upto the mark yet, but we are <a href="https://github.com/OpenCHS/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product" target="_blank">working on
+                                            it</a>.</p>
                                     </div>
                                 </div>
                             </div>

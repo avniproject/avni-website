@@ -6,7 +6,7 @@ The **Avni Project**, previously called "OpenCHS (Open Community Health System)"
 
 # Team
 
-**avni** is developed by a team with significant experience in applying technology in the public and healthcare sectors from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts are funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/). Recently [Soft Corner](http://www.soft-corner.com/) has joined the product development efforts with Samanvay.
+**avni** is developed by a team experienced in applying technology in the public and health from [Samanvay Research & Development Foundation](www.samanvayfoundation.org) and development efforts are funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/). Recently [Soft Corner](http://www.soft-corner.com/) has also joined the product development efforts with Samanvay.
 
 # Avni Software
 

@@ -9,7 +9,7 @@ export default function Index() {
             <section className="section">
                 <div className="container">
                     <div className="content">
-                        <h1>Avni is a versatile platform designed for most type of field work</h1>
+                        <h1>Avni is a flexible platform designed for most type of field work</h1>
                         <p>As we understand field work involves collecting data, using previously collected data, managing one's schedule of work/visit, making assessment
                             of the beneficiary's condition and counselling/guiding the beneficiaries. The management of field programs involve - monitoring, providing
                             supportive supervision and reporting to stake holders. Avni aims to support most field work use cases. We broadly can break it down into three
@@ -23,7 +23,6 @@ export default function Index() {
                             <UseCaseTile
                                 title="Service Delivery"
                                 description="Programs where field based service is provided to the beneficiaries, over a period of time predicated on outcome. For example - pregnancy care, tuberculosis treatment monitoring."
-                                detailsLink='/features/reporting'
                             />
                             <UseCaseTile
                                 title="Survey"

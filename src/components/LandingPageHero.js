@@ -53,8 +53,8 @@ export default function LandingPageHero() {
                 fontWeight: '200',
               }}
             >
-              Designed for the development sector, <b>avni</b> strengthens field capacity for non-profits
-              and governments across sectors - like health, water, education and social welfare
+              Designed for the development sector, <b>avni</b> strengthens field capacity of non-profits
+              and governments across sectors - like health, water, education and social service
             </h5>
             <div style={{ textAlign: 'center', paddingTop: '1em' }}>
               <a href="/demo" className="button is-dark is-inverted"><b>Try the Demo &raquo;</b></a>
@@ -70,9 +70,6 @@ export default function LandingPageHero() {
             <div id="avni-customers" className="columns is-mobile is-multiline">
               <div className="column is-2-tablet is-one-third-mobile">
                   <img src={unicef_logo} alt="UNICEF" width="128" height="128" />
-              </div>
-              <div className="column is-2-tablet is-one-third-mobile">
-                  <img src={moha_logo} alt="Government of Assam" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
                   <img src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur" width="128" height="128" />

@@ -11,6 +11,14 @@ const FeatureGrid = ({ gridItems }) => (
       >
         Features
       </h2>
+        <p>
+            Avni is a highly flexible platform for most type of field work.
+            You can translate complete design of your program/intervention/project
+            into this platform. Once you define schedule of visit/encounter for each
+            beneficiary, provider-beneficiary interaction steps for each encounter type,
+            input data forms, and expected output from the system to support field workers,
+            Avni would instantiate your own working field application based on this description.
+        </p>
     </div>
     {gridItems.map(item => (
       <div key={item.text} className="column is-one-third-tablet is-full-mobile">
