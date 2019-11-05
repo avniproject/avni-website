@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/avni-logo-bw.png'
+import { Location } from '@reach/router'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -67,13 +69,18 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered" />
             <div className="navbar-end has-text-centered">
-              {
-                window.location.pathname !== '/' &&
-                  <Link to="/"
-                        className="navbar-item has-text-weight-bold is-uppercase">
-                    Home
-                  </Link>
-              }
+              <Location>
+                {
+                  ({ location }) => {
+                    if (location.pathname !== '/')
+                    return (
+                      <Link to="/" className="navbar-item has-text-weight-bold is-uppercase">
+                        Home
+                      </Link>
+                    )
+                  }
+                }
+              </Location>
               <Link to="/features"
                     activeClassName="active-nav-item"
                     className="navbar-item has-text-weight-bold is-uppercase">
