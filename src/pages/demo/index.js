@@ -32,15 +32,15 @@ export default function Index() {
           </div>
           <div className="column is-half">
             <br/>
-            <div className="content has-background-info" style={{ padding: '2em'}}>
+            <br/>
+            <br/>
+            <div className="content has-background-grey-lighter" style={{ padding: '2em'}}>
               <h2>Schedule a one-on-one demo</h2>
               <p>
-                If you would like a demo in-person or via videoconference,
-                click the button below, answer some questions in the form
-                and we'll get back to you
+                If you would like a personalised demo over Google Hangouts or Skype,
+                drop us a mail at&nbsp;
+                <a href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a>&nbsp;
                 <br/>
-                <br/>
-                <a href="/schedule-demo-form" className="button is-dark">Schedule Demo</a>
               </p>
             </div>
           </div>
