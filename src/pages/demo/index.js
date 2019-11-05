@@ -6,8 +6,8 @@ export default function Index() {
   return (
     <Layout>
       <div className="container">
-        <div className="columns">
-          <div className="column is-half">
+        <div className="columns is-mobile is-multiline">
+          <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
             <div className="content">
               <h1 className="title">Demo</h1>
               <h2>Install the app from Android Play Store</h2>
@@ -27,10 +27,9 @@ export default function Index() {
                   </i>
                 </small>
               </p>
-              <br/>
             </div>
           </div>
-          <div className="column is-half">
+          <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
             <br/>
             <br/>
             <br/>
@@ -45,8 +44,8 @@ export default function Index() {
             </div>
           </div>
         </div>
-        <div className="columns">
-          <div className="column is-half">
+        <div className="columns is-mobile is-multiline">
+          <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
             <div className="content">
               <h3>Recommended demos</h3>
               <hr/>
@@ -73,7 +72,7 @@ export default function Index() {
               <br/>
             </div>
           </div>
-          <div className="column is-half">
+          <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
             <div className="content">
               <h3>Demo showcasing health modules</h3>
               <hr/>
