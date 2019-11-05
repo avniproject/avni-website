@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/avni-logo-bw.png'
+import logo from '../img/avni-logo.png'
 import { Location } from '@reach/router'
 
 
@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <div style={{ paddingTop: '16px'}}>
+            <div style={{ paddingTop: '16px', paddingLeft: '12px' }}>
               <Link to="/" title="Logo">
                 <img
                   src={logo}
