@@ -1,6 +1,6 @@
 ---
 templateKey: credits-page
-title: Those whose shoulders we stand upon...
+title: Credits
 ---
 
 - netlify
