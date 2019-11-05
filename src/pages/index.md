@@ -5,29 +5,37 @@ title: |
 image: /img/avni-jumbo-1.png
 features:
   blurbs:
-    - title: 'Model complete program into a working field app'
-      image: /img/transform.png
+    - title: Model complete program into a working field app
+      image: ''
       text: >-
-        Define dynamic forms, context specific counselling advice, decision support rules and visit protocols.
+        Define dynamic forms, context specific counselling advice, decision
+        support rules and visit protocols.
     - title: Flexible data model
-      image: /img/decision.png
+      image: ''
       text: >-
-        Define multiple types of individuals (living/non-living), their registration in programs and multiple form types for each program. Link individuals. 
+        Define multiple types of individuals (living/non-living), their
+        registration in programs and multiple form types for each program. Link
+        individuals. 
     - title: ' Fully featured forms'
       image: /img/mobile-form.png
       text: >-
-        All common data types, skip logic, geolocation, multi-media, calculated fields and validation support. 
+        All common data types, skip logic, geolocation, multi-media, calculated
+        fields and validation support. 
     - title: Work schedule management
       image: /img/analytics.png
       text: >-
-        Protocol based and manual visit management, with on device dashboard to manage work.    
-    - title: Carry your complete data on mobile, use even without Internet
+        Protocol based and manual visit management, with on device dashboard to
+        manage work.    
+    - title: 'Carry your complete data on mobile, use even without Internet'
       image: /img/cloud-off.png
       text: >
-        Each field staff has their full required data available to them with complete functionality.
+        Each field staff has their full required data available to them with
+        complete functionality.
     - title: ' Centralised database with reporting and analytics platform'
-      image: /img/crowd-of-users.png
+      image: ''
       text: >-
-        Each field staff saves data centrally to be used for analysis and monitoring by program management team. Use visualisations, excel downloads and filters.
+        Each field staff saves data centrally to be used for analysis and
+        monitoring by program management team. Use visualisations, excel
+        downloads and filters.
 ---
 
