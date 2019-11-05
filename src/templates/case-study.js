@@ -12,6 +12,7 @@ export const CaseStudyTemplate = ({
   description,
   tags,
   title,
+  date,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -25,6 +26,7 @@ export const CaseStudyTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <p className="has-text-grey">Published on: <b>{date}</b></p>
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -51,6 +53,7 @@ CaseStudyTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  date: PropTypes.string,
   helmet: PropTypes.object,
 }
 
@@ -74,6 +77,7 @@ const CaseStudy = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
       />
     </Layout>
   )

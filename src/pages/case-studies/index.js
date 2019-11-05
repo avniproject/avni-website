@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
-import CaseStudy from '../../components/CaseStudy'
+import CaseStudyList from '../../components/CaseStudyList'
 
 export default class CaseStudyIndexPage extends React.Component {
   render() {
@@ -10,7 +10,9 @@ export default class CaseStudyIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/case-study-index.jpg')`,
+            backgroundPosition: `center`,
+            backgroundSize: `cover`
           }}
         >
           <h1
@@ -28,7 +30,7 @@ export default class CaseStudyIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <CaseStudy />
+              <CaseStudyList />
             </div>
           </div>
         </section>
