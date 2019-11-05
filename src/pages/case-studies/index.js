@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import CaseStudy from '../../components/CaseStudy'
 
 export default class CaseStudyIndexPage extends React.Component {
   render() {
@@ -22,13 +22,13 @@ export default class CaseStudyIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Case Studies
           </h1>
         </div>
         <section className="section">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <CaseStudy />
             </div>
           </div>
         </section>
