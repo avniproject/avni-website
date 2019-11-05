@@ -56,7 +56,7 @@ collections:
                 name: blurbs
                 widget: list
                 fields:
-                  - { label: Image, name: image, widget: image }
+                  - { label: Image, name: image, widget: image, required: false }
                   - { label: Title, name: title, widget: text }
                   - { label: Text, name: text, widget: text }
       - file: "src/pages/about/index.md"
