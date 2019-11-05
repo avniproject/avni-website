@@ -72,13 +72,7 @@ export const pageQuery = graphql`
       frontmatter {
         features {
           blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
             title
             text
           }
