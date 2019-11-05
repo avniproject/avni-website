@@ -41,7 +41,7 @@ export default function LandingPageHero() {
                 padding: '0.35em 0.5em',
               }}
             >
-              Open Source platform for on field service delivery and data collection
+              Open Source platform for field service delivery and data collection
             </h1>
             <h5
               className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
@@ -61,37 +61,27 @@ export default function LandingPageHero() {
             </div>
           </div>
         </div>
-        <div className="hero-foot section">
-          <div className="has-text-centered">
+        <div className="hero-foot container">
+          <div className="has-text-centered" style={{ paddingTop: '2rem' }}>
             <h4 className="is-size-2-mobile is-size-2-tablet is-size-3-widescreen has-text-grey has-text-weight-bold">
               Trusted by
             </h4>
             <br/>
             <div id="avni-customers" className="columns is-mobile is-multiline">
               <div className="column is-2-tablet is-one-third-mobile">
-                <div className="image is-128x128">
-                  <img src={unicef_logo} alt="UNICEF" />
-                </div>
+                  <img src={unicef_logo} alt="UNICEF" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
-                <div className="image is-128x128">
-                  <img src={moha_logo} alt="Government of Assam"/>
-                </div>
+                  <img src={moha_logo} alt="Government of Assam" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
-                <div className="image is-128x128">
-                  <img src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur" />
-                </div>
+                  <img src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
-                <div className="image is-128x128">
-                  <img src={ihmp_logo} alt="Institute of Health Management, Pachod" />
-                </div>
+                  <img src={ihmp_logo} alt="Institute of Health Management, Pachod" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
-                <div className="image is-128x128">
-                  <img src={tt_logo} alt="Tata Trusts" />
-                </div>
+                  <img src={tt_logo} alt="Tata Trusts" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile">
                 <h5 className="has-text-grey has-text-weight-bold">SEWA Rural</h5>

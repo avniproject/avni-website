@@ -1,19 +1,12 @@
 import React from 'react'
-import { Link } from 'gatsby'
+//import { Link } from 'gatsby'
 
-import logo from '../img/avni-logo.png'
 
 const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-grey-lighter has-text-black">
-        <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="avni"
-            style={{ height: '6em' }}
-          />
-        </div>
+        {/*
         <div className="content has-text-centered has-background-grey-lighter has-text-black">
           <div className="container has-background-grey-lighter has-text-black">
             <div className="columns">
@@ -82,17 +75,13 @@ const Footer = class extends React.Component {
                         Credits
                       </Link>
                     </li>
-                    <li>
-                      <a href="https://www.netlify.com">
-                        <img alt="Netlify" src="https://www.netlify.com/img/global/badges/netlify-dark.svg"/>
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
             </div>
           </div>
         </div>
+        */}
       </footer>
     )
   }

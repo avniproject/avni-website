@@ -14,7 +14,7 @@ const FeatureGrid = ({ gridItems }) => (
     </div>
     {gridItems.map(item => (
       <div key={item.text} className="column is-one-third-tablet is-full-mobile">
-        <section className="section">
+        <section>
           <div className="has-text-centered">
             <div
               style={{

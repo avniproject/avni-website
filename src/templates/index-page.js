@@ -6,6 +6,7 @@ import Layout from "../components/Layout"
 import Features from '../components/Features'
 import LandingPageHero from "../components/LandingPageHero";
 import { VerticalTileGroup } from "../components/Tile";
+import social_alpha_logo from '../img/SocialAlphaLogo.png'
 
 export const IndexPageTemplate = ({
   features,
@@ -32,24 +33,24 @@ export const IndexPageTemplate = ({
             <VerticalTileGroup>
               <div className="tile square-tile">
                 <Link to="/usage-statistics">
-                  <h5 className="has-text-info">Who is using Avni? See usage statistics</h5>
+                  <span className="has-text-info">Who is using Avni? See usage statistics</span>
                 </Link>
               </div>
               <div className="tile square-tile">
                 <Link to="/use-cases">
-                  <h5 className="has-text-info">What can it be used for?</h5>
+                  <span className="has-text-info">What can it be used for?</span>
                 </Link>
               </div>
             </VerticalTileGroup>
             <VerticalTileGroup>
               <div className="tile square-tile">
                 <Link to="/case-studies">
-                  <h5 className="has-text-info">Case Studies</h5>
+                  <span className="has-text-info">Case Studies</span>
                 </Link>
               </div>
               <div className="tile square-tile">
                 <Link to="/getting-started">
-                  <h5 className="has-text-info">How to get setup?</h5>
+                  <span className="has-text-info">How to get setup?</span>
                 </Link>
               </div>
             </VerticalTileGroup>
@@ -57,6 +58,12 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
+    <div className="content has-text-centered">
+      <h4 className="is-size-4 has-text-grey has-text-weight-bold">
+        Backed by
+      </h4>
+      <img src={social_alpha_logo} alt="Social Alpha" width="192" />
+    </div>
   </div>
 );
 
