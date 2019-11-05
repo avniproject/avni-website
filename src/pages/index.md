@@ -17,17 +17,17 @@ features:
         registration in programs and multiple form types for each program. Link
         individuals. 
     - title: ' Fully featured forms'
-      image: /img/mobile-form.png
+      image: ''
       text: >-
         All common data types, skip logic, geolocation, multi-media, calculated
         fields and validation support. 
     - title: Work schedule management
-      image: /img/analytics.png
+      image: ''
       text: >-
         Protocol based and manual visit management, with on device dashboard to
         manage work.    
     - title: 'Carry your complete data on mobile, use even without Internet'
-      image: /img/cloud-off.png
+      image: ''
       text: >
         Each field staff has their full required data available to them with
         complete functionality.
