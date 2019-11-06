@@ -6,6 +6,6 @@ description: testing video embed
 featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
-  - '#test'
+  - Test
 ---
 `youtube: bcqXPu2ecvM`
