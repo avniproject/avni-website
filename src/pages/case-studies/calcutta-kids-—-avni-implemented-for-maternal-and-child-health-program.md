@@ -11,11 +11,12 @@ tags:
   - slum
   - urban
 ---
-Calcutta Kids is a public health organization providing health services to the underserved women and young children in the Kolkata slum area of Fakir Bagan. They provide preventive services, complemented by effective curative care when required, and carried out primarily by trained Community Health Workers (CHW). Calcutta Kids (CK) provides a whole range of services for women health, pregnancy and child health — which has been very well detailed here. CK runs a comprehensive program where **continuous service** is provided to their clients.
+Calcutta Kids is a public health organization providing health services to the underserved women and young children in the Kolkata slum area of Fakir Bagan. They provide preventive services, complemented by effective curative care when required, and carried out primarily by trained Community Health Workers (CHW). Calcutta Kids (CK) provides a whole range of services for women health, pregnancy and child health — which has been very well detailed <a href="https://calcuttakids.org/programs/" target="_blank">here</a>. CK runs a comprehensive program where **continuous service** is provided to their clients.
 
 Until two years back CK was using a data management system (MIS) that captured complete data of the services delivered in the program. The MIS was also used to generate the schedule of work for CHWs, derive programmatic insights and prepare reports.
 
 The MIS in use was a custom solution, i.e. developed specifically for CK. The system required adapting to the latest on-ground modifications to the program functioning and generation of new reports. This required CK to arrange for funds to continuously upkeep the system. The MIS was not a generic product and required development effort, hence was expensive. Apart from these, there was another major issue — the system was not accessible to the CHWs in the field. The benefits of having an on-field app is explained later.
+
 
 ![](/img/ck-case-study.png "Health workers servicing child and pregnant women")
 
