@@ -15,13 +15,18 @@ Maharashtra government has initiated the implementation of <a href="https://www.
 The model for data collection involved registering each dam/water-body and then collecting various types of information like - baseline, work details of vehicle's used, issues faced, the beneficiary details and end-line. This data is collected in the field during the complete process of desilting and distribution of silt. The collected data allowed for monitoring based on gaps in reporting and anomalies in data. The monitoring team could contact the ground team to understand the reasons.
 
 
+
 `youtube: uwwyzrOHOwI`
+
 <p align="center"><b>Dashboard for the monitoring team</b></p>
 
-
+``
 
 `youtube: tqR226jt8Oo`
+
 <p align="center"><b>Demo of the field app</b></p>
+
+
 
 - - -
 
