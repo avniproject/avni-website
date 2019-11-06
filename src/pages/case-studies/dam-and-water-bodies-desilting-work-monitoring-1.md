@@ -9,6 +9,7 @@ description: >-
 tags:
   - Water
   - Monitoring
+  - Government
 ---
 Maharashtra government has initiated the implementation of <a href="https://www.thehindubusinessline.com/news/national/maharashtra-to-desilt-dams-water-bodies/article9691614.ece" target="_blank">its policy decision on desilting of dams and water bodies</a>. The implementation is happening in partnership with the NGOs. In 2018–19, in order to monitor the process and progress of the desilting and distribution of silt - the project required a field-based data collection and a monitoring system.
 
