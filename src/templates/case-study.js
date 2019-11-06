@@ -23,9 +23,10 @@ export const CaseStudyTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+              <h1><a href="/case-studies">Case Studies</a></h1>
+            <h2>
               {title}
-            </h1>
+            </h2>
             <p className="has-text-grey">Last updated on: <b>{date}</b></p>
             <p>{description}</p>
             <PostContent content={content} />
