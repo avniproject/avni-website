@@ -6,10 +6,9 @@ description: >-
   Avni is used for complex programs like maternal and child health, supporting
   and guiding health workers in their daily fieldwork.
 tags:
-  - field service
-  - health
-  - slum
-  - urban
+  - Service delivery
+  - Health
+  - Urban
 ---
 Calcutta Kids is a public health organization providing health services to the underserved women and young children in the Kolkata slum area of Fakir Bagan. They provide preventive services, complemented by effective curative care when required, and carried out primarily by trained Community Health Workers (CHW). Calcutta Kids (CK) provides a whole range of services for women health, pregnancy and child health — which has been very well detailed <a href="https://calcuttakids.org/programs/" target="_blank">here</a>. CK runs a comprehensive program where **continuous service** is provided to their clients.
 
