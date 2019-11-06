@@ -5,7 +5,6 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import {withPrefix} from "gatsby"
-import GA from "../utils/GA";
 
 const TemplateWrapper = ({hero, children}) => {
     const {title, description} = useSiteMetadata();
@@ -45,7 +44,6 @@ const TemplateWrapper = ({hero, children}) => {
                 <meta property="og:title" content={title}/>
                 <meta property="og:url" content="/"/>
                 <meta property="og:image" content={`${withPrefix("/")}img/og-image.jpg`}/>
-                {GA.getSrc()}{GA.getCode()}
             </Helmet>
             {hero ? hero : <Navbar/>}
             <>{children}</>

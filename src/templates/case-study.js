@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 import {graphql, Link} from 'gatsby'
 import Layout from '../components/Layout'
 import Content, {HTMLContent} from '../components/Content'
-import GA from "../utils/GA";
 
 export const CaseStudyTemplate = ({
                                       content,
@@ -75,7 +74,6 @@ const CaseStudy = ({data}) => {
                             name="description"
                             content={`${post.frontmatter.description}`}
                         />
-                        {GA.getSrc()}{GA.getCode()}
                     </Helmet>
                 }
                 tags={post.frontmatter.tags}

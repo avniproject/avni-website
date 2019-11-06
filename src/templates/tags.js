@@ -2,7 +2,6 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import GA from "../utils/GA";
 
 class TagRoute extends React.Component {
   render() {
@@ -24,9 +23,7 @@ class TagRoute extends React.Component {
     return (
       <Layout>
         <section className="section">
-            <Helmet title={`${tag} | ${title}`}>
-                {GA.getSrc()}{GA.getCode()}
-            </Helmet>
+            <Helmet title={`${tag} | ${title}`}/>
           <div className="container content">
             <div className="columns">
               <div

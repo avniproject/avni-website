@@ -1,100 +1,126 @@
-var proxy = require('http-proxy-middleware')
+var proxy = require('http-proxy-middleware');
 
 module.exports = {
-  siteMetadata: {
-    title: 'Avni Mobile Data Collection & Insights Platform',
-    description:
-      'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support'
-  },
-  plugins: [
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
-    {
-      // keep as first gatsby-source-filesystem plugin for gatsby image support
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/static/img`,
-        name: 'uploads',
-      },
+    siteMetadata: {
+        title: 'Avni Field Service and Data Collection Platform',
+        description:
+            'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support'
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/pages`,
-        name: 'pages',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/img`,
-        name: 'images',
-      },
-    },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-relative-images',
+    plugins: [
+        {
+            resolve: `gatsby-plugin-google-analytics`,
             options: {
-              name: 'uploads',
+                trackingId: "UA-151665102-1",
+                // Defines where to place the tracking script - `true` in the head and `false` in the body
+                head: false,
+                // Setting this parameter is optional
+                anonymize: true,
+                // Setting this parameter is also optional
+                respectDNT: true,
+                // Avoids sending pageview hits from custom paths
+                exclude: ["/do-not-track/example/"],
+                // Delays sending pageview hits on route update (in milliseconds)
+                pageTransitionDelay: 0,
+                // Enables Google Optimize using your container Id
+                // optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
+                // Enables Google Optimize Experiment ID
+                // experimentId: "YOUR_GOOGLE_EXPERIMENT_ID",
+                // Set Variation ID. 0 for original 1,2,3....
+                // variationId: "YOUR_GOOGLE_OPTIMIZE_VARIATION_ID",
+                // Any additional optional fields
+                // sampleRate: 5,
+                // siteSpeedSampleRate: 10,
+                // cookieDomain: "example.com",
             },
-          },
-          {
-            resolve: 'gatsby-remark-images',
-            options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
-              maxWidth: 2048,
-            },
-          },
-          {
-            resolve: 'gatsby-remark-copy-linked-files',
-            options: {
-              destinationDir: 'static',
-            },
-          },
-          'gatsby-remark-embed-video',
-          'gatsby-remark-responsive-iframe'
-        ],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
-      options: {
-        develop: true, // Activates purging in npm run develop
-        purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
-      },
-    }, // must be after other CSS plugins
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
-  ],
-  // for avoiding CORS while developing Netlify Functions locally
-  // read more: https://www.gatsbyjs.org/docs/api-proxy/#advanced-proxying
-  developMiddleware: app => {
-    app.use(
-      '/.netlify/functions/',
-      proxy({
-        target: 'http://localhost:9000',
-        pathRewrite: {
-          '/.netlify/functions/': '',
         },
-      })
-    )
-  },
+        'gatsby-plugin-react-helmet',
+        'gatsby-plugin-sass',
+        {
+            // keep as first gatsby-source-filesystem plugin for gatsby image support
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                path: `${__dirname}/static/img`,
+                name: 'uploads',
+            },
+        },
+        {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                path: `${__dirname}/src/pages`,
+                name: 'pages',
+            },
+        },
+        {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                path: `${__dirname}/src/img`,
+                name: 'images',
+            },
+        },
+        'gatsby-plugin-sharp',
+        'gatsby-transformer-sharp',
+        {
+            resolve: 'gatsby-transformer-remark',
+            options: {
+                plugins: [
+                    {
+                        resolve: 'gatsby-remark-relative-images',
+                        options: {
+                            name: 'uploads',
+                        },
+                    },
+                    {
+                        resolve: 'gatsby-remark-images',
+                        options: {
+                            // It's important to specify the maxWidth (in pixels) of
+                            // the content container as this plugin uses this as the
+                            // base for generating different widths of each image.
+                            maxWidth: 2048,
+                        },
+                    },
+                    {
+                        resolve: 'gatsby-remark-copy-linked-files',
+                        options: {
+                            destinationDir: 'static',
+                        },
+                    },
+                    'gatsby-remark-embed-video',
+                    'gatsby-remark-responsive-iframe'
+                ],
+            },
+        },
+        {
+            resolve: 'gatsby-plugin-netlify-cms',
+            options: {
+                modulePath: `${__dirname}/src/cms/cms.js`,
+            },
+        },
+        {
+            resolve: `gatsby-plugin-typography`,
+            options: {
+                pathToConfigModule: `src/utils/typography`,
+            },
+        },
+        {
+            resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
+            options: {
+                develop: true, // Activates purging in npm run develop
+                purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
+            },
+        }, // must be after other CSS plugins
+        'gatsby-plugin-netlify', // make sure to keep it last in the array
+    ],
+    // for avoiding CORS while developing Netlify Functions locally
+    // read more: https://www.gatsbyjs.org/docs/api-proxy/#advanced-proxying
+    developMiddleware: app => {
+        app.use(
+            '/.netlify/functions/',
+            proxy({
+                target: 'http://localhost:9000',
+                pathRewrite: {
+                    '/.netlify/functions/': '',
+                },
+            })
+        )
+    },
 }
