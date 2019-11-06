@@ -3,6 +3,7 @@ import _, { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
+import GA from "../../utils/GA";
 
 const TagsPage = ({
   data: {
@@ -14,7 +15,9 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
+        <Helmet title={`Tags | ${title}`}>
+            {GA.getSrc()}{GA.getCode()}
+        </Helmet>
       <div className="container content">
         <div className="columns">
           <div
