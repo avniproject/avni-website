@@ -26,8 +26,6 @@ The model for data collection involved registering each dam/water-body and then 
 
 <p align="center"><b>Demo of the field app</b></p>
 
-
-
 - - -
 
 **Using Avni field app from the field**
