@@ -15,7 +15,7 @@ export const CaseStudyTemplate = ({
   date,
   helmet,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
     <section className="section">
@@ -26,7 +26,7 @@ export const CaseStudyTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p className="has-text-grey">Published on: <b>{date}</b></p>
+            <p className="has-text-grey">Last updated on: <b>{date}</b></p>
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -46,7 +46,7 @@ export const CaseStudyTemplate = ({
       </div>
     </section>
   )
-}
+};
 
 CaseStudyTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -55,7 +55,7 @@ CaseStudyTemplate.propTypes = {
   title: PropTypes.string,
   date: PropTypes.string,
   helmet: PropTypes.object,
-}
+};
 
 const CaseStudy = ({ data }) => {
   const { markdownRemark: post } = data
