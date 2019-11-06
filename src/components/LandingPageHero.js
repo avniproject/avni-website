@@ -33,7 +33,7 @@ export default function LandingPageHero() {
             }}
           >
             <h5
-              className="is-size-4-mobile is-size-3-tablet is-size-3-desktop is-size-3-widescreen"
+              className="is-size-6-mobile is-size-3-tablet is-size-3-desktop is-size-3-widescreen"
               style={{
                 backgroundColor: 'rgb(48, 48, 48, 0.8)',
                 color: 'white',
