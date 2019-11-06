@@ -32,17 +32,6 @@ export default function LandingPageHero() {
               flexDirection: 'column',
             }}
           >
-            <h1
-              className="has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen"
-              style={{
-                backgroundColor: 'rgb(16, 16, 16, 0.8)',
-                color: 'white',
-                lineHeight: '1.1',
-                padding: '0.35em 0.5em',
-              }}
-            >
-              Open Source platform for field service delivery and data collection
-            </h1>
             <h5
               className="is-size-7-mobile is-size-7-tablet is-size-4-widescreen"
               style={{
@@ -51,10 +40,10 @@ export default function LandingPageHero() {
                 lineHeight: '1.2',
                 padding: '0.35em',
                 fontWeight: '200',
+                  textAlign: 'center'
               }}
             >
-              Designed for the development sector, <b>avni</b> strengthens field capacity of non-profits
-              and governments across sectors - like health, water, education and social service
+                Open Source platform for field service delivery and data collection for non-profits and governments in all sectors - like health, water, education, social service
             </h5>
             <div style={{ textAlign: 'center', paddingTop: '1em' }}>
               <a href="/demo" className="button is-dark is-inverted"><b>Try the Demo &raquo;</b></a>

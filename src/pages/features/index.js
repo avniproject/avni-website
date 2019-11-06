@@ -3,6 +3,10 @@ import Layout from "../../components/Layout";
 import FeatureTile, { VerticalTileGroup } from "../../components/Tile";
 import imgCounselling1 from "../../img/counselling1.png";
 import imgCounselling2 from "../../img/counselling2.png";
+import dataModel1 from "../../img/data-model-1.png";
+import dataModel2 from "../../img/data-model-2.png";
+import encounterScheduling1 from "../../img/encounter-scheduling-1.png";
+import encounterScheduling2 from "../../img/encounter-scheduling-2.png";
 import imgSkipLogic from "../../img/SkipLogic.gif";
 import imgCalculatedField from "../../img/CalculatedField.gif";
 
@@ -24,7 +28,7 @@ export default function Index() {
                  target="_blank"
                  rel="noopener noreferrer"
               >
-                See roadmap
+                See road map
               </a>&nbsp;to understand upcoming features.
             </p>
           </div>
@@ -35,6 +39,10 @@ export default function Index() {
               <FeatureTile
                 title="Complete program data modelling"
                 description="Ability to define any program's schema into individual types, their one or more programs and one or more program encounter types (e.g. Beneficiary, Pregnancy program and ANC/PNC/Delivery encounter types). Ability to link individuals via relationships."
+                images={[
+                    { src: dataModel1, altText: "Data model 1 example screenshot" },
+                    { src: dataModel2, altText: "Data model 2 example screenshot" }
+                ]}
               />
               <FeatureTile
                 title="Search and service individuals, or work based on schedule"
@@ -44,8 +52,8 @@ export default function Index() {
                 title="Counselling hints for field provider during encounter"
                 description="Ability to embed context specific hints (based on your rules) to support field providers in appropriately counselling the beneficiary."
                 images={[
-                  { src: imgCounselling1, altText: "Counselling 1" },
-                  { src: imgCounselling2, altText:"Counselling 2" }
+                  { src: imgCounselling1, altText: "Counselling example 1 screenshot" },
+                  { src: imgCounselling2, altText:"Counselling example 2 screenshot" }
                 ]}
               />
               <FeatureTile
@@ -63,8 +71,12 @@ export default function Index() {
                 ]}
               />
               <FeatureTile
-                title="Visit Schedule Management"
-                description="Ability to define rules that automatically schedule visits in the future to be done by the field provider based on program's protocol. e.g. Follow up visit for post natal care after delivery. Cancel visits. Manually schedule visits."
+                title="Encounter (visit) schedule management"
+                description="Ability to define rules that automatically schedule visits in the future to be done by the field provider based on program's protocol. e.g. Follow up visit for post natal care after delivery. Cancel scheduled encounters."
+                images={[
+                    { src: encounterScheduling1, altText: "Scheduling encounter in future" },
+                    { src: encounterScheduling2, altText: "View scheduled encounters" }
+                ]}
               />
               <FeatureTile
                 title="Centralised database with reporting and analytics platform"

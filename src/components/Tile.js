@@ -21,7 +21,7 @@ export default function Tile({ title, description, detailsLink, images }) {
         {images &&
           <div>
             <br/>
-            {images.map(img => <ModalImage src={img.src} altText={img.altText} />)}
+            {images.map(img => <ModalImage src={img.src} altText={img.altText} thumbnailWidth={35}  />)}
           </div>
         }
       </article>
@@ -30,7 +30,7 @@ export default function Tile({ title, description, detailsLink, images }) {
 }
 
 export function VerticalTileGroup({ children, extraClasses }) {
-  let classes = "tile is-parent is-vertical"
+  let classes = "tile is-parent is-vertical";
   return (
     <div className={ extraClasses ? `${classes} ${extraClasses}` : classes }>
       {children}

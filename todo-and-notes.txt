@@ -1,4 +1,3 @@
-Should the banner text be center aligned?
 Size of trusted by images are too small
 remove blog link
 design of features needs to be worked upon

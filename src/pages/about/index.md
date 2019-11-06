@@ -14,3 +14,6 @@ The **Avni Project**, previously called "OpenCHS (Open Community Health System)"
 * [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
 * [CI Server and Binary Download](https://circleci.com/gh/OpenCHS) (requires login)
 * [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
+
+# Credits
+* [Lokalise, translation service](https://lokalise.com/)
