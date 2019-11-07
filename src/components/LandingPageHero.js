@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar"
-import banner from '../img/avni-main-banner.png'
+import banner from '../img/cover.png'
 import unicef_logo from '../img/unicef-logo.png'
 import maha_logo from '../img/gov-mah-logo.png'
 import jss_logo from '../img/jss-logo.png'
@@ -17,7 +17,7 @@ export default function LandingPageHero() {
         <div className="hero-body full-width-image"
              style={{
                backgroundImage: `url(${banner})`,
-               backgroundPosition: 'center center',
+               backgroundPosition: 'center',
                display: 'flex',
                justifyContent: 'flex-start',
                alignItems: 'flex-end',
