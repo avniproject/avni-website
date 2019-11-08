@@ -38,7 +38,7 @@ export default function Index() {
                     </div>
                     <div id="health-modules" className="container" style={{marginTop: '2em'}}>
                         <h4 className="has-text-weight-semibold" style={{lineHeight: '4em'}}>
-                            Following are some of the existing use cases of Avni. Also check out <a href="/case-studies">case studies</a> and <a href="usage-statistics">usage statistics</a>.
+                            Following are some of the existing use cases of Avni. Also check out <a href="/case-studies">case studies</a> and <a href="/usage-statistics">usage statistics</a>.
                         </h4>
                         <div className="tile is-ancestor">
                             <VerticalTileGroup>
