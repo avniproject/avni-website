@@ -13,7 +13,7 @@ export default function Index() {
                         <p>As we understand field work involves collecting data, using previously collected data, managing one's schedule of work/visit, making assessment
                             of the beneficiary's condition and counselling/guiding the beneficiaries. The management of field programs involve - monitoring, providing
                             supportive supervision and reporting to stake holders. Avni aims to support most field work use cases. We broadly can break it down into three
-                            broad areas. <a href="#healthcare-modules">See healthcare use-cases</a>
+                            broad areas. <a href="#health-modules">See health use-cases</a>
                         </p>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ export default function Index() {
                             />
                         </VerticalTileGroup>
                     </div>
-                    <div id="healthcare-modules" className="container" style={{marginTop: '2em'}}>
+                    <div id="health-modules" className="container" style={{marginTop: '2em'}}>
                         <h4 className="has-text-weight-semibold" style={{lineHeight: '4em'}}>
                             Following are some of the existing use cases of Avni. Also check out <a href="/case-studies">case studies</a> and <a href="usage-statistics">usage statistics</a>.
                         </h4>
