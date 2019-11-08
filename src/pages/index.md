@@ -8,14 +8,11 @@ features:
     - title: Model complete program into a working field app
       image: ''
       text: >-
-        Define dynamic forms, context specific counselling advice, decision
-        support rules and visit protocols.
+        Define data model, context specific counselling hints or work tips, computed data fields, and encounter/visit protocols.
     - title: Flexible data model
       image: ''
       text: >-
-        Define multiple types of individuals (living/non-living), their
-        registration in programs and multiple form types for each program. Link
-        individuals. 
+        Define subjects (beneficiary or non-living objects), various interaction types with these subjects and grouping of these interactions under programs. Each of these are supported via user defined forms. Link beneficiaries to each other via relationships. 
     - title: ' Fully featured forms'
       image: ''
       text: >-

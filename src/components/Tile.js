@@ -6,7 +6,7 @@ export default function Tile({ title, description, detailsLink, images }) {
   return (
     <div className="tile is-child">
       <article className="box has-background-grey-lighter">
-        <p className="title">{title}</p>
+        <p className="subtitle"><b>{title}</b></p>
         <p>
           {description ||
           `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et

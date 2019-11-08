@@ -20,7 +20,7 @@ export default function Index() {
                     <div className="content">
                         <h1>Getting Started</h1>
                         <p>If you want Avni implemented for your organisation and looking for someone to help you implement it please contact us at <a
-                            href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a> but if you are understand software development this page is for you.</p>
+                            href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a> but if you understand software development this page is for you.</p>
                         <section className="section">
                             <div className="columns">
                                 <div className="column is-one-third full-centered building-blocks-left">

@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About the Project
 ---
-The **Avni Project**, previously called "OpenCHS (Open Community Health System)", started as a open source community health worker platform designed to aid programs operating below primary health center level — i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means "earth" in Hindi.
+**Avni Project**, previously called "OpenCHS (Open Community Health System)", started as a open source community health worker platform designed to aid programs operating below primary health center level — i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means "earth" in Hindi.
 
 # Team
 

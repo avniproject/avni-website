@@ -38,14 +38,14 @@ export default function Index() {
             <VerticalTileGroup>
               <FeatureTile
                 title="Complete program data modelling"
-                description="Ability to define any program's schema into individual types, their one or more programs and one or more program encounter types (e.g. Beneficiary, Pregnancy program and ANC/PNC/Delivery encounter types). Ability to link individuals via relationships."
+                description="Define subjects (beneficiary or non-living objects), various interaction types with these subjects and grouping of these interactions under programs. Each of these are supported via user defined forms. Link beneficiaries to each other via relationships. Additionally define context specific counselling hints or work tips, computed data fields, and encounter/visit protocols."
                 images={[
                     { src: dataModel1, altText: "Data model 1 example screenshot" },
                     { src: dataModel2, altText: "Data model 2 example screenshot" }
                 ]}
               />
               <FeatureTile
-                title="Search and service individuals, or work based on schedule"
+                title="Search and service subjects (beneficiary and/or non-living objects), or work based on program pre-set schedule"
                 description="A work dashboard with the schedule for the field provider in the app. Ability to search individuals using full text search."
               />
               <FeatureTile
@@ -55,10 +55,6 @@ export default function Index() {
                   { src: imgCounselling1, altText: "Counselling example 1 screenshot" },
                   { src: imgCounselling2, altText:"Counselling example 2 screenshot" }
                 ]}
-              />
-              <FeatureTile
-                title="Data secure on device"
-                description="Data protected on the device by login. Change password and reset the password from the device (SMS, Email based OTP support)."
               />
             </VerticalTileGroup>
             <VerticalTileGroup>
@@ -95,6 +91,10 @@ export default function Index() {
               <FeatureTile
                 title="Multi lingual"
                 description="Field app can be used in any language of choice. Currently support Hindi, English, Marathi, Tamil and Gujarati (and growing). You can add any language and translations yourself."
+              />
+              <FeatureTile
+                  title="Data secure on device"
+                  description="Data protected on the device by login. Change password and reset the password from the device (SMS, Email based OTP support)."
               />
               <FeatureTile
                 title="Copy other implementations"

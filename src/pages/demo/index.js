@@ -14,13 +14,13 @@ export default function Index() {
               <p>
                 On your Android device, go to <b>Play Store</b>&nbsp;
                 <a href="https://play.google.com/store/apps/details?id=com.openchsclient">[link]</a>,
-                &nbsp;search for OpenCHS, and <b>install</b> the app. See below the logins which you can use. These demos are inspired from real implementations of Avni, created to demonstrate flexibility of the platform.
+                &nbsp;search for OpenCHS, and <b>install</b> the app. See below the logins that you can use in the app. These demos are inspired from real implementations of Avni, created to demonstrate flexibility of the platform.
               </p>
               <p>
                 <small>
                   <i>
                     <b>Note</b>: After trying one demo if you want to try a different demo login,
-                    then you would need to uninstall the app and install it again.
+                    then you would need to uninstall the app and install it again. We will be soon be renaming the play store app to Avni. We <a href="https://github.com/OpenCHS/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product" target="_blank">will be releasing</a> web app and reporting platform logins for demo too.
                   </i>
                 </small>
               </p>
@@ -34,13 +34,14 @@ export default function Index() {
               <h2>Schedule a one-on-one demo</h2>
               <p>
                 If you would like a personalised demo over Google Hangouts or Skype,
-                drop us a mail at&nbsp;
+                do not hesitate to drop us a mail at&nbsp;
                 <a href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a>&nbsp;
                 <br/>
               </p>
             </div>
           </div>
         </div>
+        <br/>
         <div className="columns is-mobile is-multiline">
           <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
             <div className="content">
@@ -79,12 +80,9 @@ export default function Index() {
                 <br/>
                 password=password
                 <br/>
-                <br/>
                 <small>
                   <i>
-                    <b>Note</b>: this one doesn't use smart forms (with skip logic etc),
-                    since it was developed as a custom module but now the platform supports
-                    all rules including smart forms for custom modules too
+                    <b>Note</b>: this demo doesn't use smart forms (with skip logic etc) and decision support rules.
                   </i>
                 </small>
               </p>
@@ -94,11 +92,9 @@ export default function Index() {
                 <br/>
                 Password=password
                 <br/>
-                <br/>
                 <small>
                   <i>
-                    <b>Note</b>: this one doesn't have visit scheduling and hence
-                    My Dashboard is not useful in login
+                    <b>Note</b>: this demo doesn't have visit scheduling and hence you will not see anything interesting happening on My Dashboard
                   </i>
                 </small>
               </p>
