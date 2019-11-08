@@ -37,9 +37,9 @@ export default function Index() {
                         </VerticalTileGroup>
                     </div>
                     <div id="healthcare-modules" className="container" style={{marginTop: '2em'}}>
-                        <h5 className="has-text-weight-semibold" style={{lineHeight: '4em'}}>
-                            Avni has seen most usage in the health. Some of the use cases are:
-                        </h5>
+                        <h4 className="has-text-weight-semibold" style={{lineHeight: '4em'}}>
+                            Following are some of the existing use cases of Avni. Also check out <a href="/case-studies">case studies</a> and <a href="usage-statistics">usage statistics</a>.
+                        </h4>
                         <div className="tile is-ancestor">
                             <VerticalTileGroup>
                                 <UseCaseTile
@@ -58,8 +58,8 @@ export default function Index() {
                                              description="Track health, personal development and risk indicators of male and female adolescents - in schools and villages. Provide counselling, health advice and iron supplements for those identified as vulnerable or at risk."/>
                             </VerticalTileGroup>
                             <VerticalTileGroup>
-                                <UseCaseTile title="Child Nutrition & Growth Monitoring"
-                                             description="Avni is used in a block creche program to track the growth of children. Avni helps with growth indicators and growth faltering information"/>
+                                <UseCaseTile title="Dam de-silting work monitoring"
+                                             description="Collect data to help in monitoring the progress of dam de-silting work happening in multiple districts."/>
                             </VerticalTileGroup>
                         </div>
                     </div>
