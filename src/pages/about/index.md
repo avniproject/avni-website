@@ -17,3 +17,6 @@ title: About the Project
 
 # Credits
 * [Lokalise, translation service](https://lokalise.com/)
+
+# Contact Us
+* Please send us an email at [avni-project@googlegroups.com](mailto:avni-project@googlegroups.com)
