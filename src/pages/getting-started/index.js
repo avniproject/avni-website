@@ -106,7 +106,9 @@ export default function Index() {
                                 <div className="column">
                                     <div className="box content">
                                         <ul>
-                                            <li>Define your application schema using individuals, programs and encounter types</li>
+                                            <li>Checkout <a href="https://avni.readme.io/v2.0/docs/implementers-concept-guide" target="_blank">avni implementation concept
+                                              guide</a></li>
+                                            <li>Define your application schema using subject types, programs and encounter types</li>
                                             <li>Configure the forms, for each one of above, with skip logic, validation and decision support rules</li>
                                             <li>Write visit/encounter schedule rules</li>
                                         </ul>
