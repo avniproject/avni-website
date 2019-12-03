@@ -12,7 +12,7 @@ title: About the Project
 
 * [Source code](https://github.com/avniproject)
 * [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
-* [CI Server and Binary Download](https://circleci.com/gh/OpenCHS) (requires login)
+* [CI Server and Binary Download](https://circleci.com/gh/avniproject) (requires login)
 * [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
 
 # Credits

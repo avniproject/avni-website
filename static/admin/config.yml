@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: OpenCHS/openchs-website
+  repo: avniproject/openchs-website
   branch: master
 
 publish_mode: editorial_workflow
