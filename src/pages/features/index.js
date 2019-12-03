@@ -24,7 +24,7 @@ export default function Index() {
               and it can be used for data collection and service delivery purposes in areas beyond health too.
               For example, collecting long running information about dams, conducting surveys, learning
               assessments etc.&nbsp;
-              <a href="https://github.com/OpenCHS/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
+              <a href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
                  target="_blank"
                  rel="noopener noreferrer"
               >

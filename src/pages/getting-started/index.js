@@ -81,7 +81,7 @@ export default function Index() {
                                     <div className="box content">
                                         <h5>On your own server</h5>
                                         <p>Avni has been deployed on-premises also. The documentation is unfortunately not upto the mark yet, but we are <a
-                                            href="https://github.com/OpenCHS/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
+                                            href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
                                             target="_blank">working on
                                             it</a>.</p>
                                     </div>

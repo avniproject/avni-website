@@ -44,7 +44,7 @@ export default function LandingPageHero() {
               }}
             >
               Open Source <b>field service delivery</b> and <b>data collection</b> platform for non-profits and
-              governments in all sectors &#x2014; health, water, education, social service
+              governments in all sectors &#x2014; health, water, education, social service...
             </h5>
             <div style={{ textAlign: 'center', paddingTop: '1em' }}>
               <a href="/demo" className="button is-dark is-inverted"><b>Try the Demo &raquo;</b></a>

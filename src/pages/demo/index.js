@@ -20,7 +20,7 @@ export default function Index() {
                 <small>
                   <i>
                     <b>Note</b>: After trying one demo if you want to try a different demo login,
-                    then you would need to uninstall the app and install it again. We will be soon be renaming the play store app to Avni. We <a href="https://github.com/OpenCHS/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product" target="_blank">will be releasing</a> web app and reporting platform logins for demo too.
+                    then you would need to uninstall the app and install it again. We will be soon be renaming the play store app to Avni. We <a href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product" target="_blank">will be releasing</a> web app and reporting platform logins for demo too.
                   </i>
                 </small>
               </p>
