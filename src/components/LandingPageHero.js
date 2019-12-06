@@ -74,7 +74,7 @@ export default function LandingPageHero() {
                   <img src={tt_logo} alt="Tata Trusts" width="128" height="128" />
               </div>
               <div className="column is-2-tablet is-one-third-mobile" style={{ paddingTop: '1.4em' }}>
-                <h5 className="has-text-grey has-text-weight-bold">SEWA Rural</h5>
+                <h5 className="has-text-grey has-text-weight-bold">Sewa Rural</h5>
               </div>
             </div>
           </div>
