@@ -57,7 +57,7 @@ export const IndexPageTemplate = ({
                     </div>
 
                     <h1 className="has-text-centered is-size-3-mobile is-size-2-desktop has-text-weight-bold">Contact Us</h1>
-                    <p className="has-text-centered has-text-weight-bold">Please send your message below. We will get back to you at the earliest!</p>
+                    <p className="has-text-centered has-text-weight-bold">Feedback, Query, Suggestion, Anything? Please send your message. We will get back to you asap!</p>
                     <br/>
                     <div style={{width: "50%", margin: "auto"}}>
                         <form method="post" action="https://formspree.io/mrgbyoqr">
