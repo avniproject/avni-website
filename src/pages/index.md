@@ -5,30 +5,29 @@ title: |
 image: /img/avni-jumbo-1.png
 features:
   blurbs:
-    - title: Model complete program into a working field app
+    - title: Create app exactly as your program is
       image: ''
       text: >-
-        Define your data model, processes and protocols.
-    - title: Flexible data model
+        Provide your data model, processes and protocols
+    - title: Flexible data model, not just forms
       image: ''
       text: >-
-        Define cases, services for each case and forms for each service. 
+        Define cases, with services and forms for each service 
     - title: 'Fully featured forms'
       image: ''
       text: >-
-        All common data types, skip logic, geolocation, multi-media, calculated
-        fields and validation support. 
+        All common data types, skip logic, geolocation, multi-media, calculated fields and validations 
     - title: Work schedule management
       image: ''
       text: >-
-        Protocol based and manual visit management. Dashboard to manage your work.    
+        Automatic visit management, with manual control. Dashboard to manage all your work    
     - title: 'Offline'
       image: ''
       text: >
-        Use your app even without Internet
-    - title: 'Centralised database'
+        Everything available even without Internet
+    - title: 'One central database'
       image: ''
       text: >-
-        Monitor, analyse, generate reports and download data extracts.
+        Monitor, analyse, generate reports and download data extracts
 ---
 

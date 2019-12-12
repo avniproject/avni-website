@@ -20,7 +20,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
     return <img style={imageStyle} src={image} alt={alt} />
 
   return null
-}
+};
 
 PreviewCompatibleImage.propTypes = {
   imageInfo: PropTypes.shape({
@@ -29,6 +29,6 @@ PreviewCompatibleImage.propTypes = {
     image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]).isRequired,
     style: PropTypes.object,
   }).isRequired,
-}
+};
 
 export default PreviewCompatibleImage

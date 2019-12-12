@@ -82,15 +82,15 @@ const CaseStudy = ({data}) => {
             />
         </Layout>
     )
-}
+};
 
 CaseStudy.propTypes = {
     data: PropTypes.shape({
         markdownRemark: PropTypes.object,
     }),
-}
+};
 
-export default CaseStudy
+export default CaseStudy;
 
 export const pageQuery = graphql`
   query CaseStudyByID($id: String!) {
@@ -105,4 +105,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
