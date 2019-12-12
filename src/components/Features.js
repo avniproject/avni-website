@@ -12,10 +12,7 @@ const FeatureGrid = ({ gridItems }) => (
         Features
       </h2>
         <p>
-            Avni is a flexible platform suitable for most type of fieldwork.
-            You can translate complete design of your fieldwork program for beneficiaries or non-living objects (like water body)
-            into the platform. Once you define this using a web browser interface,
-            Avni would instantiate your customised working field application based on it.
+            Avni allows you to describe your fieldwork program onto the platform and create an app to use in the field and for program coordination.
         </p>
     </div>
     {gridItems.map(item => (

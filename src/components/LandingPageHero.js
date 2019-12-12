@@ -43,7 +43,7 @@ export default function LandingPageHero() {
                   textAlign: 'center'
               }}
             >
-              Open Source <b>field service delivery</b> and <b>data collection</b> platform for non-profits and
+              Open Source <b>field work</b> and <b>data collection</b> platform for non-profits and
               governments in all sectors &#x2014; health, water, education, social service...
             </h5>
             <div style={{ textAlign: 'center', paddingTop: '1em' }}>
