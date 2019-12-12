@@ -43,6 +43,8 @@ CHWs at CK, completely did away with the paper forms. This allows for program de
 
 ![Visit scheduled for health worker](/img/ck-visit-scheduling.png "Visit scheduled automatically for the health worker")
 
+<br/>
+
 **Bringing data from old system into new one**\
 Bringing on all the data from older system to a new one can be quite challenging. Such data migration in simple scenarios involves providing data to the new system in the format that it can accept. But for large data sets that has been in use for years, it is difficult to prepare data in the expected format manually, because the data-formats of the new system is quite different from the old system. Avni uses a unique approach that makes it possible to map two complex data formats in an excel file - instead of transforming the input format.
 
