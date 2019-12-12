@@ -31,7 +31,7 @@ In Avni, one can define multiple programs. Three programs were defined — pregn
 **App available in the field instead of printouts, registers and forms**\
 CHWs at CK, completely did away with the paper forms. This allows for program designers to ensure that each CHW interaction with the beneficiary can be modelled into the app — to standardise service quality. In Avni — the CHW’s interaction with beneficiary is supported via a designed form flow that brings up only the right questions, right counselling topics, displays necessary computed information (e.g. referral advice based on complete data), and highlights data input mistakes.
 
-![Counselling guidance for health worker](/img/ck-counselling.png "Counselling guidance for health worker")
+![Counselling guidance for health worker](/img/screenshot-2019-12-12-at-6.44.01-pm.png "Counselling guidance for health worker")
 
 ![Visit scheduled for health worker](/img/ck-visit-scheduling.png "Visit scheduled automatically for the health worker")
 
