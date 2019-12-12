@@ -31,6 +31,10 @@ In Avni, one can define multiple programs. Three programs were defined — pregn
 **App available in the field instead of printouts, registers and forms**\
 CHWs at CK, completely did away with the paper forms. This allows for program designers to ensure that each CHW interaction with the beneficiary can be modelled into the app — to standardise service quality. In Avni — the CHW’s interaction with beneficiary is supported via a designed form flow that brings up only the right questions, right counselling topics, displays necessary computed information (e.g. referral advice based on complete data), and highlights data input mistakes.
 
+![Counselling guidance for health worker](/img/ck-counselling.png "Counselling guidance for health worker")
+
+![Visit scheduled for health worker](/img/ck-visit-scheduling.png "Visit scheduled automatically for the health worker")
+
 **Bringing data from old system into new one**\
 Bringing on all the data from older system to a new one can be quite challenging. Such data migration in simple scenarios involves providing data to the new system in the format that it can accept. But for large data sets that has been in use for years, it is difficult to prepare data in the expected format manually, because the data-formats of the new system is quite different from the old system. Avni uses a unique approach that makes it possible to map two complex data formats in an excel file - instead of transforming the input format.
 
