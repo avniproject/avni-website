@@ -33,12 +33,14 @@ CHWs at CK, completely did away with the paper forms. This allows for program de
 
 <br/>
 
-**Counselling guidance for health worker**
+<p align='center'>Counselling guidance for health worker</p>
+
 ![Counselling guidance for health worker](/img/screenshot-2019-12-12-at-6.44.01-pm.png "Counselling guidance for health worker")
 
 <br/>
 
-**Visit scheduled for health worker**
+<p align='center'>Visit scheduled for health worker</p>
+
 ![Visit scheduled for health worker](/img/ck-visit-scheduling.png "Visit scheduled automatically for the health worker")
 
 **Bringing data from old system into new one**\
