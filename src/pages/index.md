@@ -5,18 +5,18 @@ title: |
 image: /img/avni-jumbo-1.png
 features:
   blurbs:
-    - title: Create app exactly as your program is
+    - title: Create app exactly like your program
       image: ''
       text: >-
         Provide your data model, processes and protocols
-    - title: Flexible data model, not just forms
+    - title: Not just forms
       image: ''
       text: >-
-        Define cases, with services and forms for each service 
+        Define cases, services and each visit's data format 
     - title: 'Fully featured forms'
       image: ''
       text: >-
-        All common data types, skip logic, geolocation, multi-media, calculated fields and validations 
+        All data types, skip logic, geolocation, multi-media, calculated fields and validations 
     - title: Work schedule management
       image: ''
       text: >-
@@ -30,4 +30,3 @@ features:
       text: >-
         Monitor, analyse, generate reports and download data extracts
 ---
-
