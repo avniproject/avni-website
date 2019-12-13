@@ -13,20 +13,20 @@ features:
       image: ''
       text: >-
         Define cases, services and each visit's data format 
-    - title: 'Fully featured forms'
+    - title: 'Powerful forms'
       image: ''
       text: >-
         All data types, skip logic, geolocation, multi-media, calculated fields and validations 
     - title: Work schedule management
       image: ''
       text: >-
-        Automatic visit management, with manual control. Dashboard to manage all your work    
+        Automated visit scheduling, with manual control. Dashboard to manage all your work    
     - title: 'Offline'
       image: ''
       text: >
-        Everything available even without Internet
-    - title: 'One central database'
+        All features available even without Internet
+    - title: 'Centralised database'
       image: ''
       text: >-
-        Monitor, analyse, generate reports and download data extracts
+        Monitor, analyse, generate reports, download data extracts
 ---
