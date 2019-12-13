@@ -21,7 +21,7 @@ export default function Tile({ title, description, detailsLink, images }) {
         {images &&
           <div>
             <br/>
-            {images.map(img => <ModalImage src={img.src} altText={img.altText} thumbnailWidth={35}  />)}
+            {images.map(img => <ModalImage src={img.src} altText={img.altText} thumbnailWidth={100}  />)}
           </div>
         }
       </article>

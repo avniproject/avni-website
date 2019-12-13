@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../../components/Layout";
-import FeatureTile, { VerticalTileGroup } from "../../components/Tile";
+import FeatureTile, {VerticalTileGroup} from "../../components/Tile";
 import imgCounselling1 from "../../img/counselling1.png";
 import imgCounselling2 from "../../img/counselling2.png";
 import dataModel1 from "../../img/data-model-1.png";
@@ -9,129 +9,132 @@ import encounterScheduling1 from "../../img/encounter-scheduling-1.png";
 import encounterScheduling2 from "../../img/encounter-scheduling-2.png";
 import imgSkipLogic from "../../img/SkipLogic.gif";
 import imgCalculatedField from "../../img/CalculatedField.gif";
+import imgChildImmunisation from "../../img/child-immunisation.png";
+import imgChildGrowthChart from "../../img/child-growth-chart.png";
 
 export default function Index() {
-  return (
-    <Layout>
-      <section className="section">
-        <div className="container">
-          <div className="content">
-            <h1>Features</h1>
-            <p>
-              Designed initially as a tool for frontline health workers in rural and urban slum communities,&nbsp;
-              Avni has many features specific to healthcare. <a href="#health-features">See health specific features</a>.
-              However this broad range of features also make it useful in a wider variety of scenarios
-              and it can be used for data collection and service delivery purposes in areas beyond health too.
-              For example, collecting long running information about dams, conducting surveys, learning
-              assessments etc.&nbsp;
-              <a href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
-                 target="_blank"
-                 rel="noopener noreferrer"
-              >
-                See road map
-              </a>&nbsp;to understand upcoming features.
-            </p>
-          </div>
-        </div>
-        <div className="container" style={{ marginTop: "2em" }}>
-          <div className="tile is-ancestor">
-            <VerticalTileGroup>
-              <FeatureTile
-                title="Complete program data modelling"
-                description="Define subjects (beneficiary or non-living objects), various interaction types with these subjects and grouping of these interactions under programs. Each of these are supported via user defined forms. Link beneficiaries to each other via relationships. Additionally define context specific counselling hints or work tips, computed data fields, and encounter/visit protocols."
-                images={[
-                    { src: dataModel1, altText: "Data model 1 example screenshot" },
-                    { src: dataModel2, altText: "Data model 2 example screenshot" }
-                ]}
-              />
-              <FeatureTile
-                title="Search and service subjects (beneficiary and/or non-living objects), or work based on program pre-set schedule"
-                description="A work dashboard with the schedule for the field provider in the app. Ability to search individuals using full text search."
-              />
-              <FeatureTile
-                title="Counselling hints for field provider during encounter"
-                description="Ability to embed context specific hints (based on your rules) to support field providers in appropriately counselling the beneficiary."
-                images={[
-                  { src: imgCounselling1, altText: "Counselling example 1 screenshot" },
-                  { src: imgCounselling2, altText:"Counselling example 2 screenshot" }
-                ]}
-              />
-            </VerticalTileGroup>
-            <VerticalTileGroup>
-              <FeatureTile
-                title="Smart, configurable forms"
-                description="Multiple pages per form, one or more questions per page; Skip logic; Calculated form fields - e.g. estimated date of delivery based on last menstrual period date; All commonly used data types with photo/video/geolocation capture support."
-                images={[
-                  { src: imgSkipLogic, altText: "Skip Logic" },
-                  { src: imgCalculatedField, altText: "Calculated Field" }
-                ]}
-              />
-              <FeatureTile
-                title="Encounter (visit) schedule management"
-                description="Ability to define rules that automatically schedule visits in the future to be done by the field provider based on program's protocol. e.g. Follow up visit for post natal care after delivery. Cancel scheduled encounters."
-                images={[
-                    { src: encounterScheduling1, altText: "Scheduling encounter in future" },
-                    { src: encounterScheduling2, altText: "View scheduled encounters" }
-                ]}
-              />
-              <FeatureTile
-                title="Centralised database with reporting and analytics platform"
-                description="Define & Generate reports. Create dashboards, exports, data dumps and alerts."
-              />
-            </VerticalTileGroup>
-            <VerticalTileGroup>
-              <FeatureTile
-                title="Algorithmic Decision Support"
-                description="Ability to define rules that compute, display and attach data to the individual's record. Example - child's growth faltering status based on weight+height+age data."
-              />
-              <FeatureTile
-                title="Works offline"
-                description="Define catchment (e.g. set of villages) for the field provider, and their entire catchment's beneficiaries data is always available on their device offline."
-              />
-              <FeatureTile
-                title="Multi lingual"
-                description="Field app can be used in any language of choice. Currently support Hindi, English, Marathi, Tamil and Gujarati (and growing). You can add any language and translations yourself."
-              />
-              <FeatureTile
-                  title="Data secure on device"
-                  description="Data protected on the device by login. Change password and reset the password from the device (SMS, Email based OTP support)."
-              />
-              <FeatureTile
-                title="Copy other implementations"
-                description="Copy another similar implementation and make changes on top. Most implementations are open source too."
-              />
-            </VerticalTileGroup>
-          </div>
-          <div
-            id="health-features"
-            className="container"
-            style={{ marginTop: "2em" }}
-          >
-            <h3 className="has-text-weight-semibold title">
-              Health specific features
-            </h3>
-            <p>
-              Avni has certain features, that can be turned on, for health
-              implementations.
-            </p>
-            <br />
-            <div className="tile is-ancestor">
-              <VerticalTileGroup>
-                <FeatureTile
-                  title="WHO Growth Charts"
-                  description="Growth of a child can be visualised on a WHO growth chart for making quick inferences."
-                />
-              </VerticalTileGroup>
-              <VerticalTileGroup>
-                <FeatureTile
-                  title="Child immunisation schedule"
-                  description="Complete immunisation schedule data can be managed on timeline."
-                />
-              </VerticalTileGroup>
-            </div>
-          </div>
-        </div>
-      </section>
-    </Layout>
-  );
+    return (
+        <Layout>
+            <section className="section">
+                <div className="container">
+                    <div className="content">
+                        <h1>Features</h1>
+                        <div>
+                            <a href="#health-features">Health specific features</a>
+                        </div>
+                        <div>
+                            <a href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                            >Road map (for upcoming features)</a>
+                        </div>
+                    </div>
+                </div>
+                <div className="container" style={{marginTop: "2em"}}>
+                    <div className="tile is-ancestor">
+                        <VerticalTileGroup>
+                            <FeatureTile
+                                title="Create app exactly like your program"
+                                description="Design your program data, processes and protocols"
+                                images={[
+                                    {src: dataModel1, altText: "Data model 1 example screenshot"},
+                                    {src: dataModel2, altText: "Data model 2 example screenshot"}
+                                ]}
+                            />
+                            <FeatureTile
+                                title="Counsel your beneficiaries"
+                                description="Let the app guide your fieldwork"
+                                images={[
+                                    {src: imgCounselling1, altText: "Counselling example 1 screenshot"},
+                                    {src: imgCounselling2, altText: "Counselling example 2 screenshot"}
+                                ]}
+                            />
+                            <FeatureTile
+                                title="Centralised database"
+                                description="Monitor, analyse, generate reports, download data extracts"
+                            />
+                        </VerticalTileGroup>
+                        <VerticalTileGroup>
+                            <FeatureTile
+                                title="Powerful forms"
+                                description="Define cases, services and each visit's data format"
+                                images={[
+                                    {src: imgSkipLogic, altText: "Skip Logic"},
+                                    {src: imgCalculatedField, altText: "Calculated Field"}
+                                ]}
+                            />
+                            <FeatureTile
+                                title="Flexible Search"
+                                description="Search by in-built or your own parameters"
+                            />
+                            <FeatureTile
+                                title="Work schedule management"
+                                description="Automated visit scheduling, with manual control. Dashboard to manage all your work"
+                                images={[
+                                    {src: encounterScheduling1, altText: "Scheduling encounter in future"},
+                                    {src: encounterScheduling2, altText: "View scheduled encounters"}
+                                ]}
+                            />
+                        </VerticalTileGroup>
+                        <VerticalTileGroup>
+                            <FeatureTile
+                                title="Algorithmic decision support"
+                                description="Add your own algorithms to assist the field workers"
+                            />
+                            <FeatureTile
+                                title="Offline"
+                                description="All features available even without Internet"
+                            />
+                            <FeatureTile
+                                title="Multi lingual"
+                                description="In the language of user's preference"
+                            />
+                            <FeatureTile
+                                title="Secure data"
+                                description="Field app with login, password and OTP. Hosted in secured cloud environment."
+                            />
+                            <FeatureTile
+                                title="Leverage other's programs"
+                                description="Copy another implementation and then change"
+                            />
+                        </VerticalTileGroup>
+                    </div>
+                    <div
+                        id="health-features"
+                        className="container"
+                        style={{marginTop: "2em"}}
+                    >
+                        <h3 className="has-text-weight-semibold title">
+                            Health specific features
+                        </h3>
+                        <p>
+                            Avni has certain features, that can be turned on, for health
+                            implementations.
+                        </p>
+                        <br/>
+                        <div className="tile is-ancestor">
+                            <VerticalTileGroup>
+                                <FeatureTile
+                                    title="WHO Growth Charts"
+                                    description="Child growth charts as per WHO standard"
+                                    images={[
+                                        {src: imgChildGrowthChart, altText: "Child growth charts"}
+                                    ]}
+                                />
+                            </VerticalTileGroup>
+                            <VerticalTileGroup>
+                                <FeatureTile
+                                    title="Child immunisation schedule"
+                                    description="Manage standard vaccinations. Add your own vaccinations."
+                                    images={[
+                                        {src: imgChildImmunisation, altText: "Child immunisation management"}
+                                    ]}
+                                />
+                            </VerticalTileGroup>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </Layout>
+    );
 }

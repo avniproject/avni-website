@@ -8,7 +8,7 @@ features:
     - title: Create app exactly like your program
       image: ''
       text: >-
-        Provide your data model, processes and protocols
+        Design your program data, processes and protocols
     - title: Not just forms
       image: ''
       text: >-
