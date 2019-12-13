@@ -2,7 +2,7 @@ import React from "react";
 import ModalImage from "./ModalImage";
 
 
-export default function Tile({ title, description, detailsLink, images }) {
+export default function Tile({ title, description, detailsLabel, detailsLink, images }) {
   return (
     <div className="tile is-child">
       <article className="box has-background-grey-lighter">
