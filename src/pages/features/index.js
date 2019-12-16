@@ -64,8 +64,8 @@ export default function Index() {
                                 ]}
                             />
                             <FeatureTile
-                                title="Flexible Search"
-                                description="Search by in-built or your own parameters"
+                                title="Flexible search, Identity management"
+                                description="Search by in-built, custom parameters. System generated identifiers"
                             />
                             <FeatureTile
                                 title="Work schedule management"
