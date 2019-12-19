@@ -116,11 +116,11 @@ const Navbar = class extends React.Component {
                     className="navbar-item has-text-weight-bold is-uppercase">
                 About
               </Link>
-              {/*<Link to="/blog"*/}
-              {/*      activeClassName="active-nav-item"*/}
-              {/*      className="navbar-item has-text-weight-bold is-uppercase">*/}
-              {/*  Blog*/}
-              {/*</Link>*/}
+              <Link to="/blog"
+                    activeClassName="active-nav-item"
+                    className="navbar-item has-text-weight-bold is-uppercase">
+                Blog
+              </Link>
             </div>
           </div>
         </div>
