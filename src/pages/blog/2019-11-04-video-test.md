@@ -1,8 +1,10 @@
 ---
 templateKey: blog-post
 title: Community health service programs and Avni
-date: 2019-11-04T09:44:08.564Z
-description: testing video embed
+date: 2019-12-19T09:44:08.564Z
+description: >-
+  Many NGOs in India provide community health service via community health
+  workers. These health workers
 featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
