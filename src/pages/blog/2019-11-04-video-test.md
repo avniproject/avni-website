@@ -4,7 +4,10 @@ title: Community health service programs and Avni
 date: 2019-12-19T09:44:08.564Z
 description: >-
   Many NGOs in India provide community health service via community health
-  workers. These health workers
+  workers (CHWs). These health workers are the backbone of the community health
+  systems. CHWs work is quite complex and Avni helps in making their work
+  easier. This blog will cover what Community health, Community health service
+  is and how Avni helps.
 featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
