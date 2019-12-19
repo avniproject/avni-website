@@ -6,7 +6,7 @@ description: testing video embed
 featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
-  - Test
+  - Health
 ---
 ## **Community health**
 
@@ -31,10 +31,11 @@ In both rural and urban context, NGOs at the core achieve this as follows:
 
 By bringing many simple health services closer to the people, they make the health system **accessible** (1) and CHWs bridge the **knowledge gap** (3). These services are provided at affordable prices (3) by the NGO. In urban setup 
 
-NGOs run multiple health programs simultaneously via the CHWs based on age, gender and health conditions.
+NGOs run multiple health programs simultaneously via the CHWs based on age, gender and health conditions (e.g. maternal health, cancer screening, malaria testing, tuberculosis treatment adherence etc)
 
 
 
-## **Avni helping in improving the quality of service**
+## **Avni helps in improving the quality of service**
 
-Avni
+The intersection of three factors contribute to the complexity of work performed by CHWs in the field.
+![CHW Work Complexity](/img/chw-work-complexity.png "CHW Work Complexity")
