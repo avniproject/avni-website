@@ -31,8 +31,6 @@ By bringing many simple health services closer to the people, they make the heal
 
 NGOs run multiple health programs simultaneously via the CHWs based on age, gender and health conditions (e.g. maternal health, cancer screening, malaria testing, tuberculosis treatment adherence etc).
 
-
-
 ## **Avni helps in improving the quality of service**
 
 The intersection of three factors contribute to the complexity of work performed by CHWs in the field.
