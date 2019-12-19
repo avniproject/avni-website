@@ -8,8 +8,33 @@ featuredimage: /img/apple-touch-icon.png
 tags:
   - Test
 ---
-**Need for community health service**\
-Community health service 
+## **Community health**
 
-There are a number of health NGOs in India that have a community health service program. NGOs provide
-In these programs the health workers (usually picked from the community itself) are trained to provide variety of services that are categorised as community health. From the health architecture
+There are three health related challenge faced by people living in rural villages:
+
+1. physical access to health services
+2. money to access these services
+3. knowledge of when and how to do so
+
+(if we think about urban slums, the first one is mitigated to great extent but other two are not). The idea of community health is to tackle all three (or two) of these - to the extent possible. Many health NGOs in India do this - under what is broadly understood as community health service.
+
+
+
+## **Community health service**
+
+In both rural and urban context, NGOs at the core achieve this as follows:
+
+1. Employ* community health workers (CHWs) - who are then assigned a few villages/slums. These CHWs are trained for health work like - checking BP/weight/temperature/etc; explaining how to prescribed drugs; counselling people; identifying common risks based on symptoms; basic architecture of the health system; so on.
+2. CHWs perform activities like - screening for common diseases, referring people to health system, following up after doctor's visit, home visit for basic checkup, etc.
+3. Have program coordinators who support and supervise the CHWs by monitoring their work.
+4. (often) In rural setup run a community hospital by themselves. In urban context this is usually not necessary given the transportation to clinics, hospitals is not an issue.
+
+By bringing many simple health services closer to the people, they make the health system **accessible** (1) and CHWs bridge the **knowledge gap** (3). These services are provided at affordable prices (3) by the NGO. In urban setup 
+
+NGOs run multiple health programs simultaneously via the CHWs based on age, gender and health conditions.
+
+
+
+## **Avni helping in improving the quality of service**
+
+Avni
