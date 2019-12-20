@@ -42,7 +42,6 @@ NGOs run multiple health programs simultaneously via the CHWs based on age, gend
 
 The work performed by CHWs in the field, even though not highly technical, is quite complex. The intersection of three factors contribute to the complexity.
 
-
 ![CHW Work Complexity](/img/chw-work-complexity.png "CHW Work Complexity")
 
 * Avni allows the CHW to manage all the health records via a mobile application, while being in the field.
