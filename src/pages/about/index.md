@@ -14,6 +14,7 @@ title: About the Project
 * [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
 * [CI Server and Binary Download](https://circleci.com/gh/avniproject) (requires login)
 * [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
+* [Product Slide Deck](https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0)
 
 # Credits
 * [Lokalise, translation service](https://lokalise.com/)

@@ -51,7 +51,8 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Centralised database"
-                                description="Monitor, analyse, generate reports, download data extracts"
+                                description="Monitor, analyse, generate reports, download data extracts, "
+                                htmlSnippets="<a href='https://www.youtube.com/watch?v=HsvQDG9dgyM' target='_blank'>longitudinal exports</a>"
                             />
                         </VerticalTileGroup>
                         <VerticalTileGroup>

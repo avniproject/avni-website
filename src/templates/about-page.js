@@ -23,16 +23,16 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
       </div>
     </section>
   )
-}
+};
 
 AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
-}
+};
 
 const AboutPage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -43,13 +43,13 @@ const AboutPage = ({ data }) => {
       />
     </Layout>
   )
-}
+};
 
 AboutPage.propTypes = {
   data: PropTypes.object.isRequired,
-}
+};
 
-export default AboutPage
+export default AboutPage;
 
 export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
@@ -60,4 +60,4 @@ export const aboutPageQuery = graphql`
       }
     }
   }
-`
+`;
