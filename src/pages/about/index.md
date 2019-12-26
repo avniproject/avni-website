@@ -10,14 +10,12 @@ title: About the Project
 
 # Avni Software
 
-* [Source code](https://github.com/avniproject)
-* [Chat channel for developers](https://gitter.im/OpenCHS/openchs)
-* [CI Server and Binary Download](https://circleci.com/gh/avniproject) (requires login)
+* [Source code (https://github.com/avniproject)](https://github.com/avniproject)
+* [Chat channel for developers (https://gitter.im/OpenCHS/openchs)](https://gitter.im/OpenCHS/openchs)
+* [CI Server and Binary Download (https://circleci.com/gh/avniproject)](https://circleci.com/gh/avniproject) - requires login
 * [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
 * [Product Slide Deck](https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0)
+* [Email group (avni-project@googlegroups.com)](mailto:avni-project@googlegroups.com)
 
 # Credits
 * [Lokalise, translation service](https://lokalise.com/)
-
-# Contact Us
-* Please send us an email at [avni-project@googlegroups.com](mailto:avni-project@googlegroups.com)
