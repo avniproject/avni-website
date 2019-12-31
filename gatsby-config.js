@@ -2,6 +2,7 @@ var proxy = require('http-proxy-middleware');
 
 module.exports = {
     siteMetadata: {
+        siteUrl: 'https://avniproject.org',
         title: 'Avni Field Service and Data Collection Platform',
         description:
             'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support'
@@ -34,6 +35,7 @@ module.exports = {
             },
         },
         'gatsby-plugin-react-helmet',
+        'gatsby-plugin-sitemap',
         'gatsby-plugin-sass',
         {
             // keep as first gatsby-source-filesystem plugin for gatsby image support
