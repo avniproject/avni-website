@@ -16,6 +16,7 @@ title: About the Project
 * [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
 * [Product Slide Deck](https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0)
 * [Email group (avni-project@googlegroups.com)](mailto:avni-project@googlegroups.com)
+* [Code of conduct](https://avni.readme.io/v2.0/docs/avni-code-of-conduct)
 
 # Credits
 * [Lokalise, translation service](https://lokalise.com/)
