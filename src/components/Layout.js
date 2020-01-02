@@ -18,7 +18,7 @@ const TemplateWrapper = ({hero, children}) => {
                 <link
                     rel="apple-touch-icon"
                     sizes="180x180"
-                    href={`${withPrefix("/")}img/apple-touch-icon.png`}
+                    href={`${withPrefix("/")}img/avni-logo-wo-name.png`}
                 />
                 <link
                     rel="icon"
@@ -35,15 +35,15 @@ const TemplateWrapper = ({hero, children}) => {
 
                 <link
                     rel="mask-icon"
-                    href={`${withPrefix("/")}img/safari-pinned-tab.svg`}
+                    href={`${withPrefix("/")}img/avni-logo-wo-name.png`}
                     color="#ff4400"
                 />
                 <meta name="theme-color" content="#fff"/>
 
-                <meta property="og:type" content="business.business"/>
+                <meta property="og:type" content="SoftwareApplication"/>
                 <meta property="og:title" content={title}/>
                 <meta property="og:url" content="/"/>
-                <meta property="og:image" content={`${withPrefix("/")}img/og-image.jpg`}/>
+                <meta property="og:image" content={`${withPrefix("/")}img/avni-logo-wo-name.png`}/>
             </Helmet>
             {hero ? hero : <Navbar/>}
             <>{children}</>
