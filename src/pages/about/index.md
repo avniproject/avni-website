@@ -15,7 +15,8 @@ title: About the Project
 * [CI Server and Binary Download (https://circleci.com/gh/avniproject)](https://circleci.com/gh/avniproject) - requires login
 * [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
 * [Product Slide Deck](https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0)
-* [Email group (avni-project@googlegroups.com)](mailto:avni-project@googlegroups.com)
+* Contact Avni - [avni-project@googlegroups.com](mailto:avni-project@googlegroups.com)
+* Join Avni Google Group by visiting (requires Gmail account) - [https://groups.google.com/forum/#!forum/avni-project](https://groups.google.com/forum/#!forum/avni-project)
 * [Code of conduct](https://avni.readme.io/v2.0/docs/avni-code-of-conduct)
 
 # Credits
