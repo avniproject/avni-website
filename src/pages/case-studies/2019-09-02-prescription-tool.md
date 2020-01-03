@@ -33,7 +33,7 @@ While many data collection products allow for forms with user-defined fields, sk
 
 This was the first use-case of Avni (then called OpenCHS). Avni provided a simple mobile form which on completion did 2 & 3 based on rules configured for this implementation. On every interaction with the patient, the CHW would fill one form with 8–10 questions (there were other form questions like BP, Temperature, Pallor, Pedal Edema, Skin Condition, etc for later analysis).
 
-This field app has been in use for the last three years now, by 6 health workers covering 30 villages of a total of 15,000 population. The health workers have almost no connectivity in the field. They travel to LBP once a month, for monthly discussions and at this point, they sync the data with the server. At the time of writing, this is the only implementation of Avni that runs on the server on-premise. We made that decision because the Internet connectivity even from the hospital is not reliable.
+This field app has been in use for the last three years now, by 6 health workers covering 30 villages of a total of 15,000 population. The health workers have almost no connectivity in the field. They travel to LBP once a month, for monthly discussions and at this point, they sync the data with the server. (This is an extremely low resource setup where in the villages the Internet has not reached, in most villages in India now, the Internet is of low quality but present. In such cases the data can be synchronised regularly.) At the time of writing, this is the only implementation of Avni that runs on the server on-premise. We made that decision because the Internet connectivity even from the hospital is not reliable.
 
 ![](/img/lbp-case-study-1-.png "Deployment of Avni at Lok Biradari Prakalp")
 
