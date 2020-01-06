@@ -11,6 +11,7 @@ import imgSkipLogic from "../../img/SkipLogic.gif";
 import imgCalculatedField from "../../img/CalculatedField.gif";
 import imgChildImmunisation from "../../img/child-immunisation.png";
 import imgChildGrowthChart from "../../img/child-growth-chart.png";
+import myDashboard from "../../img/my-dashboard.gif";
 
 export default function Index() {
     return (
@@ -73,7 +74,8 @@ export default function Index() {
                                 description="Automated visit scheduling, with manual control. Dashboard to manage all your work"
                                 images={[
                                     {src: encounterScheduling1, altText: "Scheduling encounter in future"},
-                                    {src: encounterScheduling2, altText: "View scheduled encounters"}
+                                    {src: encounterScheduling2, altText: "View scheduled encounters"},
+                                    {src: myDashboard, altText: "My dashboard"}
                                 ]}
                             />
                         </VerticalTileGroup>
