@@ -11,14 +11,14 @@ title: About the Project
 # Avni Software
 
 * <a href="https://github.com/avniproject" target="_blank">Source code (https://github.com/avniproject)</a>
-* [Chat channel for developers (https://gitter.im/OpenCHS/openchs)](https://gitter.im/OpenCHS/openchs)
-* [CI Server and Binary Download (https://circleci.com/gh/avniproject)](https://circleci.com/gh/avniproject) - requires login
-* [Playstore App](https://play.google.com/store/apps/details?id=com.openchsclient)
-* [Product Slide Deck](https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0)
+* <a href="https://gitter.im/OpenCHS/openchs" target="_blank">Chat channel for developers (https://gitter.im/OpenCHS/openchs)</a>
+* <a href="https://circleci.com/gh/avniproject" target="_blank">CI Server and Binary Download (https://circleci.com/gh/avniproject)</a>- requires login
+* <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">Playstore App</a>
+* <a href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0" target="_blank">Product Slide Deck</a>
 * Contact Avni - <mailto:avni-project@googlegroups.com>
 * Join Avni Google Group by visiting (requires Gmail account) - <https://groups.google.com/forum/#!forum/avni-project>
-* [Code of conduct](https://avni.readme.io/v2.0/docs/avni-code-of-conduct)
+* <a href="https://avni.readme.io/v2.0/docs/avni-code-of-conduct" target="_blank">Code of conduct</a>
 
 # Credits
 
-* [Lokalise, translation service](https://lokalise.com/)
+* <a href="https://lokalise.com/" target="_blank">Lokalise, translation service</a>
