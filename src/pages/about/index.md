@@ -18,6 +18,7 @@ title: About the Project
 * Contact Avni - <mailto:avni-project@googlegroups.com>
 * Join Avni Google Group by visiting (requires Gmail account) - <https://groups.google.com/forum/#!forum/avni-project>
 * <a href="https://avni.readme.io/v2.0/docs/avni-code-of-conduct" target="_blank">Code of conduct</a>
+* <a href="https://twitter.com/avniproject" target="_blank">Avni on Twitter</a>
 
 # Credits
 
