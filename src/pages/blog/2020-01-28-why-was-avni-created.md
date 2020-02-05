@@ -11,18 +11,16 @@ featuredimage: /img/jss-sickle-sample-collection.jpeg
 tags:
   - Generic
 ---
-Avni caters to field work across sectors and organisations. This is because there are a lot of similarities in the field work across sectors. Avni provides for all the similarities in the platform and provides tools to make the organisation specific things easier to implement. In other words is a generic software product that is configurable. So, how does Avni compare to other custom software solutions in use? To answer this, we must understand the broader picture of "software for social sector".
+Avni caters to field work across sectors and organisations. This is because there are a lot of similarities in the field work across sectors. Avni provides for all the similarities in the platform and provides tools to make the organisation specific things easier to implement. In other words is a generic software product that is configurable. So, how does Avni compare to other custom software solutions in use? To answer this, I must explain the broader picture of "software for social sector" - using Avni kind of use cases as example.
 
 Lets breakup the potential customers of Avni (and adjacent products) into four segments.
 
-1. Low in complexity; their need are shared with a large number of other organisations
-2. High in complexity; need not similar to other customers
-3. Everything in between 1 & 2 - in complexity and similarity
-4. Large government projects (we will not discuss this one)
+1. The customer needs are similar to many other organisations and is simple to set up and use. The setup can be done in-house or by someone who is easily available. Essentially the use case has been largely democratised.
+2. The customer needs do have commonalities with others, but there are a some things which are specific to them as well.
 
-The first segment is well served by tools like ODK, KoboCollect, etc and they are also nearly free. In second segment the approach is usually to find a software service provider and develop custom solution. We will discuss this one in more detail later. The segment 3 needs were not satisfied because the tools like ODK do not meet their needs and the budgets and customer capacity are insufficient to develop a custom software. Avni neatly fits here because it lowers the cost and provides the features needed. Most of the Avni's current implementations fall here.
+The first segment is well served by tools like ODK, KoboCollect, etc and they are also nearly free. In second segment the approach is usually to find a software service provider and develop custom solution if the organisation has the budget for it. If they do not have budget, they have suboptimal options available to them. Avni tries to solve this problem by creating a generic product which requires configuration and some amount of learning - but reduces the cost to a range where it is affordable if you can hire someone to configure it for you. To explain this point we can look at examples having web presence for your company. One can either use Facebook/LinkedIn page (1) or develop one's own website (2). Avni here would be like Squarespace - it gives you more power than 1 and keeps your development cost down too. Avni keeps your hosting cost low too unlike SquareSpace :-) - but that is not part of analogy here.
 
-The tradeoffs involved in segment 2 are less well understood. When one compares a generic product like Avni with what is possible via a custom solution a few factors are missed out. What is obvious in custom solution is the following:
+Let now turn our attention whether segment 2 should choose Avni or not. In our experience, the tradeoffs involved here are less well understood. When one compares a generic product like Avni with what is possible via a custom solution a few factors are understood well:
 
 1. The organisation gets full control of all the features now and in future.
 2. Since it is being built ground up it will be expensive to do so, but that is price of getting 1.
