@@ -4,8 +4,9 @@ title: Case for generic open source products in social sector
 date: 2020-01-28T11:39:26.313Z
 description: >-
   Generic open-source products bring a number of advantages to their customer
-  than is immediately obvious, especially for the social sector. Here we make a
-  case in favour of generic products.
+  than is obvious, more so in the social sector. Here we explain the factors
+  which are not obvious and why one must pay attention to them when deciding
+  between build or buy.
 featuredpost: false
 featuredimage: /img/jss-sickle-sample-collection.jpeg
 tags:
