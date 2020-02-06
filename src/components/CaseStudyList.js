@@ -41,7 +41,7 @@ class CaseStudyList extends React.Component {
                                   >
                                       {post.frontmatter.title}
                                   </Link>
-                                  <span> &bull; </span>
+                                  <br/>
                                   <span className="subtitle is-size-5">
                       {post.frontmatter.date}
                     </span>
