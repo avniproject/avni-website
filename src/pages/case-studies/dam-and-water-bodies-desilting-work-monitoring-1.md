@@ -11,7 +11,7 @@ tags:
   - Monitoring
   - Government
 ---
-Sedimentation is a problems faced by dams and water catchments, where by the flowing sediments settle to the bottom of the dam because of stoppage of water flow. This impacts the dams negatively. On the other hand the silt present in these sediments, are quite useful to improve fertility of the farm land. This presents an opportunity for creating a win-win situation.
+Sedimentation is a problem faced by dams and water catchments, whereby the flowing sediments settle to the bottom of the dam because of stoppage of water flow. This impacts the dams negatively. On the other hand, the silt present in these sediments, are quite useful to improve the fertility of the farmland. This presents an opportunity for creating a win-win situation.
 
 Maharashtra state has thousands of small to large dams. Maharashtra government initiated the implementation of <a href="https://www.thehindubusinessline.com/news/national/maharashtra-to-desilt-dams-water-bodies/article9691614.ece" target="_blank">its policy decision on desilting of dams and water bodies</a>. This implementation is happening in partnership with the NGOs. The idea was that farmers will bring their tractors and collect the free silt extracted.
 
@@ -33,8 +33,8 @@ The data collection involved registering each dam/water-body and then collecting
 
 **Using Avni field app from the field**
 
-Apart from the common data collection facilities, there are certain specific features of Avni that helped in monitoring of the groundwork. The user was expected to provide their location when they are filling the data to ensure that they were at the site of work. Also, the users could record a video or take photos of the desilting work. Avni makes is possible to do all of these along with regular data collection work completely offline. Internet connectivity is only required when one wants to submit the data.
+Apart from the common data collection facilities, there are certain specific features of Avni that helped in the monitoring of the groundwork. The user was expected to provide their location when they are filling the data to ensure that they were at the site of work. Also, the users could record a video or take photos of the desilting work. Avni makes is possible to do all of these along with regular data collection work completely offline. Internet connectivity is only required when one wants to submit the data.
 
 **Flexible user-defined data model**
 
-Unlike many implementations of Avni, the subject of data collected was not a human being (i.e. beneficiary, child, mother, patient etc), rather it is a non-living object - a dam. Avni supports such use cases in the same way. It is important to mention here, that Avni considers everything as subject and supports multiple of them - within the same implementation. For example - Avni can support a village health program that requires managing data of villagers (beneficiaries), self-help groups and water wells.
+Unlike most other implementations of Avni, the subject of data collected was not a human being (i.e. beneficiary, child, mother, patient etc), rather it is a non-living object - a dam. Avni supports such use cases in the same way. It is important to mention here, that Avni considers everything as subject and supports multiple of them - within the same implementation. For example - Avni can support a village health program that requires managing data of villagers (beneficiaries), self-help groups and water wells.
