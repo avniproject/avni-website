@@ -11,11 +11,11 @@ tags:
   - Monitoring
   - Government
 ---
-Maharashtra government has initiated the implementation of <a href="https://www.thehindubusinessline.com/news/national/maharashtra-to-desilt-dams-water-bodies/article9691614.ece" target="_blank">its policy decision on desilting of dams and water bodies</a>. The implementation is happening in partnership with the NGOs. In 2018–19, in order to monitor the process and progress of the desilting and distribution of silt - the project required a field-based data collection and a monitoring system.
+Sedimentation is a problems faced by dams and water catchments, where by the flowing sediments settle to the bottom of the dam because of stoppage of water flow. This impacts the dams negatively. On the other hand the silt present in these sediments, are quite useful to improve fertility of the farm land.
+
+Maharashtra state has thousands of small to large dams. Maharashtra government initiated the implementation of <a href="https://www.thehindubusinessline.com/news/national/maharashtra-to-desilt-dams-water-bodies/article9691614.ece" target="_blank">its policy decision on desilting of dams and water bodies</a>. This implementation is happening in partnership with the NGOs. Give the large distributed scale of the activity, monitoring of work is difficult without technology. In order to monitor the process and progress of the desilting and distribution of silt - the project a field-based data collection and a monitoring system was conceptualised. Avni because of its flexible data model and robust offline support, was chosen as the tool for collecting data from across the state from the site of work.
 
 The model for data collection involved registering each dam/water-body and then collecting various types of information like - baseline, work details of vehicle's used, issues faced, the beneficiary details and end-line. This data is collected in the field during the complete process of desilting and distribution of silt. The collected data allowed for monitoring based on gaps in reporting and anomalies in data. The monitoring team could contact the ground team to understand the reasons.
-
-
 
 `youtube: uwwyzrOHOwI`
 
