@@ -4,7 +4,7 @@ title: Dam and water bodies desilting work monitoring
 date: 2019-11-06T07:24:26.445Z
 description: >-
   In Maharashtra, desilting work happens in the field in multiple places before
-  monsoon. Avni was used to help in monitoring this work's progress and
+  the monsoon. Avni was used to help in monitoring this work's progress and
   completion.
 tags:
   - Water
