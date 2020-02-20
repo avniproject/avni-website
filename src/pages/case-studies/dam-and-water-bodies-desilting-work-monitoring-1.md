@@ -1,7 +1,7 @@
 ---
 templateKey: case-study
 title: Dam and water bodies desilting work monitoring
-date: 2019-11-06T07:24:26.445Z
+date: 2020-02-20T07:24:00.000Z
 description: >-
   Sedimentation is a problem faced by dams and water catchments, whereby the
   flowing sediments settle to the bottom of the dam because of stoppage of water
