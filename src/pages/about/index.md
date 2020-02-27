@@ -6,7 +6,7 @@ title: About the Project
 
 # Team
 
-**avni** is developed by a team experienced in applying technology in the public and health from [Samanvay Research & Development Foundation](https://samanvayfoundation.org) and development efforts are funded by [Social Alpha](https://www.socialalpha.org/) and [Project Tech4Dev (Chintu Gudiya Foundation)](https://chintugudiya.org/tech4dev/). Recently [Soft Corner](http://www.soft-corner.com/) has also joined the product development efforts with Samanvay.
+**avni** is developed by a team experienced in applying technology in the public and health from <a href="https://samanvayfoundation.org" target="_blank">Samanvay Foundation</a> and development efforts are funded by <a href="https://www.socialalpha.org/" target="_blank">Social Alpha</a> and <a href="https://chintugudiya.org/tech4dev/" target="_blank">Project Tech4Dev (Chintu Gudiya Foundation)</a>. Recently <a href="http://www.soft-corner.com/" target="_blank">Soft Corner</a> and <a href="https://www.persistent.com/" target="_blank">Persistent Systems</a> has also joined the product development efforts with Samanvay.
 
 # Avni Software
 
