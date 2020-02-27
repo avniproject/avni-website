@@ -19,8 +19,9 @@ export default function Index() {
                 <div className="container">
                     <div className="content">
                         <h1>Getting Started</h1>
-                        <p>If you want Avni implemented for your organisation and looking for someone to help you implement it please contact us at <a
-                            href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a> but if you understand software development this page is for you.
+                        <p>If you want Avni implemented for your organisation and if you are a novice user, please contact us at <a
+                            href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a>. If you understand software development process this page is for
+                            you.
                         </p>
                         <section className="section">
                             <div className="columns">
@@ -50,7 +51,7 @@ export default function Index() {
             </section>
             <section className="section">
                 <div className="container">
-                    <h2 className="title">Steps to get setup</h2>
+                    <h2 className="title">5 Steps to set up Avni</h2>
                     <hr/>
                     <div className="columns">
                         <div className="column is-one-third vertically-centered">
@@ -59,7 +60,7 @@ export default function Index() {
                                     <h4 className="has-text-grey-light">Step 1</h4>
                                 </div>
                                 <div className="column content">
-                                    <h4>Setup the infrastructure</h4>
+                                    <h4>Set up the infrastructure</h4>
                                 </div>
                             </div>
                         </div>
@@ -81,10 +82,8 @@ export default function Index() {
                                 <div className="column">
                                     <div className="box content">
                                         <h5>On your own server</h5>
-                                        <p>Avni has been deployed on-premises also. The documentation is unfortunately not upto the mark yet, but we are <a
-                                            href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
-                                            target="_blank">working on
-                                            it</a>.</p>
+                                        <p>You can deploy Avni yourself. The documentation is <a href="https://avni.readme.io/docs/environment-setup-guides"
+                                                                                                 target="_blank">here</a>. If you need help you can contact us via <a href="/about">Email, Gitter</a> or this website.</p>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +97,7 @@ export default function Index() {
                                     <h4 className="has-text-grey-light">Step 2</h4>
                                 </div>
                                 <div className="column content">
-                                    <h4>Configure your application on the platform, from the web browser</h4>
+                                    <h4>Configure your application</h4>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +126,7 @@ export default function Index() {
                                     <h4 className="has-text-grey-light">Step 3</h4>
                                 </div>
                                 <div className="column content">
-                                    <h4>Setup users and translations for them</h4>
+                                    <h4>Set up users and translations for them</h4>
                                 </div>
                             </div>
                         </div>

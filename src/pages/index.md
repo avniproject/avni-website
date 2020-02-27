@@ -24,7 +24,7 @@ features:
     - title: 'Offline'
       image: ''
       text: >
-        All features available even without Internet
+        All features available even without the Internet
     - title: 'Centralised database'
       image: ''
       text: >-

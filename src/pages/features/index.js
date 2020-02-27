@@ -27,7 +27,7 @@ export default function Index() {
                             <a href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
                                target="_blank"
                                rel="noopener noreferrer"
-                            >Road map (for upcoming features)</a>
+                            >Roadmap for upcoming features</a>
                         </div>
                     </div>
                 </div>
@@ -66,12 +66,12 @@ export default function Index() {
                                 ]}
                             />
                             <FeatureTile
-                                title="Flexible search, Identity management"
-                                description="Search by in-built, custom parameters. System generated identifiers"
+                                title="Customisable search. System generated identifiers."
+                                description=""
                             />
                             <FeatureTile
                                 title="Work schedule management"
-                                description="Automated visit scheduling, with manual control. Dashboard to manage all your work"
+                                description="Automated visit scheduling with manual control. Dashboard to manage all your work"
                                 images={[
                                     {src: encounterScheduling1, altText: "Scheduling encounter in future"},
                                     {src: encounterScheduling2, altText: "View scheduled encounters"},
@@ -86,11 +86,11 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Offline"
-                                description="All features available even without Internet"
+                                description="All features available even without the Internet"
                             />
                             <FeatureTile
-                                title="Multi lingual"
-                                description="In the language of user's preference"
+                                title="Multiple language support"
+                                description="Multiple languages per implementation. Translations management system."
                             />
                             <FeatureTile
                                 title="Secure data"
@@ -118,8 +118,8 @@ export default function Index() {
                         <div className="tile is-ancestor">
                             <VerticalTileGroup>
                                 <FeatureTile
-                                    title="WHO Growth Charts"
-                                    description="Child growth charts as per WHO standard"
+                                    title="Child growth charts as per WHO standard"
+                                    description=""
                                     images={[
                                         {src: imgChildGrowthChart, altText: "Child growth charts"}
                                     ]}

@@ -9,8 +9,7 @@ export default function Tile({title, description, detailsLabel, detailsLink, ima
                 <p className="subtitle"><b>{title}</b></p>
                 <p>
                     {description ||
-                    `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing.`
+                    ``
                     }
                     {<span dangerouslySetInnerHTML={{__html: htmlSnippets}}></span>}
                 </p>
