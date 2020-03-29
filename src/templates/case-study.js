@@ -28,7 +28,6 @@ export const CaseStudyTemplate = ({
                             {title}
                         </h2>
                         <p className="has-text-grey">Last updated on: <b>{date}</b></p>
-                        <p>{description}</p>
                         <PostContent content={content}/>
                         {tags && tags.length ? (
                             <div style={{marginTop: `4rem`}}>
