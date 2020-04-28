@@ -203,14 +203,7 @@ export default function Index() {
                     <h2 className="title">Get in touch</h2>
                     <hr/>
                     <div className="content">
-                        <p>
-                            For any questions you may have, please feel free to
-                            contact us at&nbsp;
-                            <a href="mailto:avni-project@googlegroups.com">
-                                avni-project@googlegroups.com
-                            </a>&nbsp;
-                            and we'll be happy to help you get setup.
-                        </p>
+                        <p>For any questions you may have, please feel free to <a href="/about">contact us</a> and we'll be happy to help you get setup.</p>
                     </div>
                 </div>
             </section>
