@@ -16,6 +16,7 @@ import imgSkipLogic from "../../img/SkipLogic.gif";
 import imgCalculatedField from "../../img/CalculatedField.gif";
 import imgChildImmunisation from "../../img/child-immunisation.png";
 import imgChildGrowthChart from "../../img/child-growth-chart.png";
+import accessControl from "../../img/access-control.png";
 import myDashboard from "../../img/my-dashboard.gif";
 import household from "../../img/household.png";
 import longitudinalExport from "../../img/longitudinal-export.png";
@@ -109,6 +110,13 @@ export default function Index() {
                                 ]}
                             />
                             <FeatureTile
+                                title="Data security and access control"
+                                description="Detailed access control. OTP support."
+                                images={[
+                                    {src: accessControl, altText: "Access control setup"}
+                                ]}
+                            />
+                            <FeatureTile
                                 title="Algorithmic decision support"
                                 description="Add your own algorithms to assist the field workers"
                             />
@@ -119,10 +127,6 @@ export default function Index() {
                             <FeatureTile
                                 title="Multiple language support"
                                 description="Multiple languages per implementation. Translations management system."
-                            />
-                            <FeatureTile
-                                title="Secure data"
-                                description="Field app with login, password and OTP. Hosted in secured cloud environment."
                             />
                             <FeatureTile
                                 title="Leverage other's programs"
