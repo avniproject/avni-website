@@ -39,8 +39,8 @@ export default function Index() {
                                             <Tile title="Browser app - for system administration"/>
                                         </VerticalTileGroup>
                                         <VerticalTileGroup>
-                                            <Tile title="Reporting and dashboard server - for program management"/>
-                                            <Tile title="Translation management application"/>
+                                            <Tile title="Browser app - for data entry user"/>
+                                            <Tile title="Reporting and dashboard - for program management"/>
                                         </VerticalTileGroup>
                                     </div>
                                 </div>
@@ -72,8 +72,8 @@ export default function Index() {
                                         <p>
                                             Easiest way to get started. No need to
                                             setup servers and manage uptime - all the heavy lifting
-                                            is taken care of for you. We are trying to make this experience self-serviceable (i.e. start without contacting Avni open
-                                            source project team). But for now to get started please contact Avni team at <b>avni-project@googlegroups.com</b> to provision
+                                            is taken care of for you. Avni is available as self-serviceable service (i.e. setup everything yourself). But for now to get
+                                            started please contact Avni team at <b>avni-project@googlegroups.com</b> to provision
                                             your
                                             implementation on the cloud instance. After provision you can do a most of implementation work on your own.
                                         </p>
@@ -83,7 +83,8 @@ export default function Index() {
                                     <div className="box content">
                                         <h5>On your own server</h5>
                                         <p>You can deploy Avni yourself. The documentation is <a href="https://avni.readme.io/docs/environment-setup-guides"
-                                                                                                 target="_blank">here</a>. If you need help you can contact us via <a href="/about">Email, Gitter</a> or this website.</p>
+                                                                                                 target="_blank">here</a>. If you need help you can contact us via <a
+                                            href="/about">Email, Gitter</a> or this website.</p>
                                     </div>
                                 </div>
                             </div>

@@ -26,7 +26,7 @@ export default function ModalImage({
                 src={src}
                 alt={altText}
                 style={{
-                    maxWidth: modalImageWidth || '480px',
+                    maxWidth: modalImageWidth || '800px',
                     maxHeight: modalImageMaxHeight || "96vh"
                 }}
             />
