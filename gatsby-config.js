@@ -104,6 +104,13 @@ module.exports = {
             },
         },
         {
+            resolve: `gatsby-plugin-freshchat`,
+            options: {
+                token: "774f28b3-1a88-426b-a3f8-42308714f820",
+                host: "https://wchat.in.freshchat.com"
+            },
+        },
+        {
             resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
             options: {
                 develop: true, // Activates purging in npm run develop
