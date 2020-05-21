@@ -67,8 +67,7 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered" />
-            <div className="navbar-end has-text-centered">
+            <div className="navbar-start has-text-centered">
               <Location>
                 {
                   ({ location }) => {
@@ -121,6 +120,10 @@ const Navbar = class extends React.Component {
                     className="navbar-item has-text-weight-bold is-uppercase">
                 Blog
               </Link>
+            </div>
+            <div className="navbar-end has-text-centered" style={{alignItems: 'center', justifyContent: 'center'}}>
+                          <button class="button is-medium call-to-action">Login</button>
+              <button class="call-to-action is-medium">Try it free</button>
             </div>
           </div>
         </div>
