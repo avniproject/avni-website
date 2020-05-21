@@ -12,7 +12,9 @@ import ContactUs from "../components/ContactUs";
 export const IndexPageTemplate = ({
                                       features,
                                   }) => (
+
     <div>
+
         <section style={{borderBottom: '1px solid #CCCCCC', borderTop: '1px solid #CCCCCC'}}>
             <div className="container">
                 <div className="section">
