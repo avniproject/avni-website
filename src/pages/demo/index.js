@@ -81,9 +81,17 @@ export default function Index() {
                             <h3>Demo login</h3>
                             <hr/>
                             <h5>Track and support adolescents under risk</h5>
-                            {userDetails("adol-demo", "adol-demo-admin")}
+                            <p>
+                                User=adol-demo
+                                <br/>
+                                Password=password
+                            </p>
                             <h5>Child growth monitoring</h5>
-                            {userDetails("phulwari-demo", "admin@phulwari_demo")}
+                            <p>
+                                User=phulwari-demo
+                                <br/>
+                                Password=password
+                            </p>
                             <h5>Data reporting of dam de-silting work</h5>
                             <p>
                                 User=ddm-demo
