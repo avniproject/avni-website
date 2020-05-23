@@ -5,7 +5,7 @@ import React from 'react'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-grey-lighter has-text-black">
+      <footer className="footer has-text-black">
         {/*
         <div className="content has-text-centered has-background-grey-lighter has-text-black">
           <div className="container has-background-grey-lighter has-text-black">

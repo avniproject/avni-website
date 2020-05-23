@@ -121,9 +121,17 @@ const Navbar = class extends React.Component {
                 Blog
               </Link>
             </div>
-            <div className="navbar-end has-text-centered" style={{alignItems: 'center', justifyContent: 'center'}}>
-                          <button class="button is-medium call-to-action">Login</button>
-              <button class="call-to-action is-medium">Try it free</button>
+            <div className="navbar-end has-text-centered">
+              <div className="navbar-item">
+              <div className="field is-grouped is-grouped-multiline">
+                <p className="control">
+                  <a href="https://app.avniproject.org" className="button">Login</a>
+                </p>
+                <p className="control">
+                  <button className="is-primary button">Try for free</button>
+                </p>
+              </div>
+              </div>
             </div>
           </div>
         </div>

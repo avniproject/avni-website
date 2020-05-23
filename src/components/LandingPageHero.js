@@ -11,7 +11,7 @@ import yenepoya_logo from '../img/yenepoya.png'
 export default function LandingPageHero() {
     return (
         <div>
-            <section className="hero has-background-grey-lighter is-fullheight">
+            <section className="hero is-fullheight">
                 <div className="hero-head">
                     <Navbar/>
                 </div>
