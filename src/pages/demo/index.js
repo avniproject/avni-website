@@ -24,13 +24,13 @@ export default function Index() {
                             <p>
                                 On your Android device, go to <b>Play Store</b>&nbsp;
                                 <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">[link]</a>,
-                                &nbsp;search for OpenCHS or Avni, and <b>install</b> the field app.
+                                &nbsp;search for Avni, and <b>install</b> the field app.
                             </p>
 
                             <h3>System administration app</h3>
                             <p>
                                 For administration app in your browser go to <a
-                                href="https://server.openchs.org" target="_blank">https://server.openchs.org</a>.</p>
+                                href="https://app.avniproject.org" target="_blank">https://app.avniproject.org</a>.</p>
 
                             <h3>Reporting and dashboard capability</h3>
                             <p>
@@ -48,14 +48,6 @@ export default function Index() {
                             <p>See below the logins that you can use in the app. These demos are inspired from real
                                 implementations of Avni, created to demonstrate flexibility and most features of the platform.</p>
 
-                            <small>
-                                <i>
-                                    <b>Note</b>: After trying one demo if you want to try a different demo login,
-                                    then you would need to uninstall the app and install it again. We <a
-                                    href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
-                                    target="_blank">will be releasing</a> reporting platform logins for demo too.
-                                </i>
-                            </small>
                         </div>
                     </div>
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
