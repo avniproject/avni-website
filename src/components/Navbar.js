@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/avni-logo.png'
+import logo from '../img/avni-logo-color.png'
 import { Location } from '@reach/router'
 
 
@@ -128,7 +128,7 @@ const Navbar = class extends React.Component {
                   <a href="https://app.avniproject.org" className="button">Login</a>
                 </p>
                 <p className="control">
-                  <button className="is-primary button">Try for free</button>
+                  <a href="/signup" className="is-primary button">Try for free</a>
                 </p>
               </div>
               </div>
