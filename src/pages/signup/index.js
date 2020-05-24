@@ -35,7 +35,7 @@ export default class SignupIndexPage extends React.Component {
                                     </div>
                                 </div>
                                 <div className="field">
-                                    <label className="label">Organisation Name</label>
+                                    <label className="label">Organisation</label>
                                     <div className="control">
                                         <input name="organisationName" className="input" type="text"
                                                placeholder="Your organisation and project name" required/>
