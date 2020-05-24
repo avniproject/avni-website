@@ -68,18 +68,6 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Location>
-                {
-                  ({ location }) => {
-                    if (location.pathname !== '/')
-                    return (
-                      <Link to="/" className="navbar-item has-text-weight-bold is-uppercase">
-                        Home
-                      </Link>
-                    )
-                  }
-                }
-              </Location>
               <Link to="/features"
                     activeClassName="active-nav-item"
                     className="navbar-item has-text-weight-bold is-uppercase">
