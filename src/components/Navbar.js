@@ -4,7 +4,7 @@ import logo from '../img/avni-logo-color.png'
 import { Location } from '@reach/router'
 
 
-const Navbar = class extends React.Component {
+export default class Navbar extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -63,69 +63,77 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
-              <Link to="/features"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Features
-              </Link>
-              <Link to="/use-cases"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Use Cases
-              </Link>
-              <Link to="/case-studies"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Case Studies
-              </Link>
-              <Link to="/demo"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Demo
-              </Link>
-              <Link to="/getting-started"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Get Started
-              </Link>
-              <Link to="/faq"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                FAQ
-              </Link>
-              <Link to="/about"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                About
-              </Link>
-              <Link to="/blog"
-                    activeClassName="active-nav-item"
-                    className="navbar-item has-text-weight-bold is-uppercase">
-                Blog
-              </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <div className="navbar-item">
-              <div className="field is-grouped is-grouped-multiline">
-                <p className="control">
-                  <a href="https://app.avniproject.org" className="button">Login</a>
-                </p>
-                <p className="control">
-                  <a href="/signup" className="is-primary button">Try for free</a>
-                </p>
-              </div>
-              </div>
-            </div>
-          </div>
+          <Location>
+              {
+                  ({ location }) => {
+                      if (location.pathname !== '/signup')
+                          return (
+                              <div
+                                  id="navMenu"
+                                  className={`navbar-menu ${this.state.navBarActiveClass}`}
+                              >
+                                <div className="navbar-start has-text-centered">
+                                  <Link to="/features"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    Features
+                                  </Link>
+                                  <Link to="/use-cases"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    Use Cases
+                                  </Link>
+                                  <Link to="/case-studies"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    Case Studies
+                                  </Link>
+                                  <Link to="/demo"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    Demo
+                                  </Link>
+                                  <Link to="/getting-started"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    Get Started
+                                  </Link>
+                                  <Link to="/faq"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    FAQ
+                                  </Link>
+                                  <Link to="/about"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    About
+                                  </Link>
+                                  <Link to="/blog"
+                                        activeClassName="active-nav-item"
+                                        className="navbar-item has-text-weight-bold is-uppercase">
+                                    Blog
+                                  </Link>
+                                </div>
+                                <div className="navbar-end has-text-centered">
+                                  <div className="navbar-item">
+                                    <div className="field is-grouped is-grouped-multiline">
+                                      <p className="control">
+                                        <a href="https://app.avniproject.org" className="button">Login</a>
+                                      </p>
+                                      <p className="control">
+                                        <a href="/signup" className="is-primary button">Try for free</a>
+                                      </p>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+
+                          )
+                  }
+              }
+          </Location>
         </div>
       </nav>
     )
   }
 }
-
-export default Navbar
