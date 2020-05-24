@@ -31,7 +31,7 @@ export default class SignupIndexPage extends React.Component {
                                     <p>Thanks for signing up for Avni! We are super excited to have you on board.</p><br/>
                                     <p>You will receive an email at {email} within one working day.</p></div>
                                 :
-                                <div>
+                                <div style={{padding: 24}}>
                                     <h3 className="title is-3">Try Avni free for 90 days.</h3>
                                     <form onSubmit={this.submitForm} method="post"
                                           action="https://formspree.io/xzbjebyr">
