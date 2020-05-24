@@ -58,7 +58,7 @@ export default class SignupIndexPage extends React.Component {
                                                         <option>Non-profit</option>
                                                         <option>For-profit</option>
                                                         <option>Government</option>
-                                                        <option>Self (not an organisation)</option>
+                                                        <option>Self</option>
                                                         <option>Others</option>
                                                     </select>
                                                 </div>
