@@ -52,8 +52,8 @@ export default class SignupIndexPage extends React.Component {
                                         <div className="field is-grouped">
                                             <div className="control">
                                                 <label className="label">Organisation status</label>
-                                                <div className="select" required>
-                                                    <select>
+                                                <div className="select">
+                                                    <select required>
                                                         <option>Select dropdown</option>
                                                         <option>Non-profit</option>
                                                         <option>For-profit</option>
@@ -67,11 +67,11 @@ export default class SignupIndexPage extends React.Component {
                                                 <label className="label">Country of organisation</label>
                                                 <label className="radio">
                                                     <input type="radio" name="country"/>
-                                                    India
+                                                    <span style={{marginLeft: 8}}>India</span>
                                                 </label>
-                                                <label className="radio">
+                                                <label className="radio" style={{marginLeft: 24}}>
                                                     <input type="radio" name="country"/>
-                                                    Outside India
+                                                    <span style={{marginLeft: 8}}>Outside India</span>
                                                 </label>
                                             </div>
 
