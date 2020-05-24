@@ -118,10 +118,10 @@ export default class Navbar extends React.Component {
                                   <div className="navbar-item">
                                     <div className="field is-grouped is-grouped-multiline">
                                       <p className="control">
-                                        <a href="https://app.avniproject.org" className="button">Login</a>
+                                        <a href="https://app.avniproject.org" className="button">LOGIN</a>
                                       </p>
                                       <p className="control">
-                                        <a href="/signup" className="is-primary button">Try for free</a>
+                                        <a href="/signup" className="is-primary button">TRY FOR FREE</a>
                                       </p>
                                     </div>
                                   </div>
