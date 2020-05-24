@@ -9,12 +9,13 @@ export default class SignupIndexPage extends React.Component {
         this.submitForm = this.submitForm.bind(this);
         this.state = {
             status: "",
-            signeeName: ""
+            signeeName: "",
+            email: ""
         };
     }
 
     render() {
-        const {status, signeeName} = this.state;
+        const { status, signeeName, email } = this.state;
         return (
             <Layout>
                 <div className="container">
@@ -24,10 +25,12 @@ export default class SignupIndexPage extends React.Component {
                         <div className="column"/>
                         <div className="column">
                             {status === "SUCCESS" ?
-                                <div><p>Hey {signeeName},</p><br/><p>Thanks for signing up for Avni! We are super
-                                    excited to have you on board.</p><br/>
-                                    <p>Within next 24 hours expect an email from us with your login credentials.</p>
-                                </div> :
+                                <div>
+                                    <p className="title is-3">Fantastic {signeeName} !!!</p>
+                                    <br/>
+                                    <p>Thanks for signing up for Avni! We are super excited to have you on board.</p><br/>
+                                    <p>You will receive an email at {email} within one working day.</p></div>
+                                :
                                 <div>
                                     <h3 className="title is-3">Try Avni free for 90 days.</h3>
                                     <form onSubmit={this.submitForm} method="post"
@@ -47,7 +50,6 @@ export default class SignupIndexPage extends React.Component {
                                             </div>
                                         </div>
                                         <div className="field is-grouped">
-
                                             <div className="control">
                                                 <label className="label">Organisation status</label>
                                                 <div className="select" required>
@@ -139,9 +141,9 @@ export default class SignupIndexPage extends React.Component {
             if (xhr.readyState !== XMLHttpRequest.DONE) return;
             if (xhr.status === 200) {
                 form.reset();
-                this.setState({status: "SUCCESS", signeeName: data.get('name')});
+                this.setState({status: "SUCCESS", signeeName: data.get('name'), email: data.get('email')});
             } else {
-                this.setState({status: "ERROR", signeeName: data.get('name')});
+                this.setState({status: "ERROR", signeeName: data.get('name'), email: data.get('email')});
             }
         };
         xhr.send(data);
