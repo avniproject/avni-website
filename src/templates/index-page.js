@@ -6,7 +6,6 @@ import Layout from "../components/Layout"
 import Features from '../components/Features'
 import LandingPageHero from "../components/LandingPageHero";
 import {VerticalTileGroup} from "../components/Tile";
-import social_alpha_logo from '../img/SocialAlphaLogo.png'
 import ContactUs from "../components/ContactUs";
 
 export const IndexPageTemplate = ({
@@ -63,12 +62,6 @@ export const IndexPageTemplate = ({
             </div>
         </section>
         <hr/>
-        <div className="content has-text-centered">
-            <h4 className="is-size-4 has-text-grey has-text-weight-bold">
-                Empowered by
-            </h4>
-            <img src={social_alpha_logo} alt="Social Alpha" width="192"/>
-        </div>
     </div>
 );
 
