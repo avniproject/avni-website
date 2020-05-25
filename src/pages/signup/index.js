@@ -5,18 +5,19 @@ import Constants from "../../Constants";
 
 export default class SignupIndexPage extends React.Component {
     getCongratulationMessage(contactSource) {
-        if (contactSource === Constants.First50) return "Thanks for signing up for Avni! We are super excited to have you on board.";
+        if (contactSource === Constants.First50 || contactSource === Constants.Trial) return "Thanks for signing up for Avni! We are super excited to have you on board.";
         if (contactSource === Constants.CustomPlan) return "Thanks for contacting us.";
         return "Ooops something went wrong. Please email us at - avni-project@googlegroups.com";
     }
 
     getSignupButtonLabel(contactSource) {
         if (contactSource === Constants.CustomPlan) return "CONTACT SALES";
-        return `SIGNUP FOR FREE`;
+        return "SIGNUP";
     }
 
     getTitleMessage(contactSource) {
         if (contactSource === Constants.CustomPlan) return "Contact Avni Sales Team";
+        if (contactSource === Constants.First50) return "Please provide us the following to get you started";
         return `Try Avni free for 90 days`;
     }
 
@@ -164,6 +165,7 @@ export default class SignupIndexPage extends React.Component {
                                                 </div>
                                             </div>
                                         </div>
+                                        <input className="is-hidden" hidden={true} name="source" value={contactSource}/>
                                     </form>
                                 </div>
                             }

@@ -20,7 +20,7 @@ export default function Index() {
                             <p><b>Flat Rs. 30000 annually, including tax</b></p>
                             <p><b>Up to 100 users or 10,000 form submissions per month</b></p>
                             <p><b>Billed one time</b></p>
-                            <p><b>Free 3 months trial</b></p>
+                            <p><b>Subscription starts after, 3 months of free trial</b></p>
                             <p><b>Community support</b></p>
                             <br/>
 

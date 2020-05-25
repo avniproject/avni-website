@@ -7,7 +7,7 @@ import Constants from "../Constants";
 
 export default class Navbar extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
       navBarActiveClass: '',
@@ -32,7 +32,7 @@ export default class Navbar extends React.Component {
             })
       }
     )
-  }
+  };
 
   render() {
     return (
@@ -123,7 +123,7 @@ export default class Navbar extends React.Component {
                                         <a href="https://app.avniproject.org" className="button">LOGIN</a>
                                       </p>
                                       <p className="control">
-                                        <a href={`/signup?${Constants.ContactSource}=${Constants.First50}`} className="is-primary button">TRY FOR FREE</a>
+                                        <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="is-primary button">TRY FOR FREE</a>
                                       </p>
                                     </div>
                                   </div>
