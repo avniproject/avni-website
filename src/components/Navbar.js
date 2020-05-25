@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/avni-logo-color.png'
 import { Location } from '@reach/router'
+import Constants from "../Constants";
 
 
 export default class Navbar extends React.Component {
@@ -122,7 +123,7 @@ export default class Navbar extends React.Component {
                                         <a href="https://app.avniproject.org" className="button">LOGIN</a>
                                       </p>
                                       <p className="control">
-                                        <a href="/signup" className="is-primary button">TRY FOR FREE</a>
+                                        <a href={`/signup?${Constants.ContactSource}=${Constants.First50}`} className="is-primary button">TRY FOR FREE</a>
                                       </p>
                                     </div>
                                   </div>

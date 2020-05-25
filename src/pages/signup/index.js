@@ -1,8 +1,24 @@
 import React from "react";
 import Layout from "../../components/Layout";
-
+import queryString from 'query-string';
+import Constants from "../../Constants";
 
 export default class SignupIndexPage extends React.Component {
+    getCongratulationMessage(contactSource) {
+        if (contactSource === Constants.First50) return "Thanks for signing up for Avni! We are super excited to have you on board.";
+        if (contactSource === Constants.CustomPlan) return "Thanks for contacting us.";
+        return "Ooops something went wrong. Please email us at - avni-project@googlegroups.com";
+    }
+
+    getSignupButtonLabel(contactSource) {
+        if (contactSource === Constants.CustomPlan) return "CONTACT SALES";
+        return `SIGNUP FOR FREE`;
+    }
+
+    getTitleMessage(contactSource) {
+        if (contactSource === Constants.CustomPlan) return "Contact Avni Sales Team";
+        return `Try Avni free for 90 days`;
+    }
 
     constructor(props) {
         super(props);
@@ -15,12 +31,16 @@ export default class SignupIndexPage extends React.Component {
         };
     }
 
-
     render() {
+        const parsed = queryString.parse(this.props.location.search);
         const {status, signeeName, email} = this.state;
+        const contactSource = parsed[Constants.ContactSource];
         return (
             <Layout>
                 <div className="container">
+                    <br/>
+                    <br/>
+                    <h3 className="title is-3 full-centered">{this.getTitleMessage(contactSource)}</h3>
                     <div className="columns">
                         <div className="column"/>
                         <div className="column">
@@ -28,12 +48,11 @@ export default class SignupIndexPage extends React.Component {
                                 <div>
                                     <p className="title is-3">Fantastic {signeeName} !!!</p>
                                     <br/>
-                                    <p>Thanks for signing up for Avni! We are super excited to have you on board.</p>
+                                    <p>{this.getCongratulationMessage(contactSource)}</p>
                                     <br/>
                                     <p>You will receive an email at {email} within one working day.</p></div>
                                 :
                                 <div style={{paddingHorizontal: 24}}>
-                                    <h3 className="title is-3">Try Avni free for 90 days.</h3>
                                     <form onSubmit={this.submitForm} method="post"
                                           action="https://formspree.io/xzbjebyr">
                                         <div className="field">
@@ -77,11 +96,11 @@ export default class SignupIndexPage extends React.Component {
                                             <div className="control">
                                                 <label className="label">Country of organisation</label>
                                                 <label className="radio">
-                                                    <input type="radio" name="country" value="India" required="required" />
+                                                    <input type="radio" name="country" value="India" required="required"/>
                                                     <span style={{marginLeft: 8}}>India</span>
                                                 </label>
                                                 <label className="radio" style={{marginLeft: 24}}>
-                                                    <input type="radio" name="country" value="Outside India" required="required" />
+                                                    <input type="radio" name="country" value="Outside India" required="required"/>
                                                     <span style={{marginLeft: 8}}>Outside India</span>
                                                 </label>
                                             </div>
@@ -130,17 +149,17 @@ export default class SignupIndexPage extends React.Component {
                                                 </span>
                                             </div>
                                         </div>
-                                        <div>
-                                            By signing up, you accept our <a>Terms of Service</a> and <a>Privacy
-                                            Policy</a>.
-                                        </div>
+                                        {/*<div>*/}
+                                            {/*By signing up, you accept our <a>Terms of Service</a> and <a>Privacy*/}
+                                            {/*Policy</a>.*/}
+                                        {/*</div>*/}
                                         <br/>
                                         <div className="columns">
                                             <div className="column is-full">
                                                 <div className="field">
                                                     <div className="control">
                                                         <input className="button is-primary is-fullwidth" type="submit"
-                                                               value="SIGNUP FOR FREE"/>
+                                                               value={this.getSignupButtonLabel(contactSource)}/>
                                                     </div>
                                                 </div>
                                             </div>
