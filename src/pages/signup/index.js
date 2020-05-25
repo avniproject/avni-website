@@ -85,7 +85,7 @@ export default class SignupIndexPage extends React.Component {
                                                 <label className="label">Organisation status</label>
                                                 <div className="select">
                                                     <select required name="organisationStatus">
-                                                        <option value="">Select dropdown</option>
+                                                        <option value="">Select</option>
                                                         <option value="Non-profit">Non-profit</option>
                                                         <option value="For-profit">For-profit</option>
                                                         <option value="Government">Government</option>

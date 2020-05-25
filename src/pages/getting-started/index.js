@@ -19,10 +19,7 @@ export default function Index() {
                 <div className="container">
                     <div className="content">
                         <h1>Getting Started</h1>
-                        <p>If you want Avni implemented for your organisation and if you are a novice user, please contact us at <a
-                            href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a>. If you understand software development process this page is for
-                            you.
-                        </p>
+                        <p>If you want Avni implemented for your organisation, Avni is available on the cloud. Please signup <a href="/pricing">here</a>. If you want to host Avni your self this page is for you.</p>
                         <section className="section">
                             <div className="columns">
                                 <div className="column is-one-third full-centered building-blocks-left">
@@ -72,10 +69,7 @@ export default function Index() {
                                         <p>
                                             Easiest way to get started. No need to
                                             setup servers and manage uptime - all the heavy lifting
-                                            is taken care of for you. Avni is available as self-serviceable service (i.e. setup everything yourself). But for now to get
-                                            started please contact Avni team at <b>avni-project@googlegroups.com</b> to provision
-                                            your
-                                            implementation on the cloud instance. After provision you can do a most of implementation work on your own.
+                                            is taken care of for you. Avni is available as self-serviceable service (i.e. setup everything yourself). Please signup from <a href="/pricing">here</a>. After provision you can do a most of implementation work on your own.
                                         </p>
                                     </div>
                                 </div>
