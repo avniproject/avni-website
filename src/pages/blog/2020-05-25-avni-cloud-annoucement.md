@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Announcing Avni Cloud
 date: 2020-05-25T11:39:26.313Z
 description: >-
-  Avni is not available as a cloud service. You can signup, get started and implement your own field applications.
+  Avni is now available as a cloud service. You can signup, get started and implement your own field applications.
 featuredpost: false
 featuredimage: /img/avni-logo.png
 tags:
