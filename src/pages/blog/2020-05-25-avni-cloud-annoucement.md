@@ -21,10 +21,10 @@ Following customisations or setup are usually required on Avni. We have also ind
 * Export data in excel for analysis. [UI]
 * Create your own reports using the reporting service (based on <a href="https://metabase.org" target="_blank">metabase</a>). [SQL]
 
-Please use the implementer’s guide to understand how to implement Avni for your needs - https://avni.readme.io/docs/implementers-guide. For signing up please check the pricing and signup - https://avniproject.org/pricing. We are offering a really affordable plan given the needs of social sector.
+Please use the implementer’s guide to understand how to implement Avni for your needs - <a href="https://avni.readme.io/docs/implementers-guide" target="_blank">https://avni.readme.io/docs/implementers-guide</a>. For signing up please check the pricing and <a href="/pricing">signup</a>. We are offering a really affordable plan given the needs of social sector.
 
 Once you subscribe, we will create an account for you and then you can do the rest of the tasks above by yourself. Once you start there are following help available for you:
 * Help documentation within the application
-* Avni Implementation Guide (recommended read) - https://avni.readme.io/docs/implementers-guide
-* Community Channel - https://gitter.im/OpenCHS/openchs
+* Avni Implementation Guide (recommended read) - <a href="https://avni.readme.io/docs/implementers-guide" target="_blank">https://avni.readme.io/docs/implementers-guide</a>
+* Community Channel - <a href="https://gitter.im/OpenCHS/openchs" target="_blank">https://gitter.im/OpenCHS/openchs</a>
 * Choosing a custom plan for getting additional services.
