@@ -123,8 +123,8 @@ export default class SignupIndexPage extends React.Component {
                                                 <input className="input"
                                                        name="phone"
                                                        type="tel"
-                                                       placeholder="10 digit phone number"
-                                                       pattern="[0-9]{10}"/>
+                                                       placeholder="Phone number"
+                                                />
                                                 <span className="icon is-left">
                                                     <i className="fas fa-phone"></i>
                                                 </span>
