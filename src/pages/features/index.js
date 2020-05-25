@@ -169,6 +169,7 @@ export default function Index() {
                 </div>
             </section>
 
+            <hr/>
 
             <section className="section">
                 <div className="container">
