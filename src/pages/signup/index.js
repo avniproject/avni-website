@@ -90,7 +90,7 @@ export default class SignupIndexPage extends React.Component {
 
                                         </div>
                                         <div className="field">
-                                            <label className="label">Email</label>
+                                            <label className="label">Professional Email</label>
                                             <div className="control has-icons-left has-icons-right">
                                                 <input className="input"
                                                        name="email"
