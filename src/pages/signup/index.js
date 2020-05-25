@@ -21,8 +21,6 @@ export default class SignupIndexPage extends React.Component {
         return (
             <Layout>
                 <div className="container">
-                    <br/>
-                    <br/>
                     <div className="columns">
                         <div className="column"/>
                         <div className="column">
