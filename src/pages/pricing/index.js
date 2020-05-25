@@ -15,7 +15,7 @@ export default function Index() {
                         <br/>
                         <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
                             <h1>First 50</h1>
-                            <p><i>22 signed up so far</i></p>
+                            <p><i><a href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325" target="_blank">22 signed up so far</a></i></p>
                             <br/>
                             <p><b>Flat Rs. 30000 annually, including tax</b></p>
                             <p><b>Up to 100 users or 10,000 form submissions per month</b></p>
