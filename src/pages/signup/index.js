@@ -3,7 +3,24 @@ import Layout from "../../components/Layout";
 import queryString from 'query-string';
 import Constants from "../../Constants";
 
+class Status {
+    static Success = "SUCCESS";
+    static Error = "ERROR";
+    static Initial = "";
+}
+
 export default class SignupIndexPage extends React.Component {
+    constructor(props) {
+        super(props);
+        this.submitForm = this.submitForm.bind(this);
+        this.state = {
+            status: "",
+            signeeName: "",
+            email: "",
+            emailIconStyle: "icon is-right"
+        };
+    }
+
     getCongratulationMessage(contactSource) {
         if (contactSource === Constants.First50 || contactSource === Constants.Trial) return "Thanks for signing up for Avni! We are super excited to have you on board.";
         if (contactSource === Constants.CustomPlan) return "Thanks for contacting us.";
@@ -21,15 +38,29 @@ export default class SignupIndexPage extends React.Component {
         return `Try Avni free for 90 days`;
     }
 
-    constructor(props) {
-        super(props);
-        this.submitForm = this.submitForm.bind(this);
-        this.state = {
-            status: "",
-            signeeName: "",
-            email: "",
-            emailIconStyle: "icon is-right"
+    emailStyle(email) {
+        // console.log(email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/));
+        return email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/) ?
+            "icon is-right has-text-success" : "icon is-right";
+    }
+
+    submitForm(ev) {
+        ev.preventDefault();
+        const form = ev.target;
+        const data = new FormData(form);
+        const xhr = new XMLHttpRequest();
+        xhr.open(form.method, form.action);
+        xhr.setRequestHeader("Accept", "application/json");
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState !== XMLHttpRequest.DONE) return;
+            if (xhr.status === 200) {
+                form.reset();
+                this.setState({status: Status.Success, signeeName: data.get('name'), email: data.get('email')});
+            } else {
+                this.setState({status: Status.Error, signeeName: data.get('name'), email: data.get('email')});
+            }
         };
+        xhr.send(data);
     }
 
     render() {
@@ -40,12 +71,12 @@ export default class SignupIndexPage extends React.Component {
             <Layout>
                 <div className="container">
                     <br/>
+                    {status === Status.Initial && <h3 className="title is-3 full-centered">{this.getTitleMessage(contactSource)}</h3>}
                     <br/>
-                    <h3 className="title is-3 full-centered">{this.getTitleMessage(contactSource)}</h3>
                     <div className="columns">
                         <div className="column"/>
                         <div className="column">
-                            {status === "SUCCESS" ?
+                            {status === Status.Success ?
                                 <div>
                                     <p className="title is-3">Fantastic {signeeName} !!!</p>
                                     <br/>
@@ -169,7 +200,7 @@ export default class SignupIndexPage extends React.Component {
                                     </form>
                                 </div>
                             }
-                            {status === "ERROR" && <p>Ooops! There was an error.</p>}
+                            {status === Status.Error && <p>Ooops! There was an error.</p>}
                         </div>
                         <div className="column"/>
                     </div>
@@ -179,30 +210,5 @@ export default class SignupIndexPage extends React.Component {
 
             </Layout>
         )
-    }
-
-    emailStyle(email) {
-        console.log(email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/));
-        return email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/) ?
-            "icon is-right has-text-success" : "icon is-right";
-    }
-
-    submitForm(ev) {
-        ev.preventDefault();
-        const form = ev.target;
-        const data = new FormData(form);
-        const xhr = new XMLHttpRequest();
-        xhr.open(form.method, form.action);
-        xhr.setRequestHeader("Accept", "application/json");
-        xhr.onreadystatechange = () => {
-            if (xhr.readyState !== XMLHttpRequest.DONE) return;
-            if (xhr.status === 200) {
-                form.reset();
-                this.setState({status: "SUCCESS", signeeName: data.get('name'), email: data.get('email')});
-            } else {
-                this.setState({status: "ERROR", signeeName: data.get('name'), email: data.get('email')});
-            }
-        };
-        xhr.send(data);
     }
 }
