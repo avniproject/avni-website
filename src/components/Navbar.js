@@ -67,6 +67,7 @@ export default class Navbar extends React.Component {
                     <Location>
                         {
                             ({location}) => {
+                                if (location.pathname !== '/signup')
                                 return (
                                     <div
                                         id="navMenu"
@@ -128,7 +129,6 @@ export default class Navbar extends React.Component {
                                             </div>
                                         </div>
                                     </div>
-
                                 )
                             }
                         }
