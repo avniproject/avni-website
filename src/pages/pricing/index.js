@@ -59,7 +59,6 @@ export default function Index() {
                         </div>
                     </div>
                 </div>
-                <p>We are a <a href="https://samanvayfoundation.org/" target="_blank">small technology non-profit</a>, and cloud hosting is our way of making some revenue to keep Avni sustainable.</p>
             </div>
             <br/>
             <br/>
