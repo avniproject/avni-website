@@ -54,7 +54,7 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Counsel your beneficiaries"
-                                description="Let the app guide your fieldwork"
+                                description="Let the app guide your fieldwork."
                                 images={[
                                     {src: imgCounselling1, altText: "Counselling example 1 screenshot"},
                                     {src: imgCounselling2, altText: "Counselling example 2 screenshot"}
@@ -62,7 +62,7 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Take attendance"
-                                description="Define any type of group and capture member's attendance easily"
+                                description="Define any type of group and capture member's attendance easily."
                                 images={[
                                     {src: attendance, altText: "Attendance"}
                                 ]}
@@ -71,7 +71,7 @@ export default function Index() {
                         <VerticalTileGroup>
                             <FeatureTile
                                 title="Powerful forms"
-                                description="Define cases, services and each visit's data format"
+                                description="Define cases, services and each visit's data format."
                                 images={[
                                     {src: imgSkipLogic, altText: "Skip Logic"},
                                     {src: imgCalculatedField, altText: "Calculated Field"}
@@ -83,7 +83,7 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Work schedule management"
-                                description="Automated visit scheduling with manual control. Dashboard to manage all your work"
+                                description="Automated visit scheduling with manual control. Dashboard to manage all your work."
                                 images={[
                                     {src: encounterScheduling1, altText: "Scheduling encounter in future"},
                                     {src: encounterScheduling2, altText: "View scheduled encounters"},
@@ -92,17 +92,22 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Centralised database"
-                                description="Monitor, analyse, generate reports, download data extracts, "
+                                description="Monitor, analyse, generate reports and download data extracts"
                                 images={[
                                     {src: longitudinalExport, altText: "Longitudinal export"}
                                 ]}
-                                htmlSnippets="<a href='https://www.youtube.com/watch?v=HsvQDG9dgyM' target='_blank'>longitudinal exports</a>"
+                                htmlSnippets="<a href='https://www.youtube.com/watch?v=HsvQDG9dgyM' target='_blank'> longitudinal exports</a>"
+                            />
+                            <FeatureTile
+                                title="API to pull data out of Avni"
+                                description="REST+JSON based API."
+                                images={[]}
                             />
                         </VerticalTileGroup>
                         <VerticalTileGroup>
                             <FeatureTile
-                                title="Design everything yourself"
-                                description="Design forms, data model via browser"
+                                title="Design your forms and data model via web browser"
+                                description=""
                                 images={[
                                     {src: selfDesign1, altText: "Form designer"},
                                     {src: selfDesign2, altText: "List of forms"},
@@ -118,11 +123,11 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Algorithmic decision support"
-                                description="Add your own algorithms to assist the field workers"
+                                description="Add your own algorithms to assist the field workers."
                             />
                             <FeatureTile
                                 title="Offline"
-                                description="All features available even without the Internet"
+                                description="All features available even without the Internet."
                             />
                             <FeatureTile
                                 title="Multiple language support"
@@ -130,7 +135,7 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Leverage other's programs"
-                                description="Copy another implementation and then change"
+                                description="Copy another implementation and then change."
                             />
                         </VerticalTileGroup>
                     </div>
@@ -148,7 +153,7 @@ export default function Index() {
                         <div className="tile is-ancestor">
                             <VerticalTileGroup>
                                 <FeatureTile
-                                    title="Child growth charts as per WHO standard"
+                                    title="Child growth charts as per WHO standard."
                                     description=""
                                     images={[
                                         {src: imgChildGrowthChart, altText: "Child growth charts"}
@@ -184,13 +189,13 @@ export default function Index() {
                         <VerticalTileGroup>
                             <FeatureTile
                                 title="Service delivery"
-                                description="Organisations provide direct services to the beneficiaries they serve (e.g. community health service)"
+                                description="Organisations provide direct services to the beneficiaries they serve (e.g. community health service)."
                             />
                         </VerticalTileGroup>
                         <VerticalTileGroup>
                             <FeatureTile
                                 title="Service facilitation"
-                                description="Helping beneficiaries in accessing the services provided by government or large institutions (e.g. ensuring institutional delivery, enrolling in government programmes)"
+                                description="Helping beneficiaries in accessing the services provided by government or large institutions (e.g. ensuring institutional delivery, enrolling in government programmes)."
                             /></VerticalTileGroup>
                         <VerticalTileGroup>
                             <FeatureTile

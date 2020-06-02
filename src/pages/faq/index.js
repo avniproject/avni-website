@@ -13,10 +13,11 @@ export default function Index() {
                     <br/>
                     <div className="content">
                         <h3>I do not know how to setup Avni myself, how to I find the service provider?</h3>
-                        <p>Currently Samanvay also does implementation of Avni. Avni team is in process of on boarding other service providers. But if you know some
-                            service
-                            provider that may be interested in implementing Avni for you then Avni team can help them too.
-                        </p>
+                        <p>Avni is quite easy to set up. We are happy to help you in finding an implementation provider of Avni for you at your site. We also offer a
+                            hosted option that runs on
+                            the Cloud and can configure a system for you within a week. Please use the Contact Us form at the bottom of this page to reach out to us. If
+                            you
+                            know of a service provider that you would like to work with, we can help them learn about Avni.</p>
                     </div>
 
                     <div className="content">
@@ -32,7 +33,9 @@ export default function Index() {
 
                     <div className="content">
                         <h3>I want to implement Avni, where should I start from</h3>
-                        <p>The getting started page is for this purpose. You can start from there and go through the documentation. The documentation currently is to only get you started, after which you please contact us on <a href="https://gitter.im/OpenCHS/openchs" target="_blank">Gitter channel</a> or using the Contact us form below.</p>
+                        <p>The getting started page is for this purpose. You can start from there and go through the documentation. The documentation currently is to only
+                            get you started, after which you please contact us on <a href="https://gitter.im/OpenCHS/openchs" target="_blank">Gitter channel</a> or using
+                            the Contact us form below.</p>
                     </div>
                 </div>
             </section>
