@@ -2,11 +2,11 @@
 templateKey: about-page
 title: About the Project
 ---
-**Avni Project**, previously called "OpenCHS (Open Community Health System)", started as a open source community health worker platform designed to aid programs operating below primary health center level — i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means "earth" in Hindi.
+**Avni Project**, previously called "OpenCHS (Open Community Health System)", started, in mid-2016, as a open source community health worker platform designed to aid programs operating below primary health center level — i.e. sub-center, village and slum level. It has since matured into a platform that can support most field work use cases, not just health. Avni is now implemented for water, social welfare services, educational outcome assessment and health. Avni (अवनि, અવની, ਅਵਨੀ, அவ்னி, అవనీ, ಅವ್ನಿ) means "earth" in Hindi.
 
 # Team
 
-**avni** is developed by a team experienced in applying technology in the public and health from <a href="https://samanvayfoundation.org" target="_blank">Samanvay Foundation</a> and development efforts are funded by <a href="https://www.socialalpha.org/" target="_blank">Social Alpha</a> and <a href="https://chintugudiya.org/tech4dev/" target="_blank">Project Tech4Dev (Chintu Gudiya Foundation)</a>. Recently <a href="http://www.soft-corner.com/" target="_blank">Soft Corner</a> and <a href="https://www.persistent.com/" target="_blank">Persistent Systems</a> has also joined the product development efforts with Samanvay.
+**avni** is developed by a team experienced in applying technology in the public and health from <a href="https://samanvayfoundation.org" target="_blank">Samanvay Foundation</a> and development efforts are funded by <a href="https://www.socialalpha.org/" target="_blank">Social Alpha</a> and <a href="https://chintugudiya.org/tech4dev/" target="_blank">Project Tech4Dev (Chintu Gudiya Foundation)</a>. Recently <a href="http://www.soft-corner.com/" target="_blank">Soft Corner</a> and <a href="https://www.persistent.com/" target="_blank">Persistent Systems</a> have also joined the product development efforts with Samanvay.
 
 # Avni Software
 
@@ -14,7 +14,7 @@ title: About the Project
 * AGPL 3 license
 * <a href="https://gitter.im/OpenCHS/openchs" target="_blank">Chat channel for developers (https://gitter.im/OpenCHS/openchs)</a>
 * <a href="https://circleci.com/gh/avniproject" target="_blank">CI Server and Binary Download (https://circleci.com/gh/avniproject)</a>- requires login
-* <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">Playstore App</a>
+* <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">Android Playstore App</a>
 * <a href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0" target="_blank">Product Slide Deck</a>
 * Contact Avni - <mailto:avni-project@googlegroups.com>
 * Join Avni Google Group by visiting (requires Gmail account) - <https://groups.google.com/forum/#!forum/avni-project>

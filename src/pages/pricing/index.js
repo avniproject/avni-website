@@ -54,7 +54,7 @@ export default function Index() {
                             <li><b>Services - implementation, support, training, product enhancements</b></li>
                             <br/>
                             <p className="control full-centered">
-                                <a href={`/signup?${Constants.ContactSource}=${Constants.CustomPlan}`} className="is-secondary button"><b>CONTACT US</b></a>
+                                <a href={`/signup?${Constants.ContactSource}=${Constants.CustomPlan}`} className="is-secondary button"><b>POST ENQUIRY</b></a>
                             </p>
                         </div>
                     </div>

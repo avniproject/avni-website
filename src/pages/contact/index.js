@@ -10,17 +10,17 @@ function encode(data) {
 
 export default class Index extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = { isValidated: false }
   }
 
   handleChange = e => {
     this.setState({ [e.target.name]: e.target.value })
-  }
+  };
 
   handleSubmit = e => {
-    e.preventDefault()
-    const form = e.target
+    e.preventDefault();
+    const form = e.target;
     fetch('/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -31,7 +31,7 @@ export default class Index extends React.Component {
     })
       .then(() => navigate(form.getAttribute('action')))
       .catch(error => alert(error))
-  }
+  };
 
   render() {
     return (

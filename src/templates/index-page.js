@@ -39,7 +39,7 @@ export const IndexPageTemplate = ({
                                 </Link>
                             </div>
                             <div className="tile square-tile">
-                                <Link to="/use-cases">
+                                <Link to="/features">
                                     <span className="has-text-info">What can it be used for?</span>
                                 </Link>
                             </div>
