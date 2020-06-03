@@ -11,6 +11,7 @@ title: About the Project
 # Avni Software
 
 * <a href="https://github.com/avniproject" target="_blank">Source code (https://github.com/avniproject)</a>
+* AGPL 3 license
 * <a href="https://gitter.im/OpenCHS/openchs" target="_blank">Chat channel for developers (https://gitter.im/OpenCHS/openchs)</a>
 * <a href="https://circleci.com/gh/avniproject" target="_blank">CI Server and Binary Download (https://circleci.com/gh/avniproject)</a>- requires login
 * <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">Playstore App</a>
