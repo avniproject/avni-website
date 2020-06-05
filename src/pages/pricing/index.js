@@ -26,6 +26,7 @@ export default function Index() {
                         <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
                             <h1>3 Months Free Trial</h1>
                             <br/>
+                            <li><b>All features</b></li>
                             <li><b>Up to 100 users or 10,000 form submissions per month</b></li>
                             <li><b>No Credit Card Required</b></li>
                             <li><b>Community support</b></li>
@@ -44,6 +45,7 @@ export default function Index() {
                             <p><i><a href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325" target="_blank">22 signed up so
                                 far</a></i></p>
                             <br/>
+                            <li><b>All features</b></li>
                             <li><b>Flat Rs. 30,000 annually, including tax</b></li>
                             <li><b>Up to 100 users or 10,000 form submissions per month</b></li>
                             <li><b>Billed one time</b></li>
@@ -62,6 +64,7 @@ export default function Index() {
                             <h1>Customised plan</h1>
                             <br/>
                             <p><i>&nbsp;</i></p>
+                            <li><b>All features</b></li>
                             <li><b>Annual charges based on your requirements</b></li>
                             <li><b>Billed one or multiple times in a year</b></li>
                             <li><b>Free 3 months trial (no credit card)</b></li>
