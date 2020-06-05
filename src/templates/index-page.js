@@ -39,9 +39,7 @@ export const IndexPageTemplate = ({
                                 </Link>
                             </div>
                             <div className="tile square-tile">
-                                <Link to="/features">
-                                    <span className="has-text-info">What can it be used for?</span>
-                                </Link>
+                                <a href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0" target="_blank">What can it be used for?</a>
                             </div>
                         </VerticalTileGroup>
                         <VerticalTileGroup>
