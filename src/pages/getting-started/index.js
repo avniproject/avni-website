@@ -1,6 +1,7 @@
 import React from "react";
 import Layout from "../../components/Layout";
 import {VerticalTileGroup} from "../../components/Tile";
+import ExternalLink from "../../components/ExternalLink";
 
 function Tile({title}) {
     return (
@@ -76,8 +77,7 @@ export default function Index() {
                                 <div className="column">
                                     <div className="box content">
                                         <h5>On your own server</h5>
-                                        <p>You can deploy Avni yourself. The documentation is <a href="https://avni.readme.io/docs/environment-setup-guides"
-                                                                                                 target="_blank">here</a>. If you need help you can contact us via <a
+                                        <p>You can deploy Avni yourself. The documentation is <ExternalLink href="https://avni.readme.io/docs/environment-setup-guides" text="here"/>. If you need help you can contact us via <a
                                             href="/about">Email, Gitter</a> or this website.</p>
                                     </div>
                                 </div>
@@ -101,9 +101,9 @@ export default function Index() {
                                 <div className="column">
                                     <div className="box content">
                                         <ul>
-                                            <li>Checkout <a href="https://avni.readme.io/v2.0/docs/implementers-guide" target="_blank">Avni implementation
-                                                guide</a> and <a href="https://avni.readme.io/v2.0/docs/environment-setup-guides" target="_blank">Environment setup
-                                                guides</a></li>
+                                            <li>Checkout <ExternalLink href="https://avni.readme.io/v2.0/docs/implementers-guide">Avni implementation
+                                                guide</ExternalLink> and <ExternalLink href="https://avni.readme.io/v2.0/docs/environment-setup-guides">Environment setup
+                                                guides</ExternalLink></li>
                                             <li>Define your application schema using subject types, programs and encounter types</li>
                                             <li>Configure the forms, for each one of above, with skip logic, validation and decision support rules</li>
                                             <li>Write visit/encounter schedule rules</li>

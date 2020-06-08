@@ -20,6 +20,7 @@ import accessControl from "../../img/access-control.png";
 import myDashboard from "../../img/my-dashboard.gif";
 import household from "../../img/household.png";
 import longitudinalExport from "../../img/longitudinal-export.png";
+import ExternalLink from "../../components/ExternalLink";
 
 export default function Index() {
     return (
@@ -32,10 +33,7 @@ export default function Index() {
                             <a href="#health-features">Health specific features</a>
                         </div>
                         <div>
-                            <a href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product"
-                               target="_blank"
-                               rel="noopener noreferrer"
-                            >Roadmap for upcoming features</a>
+                            <ExternalLink href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product">Roadmap for upcoming features</ExternalLink>
                         </div>
                     </div>
                 </div>
@@ -96,7 +94,7 @@ export default function Index() {
                                 images={[
                                     {src: longitudinalExport, altText: "Longitudinal export"}
                                 ]}
-                                htmlSnippets="<a href='https://www.youtube.com/watch?v=HsvQDG9dgyM' target='_blank'> longitudinal exports</a>"
+                                htmlSnippets="<a href='https://www.youtube.com/watch?v=HsvQDG9dgyM' target='_blank' rel='noopener noreferrer'> longitudinal exports</a>"
                             />
                             <FeatureTile
                                 title="API to pull data out of Avni"

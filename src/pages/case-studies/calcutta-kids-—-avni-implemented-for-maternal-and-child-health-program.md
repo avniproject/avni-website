@@ -11,7 +11,7 @@ tags:
   - Health
   - Urban
 ---
-[Calcutta Kids](https://calcuttakids.org) is a public health organization providing health services to the underserved women and young children in the Kolkata slum area of Fakir Bagan. They provide preventive services, complemented by effective curative care when required. These services are provided primarily by trained Community Health Workers (CHW). Calcutta Kids (CK) provides a whole range of services for women health, pregnancy and child health — which has been very well detailed <a href="https://calcuttakids.org/programs/" target="_blank">here</a>. CK runs a comprehensive program where **continuous service** is provided to their clients.
+[Calcutta Kids](https://calcuttakids.org) is a public health organization providing health services to the underserved women and young children in the Kolkata slum area of Fakir Bagan. They provide preventive services, complemented by effective curative care when required. These services are provided primarily by trained Community Health Workers (CHW). Calcutta Kids (CK) provides a whole range of services for women health, pregnancy and child health — which has been very well detailed <a href="https://calcuttakids.org/programs/" target="_blank" rel="noopener noreferrer">here</a>. CK runs a comprehensive program where **continuous service** is provided to their clients.
 
 Until two years back CK was using a data management system (MIS) for the services delivered. This MIS was also used to - generate the schedule of work for CHWs, derive program insights and prepare impact/activity reports.
 

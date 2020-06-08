@@ -1,6 +1,7 @@
 import React from "react";
 import Layout from "../../components/Layout";
 import Constants from "../../Constants";
+import ExternalLink from "../../components/ExternalLink";
 
 export default function Index() {
     return (
@@ -10,8 +11,8 @@ export default function Index() {
                 <h1 className="title">Avni Plans</h1>
                 <div className="columns is-mobile is-multiline">
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
-                        <p>Avni is fully open source, and can be <a href="https://avni.readme.io/docs/environment-setup-guides" target="_blank">setup and used for
-                            free</a>.
+                        <p>Avni is fully open source, and can be <ExternalLink href="https://avni.readme.io/docs/environment-setup-guides">setup and used for
+                            free</ExternalLink>.
                             But if you want to use our hosted version so that you don't have to manage / maintain it, then you can look at the plans. We are offering a
                             one time special plan for the first 50 organisations that sign up. If you have a higher number of users, or expected forms submissions, or
                             additional needs - please use the custom plan to contact us. Our hosted option has the following benefits:
@@ -42,8 +43,8 @@ export default function Index() {
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
                             <h1>First 50</h1>
-                            <p><i><a href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325" target="_blank">22 signed up so
-                                far</a></i></p>
+                            <p><i><ExternalLink href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325">22 signed up so
+                                far</ExternalLink></i></p>
                             <br/>
                             <li><b>All features</b></li>
                             <li><b>Flat Rs. 30,000 annually, including tax</b></li>

@@ -1,6 +1,7 @@
 import React from "react";
 import Layout from "../../components/Layout";
 import ContactUs from "../../components/ContactUs";
+import ExternalLink from "../../components/ExternalLink";
 
 export default function Index() {
     return (
@@ -36,12 +37,12 @@ export default function Index() {
                     <div className="content">
                         <h4>I want to implement Avni, where should I start from</h4>
                         <p>The getting started page is for this purpose. You can start from there and go through the documentation. The documentation currently is to only
-                            get you started, after which you please contact us on <a href="https://gitter.im/OpenCHS/openchs" target="_blank">Gitter channel</a> or using
+                            get you started, after which you please contact us on <ExternalLink href="https://gitter.im/OpenCHS/openchs">Gitter channel</ExternalLink> or using
                             the Contact us form below.</p>
                     </div>
                     <div className="content">
                         <h4>What is the typical running cost of Avni on a monthly basis?</h4>
-                        <p>Please check all the technical components of Avni <a href="https://avni.readme.io/docs/environment-setup-guides" target="_blank">here</a>.
+                        <p>Please check all the technical components of Avni <ExternalLink href="https://avni.readme.io/docs/environment-setup-guides">here</ExternalLink>.
                             Quite likely you will need to run all three components - server, database and reporting platform. AWS Cognito is used from the AWS cloud. If
                             you plan to run of the servers on a single machine you would need a server with at least 8 GB RAM and 4 core CPU (or vCPU) for production
                             environment. If you plan to run them separately then you will need to set up a server of 2 core and 4 GB RAM each (reporting platform could do
@@ -57,7 +58,7 @@ export default function Index() {
                     </div>
                     <div className="content">
                         <h4>If Avni is open-source, then why do I have to pay for it?</h4>
-                        <p>You do not have to pay anything for the software. It is freely available. Please see more details on the <a href="/about" target="_blank">about
+                        <p>You do not have to pay anything for the software. It is freely available. Please see more details on the <a href="/about">about
                             page</a>. The pricing is for the cloud hosted service.</p></div>
                     <div className="content">
                         <h4>Can I make modifications to Avni?</h4>

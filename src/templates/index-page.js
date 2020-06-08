@@ -7,6 +7,7 @@ import Features from '../components/Features'
 import LandingPageHero from "../components/LandingPageHero";
 import {VerticalTileGroup} from "../components/Tile";
 import ContactUs from "../components/ContactUs";
+import ExternalLink from "../components/ExternalLink";
 
 export const IndexPageTemplate = ({
                                       features,
@@ -39,7 +40,8 @@ export const IndexPageTemplate = ({
                                 </Link>
                             </div>
                             <div className="tile square-tile">
-                                <a href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0" target="_blank">What can it be used for?</a>
+                                <ExternalLink href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0">What can it be
+                                    used for?</ExternalLink>
                             </div>
                         </VerticalTileGroup>
                         <VerticalTileGroup>
