@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../../components/Layout";
-
+import PlayStoreLogo from "../../img/social/playstore-icon.png";
 
 let userDetails = function (user, implAdminUser) {
     return <p>
@@ -22,15 +22,11 @@ export default function Index() {
                             <h1 className="title">Demo</h1>
                             <h3>Install the app from Android Play Store</h3>
                             <p>
-                                On your Android device, go to <b>Play Store</b>&nbsp;
-                                <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">[link]</a>,
-                                &nbsp;search for Avni, and <b>install</b> the field app.
+                                On your Android device, go to <b>Play Store</b>&nbsp;,&nbsp;search for Avni, and <b>install</b> the field app. You can use <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank">this link</a> from your mobile too.
                             </p>
 
                             <h3>System administration app</h3>
-                            <p>
-                                For administration app in your browser go to <a
-                                href="https://app.avniproject.org" target="_blank">https://app.avniproject.org</a>.</p>
+                            <p>For administration app in your browser go to <a href="https://app.avniproject.org" target="_blank">https://app.avniproject.org</a>.</p>
 
                             <h3>Reporting and dashboard capability</h3>
                             <p>

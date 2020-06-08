@@ -80,20 +80,15 @@ export default class Navbar extends React.Component {
                                                   className="navbar-item has-text-weight-bold is-uppercase">
                                                 Features
                                             </Link>
-                                            <Link to="/case-studies"
-                                                  activeClassName="active-nav-item"
-                                                  className="navbar-item has-text-weight-bold is-uppercase">
-                                                Case Studies
-                                            </Link>
                                             <Link to="/demo"
                                                   activeClassName="active-nav-item"
                                                   className="navbar-item has-text-weight-bold is-uppercase">
                                                 Demo
                                             </Link>
-                                            <Link to="/pricing"
+                                            <Link to="/case-studies"
                                                   activeClassName="active-nav-item"
                                                   className="navbar-item has-text-weight-bold is-uppercase">
-                                                Pricing
+                                                Case Studies
                                             </Link>
                                             <Link to="/getting-started"
                                                   activeClassName="active-nav-item"
@@ -104,6 +99,11 @@ export default class Navbar extends React.Component {
                                                   activeClassName="active-nav-item"
                                                   className="navbar-item has-text-weight-bold is-uppercase">
                                                 FAQ
+                                            </Link>
+                                            <Link to="/pricing"
+                                                  activeClassName="active-nav-item"
+                                                  className="navbar-item has-text-weight-bold is-uppercase">
+                                                Pricing
                                             </Link>
                                             <Link to="/about"
                                                   activeClassName="active-nav-item"
