@@ -179,6 +179,21 @@ export default function Index() {
             <section className="section">
                 <div className="container">
                     <div className="content">
+                        <h1>Avni empowers field work</h1>
+                        <div>
+                            <iframe style={{height: 569, width: 960}}
+                                src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
+                                frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <hr/>
+
+            <section className="section">
+                <div className="container">
+                    <div className="content">
                         <h1>Use Cases</h1>
                         <p>Most social sector work, done by NGO and Governments ultimately rests on the field workers providing service to the communities. Avni aims to
                             support almost all field work.</p>
