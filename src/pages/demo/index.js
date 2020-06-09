@@ -1,17 +1,16 @@
 import React from "react";
 import Layout from "../../components/Layout";
-import PlayStoreLogo from "../../img/social/playstore-icon.png";
 import ExternalLink from "../../components/ExternalLink";
 
-let userDetails = function (user, implAdminUser) {
-    return <p>
-        User={user}
-        <br/>
-        Admin user (for web)={implAdminUser}
-        <br/>
-        Password (both)=password
-    </p>;
-};
+// let userDetails = function (user, implAdminUser) {
+//     return <p>
+//         User={user}
+//         <br/>
+//         Admin user (for web)={implAdminUser}
+//         <br/>
+//         Password (both)=password
+//     </p>;
+// };
 
 export default function Index() {
     return (

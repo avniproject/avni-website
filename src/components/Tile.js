@@ -7,12 +7,12 @@ export default function Tile({title, description, detailsLabel, detailsLink, ima
         <div className="tile is-child">
             <article className="box has-background-grey-lighter">
                 <p className="subtitle"><b>{title}</b></p>
-                <p>
+                {description && <p>
                     {description ||
                     ``
                     }
-                    {<span dangerouslySetInnerHTML={{__html: htmlSnippets}}></span>}
-                </p>
+                    {<span dangerouslySetInnerHTML={{__html: htmlSnippets}}/>}
+                </p>}
                 {detailsLink &&
                 <div style={{textAlign: 'right'}}>
                     <a href={detailsLink}>... more</a>
@@ -20,7 +20,7 @@ export default function Tile({title, description, detailsLabel, detailsLink, ima
                 }
                 {images &&
                 <div>
-                    <br/>
+                    {description && <br/>}
                     {images.map(img => <ModalImage src={img.src} altText={img.altText} thumbnailWidth={100}/>)}
                 </div>
                 }

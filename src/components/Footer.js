@@ -10,7 +10,7 @@ const Footer = class extends React.Component {
         return (
             <footer className="footer has-text-black" style={{paddingTop: 0, backgroundColor: 'lightgrey'}}>
                 <br/>
-                <div className="has-text-centered has-text-weight-bold">Avni is fully open source project run by a <ExternalLink href="https://samanvayfoundation.org/"
+                <div className="has-text-centered has-text-weight-bold" style={{paddingLeft: 10, paddingRight: 10}}>Avni is fully open source project run by a <ExternalLink href="https://samanvayfoundation.org/"
                                                                                                                                  text="small technology non-profit"/>
                 </div>
                 <br/>

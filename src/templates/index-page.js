@@ -57,11 +57,12 @@ export const IndexPageTemplate = ({
                             </div>
                         </VerticalTileGroup>
                     </div>
-                    <ContactUs/>
                 </div>
             </div>
         </section>
         <hr/>
+        <ContactUs/>
+        <br/>
     </div>
 );
 

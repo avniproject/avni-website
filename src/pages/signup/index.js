@@ -21,24 +21,24 @@ export default class SignupIndexPage extends React.Component {
         };
     }
 
-    getCongratulationMessage(contactSource) {
+    static getCongratulationMessage(contactSource) {
         if (contactSource === Constants.First50 || contactSource === Constants.Trial) return "Thanks for signing up for Avni! We are super excited to have you on board.";
         if (contactSource === Constants.CustomPlan) return "Thanks for contacting us.";
         return "Ooops something went wrong. Please email us at - avni-project@googlegroups.com";
     }
 
-    getSignupButtonLabel(contactSource) {
+    static getSignupButtonLabel(contactSource) {
         if (contactSource === Constants.CustomPlan) return "CONTACT SALES";
         return "SIGNUP";
     }
 
-    getTitleMessage(contactSource) {
+    static getTitleMessage(contactSource) {
         if (contactSource === Constants.CustomPlan) return "Contact Avni Sales Team";
         if (contactSource === Constants.First50) return "Please provide us the following to get you started";
         return `Try Avni free for 90 days`;
     }
 
-    emailStyle(email) {
+    static emailStyle(email) {
         // console.log(email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/));
         return email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/) ?
             "icon is-right has-text-success" : "icon is-right";
@@ -71,7 +71,7 @@ export default class SignupIndexPage extends React.Component {
             <Layout>
                 <div className="container">
                     <br/>
-                    {status === Status.Initial && <h3 className="title is-3 full-centered">{this.getTitleMessage(contactSource)}</h3>}
+                    {status === Status.Initial && <h3 className="title is-3 full-centered">{SignupIndexPage.getTitleMessage(contactSource)}</h3>}
                     <br/>
                     <div className="columns">
                         <div className="column"/>
@@ -80,7 +80,7 @@ export default class SignupIndexPage extends React.Component {
                                 <div>
                                     <p className="title is-3">Fantastic {signeeName} !!!</p>
                                     <br/>
-                                    <p>{this.getCongratulationMessage(contactSource)}</p>
+                                    <p>{SignupIndexPage.getCongratulationMessage(contactSource)}</p>
                                     <br/>
                                     <p>You will receive an email at {email} within one working day.</p></div>
                                 :
@@ -94,7 +94,7 @@ export default class SignupIndexPage extends React.Component {
                                                        name="name"
                                                        type="text" placeholder="Full Name" required/>
                                                 <span className="icon is-left">
-                                                    <i className="fas fa-user"></i>
+                                                    <i className="fas fa-user"/>
                                                 </span>
                                             </div>
                                         </div>
@@ -107,7 +107,7 @@ export default class SignupIndexPage extends React.Component {
                                                        placeholder="Organisation Name"
                                                        required/>
                                                 <span className="icon is-left">
-                                                    <i className="fas fa-building"></i>
+                                                    <i className="fas fa-building"/>
                                                 </span>
                                             </div>
                                         </div>
@@ -151,7 +151,7 @@ export default class SignupIndexPage extends React.Component {
                                                 <span className="icon is-left">
                                                     <i className="fas fa-envelope"></i>
                                                 </span>
-                                                <span className={this.emailStyle(this.state.email)}>
+                                                <span className={SignupIndexPage.emailStyle(this.state.email)}>
                                                     <i className="fas fa-check"></i>
                                                 </span>
                                             </div>
@@ -191,7 +191,7 @@ export default class SignupIndexPage extends React.Component {
                                                 <div className="field">
                                                     <div className="control">
                                                         <input className="button is-primary is-fullwidth" type="submit"
-                                                               value={this.getSignupButtonLabel(contactSource)}/>
+                                                               value={SignupIndexPage.getSignupButtonLabel(contactSource)}/>
                                                     </div>
                                                 </div>
                                             </div>

@@ -116,8 +116,8 @@ export default class Navbar extends React.Component {
                                                 Blog
                                             </Link>
                                         </div>
-                                        <div className="navbar-end has-text-centered">
-                                            <div className="navbar-item">
+                                        <div className="navbar-end">
+                                            <div className="navbar-item full-centered">
                                                 <div className="field is-grouped is-grouped-multiline">
                                                     <p className="control">
                                                         <a href="https://app.avniproject.org" className="button">LOGIN</a>

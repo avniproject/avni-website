@@ -5,7 +5,7 @@ const ContactUs = () => (
         <h1 className="has-text-centered is-size-3-mobile is-size-2-desktop has-text-weight-bold">Contact Us</h1>
         <p className="has-text-centered has-text-weight-bold">Feedback, Query, Suggestion, Anything? Please send your message. We will get back to you asap!</p>
         <br/>
-        <div style={{width: "50%", margin: "auto"}}>
+        <div style={{width: "65%", margin: "auto"}}>
             <form method="post" action="https://formspree.io/mrgbyoqr">
                 <div>
                     <label className="has-text-weight-bold">Message:</label>
@@ -15,7 +15,7 @@ const ContactUs = () => (
                 </div>
                 <div className="has-text-left has-text-weight-bold" style={{width: "100%", display: "table"}}>
                     <div style={{width: "50%", float: "left"}}>
-                        <label>Your Name:</label>
+                        <label>Name:</label>
                         <div>
                             <input type="text" className="form-control" id="name" name="name" required style={{width: "95%"}}/>
                         </div>

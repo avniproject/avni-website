@@ -105,7 +105,6 @@ export default function Index() {
                         <VerticalTileGroup>
                             <FeatureTile
                                 title="Design your forms and data model via web browser"
-                                description=""
                                 images={[
                                     {src: selfDesign1, altText: "Form designer"},
                                     {src: selfDesign2, altText: "List of forms"},

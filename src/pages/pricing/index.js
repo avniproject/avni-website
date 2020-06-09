@@ -8,9 +8,9 @@ export default function Index() {
         <Layout>
             <br/>
             <div className="container">
-                <h1 className="title">Avni Plans</h1>
                 <div className="columns is-mobile is-multiline">
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
+                        <h1 className="title">Avni Plans</h1>
                         <p>Avni is fully open source, and can be <ExternalLink href="https://avni.readme.io/docs/environment-setup-guides">setup and used for
                             free</ExternalLink>.
                             But if you want to use our hosted version so that you don't have to manage / maintain it, then you can look at the plans. We are offering a

@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "./Navbar"
 import banner from '../img/cover.png'
 import unicef_logo from '../img/unicef-logo.png'
-import maha_logo from '../img/gov-mah-logo.png'
 import jss_logo from '../img/jss-logo.png'
 import ihmp_logo from '../img/ihmp-logo.png'
 import tt_logo from '../img/tata_trusts-logo.png'
@@ -33,7 +32,7 @@ export default function LandingPageHero() {
                             flexDirection: 'column',
                         }}
                     >
-                        <h5
+                        <p
                             className="is-size-6-mobile is-size-3-tablet is-size-3-desktop is-size-3-widescreen"
                             style={{
                                 backgroundColor: 'rgb(48, 48, 48, 0.8)',
@@ -46,10 +45,7 @@ export default function LandingPageHero() {
                         >
                             Open Source <b>field work</b> and <b>data collection</b> platform for non-profits and
                             governments in all sectors &#x2014; health, water, education, social service...
-                        </h5>
-                        <div style={{textAlign: 'center', paddingTop: '1em'}}>
-                            <a href="/demo" className="button is-dark is-inverted"><b>Try the Demo &raquo;</b></a>
-                        </div>
+                        </p>
                     </div>
                 </div>
                 <div className="hero-foot container">

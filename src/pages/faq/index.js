@@ -67,7 +67,7 @@ export default function Index() {
                 </div>
             </section>
             <br/>
-            <br/>
+            <hr/>
             <ContactUs/>
         </Layout>
     )
