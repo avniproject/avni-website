@@ -39,7 +39,6 @@ export default class SignupIndexPage extends React.Component {
     }
 
     static emailStyle(email) {
-        // console.log(email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/));
         return email.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/) ?
             "icon is-right has-text-success" : "icon is-right";
     }
@@ -181,6 +180,7 @@ export default class SignupIndexPage extends React.Component {
                                                 </span>
                                             </div>
                                         </div>
+                                        <input type="text" name="_gotcha" style={{display: "none"}} />
                                         {/*<div>*/}
                                             {/*By signing up, you accept our <a>Terms of Service</a> and <a>Privacy*/}
                                             {/*Policy</a>.*/}
