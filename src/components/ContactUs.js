@@ -6,7 +6,8 @@ const ContactUs = () => (
         <p className="has-text-centered has-text-weight-bold">Feedback, Query, Suggestion, Anything? Please send your message. We will get back to you asap!</p>
         <br/>
         <div style={{width: "65%", margin: "auto"}}>
-            <form method="post" action="https://formspree.io/mrgbyoqr">
+            {/*<form method="post" action="https://formspree.io/mrgbyoqr">*/}
+            <form method="post" action="https://formspree.io/xlepnyzk">
                 <div>
                     <label className="has-text-weight-bold">Message:</label>
                     <div style={{margin: "auto"}}>
