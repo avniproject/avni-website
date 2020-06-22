@@ -60,9 +60,9 @@ export default function Index() {
                             />
                             <FeatureTile
                                 title="Take attendance"
-                                description="Define any type of group and capture member's attendance easily."
+                                description="For any group capture its member's attendance easily."
                                 images={[
-                                    {src: attendance, altText: "Attendance"}
+                                    // {src: attendance, altText: "Attendance"}
                                 ]}
                             />
                         </VerticalTileGroup>
