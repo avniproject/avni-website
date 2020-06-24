@@ -17,7 +17,7 @@ export default function Index() {
                             </p>
 
                             <h3>System administration app</h3>
-                            <p>For administration app in your browser go to <ExternalLink href="https://app.avniproject.org">https://app.avniproject.org</ExternalLink>.
+                            <p>For administration app in your browser go to <ExternalLink href="https://app.avniproject.org">https://app.avniproject.org</ExternalLink> and use login details for maternal and child health demo given below.
                             </p>
 
                             <h3>Reporting and dashboard capability</h3>
@@ -60,8 +60,8 @@ export default function Index() {
                         <div className="content">
                             <h3>Demo login</h3>
                             <hr/>
-                            {demoDetails("Track and support adolescents under risk", "adol-demo", "admin@adol", "Rg5kQAKnsvgPwmjv")}
-                            {demoDetails("Child growth monitoring", "phulwari-demo", "admin@phulwari_demo", "jN1VJ1H33nb9mHnC")}
+                            {demoDetails("Track and support adolescents under risk", "adol-demo")}
+                            {demoDetails("Child growth monitoring", "phulwari-demo")}
                             {demoDetails("Data reporting of dam de-silting work", "ddm-demo")}
                         </div>
                     </div>
@@ -69,18 +69,19 @@ export default function Index() {
                         <div className="content">
                             <h3>A few more login</h3>
                             <hr/>
-                            {demoDetails("Cancer Screening", "canscr-demo", undefined, undefined, "this demo doesn't use smart forms (with skip logic etc) and decision support rules.")}
+                            {demoDetails("Cancer Screening", "canscr-demo", undefined, "this demo doesn't use smart forms (with skip logic etc) and decision support rules.")}
                             <br/>
-                            {demoDetails("Pregnancy, newborn and child growth", "mch-demo", undefined, undefined, "this demo doesn't have visit scheduling and hence you will not see anything interesting on Dashboard of the field app.")}
+                            {demoDetails("Maternal and child health", "mili@mch-demo", "admin@mch-demo-jnpct", "since the admin is open to public, someone may have made breaking changes causing the app to not work as expected in some places. Please contact us if you need help.")}
                         </div>
                     </div>
                 </div>
+                <br/>
             </div>
         </Layout>
     )
 }
 
-function demoDetails(title, fieldUser, adminUser, adminPassword, note) {
+function demoDetails(title, fieldUser, adminUser, note) {
     return <>
         <h5>{title}</h5>
         <div><b>Field app</b></div>
@@ -89,14 +90,14 @@ function demoDetails(title, fieldUser, adminUser, adminPassword, note) {
             <br/>
             Password=password
         </div>
-        {/*{adminUser && <>*/}
-            {/*<div><b>System administration app</b></div>*/}
-            {/*<div>*/}
-                {/*User={adminUser}*/}
-                {/*<br/>*/}
-                {/*Password={adminPassword}*/}
-            {/*</div>*/}
-        {/*</>}*/}
+        {adminUser && <>
+            <div><b>System administration app</b></div>
+            <div>
+                User={adminUser}
+                <br/>
+                Password=password
+            </div>
+        </>}
         {note && <small>
             <i><b>Note</b>: {note}</i>
         </small>}
