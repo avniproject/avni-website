@@ -2,16 +2,6 @@ import React from "react";
 import Layout from "../../components/Layout";
 import ExternalLink from "../../components/ExternalLink";
 
-// let userDetails = function (user, implAdminUser) {
-//     return <p>
-//         User={user}
-//         <br/>
-//         Admin user (for web)={implAdminUser}
-//         <br/>
-//         Password (both)=password
-//     </p>;
-// };
-
 export default function Index() {
     return (
         <Layout>
@@ -22,11 +12,13 @@ export default function Index() {
                             <h1 className="title">Demo</h1>
                             <h3>Install the app from Android Play Store</h3>
                             <p>
-                                On your Android device, go to <b>Play Store</b>&nbsp;,&nbsp;search for Avni, and <b>install</b> the field app. You can use <ExternalLink href="https://play.google.com/store/apps/details?id=com.openchsclient">this link</ExternalLink> from your mobile too.
+                                On your Android device, go to <b>Play Store</b>&nbsp;,&nbsp;search for Avni, and <b>install</b> the field app. You can use <ExternalLink
+                                href="https://play.google.com/store/apps/details?id=com.openchsclient">this link</ExternalLink> from your mobile too.
                             </p>
 
                             <h3>System administration app</h3>
-                            <p>For administration app in your browser go to <ExternalLink href="https://app.avniproject.org">https://app.avniproject.org</ExternalLink>.</p>
+                            <p>For administration app in your browser go to <ExternalLink href="https://app.avniproject.org">https://app.avniproject.org</ExternalLink>.
+                            </p>
 
                             <h3>Reporting and dashboard capability</h3>
                             <p>
@@ -68,61 +60,47 @@ export default function Index() {
                         <div className="content">
                             <h3>Demo login</h3>
                             <hr/>
-                            <h5>Track and support adolescents under risk</h5>
-                            <p>
-                                User=adol-demo
-                                <br/>
-                                Password=password
-                            </p>
-                            <h5>Child growth monitoring</h5>
-                            <p>
-                                User=phulwari-demo
-                                <br/>
-                                Password=password
-                            </p>
-                            <h5>Data reporting of dam de-silting work</h5>
-                            <p>
-                                User=ddm-demo
-                                <br/>
-                                Password=password
-                            </p>
-                            <br/>
+                            {demoDetails("Track and support adolescents under risk", "adol-demo", "admin@adol", "Rg5kQAKnsvgPwmjv")}
+                            {demoDetails("Child growth monitoring", "phulwari-demo", "admin@phulwari_demo", "jN1VJ1H33nb9mHnC")}
+                            {demoDetails("Data reporting of dam de-silting work", "ddm-demo")}
                         </div>
                     </div>
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content">
                             <h3>A few more login</h3>
                             <hr/>
-                            <h4>Cancer Screening</h4>
-                            <p>
-                                User=canscr-demo
-                                <br/>
-                                password=password
-                                <br/>
-                                <small>
-                                    <i>
-                                        <b>Note</b>: this demo doesn't use smart forms (with skip logic etc) and decision support rules.
-                                    </i>
-                                </small>
-                            </p>
-                            <h4>Pregnancy, newborn and child growth</h4>
-                            <p>
-                                User=mch-demo
-                                <br/>
-                                Password=password
-                                <br/>
-                                <small>
-                                    <i>
-                                        <b>Note</b>: this demo doesn't have visit scheduling and hence you will not see anything interesting happening on My Dashboard
-                                    </i>
-                                </small>
-                            </p>
+                            {demoDetails("Cancer Screening", "canscr-demo", undefined, undefined, "this demo doesn't use smart forms (with skip logic etc) and decision support rules.")}
+                            <br/>
+                            {demoDetails("Pregnancy, newborn and child growth", "mch-demo", undefined, undefined, "this demo doesn't have visit scheduling and hence you will not see anything interesting on Dashboard of the field app.")}
                         </div>
                     </div>
                 </div>
             </div>
-            <br/>
-            < br/>
+
         </Layout>
     )
+}
+
+function demoDetails(title, fieldUser, adminUser, adminPassword, note) {
+    return <>
+        <h5>{title}</h5>
+        <div><b>Field app</b></div>
+        <div>
+            User={fieldUser}
+            <br/>
+            Password=password
+        </div>
+        {adminUser && <>
+            <div><b>System administration app</b></div>
+            <div>
+                User={adminUser}
+                <br/>
+                Password={adminPassword}
+            </div>
+        </>}
+        {note && <small>
+            <i><b>Note</b>: {note}</i>
+        </small>}
+        <br/>
+    </>;
 }
