@@ -76,7 +76,6 @@ export default function Index() {
                     </div>
                 </div>
             </div>
-
         </Layout>
     )
 }
@@ -90,14 +89,14 @@ function demoDetails(title, fieldUser, adminUser, adminPassword, note) {
             <br/>
             Password=password
         </div>
-        {adminUser && <>
-            <div><b>System administration app</b></div>
-            <div>
-                User={adminUser}
-                <br/>
-                Password={adminPassword}
-            </div>
-        </>}
+        {/*{adminUser && <>*/}
+            {/*<div><b>System administration app</b></div>*/}
+            {/*<div>*/}
+                {/*User={adminUser}*/}
+                {/*<br/>*/}
+                {/*Password={adminPassword}*/}
+            {/*</div>*/}
+        {/*</>}*/}
         {note && <small>
             <i><b>Note</b>: {note}</i>
         </small>}
