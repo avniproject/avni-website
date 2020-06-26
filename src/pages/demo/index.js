@@ -17,7 +17,9 @@ export default function Index() {
                             </p>
 
                             <h3>System administration app</h3>
-                            <p>For administration app in your browser go to <ExternalLink href="https://app.avniproject.org">https://app.avniproject.org</ExternalLink> and use login details for maternal and child health demo given below.
+                            <p>For administration app in your browser go to <ExternalLink
+                                href="https://app.avniproject.org">https://app.avniproject.org</ExternalLink> and use login details for maternal and child health demo
+                                given below.
                             </p>
 
                             <h3>Reporting and dashboard capability</h3>
@@ -71,7 +73,8 @@ export default function Index() {
                             <hr/>
                             {demoDetails("Cancer Screening", "canscr-demo", undefined, "this demo doesn't use smart forms (with skip logic etc) and decision support rules.")}
                             <br/>
-                            {demoDetails("Maternal and child health", "mili@mch-demo", "admin@mch-demo", "since the admin is open to public, someone may have made breaking changes causing the app to not work as expected in some places. Please contact us if you need help.")}
+                            {/*"since the admin is open to public, someone may have made breaking changes causing the field app to not work as expected in some places. Please contact us if you need help."*/}
+                            {demoDetails("Maternal and child health", undefined, "admin@mch-demo", undefined)}
                         </div>
                     </div>
                 </div>
@@ -84,12 +87,14 @@ export default function Index() {
 function demoDetails(title, fieldUser, adminUser, note) {
     return <>
         <h5>{title}</h5>
-        <div><b>Field app</b></div>
-        <div>
-            User={fieldUser}
-            <br/>
-            Password=password
-        </div>
+        {fieldUser && <>
+            <div><b>Field app</b></div>
+            <div>
+                User={fieldUser}
+                <br/>
+                Password=password
+            </div>
+        </>}
         {adminUser && <>
             <div><b>System administration app</b></div>
             <div>
