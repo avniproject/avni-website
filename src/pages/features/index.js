@@ -65,6 +65,11 @@ export default function Index() {
                                     // {src: attendance, altText: "Attendance"}
                                 ]}
                             />
+                            <FeatureTile
+                                title="API to pull data out of Avni"
+                                description="REST+JSON based API."
+                                images={[]}
+                            />
                         </VerticalTileGroup>
                         <VerticalTileGroup>
                             <FeatureTile
@@ -95,11 +100,6 @@ export default function Index() {
                                     {src: longitudinalExport, altText: "Longitudinal export"}
                                 ]}
                                 htmlSnippets="<a href='https://www.youtube.com/watch?v=HsvQDG9dgyM' target='_blank' rel='noopener noreferrer'> longitudinal exports</a>"
-                            />
-                            <FeatureTile
-                                title="API to pull data out of Avni"
-                                description="REST+JSON based API."
-                                images={[]}
                             />
                         </VerticalTileGroup>
                         <VerticalTileGroup>
@@ -179,8 +179,8 @@ export default function Index() {
                         <h1>Avni empowers field work</h1>
                         <div>
                             <iframe style={{height: 569, width: 960}}
-                                src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
-                                frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
+    frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"/>
                         </div>
                     </div>
                 </div>
