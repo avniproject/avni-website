@@ -71,7 +71,7 @@ export default function Index() {
                             <hr/>
                             {demoDetails("Cancer Screening", "canscr-demo", undefined, "this demo doesn't use smart forms (with skip logic etc) and decision support rules.")}
                             <br/>
-                            {demoDetails("Maternal and child health", "mili@mch-demo", "admin@mch-demo-jnpct", "since the admin is open to public, someone may have made breaking changes causing the app to not work as expected in some places. Please contact us if you need help.")}
+                            {demoDetails("Maternal and child health", "mili@mch-demo", "admin@mch-demo", "since the admin is open to public, someone may have made breaking changes causing the app to not work as expected in some places. Please contact us if you need help.")}
                         </div>
                     </div>
                 </div>
