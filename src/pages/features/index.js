@@ -3,7 +3,6 @@ import Layout from "../../components/Layout";
 import FeatureTile, {VerticalTileGroup} from "../../components/Tile";
 import imgCounselling1 from "../../img/counselling1.png";
 import imgCounselling2 from "../../img/counselling2.png";
-import attendance from "../../img/attendance.png";
 import dataModel1 from "../../img/data-model-1.png";
 import dataModel2 from "../../img/data-model-2.png";
 import dataModel3 from "../../img/data-model-3.png";
@@ -16,6 +15,9 @@ import imgSkipLogic from "../../img/SkipLogic.gif";
 import imgCalculatedField from "../../img/CalculatedField.gif";
 import imgChildImmunisation from "../../img/child-immunisation.png";
 import imgChildGrowthChart from "../../img/child-growth-chart.png";
+import imgIdentifierAssignment from "../../img/identifier-assignment.png";
+import imgCustomisableSearch from "../../img/customisable-search.png";
+import imgMyDashboardFilters from "../../img/my-dashboard-filters.png";
 import accessControl from "../../img/access-control.png";
 import myDashboard from "../../img/my-dashboard.gif";
 import household from "../../img/household.png";
@@ -51,6 +53,14 @@ export default function Index() {
                                 ]}
                             />
                             <FeatureTile
+                                title="Customisable search and fieldworker dashboard"
+                                description="Search beneficiaries in field by your chosen data property (e.g. Phone, Name, Ids, Student's class, Health status)"
+                                images={[
+                                    {src: imgCustomisableSearch, altText: "Setup customisable search"},
+                                    {src: imgMyDashboardFilters, altText: "My dashboard filters"}
+                                ]}
+                            />
+                            <FeatureTile
                                 title="Counsel your beneficiaries"
                                 description="Let the app guide your fieldwork."
                                 images={[
@@ -65,11 +75,6 @@ export default function Index() {
                                     // {src: attendance, altText: "Attendance"}
                                 ]}
                             />
-                            <FeatureTile
-                                title="API to pull data out of Avni"
-                                description="REST+JSON based API."
-                                images={[]}
-                            />
                         </VerticalTileGroup>
                         <VerticalTileGroup>
                             <FeatureTile
@@ -81,8 +86,11 @@ export default function Index() {
                                 ]}
                             />
                             <FeatureTile
-                                title="Customisable search. System generated identifiers."
-                                description=""
+                                title="System generated identifiers."
+                                description="Assign range to fieldworkers, and auto generate ids in the field"
+                                images={[
+                                    {src: imgIdentifierAssignment, altText: "Identifier Assignment"}
+                                ]}
                             />
                             <FeatureTile
                                 title="Work schedule management"
@@ -129,6 +137,12 @@ export default function Index() {
                             <FeatureTile
                                 title="Multiple language support"
                                 description="Multiple languages per implementation. Translations management system."
+                            />
+                            <FeatureTile
+                                title="API to pull data out of Avni"
+                                description="REST+JSON based "
+                                images={[]}
+                                htmlSnippets="<a href='https://avni.readme.io/docs/api-guide' target='_blank' rel='noopener noreferrer'>API.</a>"
                             />
                             <FeatureTile
                                 title="Leverage other's programs"
