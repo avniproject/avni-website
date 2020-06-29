@@ -35,13 +35,14 @@ export default class CaseStudyIndexPage extends React.Component {
 
                         <hr/>
                         <br/>
-                        <div className="content full-centered">
-                            <iframe
-                                style={{height: 900, width: 1200}}
-                                src="https://reporting.avniproject.org/public/question/74e6d446-4d3e-4544-960f-096048d7f2e2"
-                                frameBorder="2"
-
-                            />
+                        <div className="full-centered">
+                            <a name="avni-implementations"/>
+                            <div style={{borderStyle: "groove"}}>
+                                <iframe
+                                    style={{height: 900, width: 1200, border: 1}}
+                                    src="https://reporting.avniproject.org/public/question/74e6d446-4d3e-4544-960f-096048d7f2e2"
+                                />
+                            </div>
                         </div>
                     </div>
                 </section>
