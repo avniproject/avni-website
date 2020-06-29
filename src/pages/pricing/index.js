@@ -13,7 +13,7 @@ export default function Index() {
                         <h1 className="title">Avni Plans</h1>
                         <p>Avni is fully open source, and can be <ExternalLink href="https://avni.readme.io/docs/environment-setup-guides">setup and used for
                             free</ExternalLink>.
-                            But if you want to use our hosted version so that you don't have to manage / maintain it, then you can look at the plans. We are offering a
+                            But if you want to use our cloud hosted version so that you don't have to manage / maintain it, then you can look at the plans. We are offering a
                             one time special plan for the first 50 organisations that sign up. If you have a higher number of users, or expected forms submissions, or
                             additional needs - please use the custom plan to contact us. Our hosted option has the following benefits:
                         </p>
@@ -29,6 +29,7 @@ export default function Index() {
                             <br/>
                             <li><b>All features</b></li>
                             <li><b>Up to 100 users or 10,000 form submissions per month</b></li>
+                            <li><b>Multiple projects</b></li>
                             <li><b>No Credit Card Required</b></li>
                             <li><b>Community support</b></li>
                             <br/>
@@ -49,6 +50,7 @@ export default function Index() {
                             <li><b>All features</b></li>
                             <li><b>Flat Rs. 30,000 annually, including tax</b></li>
                             <li><b>Up to 100 users or 10,000 form submissions per month</b></li>
+                            <li><b>Multiple projects</b></li>
                             <li><b>Billed one time</b></li>
                             <li><b>Free 3 months trial (no credit card)</b></li>
                             <li><b>Community support</b></li>
