@@ -12,7 +12,7 @@ title: About the Project
 
 * <a href="https://github.com/avniproject" target="_blank" rel="noopener noreferrer">Source code (https://github.com/avniproject)</a>
 * AGPL 3 license
-* <a href="https://gitter.im/OpenCHS/openchs" target="_blank" rel="noopener noreferrer">Chat channel for developers (https://gitter.im/OpenCHS/openchs)</a>
+* <a href="https://gitter.im/avniproject/avni" target="_blank" rel="noopener noreferrer">Chat channel for developers (https://gitter.im/avniproject/avni)</a>
 * <a href="https://circleci.com/gh/avniproject" target="_blank" rel="noopener noreferrer">CI Server and Binary Download (https://circleci.com/gh/avniproject)</a>- requires login
 * <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank" rel="noopener noreferrer">Android Playstore App</a>
 * <a href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0" target="_blank" rel="noopener noreferrer">Product Slide Deck</a>
