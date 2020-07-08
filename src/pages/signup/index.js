@@ -148,10 +148,10 @@ export default class SignupIndexPage extends React.Component {
                                                        onChange={(event) => this.setState({email: event.target.value})}
                                                 />
                                                 <span className="icon is-left">
-                                                    <i className="fas fa-envelope"></i>
+                                                    <i className="fas fa-envelope"/>
                                                 </span>
                                                 <span className={SignupIndexPage.emailStyle(this.state.email)}>
-                                                    <i className="fas fa-check"></i>
+                                                    <i className="fas fa-check"/>
                                                 </span>
                                             </div>
                                         </div>
@@ -163,7 +163,7 @@ export default class SignupIndexPage extends React.Component {
                                                        name="username"
                                                        placeholder="login username"/>
                                                 <span className="icon is-left">
-                                                    <i className="fas fa-user"></i>
+                                                    <i className="fas fa-user"/>
                                                 </span>
                                             </div>
                                         </div>

@@ -35,7 +35,8 @@ export default function Index() {
                             <a href="#health-features">Health specific features</a>
                         </div>
                         <div>
-                            <ExternalLink href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product">Roadmap for upcoming features</ExternalLink>
+                            <ExternalLink href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product">Roadmap for
+                                upcoming features</ExternalLink>
                         </div>
                     </div>
                 </div>
@@ -192,9 +193,10 @@ export default function Index() {
                     <div className="content">
                         <h1>Avni empowers field work</h1>
                         <div>
+                            <div id="intro-slide-deck"/>
                             <iframe style={{height: 569, width: 960}}
-    src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
-    frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"/>
+                                    src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
+                                    frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"/>
                         </div>
                     </div>
                 </div>
