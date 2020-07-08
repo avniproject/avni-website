@@ -38,6 +38,12 @@ export default function Index() {
                             <ExternalLink href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product">Roadmap for
                                 upcoming features</ExternalLink>
                         </div>
+                        <div>
+                            <a href="#intro-slide-deck">Avni introduction (slide deck)</a>
+                        </div>
+                        <div>
+                            <a href="#use-cases">Avni use cases</a>
+                        </div>
                     </div>
                 </div>
                 <div className="container" style={{marginTop: "2em"}}>
@@ -192,8 +198,8 @@ export default function Index() {
                 <div className="container">
                     <div className="content">
                         <h1>Avni empowers field work</h1>
+                        <div id="intro-slide-deck"/>
                         <div>
-                            <div id="intro-slide-deck"/>
                             <iframe style={{height: 569, width: 960}}
                                     src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
                                     frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"/>
@@ -205,6 +211,7 @@ export default function Index() {
             <hr/>
 
             <section className="section">
+                <div id="use-cases"/>
                 <div className="container">
                     <div className="content">
                         <h1>Use Cases</h1>
