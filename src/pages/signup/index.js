@@ -54,9 +54,9 @@ export default class SignupIndexPage extends React.Component {
             if (xhr.readyState !== XMLHttpRequest.DONE) return;
             if (xhr.status === 200) {
                 form.reset();
-                this.setState({status: Status.Success, signeeName: data.get('name'), email: data.get('email')});
+                this.setState({status: Status.Success, signeeName: data.get('name'), email: "avni@samanvayfoundation.org"});
             } else {
-                this.setState({status: Status.Error, signeeName: data.get('name'), email: data.get('email')});
+                this.setState({status: Status.Error, signeeName: data.get('name'), email: "avni@samanvayfoundation.org"});
             }
         };
         xhr.send(data);
