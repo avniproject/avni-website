@@ -54,11 +54,13 @@ export default class SignupIndexPage extends React.Component {
             if (xhr.readyState !== XMLHttpRequest.DONE) return;
             if (xhr.status === 200) {
                 form.reset();
-                this.setState({status: Status.Success, signeeName: data.get('name'), email: "avni@samanvayfoundation.org"});
+                this.setState({status: Status.Success, signeeName: data.get('name'), email: data.get('email')});
             } else {
-                this.setState({status: Status.Error, signeeName: data.get('name'), email: "avni@samanvayfoundation.org"});
+                this.setState({status: Status.Error, signeeName: data.get('name'), email: data.get('email')});
             }
         };
+        data.set("signerEmail", data.get('email'));
+        data.set("email", "avni@samanvayfoundation.org");
         xhr.send(data);
     }
 
@@ -176,7 +178,7 @@ export default class SignupIndexPage extends React.Component {
                                                        placeholder="Phone number"
                                                 />
                                                 <span className="icon is-left">
-                                                    <i className="fas fa-phone"></i>
+                                                    <i className="fas fa-phone"/>
                                                 </span>
                                             </div>
                                         </div>
