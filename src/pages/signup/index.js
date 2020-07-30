@@ -159,7 +159,7 @@ export default class SignupIndexPage extends React.Component {
                                         <div>
                                             <label className="label">Additional Message (Optional)</label>
                                             <div className="control has-icons-left has-label">
-                                                <textarea className="textarea" name="message" placeholder="HOW CAN WE HELP YOU?"/>
+                                                <textarea className="textarea" name="message" placeholder="HOW ELSE CAN WE HELP YOU?"/>
                                             </div>
                                         </div>
                                         <div className="field">
