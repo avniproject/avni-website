@@ -119,7 +119,6 @@ export default class SignupIndexPage extends React.Component {
                                                     <select required name="organisationStatus">
                                                         <option value="">Select</option>
                                                         <option value="Non-profit">Non-profit</option>
-                                                        <option value="For-profit">For-profit</option>
                                                         <option value="Government">Government</option>
                                                         <option value="Personal">Personal</option>
                                                         <option value="Others">Others</option>
@@ -155,6 +154,12 @@ export default class SignupIndexPage extends React.Component {
                                                 <span className={SignupIndexPage.emailStyle(this.state.email)}>
                                                     <i className="fas fa-check"/>
                                                 </span>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <label className="label">Additional Message (Optional)</label>
+                                            <div className="control has-icons-left has-label">
+                                                <textarea className="textarea" name="message" placeholder="HOW CAN WE HELP YOU?"/>
                                             </div>
                                         </div>
                                         <div className="field">
