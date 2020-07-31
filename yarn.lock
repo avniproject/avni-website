@@ -10585,6 +10585,11 @@ react-aria-menubutton@^6.0.0:
     prop-types "^15.6.0"
     teeny-tap "^0.2.0"
 
+react-calendly@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-calendly/-/react-calendly-1.0.1.tgz#b09e34b27008eb1ae1b8028d50bb2063a12dca19"
+  integrity sha512-oKJierp80bVd44Ca6gj/O22wIcGk6T6GkX0H5LhiS9kNmasTPDL5wJOJ1RNgVSmh3/bojqOklhUbBlPQKoYALQ==
+
 react-datetime@^2.16.3:
   version "2.16.3"
   resolved "https://registry.yarnpkg.com/react-datetime/-/react-datetime-2.16.3.tgz#7f9ac7d4014a939c11c761d0c22d1fb506cb505e"
