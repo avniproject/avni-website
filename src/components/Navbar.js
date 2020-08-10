@@ -3,7 +3,7 @@ import {Link} from 'gatsby'
 import logo from '../img/avni-logo-color.png'
 import {Location} from '@reach/router'
 import Constants from "../Constants";
-import {PopupText, PopupWidget} from "react-calendly";
+import {PopupText} from "react-calendly";
 
 
 export default class Navbar extends React.Component {
@@ -78,42 +78,42 @@ export default class Navbar extends React.Component {
                                             <div className="navbar-start has-text-centered">
                                                 <Link to="/features"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     Features
                                                 </Link>
                                                 <Link to="/demo"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     Demo
                                                 </Link>
                                                 <Link to="/case-studies"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     Case Studies
                                                 </Link>
                                                 <Link to="/getting-started"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     Get Started
                                                 </Link>
                                                 <Link to="/faq"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     FAQ
                                                 </Link>
                                                 <Link to="/pricing"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     Pricing
                                                 </Link>
                                                 <Link to="/about"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     About
                                                 </Link>
                                                 <Link to="/blog"
                                                       activeClassName="active-nav-item"
-                                                      className="navbar-item has-text-weight-bold is-uppercase">
+                                                      className="navbar-item">
                                                     Blog
                                                 </Link>
                                             </div>
@@ -121,17 +121,16 @@ export default class Navbar extends React.Component {
                                                 <div className="navbar-item full-centered">
                                                     <div className="field is-grouped is-grouped-multiline">
                                                         {/*https://tcampb.github.io/react-calendly/?path=/story/components--popuptext*/}
-                                                        <p className="button" style={{marginRight: 12, borderColor: 'black', borderStyle: 'solid', borderWidth: 2}}>
-                                                            <b><PopupText
-                                                                text="SCHEDULE DEMO"
+                                                        <p classname="has-text-centered"><a className="navbar-item has-text-weight-bold" href="https://app.avniproject.org">Log in</a></p>
+                                                        <p className="has-text-weight-bold control">
+                                                            <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button">Try for free</a>
+                                                        </p>
+                                                        <p className="button is-primary" style={{marginRight: 12}}>
+                                                            <PopupText
+                                                                text="Schedule a Demo"
                                                                 url="https://calendly.com/avniproject/discuss-demo"
-                                                            /></b>
-                                                        </p>
-                                                        <p className="control">
-                                                            <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button">FREE TRIAL</a>
-                                                        </p>
-                                                        <p className="control">
-                                                            <a href="https://app.avniproject.org" className="button">LOGIN</a>
+                                                                styles={{color:'white', fontWeight:'bold'}}
+                                                            />
                                                         </p>
                                                     </div>
                                                 </div>
