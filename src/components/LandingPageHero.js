@@ -6,6 +6,8 @@ import jss_logo from '../img/jss-logo.png'
 import ihmp_logo from '../img/ihmp-logo.png'
 import tt_logo from '../img/tata_trusts-logo.png'
 import yenepoya_logo from '../img/yenepoya.png'
+import {PopupText} from "react-calendly";
+import Constants from "../Constants";
 
 export default function LandingPageHero() {
     return (
@@ -46,6 +48,18 @@ export default function LandingPageHero() {
                             Open Source <b>field work</b> and <b>data collection</b> platform for non-profits and
                             governments in all sectors &#x2014; health, water, education, social service...
                         </p>
+                        <div className="field is-grouped is-grouped-multiline container" style={{paddingTop: '2rem'}}>
+                            <p className="has-text-weight-bold control">
+                                <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button is-medium">Try for free</a>
+                            </p>
+                            <p className="button is-primary is-medium" style={{marginRight: 12}}>
+                                <PopupText
+                                    text="Schedule a Demo"
+                                    url="https://calendly.com/avniproject/discuss-demo"
+                                    styles={{color:'white', fontWeight:'bold'}}
+                                />
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div className="hero-foot container">
