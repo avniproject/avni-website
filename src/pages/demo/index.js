@@ -40,20 +40,6 @@ export default function Index() {
 
                         </div>
                     </div>
-                    <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
-                        <br/>
-                        <br/>
-                        <br/>
-                        <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
-                            <h2>Schedule a one-on-one demo</h2>
-                            <p>
-                                If you would like a personalised demo over Google Hangouts or Skype,
-                                do not hesitate to drop us a mail at&nbsp;
-                                <a href="mailto:avni-project@googlegroups.com">avni-project@googlegroups.com</a>&nbsp;
-                                <br/>
-                            </p>
-                        </div>
-                    </div>
                 </div>
                 <br/>
                 <br/>
