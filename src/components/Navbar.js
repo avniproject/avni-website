@@ -86,20 +86,10 @@ export default class Navbar extends React.Component {
                                                       className="navbar-item">
                                                     Demo
                                                 </Link>
-                                                <Link to="/case-studies"
-                                                      activeClassName="active-nav-item"
-                                                      className="navbar-item">
-                                                    Case Studies
-                                                </Link>
                                                 <Link to="/getting-started"
                                                       activeClassName="active-nav-item"
                                                       className="navbar-item">
                                                     Get Started
-                                                </Link>
-                                                <Link to="/faq"
-                                                      activeClassName="active-nav-item"
-                                                      className="navbar-item">
-                                                    FAQ
                                                 </Link>
                                                 <Link to="/pricing"
                                                       activeClassName="active-nav-item"
@@ -111,11 +101,25 @@ export default class Navbar extends React.Component {
                                                       className="navbar-item">
                                                     About
                                                 </Link>
-                                                <Link to="/blog"
-                                                      activeClassName="active-nav-item"
-                                                      className="navbar-item">
-                                                    Blog
-                                                </Link>
+                                                <div className="navbar-item has-dropdown is-hoverable">
+                                                    <a className="navbar-link">
+                                                        Resources
+                                                    </a>
+                                                    <div className="navbar-dropdown">
+                                                        <Link to="/case-studies"
+                                                              className="navbar-item">
+                                                            Case Studies
+                                                        </Link>
+                                                        <Link to="/faq"
+                                                              className="navbar-item">
+                                                            FAQ
+                                                        </Link>
+                                                        <Link to="/blog"
+                                                              className="navbar-item">
+                                                            Blog
+                                                        </Link>
+                                                    </div>
+                                                </div>
                                             </div>
                                             <div className="navbar-end">
                                                 <div className="navbar-item full-centered">
