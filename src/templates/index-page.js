@@ -8,17 +8,19 @@ import LandingPageHero from "../components/LandingPageHero";
 import {VerticalTileGroup} from "../components/Tile";
 import ContactUs from "../components/ContactUs";
 import ExternalLink from "../components/ExternalLink";
+import ValueProposition from "../components/ValueProposition";
+import Authority from "../components/Authority";
 
 export const IndexPageTemplate = ({
                                       features,
                                   }) => (
-
     <div>
-
-        <section style={{borderBottom: '1px solid #CCCCCC', borderTop: '1px solid #CCCCCC'}}>
+        <section style={{borderBottom: '1px solid #CCCCCC', borderTop: '0px solid #CCCCCC'}}>
             <div className="container">
                 <div className="section">
                     <div className="content">
+                        <ValueProposition gridItems={features.blurbs}/>
+                        <Authority/>
                         <Features gridItems={features.blurbs}/>
                     </div>
                 </div>
@@ -77,9 +79,7 @@ const IndexPage = ({data}) => {
 
     return (
         <Layout hero={<LandingPageHero/>}>
-            <IndexPageTemplate
-                features={frontmatter.features}
-            />
+            <IndexPageTemplate features={frontmatter.features}/>
         </Layout>
     )
 };
