@@ -8,10 +8,10 @@ import yenepoya_logo from "../img/yenepoya.png";
 
 const Authority = ({}) => (
     <div className="hero-foot container">
-        <div className="has-text-centered" style={{paddingTop: '2rem'}}>
-            <h4 className="is-size-2-mobile is-size-2-tablet is-size-3-widescreen has-text-grey has-text-weight-bold">
+        <div className="has-text-centered">
+            <h2 className="is-size-2-mobile is-size-2-tablet is-size-3-widescreen has-text-weight-bold">
                 Trusted by
-            </h4>
+            </h2>
             <br/>
             <div id="avni-customers" className="columns is-mobile is-multiline">
                 <div className="column is-2-tablet is-one-third-mobile" style={{marginTop: '-0.4em'}}>
