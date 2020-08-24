@@ -10,6 +10,8 @@ import ContactUs from "../components/ContactUs";
 import ExternalLink from "../components/ExternalLink";
 import ValueProposition from "../components/ValueProposition";
 import Authority from "../components/Authority";
+import Plan from "../components/Plan";
+import Explanation from "../components/Explanation";
 
 export const IndexPageTemplate = ({
                                       features,
@@ -20,44 +22,10 @@ export const IndexPageTemplate = ({
                 <div className="section">
                     <div className="content">
                         <ValueProposition gridItems={features.blurbs}/>
+                        <br/><hr/><br/>
+                        <Plan/>
                         <Authority/>
-                        <Features gridItems={features.blurbs}/>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div className="container">
-                <div className="section">
-                    <h2 className="has-text-centered is-size-3-mobile is-size-2-desktop has-text-weight-bold">
-                        Explore more...
-                    </h2>
-                    <br/>
-                    <br/>
-                    <div className="tile is-ancestor content">
-                        <VerticalTileGroup>
-                            <div className="tile square-tile">
-                                <Link to="/usage-statistics">
-                                    <span className="has-text-info">Who is using Avni? See usage statistics</span>
-                                </Link>
-                            </div>
-                            <div className="tile square-tile">
-                                <ExternalLink href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0">What can it be
-                                    used for?</ExternalLink>
-                            </div>
-                        </VerticalTileGroup>
-                        <VerticalTileGroup>
-                            <div className="tile square-tile">
-                                <Link to="/case-studies">
-                                    <span className="has-text-info">Case Studies</span>
-                                </Link>
-                            </div>
-                            <div className="tile square-tile">
-                                <Link to="/getting-started">
-                                    <span className="has-text-info">How to get setup?</span>
-                                </Link>
-                            </div>
-                        </VerticalTileGroup>
+                        <Explanation/>
                     </div>
                 </div>
             </div>
