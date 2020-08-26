@@ -49,8 +49,8 @@ export default function LandingPageHero() {
                                 textAlign: 'center'
                             }}><div>Open Source. Cloud Hosting.</div><div>Customisation, Training, and Support Services.</div><div><b>All sectors.</b></div></p>
                         <div className="container" style={{paddingTop: '2rem', flexDirection: 'column', display: 'flex', alignItems: 'center'}}>
-                            <SecondaryCTAButton text="Try for free" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
-                            <p className="button is-primary is-medium" style={{marginRight: 12, marginTop: 10}}>
+                            <SecondaryCTAButton text="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Try for free&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
+                            <p className="button is-primary is-medium" style={{marginTop: 10}}>
                                 <PopupText
                                     text="Schedule a Demo"
                                     url="https://calendly.com/avniproject/discuss-demo"
