@@ -1,14 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import {graphql, Link} from "gatsby";
+import {graphql} from "gatsby";
 
 import Layout from "../components/Layout"
-import Features from '../components/Features'
 import LandingPageHero from "../components/LandingPageHero";
-import {VerticalTileGroup} from "../components/Tile";
 import ContactUs from "../components/ContactUs";
-import ExternalLink from "../components/ExternalLink";
-import ValueProposition from "../components/ValueProposition";
+import ValuePropositions from "../components/ValuePropositions";
 import Authority from "../components/Authority";
 import Plan from "../components/Plan";
 import Explanation from "../components/Explanation";
@@ -21,7 +18,7 @@ export const IndexPageTemplate = ({
             <div className="container">
                 <div className="section">
                     <div className="content">
-                        <ValueProposition gridItems={features.blurbs}/>
+                        <ValuePropositions gridItems={features.blurbs}/>
                         <br/><hr/><br/>
                         <Plan/>
                         <br/><hr/><br/>

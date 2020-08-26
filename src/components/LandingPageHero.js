@@ -3,6 +3,7 @@ import Navbar from "./Navbar"
 import banner from '../img/cover.png'
 import {PopupText} from "react-calendly";
 import Constants from "../Constants";
+import SecondaryCTAButton from "./SecondaryCTAButton";
 
 export default function LandingPageHero() {
     return (
@@ -48,9 +49,7 @@ export default function LandingPageHero() {
                                 textAlign: 'center'
                             }}><div>Open Source. Cloud Hosting.</div><div>Customisation, Training, and Support Services.</div><div><b>All sectors.</b></div></p>
                         <div className="field is-grouped is-grouped-multiline container" style={{paddingTop: '2rem'}}>
-                            <p className="has-text-weight-bold control">
-                                <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button is-medium">Try for free</a>
-                            </p>
+                            <SecondaryCTAButton text="Try for free" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
                             <p className="button is-primary is-medium" style={{marginRight: 12}}>
                                 <PopupText
                                     text="Schedule a Demo"

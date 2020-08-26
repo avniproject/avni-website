@@ -1,16 +1,16 @@
-import ValueProposition from "./ValueProposition";
 import React from "react";
 import unicef_logo from "../img/unicef-logo.png";
 import jss_logo from "../img/jss-logo.png";
 import ihmp_logo from "../img/ihmp-logo.png";
 import tt_logo from "../img/tata_trusts-logo.png";
 import yenepoya_logo from "../img/yenepoya.png";
+import SecondaryCTAButton from "./SecondaryCTAButton";
 
 const Authority = ({}) => (
-    <div className="hero-foot container">
+    <div className="hero-foot container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex'}}>
         <div className="has-text-centered">
             <h2 className="is-size-2-mobile is-size-2-tablet is-size-3-widescreen has-text-weight-bold">
-                Trusted by
+                Avni is trusted by
             </h2>
             <br/>
             <div id="avni-customers" className="columns is-mobile is-multiline">
@@ -35,10 +35,14 @@ const Authority = ({}) => (
                 </div>
             </div>
         </div>
+        <div style={{flexDirection: 'row', display: 'flex'}}>
+            <SecondaryCTAButton text="View all projects" link="/case-studies#avni-implementations"/>
+            <span style={{marginLeft: 10}}/>
+            <SecondaryCTAButton text="View case studies" link="/case-studies"/>
+        </div>
     </div>
 );
 
-Authority.propTypes = {
-};
+Authority.propTypes = {};
 
 export default Authority;
