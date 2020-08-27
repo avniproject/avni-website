@@ -4,14 +4,16 @@ import TwitterLogo from '../img/social/twitter.svg';
 import YouTubeLogo from '../img/social/youtube.png';
 import PlayStoreLogo from '../img/social/playstore-icon.png';
 import ExternalLink from "./ExternalLink";
+import Icons8Icon from '../img/attributions/icons8.png';
 
 const Footer = class extends React.Component {
     render() {
         return (
             <footer className="footer has-text-black" style={{paddingTop: 0, backgroundColor: 'lightgrey'}}>
                 <br/>
-                <div className="has-text-centered has-text-weight-bold" style={{paddingLeft: 10, paddingRight: 10}}>Avni is fully open source project run by a <ExternalLink href="https://samanvayfoundation.org/"
-                                                                                                                                 text="small technology non-profit"/>
+                <div className="has-text-centered has-text-weight-bold" style={{paddingLeft: 10, paddingRight: 10}}>Avni is fully open source project run by
+                    a <ExternalLink href="https://samanvayfoundation.org/"
+                                    text="small technology non-profit"/>
                 </div>
                 <br/>
 
@@ -31,7 +33,10 @@ const Footer = class extends React.Component {
                 </div>
                 <div className="has-text-left">
                     <ExternalLink href="https://www.netlify.com">
-                        <img alt="Netlify" src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style={{height: 25, width: 50, marginLeft: 10}}/>
+                        <img alt="Netlify" src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style={{height: 40, marginLeft: 10, marginTop: 0, marginBottom: 5}}/>
+                    </ExternalLink>
+                    <ExternalLink href="https://icons8.com">
+                        <img alt="Icons8" src={Icons8Icon} style={{height: 40, marginLeft: 5, marginTop: 0, marginBottom: 0}}/>
                     </ExternalLink>
                 </div>
             </footer>
