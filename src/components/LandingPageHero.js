@@ -49,9 +49,8 @@ export default function LandingPageHero() {
                             textAlign: 'center'
                         }}>Community service and data collection platform for non-profits</p>
                     <br/>
-                    {subtitle("Open Source. Cloud Hosting.")}
-                    {subtitle("Customisation, Training, and Support Services.")}
-                    {subtitle("In all sectors.")}
+                    {subtitle("Designed to work for all sectors")}
+                    {subtitle("Health, Education, Sanitation, Water, Waste, Agriculture, Social Security.")}
                     <div style={{paddingTop: '1rem', flexDirection: 'column', display: 'flex', alignItems: 'center'}}>
                         <SecondaryCTAButton text="Try for free" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
                         <p className="button is-primary is-medium" style={{marginTop: 10}}>

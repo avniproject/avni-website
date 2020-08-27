@@ -23,7 +23,7 @@ let valueProposition = function (icon, text, description, additionalLine) {
 };
 const ValuePropositions = ({}) => (
     <div className="container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex'}}>
-        <h1 className="full-centered">COMPLETE SOLUTION</h1>
+        <h1 className="full-centered">Comprehensive platform</h1>
         <div className="columns is-mobile is-multiline has-text-centered">
             {valueProposition(CaseManagementIcon, "Case Management", "Create rich data formats. Manage beneficiaries, families, households, groups, anything.")}
             {valueProposition(FormDesignerIcon, "Form Designer", "Design your forms with powerful in-built algorithmic support.", true)}
@@ -32,7 +32,7 @@ const ValuePropositions = ({}) => (
         </div>
         <SecondaryCTAButton text="See all features" link="/features"/>
         <br/>
-        <h1 className="full-centered">WITH ALL SERVICES</h1>
+        <h1 className="full-centered">All services you require</h1>
         <div className="columns is-mobile is-multiline has-text-centered">
             {valueProposition(CloudIcon, "Cloud hosting", "Secured and affordable cloud hosted service.")}
             {valueProposition(CustomisationIcon, "Customisation", "Customisation of the platform as per the needs of your project.")}
