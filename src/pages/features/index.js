@@ -200,9 +200,9 @@ export default function Index() {
                         <h1>Avni empowers field work</h1>
                         <div id="intro-slide-deck"/>
                         <div>
-                            <iframe style={{height: 569, width: 960}}
+                            <iframe style={{width: "100%"}}
                                     src="https://docs.google.com/presentation/d/e/2PACX-1vTQctaucDXTwUQRlIPK2-4f7UJThZ0JxsbvypOea15w827luizJ38vVzcSjyLptcJCqRCeRx2qXRfsy/embed?start=false&loop=false&delayms=60000"
-                                    frameBorder="0" width="960" height="569" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"/>
+                                    frameBorder="0" height="569" width="960" allowFullScreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"/>
                         </div>
                     </div>
                 </div>

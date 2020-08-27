@@ -3,12 +3,12 @@ import {PopupText} from "react-calendly";
 
 let step = function (title, text) {
     return <div className="columns">
-        <div className="column is-one-quarter"/>
-        <div className="column box is-half">
+        <div className="column is-3" style={{padding: 0}}/>
+        <div className="column box is-6">
             <h4>{title}</h4>
             <p>{text}</p>
         </div>
-        <div className="column is-one-quarter"/>
+        <div className="column is-3" style={{padding: 0}}/>
     </div>;
 };
 const Plan = ({}) => (

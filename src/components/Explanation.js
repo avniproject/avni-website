@@ -2,7 +2,7 @@ import React from 'react';
 
 const Explanation = () => (
     <div className="container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex'}}>
-        <h1>In-house data collection applications are <u>unsustainable</u></h1>
+        <h1 className="full-centered">In-house data collection applications are <u>unsustainable</u></h1>
         <div>
             <div className="is-three-fifths full-centered" style={{"margin-left": "10%", "margin-right": "10%"}}>
                 <p>While development of in-house data collections applications seem feasible and even exciting in the beginning - they become difficult to sustain - for
@@ -17,7 +17,7 @@ const Explanation = () => (
             </div>
         </div>
         <br/>
-        <h4>Avni makes your digital transformation sustainable</h4>
+        <h4 className="full-centered">Avni makes your digital transformation sustainable</h4>
     </div>
 );
 
