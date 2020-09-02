@@ -44,7 +44,7 @@ export default function Index() {
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
                             <h1>First 50</h1>
-                            <p><i><ExternalLink href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325">22 signed up so
+                            <p><i><ExternalLink href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325">25 signed up so
                                 far</ExternalLink></i></p>
                             <br/>
                             <li><b>All features</b></li>

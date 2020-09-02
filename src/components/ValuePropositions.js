@@ -26,17 +26,17 @@ const ValuePropositions = ({}) => (
         <h1 className="full-centered">Comprehensive platform</h1>
         <div className="columns is-mobile is-multiline has-text-centered">
             {valueProposition(CaseManagementIcon, "Case Management", "Create rich data formats. Manage beneficiaries, families, households, groups, anything.")}
-            {valueProposition(FormDesignerIcon, "Form Designer", "Design your forms with powerful in-built algorithmic support.", true)}
+            {valueProposition(FormDesignerIcon, "Form Designer", "Design your forms and your own algorithmic decision support.", true)}
             {valueProposition(ReportDashboardIcon, "Reports and Dashboard", "Get insights into your program and share them.", true)}
-            {valueProposition(WorkDiaryIcon, "Work diary", "Your fieldworkers will never miss any activity and their client interaction.")}
+            {valueProposition(WorkDiaryIcon, "Work diary", "Your fieldworkers will never miss any activity or their client interaction.")}
         </div>
         <SecondaryCTAButton text="See all features" link="/features"/>
         <br/>
         <h1 className="full-centered">All services you require</h1>
         <div className="columns is-mobile is-multiline has-text-centered">
-            {valueProposition(CloudIcon, "Cloud hosting", "Secured and affordable cloud hosted service.")}
+            {valueProposition(CloudIcon, "Cloud hosting", "Secured and affordable hosting. Full control of your data.")}
             {valueProposition(CustomisationIcon, "Customisation", "Customisation of the platform as per the needs of your project.")}
-            {valueProposition(TrainingIcon, "Training", "Get trained in the product to customise it yourself.")}
+            {valueProposition(TrainingIcon, "Training", "Get trained in the product to customise platform yourself.")}
             {valueProposition(TechnicalSupportIcon, "Technical support", "Annual maintenance support for your customisations.")}
         </div>
     </div>

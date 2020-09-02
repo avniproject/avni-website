@@ -31,8 +31,11 @@ const Authority = ({}) => (
                 </div>
             </div>
         </div>
-        <SecondaryCTAButton text="View all projects" link="/case-studies#avni-implementations"/>
-        <SecondaryCTAButton text="View case studies" link="/case-studies"/>
+        <div style={{flexDirection: 'row', display: 'flex', justifyContent: 'space-around'}}>
+            <SecondaryCTAButton text="All projects" link="/case-studies#avni-implementations"/>
+            <span style={{marginLeft: 5}}/>
+            <SecondaryCTAButton text="Case studies" link="/case-studies"/>
+        </div>
     </div>
 );
 
