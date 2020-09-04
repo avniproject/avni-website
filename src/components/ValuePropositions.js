@@ -39,6 +39,7 @@ const ValuePropositions = ({}) => (
             {valueProposition(TrainingIcon, "Training", "Get trained in the product to customise platform yourself.")}
             {valueProposition(TechnicalSupportIcon, "Technical support", "Annual maintenance support for your customisations.")}
         </div>
+        <br/>
     </div>
 );
 

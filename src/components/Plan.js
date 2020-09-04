@@ -4,7 +4,7 @@ import {PopupText} from "react-calendly";
 let step = function (title, text) {
     return <div className="columns">
         <div className="column is-3" style={{padding: 0}}/>
-        <div className="column box is-6">
+        <div className="column box is-6" style={{marginLeft: 20, marginRight: 20}}>
             <h4>{title}</h4>
             <p>{text}</p>
         </div>
@@ -12,7 +12,8 @@ let step = function (title, text) {
     </div>;
 };
 const Plan = ({}) => (
-    <div className="container" style={{flexDirection: 'column', display: 'flex'}}>
+    <div className="container" style={{flexDirection: 'column', display: 'flex', backgroundColor: '#f2f2f2'}}>
+        <br/>
         <h1 className="title has-text-centered">Transform your project from paper/excel based to digital</h1>
         <br/>
         {step("1. Schedule a demo / discussion with us", "We demonstrate the product to you. Explain your project's needs and organisation's in-house capacity.")}
@@ -32,6 +33,7 @@ const Plan = ({}) => (
             </div>
             <div className="column is-one-third"/>
         </div>
+        <br/>
     </div>
 );
 

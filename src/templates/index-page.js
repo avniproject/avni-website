@@ -19,16 +19,12 @@ export const IndexPageTemplate = ({
                 <div className="section">
                     <div className="content">
                         <ValuePropositions gridItems={features.blurbs}/>
-                        <br/><hr/><br/>
                         <Plan/>
-                        <br/><hr/><br/>
                         <Authority/>
-                        <br/><hr/><br/>
                         <Explanation/>
                     </div>
                 </div>
             </div>
-            <hr/>
             <ContactUs/>
         </section>
     </div>

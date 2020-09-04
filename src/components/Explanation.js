@@ -1,7 +1,8 @@
 import React from 'react';
 
 const Explanation = () => (
-    <div className="container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex'}}>
+    <div className="container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex', backgroundColor: '#f2f2f2'}}>
+        <br/>
         <h1 className="full-centered">In-house data collection applications are <u>unsustainable</u></h1>
         <div>
             <div className="is-three-fifths full-centered" style={{"margin-left": "10%", "margin-right": "10%"}}>
@@ -18,6 +19,7 @@ const Explanation = () => (
         </div>
         <br/>
         <h4 className="full-centered">Avni makes your digital transformation sustainable</h4>
+        <br/>
     </div>
 );
 
