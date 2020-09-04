@@ -16,7 +16,7 @@ const Authority = ({}) => (
             <div><img src={NoahImage} width="230px"/></div>
             <div style={{maxWidth: "650px", padding: 20}}>
                 <div><h4><i>Earlier our health workers used to bring their paper records to the MIS data entry person. Now with Avni - our health workers manage the data in the
-                    field, make monthly data presentation themselves, and have gained even more respect in the community. We have seen a transformational empowerment. Our health workers
+                    field, make monthly data presentation themselves, and have gained even more respect in the community. We have seen transformational empowerment. Our health workers
                     love Avni.</i></h4></div>
                 <br/>
                 <div><b>Noah Levinson, Co-founder, <ExternalLink text="Calcutta Kids" href="https://calcuttakids.org/"/></b></div>
