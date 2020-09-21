@@ -4,5 +4,5 @@
 Install `gatsby-cli` globally - `npm install -g gatsby-cli`
 
 In repo root:
-- Install dependencies - `yarn install`
-- Start development server - `gatsby develop`
+- Install dependencies - `yarn install` or `make deps`
+- Start development server - `gatsby develop` or `make start`

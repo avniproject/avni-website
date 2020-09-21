@@ -34,10 +34,10 @@ const ValuePropositions = ({}) => (
         <br/>
         <h1 className="full-centered">All services you require</h1>
         <div className="columns is-mobile is-multiline has-text-centered">
-            {valueProposition(CloudIcon, "Cloud hosting", "Secured and affordable hosting. Full control of your data.")}
-            {valueProposition(CustomisationIcon, "Customisation", "Customisation of the platform as per the needs of your project.")}
-            {valueProposition(TrainingIcon, "Training", "Get trained in the product to customise platform yourself.")}
-            {valueProposition(TechnicalSupportIcon, "Technical support", "Annual maintenance support for your customisations.")}
+            {valueProposition(CloudIcon, "Cloud hosting", "Secured and affordable hosting. Full control of your data (include full extract, delete).")}
+            {valueProposition(CustomisationIcon, "Customisation", "Platform customisation for your project. Integration with other software. Data migration.")}
+            {valueProposition(TrainingIcon, "Platform training", "Get trained to do full customisation yourself.", true)}
+            {valueProposition(TechnicalSupportIcon, "Technical support", "Annual maintenance support for your customisations and integrations.")}
         </div>
         <br/>
     </div>
