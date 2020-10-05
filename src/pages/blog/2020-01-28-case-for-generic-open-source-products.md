@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Case for generic open source products in social sector
 date: 2020-01-28T11:39:26.313Z
+author: The Avni Team
 description: >-
   Generic open-source products bring a number of advantages to their customer
   than is obvious, more so in the social sector. Here we explain the factors

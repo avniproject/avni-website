@@ -40,7 +40,7 @@ class BlogRoll extends React.Component {
                     </Link>
                     <span/>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      {post.frontmatter.date} by {post.frontmatter.author}
                     </span>
                   </p>
                 </header>
@@ -88,6 +88,7 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
+                author
               }
             }
           }

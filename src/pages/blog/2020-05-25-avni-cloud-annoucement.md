@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Announcing Avni Cloud
 date: 2020-05-25T11:39:26.313Z
+author: The Avni Team
 description: >-
 featuredpost: false
 featuredimage: /img/avni-logo.png
