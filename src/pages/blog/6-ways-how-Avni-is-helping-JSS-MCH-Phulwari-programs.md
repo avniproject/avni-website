@@ -60,7 +60,7 @@ Avni has reduced the time and efforts for data analysis for programme coordinato
 
 
 ### 6. Improving the social status of MCHWs
-Our workers already enjoyed good respect in the community because of the services provided by them. The app is further improving their social status by empowering them with a digital platform for interaction with the community.
+Our workers already enjoyed good respect in the community because of the services provided by them. The digital too in their hands and data at their fingertips is further improving their social status in the community.
 
 Thus, the app deserves our attention not only for clinical and public health reason but for social and anthropological reasons as well.
 
