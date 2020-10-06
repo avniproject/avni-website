@@ -5,7 +5,8 @@ module.exports = {
         siteUrl: 'https://avniproject.org',
         title: 'Avni Field Service and Data Collection Platform',
         description:
-            'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support'
+            'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support',
+        twitterHandle: '@avniproject'
     },
     plugins: [
         {

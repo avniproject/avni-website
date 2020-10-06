@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import {graphql, Link} from 'gatsby'
 import Layout from '../components/Layout'
 import Content, {HTMLContent} from '../components/Content'
+import Share from '../components/Share';
 
 export const BlogPostTemplate = ({
                                      content,
@@ -15,6 +16,9 @@ export const BlogPostTemplate = ({
                                      author = 'The Avni Team',
                                      date,
                                      helmet,
+                                     twitterHandle,
+                                     siteUrl,
+                                     slug
                                  }) => {
     const PostContent = contentComponent || Content;
 
@@ -33,17 +37,28 @@ export const BlogPostTemplate = ({
                         <p>{description}</p>
                         <PostContent content={content}/>
                         {tags && tags.length ? (
-                            <div style={{marginTop: `4rem`}}>
-                                <h4>Tags</h4>
-                                <ul className="taglist">
-                                    {tags.map(tag => (
-                                        <li key={tag + `tag`}>
-                                            <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                                        </li>
-                                    ))}
-                                </ul>
+                            <div className="field is-grouped is-grouped-multiline" style={{marginTop: `4rem`}}>
+                                <div className="pt-4 control is-4"><p>Tags</p></div>
+                                {tags.map(tag => (
+                                    <div className="control">
+                                        <Link className="tag" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                                    </div>
+                                ))}
                             </div>
                         ) : null}
+                        <div className="field is-grouped is-grouped-multiline post-social-block">
+                            <p style={{marginRight: 8}}>Share</p>
+                                <Share
+                                    socialConfig={{
+                                        twitterHandle,
+                                        config: {
+                                            url: `${siteUrl}${slug}`,
+                                            title,
+                                        },
+                                    }}
+                                    tags={tags} className="control"
+                                />
+                        </div>
                     </div>
                 </div>
             </div>
@@ -59,30 +74,45 @@ BlogPostTemplate.propTypes = {
     author: PropTypes.string,
     date: PropTypes.string,
     helmet: PropTypes.object,
+    twitterHandle: PropTypes.string,
+    siteUrl: PropTypes.string,
+    slug: PropTypes.string
 };
 
 const BlogPost = ({data}) => {
-    const {markdownRemark: post} = data;
+    const {
+        post: {
+            html,
+            frontmatter: {title, tags, author, date, description},
+            fields: {slug},
+        },
+        site: {
+            siteMetadata: {siteUrl, twitterHandle},
+        },
+    } = data;
 
     return (
         <Layout>
             <BlogPostTemplate
-                content={post.html}
+                content={html}
                 contentComponent={HTMLContent}
-                description={post.frontmatter.description}
+                description={description}
                 helmet={
                     <Helmet titleTemplate="%s | Blog">
-                        <title>{`${post.frontmatter.title}`}</title>
+                        <title>{`${title}`}</title>
                         <meta
                             name="description"
-                            content={`${post.frontmatter.description}`}
+                            content={`${description}`}
                         />
                     </Helmet>
                 }
-                tags={post.frontmatter.tags}
-                title={post.frontmatter.title}
-                author={post.frontmatter.author}
-                date={post.frontmatter.date}
+                tags={tags}
+                title={title}
+                author={author}
+                date={date}
+                twitterHandle={twitterHandle}
+                siteUrl={siteUrl}
+                slug={slug}
             />
         </Layout>
     )
@@ -98,7 +128,13 @@ export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+  site {
+		siteMetadata {
+			siteUrl
+			twitterHandle
+		}
+	}
+    post: markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
@@ -108,6 +144,9 @@ export const pageQuery = graphql`
         description
         tags
       }
+      fields {
+			slug
+	    }
     }
   }
 `;
