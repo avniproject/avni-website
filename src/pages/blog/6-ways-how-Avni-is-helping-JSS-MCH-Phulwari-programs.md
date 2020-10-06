@@ -5,7 +5,7 @@ date: 2020-09-30T11:39:26.313Z
 description: >-
 featuredpost: false
 featuredimage: /img/avni-logo.png
-author: Ravindra Kurbude
+author: Ravindra Kurbude (Programme Coordinator, [Jan Swasthya Sahyog](http://www.jssbilaspur.org/))
 tags:
   - Testimonials
   - Health 
