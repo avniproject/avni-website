@@ -7,7 +7,7 @@ featuredpost: false
 featuredimage: /img/avni-logo.png
 author: Ravindra Kurbude
 tags:
-  - Testimonials
+  - User stories
   - Health 
 ---
 
@@ -34,7 +34,7 @@ While sharing their experiences on the use of Avni app our MCH workers (MCHWs) a
 
 ![JSSCP Supervisor](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_supervisor.jpg "JSSCP Supervisor")
   
-Avni highlights overdue visits and cancelled visits along with reasons for cancelling the visits. Program coordinators can pull this data in to monitor phulwari supervisors more easily. No missed visit goes unnoticed. 
+Avni highlights overdue and cancelled visits along with reasons for cancelling them. Program coordinators can pull this data in to monitor phulwari supervisors more easily. No missed visit goes unnoticed. 
 
 
 [//]: # (todo: How much delay was eliminated here?) 
@@ -64,4 +64,6 @@ Our workers already enjoyed good respect in the community because of the service
 
 Thus, the app deserves our attention not only for clinical and public health reason but for social and anthropological reasons as well.
 
-*Ravindra Kurbude is a coordinator for community health at Jan Swasthya Sahyog. He has done Masters in Public Health from Tata Institute of Social Sciences and has keen interest in improving tribal health.* 
+
+
+*Ravindra Kurbude is a coordinator for community health at Jan Swasthya Sahyog. He has done Masters in Health Administration from Tata Institute of Social Sciences and has keen interest in improving tribal health.* 
