@@ -5,7 +5,7 @@ date: 2020-09-30T11:39:26.313Z
 description: >-
 featuredpost: false
 featuredimage: /img/avni-logo.png
-author: Ravindra Kurbude (Programme Coordinator, [Jan Swasthya Sahyog](http://www.jssbilaspur.org/))
+author: Ravindra Kurbude
 tags:
   - Testimonials
   - Health 
@@ -37,7 +37,7 @@ While sharing their experiences on the use of Avni app our MCH workers (MCHWs) a
 Avni highlights overdue visits and cancelled visits along with reasons for cancelling the visits. Program coordinators can pull this data in to monitor phulwari supervisors more easily. No missed visit goes unnoticed. 
 
 
-[//]: #(todo: How much delay was eliminated here?) 
+[//]: # (todo: How much delay was eliminated here?) 
 
 ### 3. No more maintaining and carrying paper registers
 
@@ -62,4 +62,4 @@ Avni has reduced the time and efforts for data analysis for programme coordinato
 ### 6. Improving the social status of MCHWs
 Our workers already enjoyed good respect in the community because of the services provided by them. The digital too in their hands and data at their fingertips is further improving their social status in the community.
 
-Thus, the app deserves our attention not only for clinical and public health reason but for social and anthropological reasons as well.
+Thus, the app deserves our attention not only for clinical and public health reason but for social and anthropological reasons as well. 
