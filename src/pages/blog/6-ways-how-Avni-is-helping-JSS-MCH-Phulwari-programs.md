@@ -14,7 +14,7 @@ tags:
 At [Jan Swasthya Sahyog](http://www.jssbilaspur.org/), we run multiple programs under our community health project in 70 villages in Bilaspur district.
 Among those programs are MCH and Phulwari. MCH (Maternal and Child Health) programme is aimed at reducing maternal and infant mortality rates by providing quality and comprehensive antenatal care, intrapartum, postpartum mother care, home-based neonatal care in programme villages. Phulwari is a programme aimed at preventing and addressing malnutrition among the children under 3 years and help their older sibling go back to school. We do this through rural creches where we provide the children nutritious food and a stimulating environment for learning and development.
 
-We started using Avni for our MCH (Maternal and Child Health) and Phulwari (rural creche) programs. This is how it helps us. 
+We started using Avni for our MCH (Maternal and Child Health) and Phulwari (rural creche) programs. This is how it is helping us. 
 
 ### 1. Instant data, decision support and reminders
 
