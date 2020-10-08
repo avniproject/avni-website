@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import {graphql, Link} from 'gatsby'
 import Layout from '../components/Layout'
 import Content, {HTMLContent} from '../components/Content'
+import SEO from "../components/seo"
 
 export const CaseStudyTemplate = ({
                                       content,
@@ -62,6 +63,7 @@ const CaseStudy = ({data}) => {
 
     return (
         <Layout>
+            <SEO title={post.frontmatter.title} />
             <CaseStudyTemplate
                 content={post.html}
                 contentComponent={HTMLContent}

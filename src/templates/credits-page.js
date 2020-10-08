@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import SEO from "../components/seo"
 
 export const CreditsPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -36,6 +37,7 @@ const CreditsPage = ({ data }) => {
 
   return (
     <Layout>
+      <SEO title={post.frontmatter.title} />
       <CreditsPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

@@ -6,6 +6,7 @@ import {graphql, Link} from 'gatsby'
 import Layout from '../components/Layout'
 import Content, {HTMLContent} from '../components/Content'
 import Share from '../components/Share';
+import SEO from "../components/seo"
 
 export const BlogPostTemplate = ({
                                      content,
@@ -93,19 +94,14 @@ const BlogPost = ({data}) => {
 
     return (
         <Layout>
+            <SEO
+                title={title}
+                description={description}
+            />
             <BlogPostTemplate
                 content={html}
                 contentComponent={HTMLContent}
                 description={description}
-                helmet={
-                    <Helmet titleTemplate="%s | Blog">
-                        <title>{`${title}`}</title>
-                        <meta
-                            name="description"
-                            content={`${description}`}
-                        />
-                    </Helmet>
-                }
                 tags={tags}
                 title={title}
                 author={author}

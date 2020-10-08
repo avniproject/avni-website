@@ -4,6 +4,7 @@ import {graphql} from 'gatsby'
 import Layout from '../components/Layout'
 import Content, {HTMLContent} from '../components/Content'
 import ContactUs from "../components/ContactUs";
+import SEO from "../components/seo"
 
 export const AboutPageTemplate = ({title, content, contentComponent}) => {
     const PageContent = contentComponent || Content;
@@ -40,6 +41,7 @@ const AboutPage = ({data}) => {
 
     return (
         <Layout>
+            <SEO title={post.frontmatter.title} />
             <AboutPageTemplate
                 contentComponent={HTMLContent}
                 title={post.frontmatter.title}

@@ -6,7 +6,8 @@ module.exports = {
         title: 'Avni Field Service and Data Collection Platform',
         description:
             'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support',
-        twitterHandle: '@avniproject'
+        twitterHandle: '@avniproject',
+        author: 'Avni'
     },
     plugins: [
         {

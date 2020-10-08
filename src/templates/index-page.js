@@ -9,6 +9,7 @@ import ValuePropositions from "../components/ValuePropositions";
 import Authority from "../components/Authority";
 import Plan from "../components/Plan";
 import Explanation from "../components/Explanation";
+import SEO from "../components/seo"
 
 export const IndexPageTemplate = ({
                                       features,
@@ -41,6 +42,7 @@ const IndexPage = ({data}) => {
 
     return (
         <Layout hero={<LandingPageHero/>}>
+            <SEO />
             <IndexPageTemplate features={frontmatter.features}/>
         </Layout>
     )
