@@ -125,7 +125,7 @@ export default class Navbar extends React.Component {
                                                 <div className="navbar-item full-centered">
                                                     <div className="field is-grouped is-grouped-multiline">
                                                         {/*https://tcampb.github.io/react-calendly/?path=/story/components--popuptext*/}
-                                                        <p classname="has-text-centered"><a className="navbar-item has-text-weight-bold" href="https://app.avniproject.org">Log in</a></p>
+                                                        <p className="has-text-centered"><a className="navbar-item has-text-weight-bold" href="https://app.avniproject.org">Log in</a></p>
                                                         <p className="has-text-weight-bold control">
                                                             <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button">Try for free</a>
                                                         </p>

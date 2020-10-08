@@ -40,7 +40,7 @@ export const BlogPostTemplate = ({
                             <div className="field is-grouped is-grouped-multiline" style={{marginTop: `4rem`}}>
                                 <div className="pt-4 control is-4"><p>Tags</p></div>
                                 {tags.map(tag => (
-                                    <div className="control">
+                                    <div key={tag + `tag`} className="control">
                                         <Link className="tag" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                                     </div>
                                 ))}
