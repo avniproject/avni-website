@@ -3,18 +3,20 @@ templateKey: blog-post
 title: 6 Ways Avni is helping JSS in maternal, new-born, and child health programs
 date: 2020-09-30T11:39:26.313Z
 description: >-
+    Ravindra from JSS shares the experience and benefits they are seeing 8 months into digital tranformation of their community health programs using Avni.   
 featuredpost: false
-featuredimage: /img/avni-logo.png
+featuredimage: /img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png
 author: Ravindra Kurbude
 tags:
   - User stories
   - Health
 ---
+![Ravi JSSCP Quote](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png "JSSCP Ravi Quote")
 
 At [Jan Swasthya Sahyog](http://www.jssbilaspur.org/), we run multiple programs under our community health project in 72 villages in Bilaspur district.
 Among those programs are MCH and Phulwari. MCH (Maternal and Child Health) programme is aimed at reducing maternal and infant mortality rates by providing quality and comprehensive antenatal care, intrapartum, postpartum mother care, home-based neonatal care in programme villages. Phulwari is a programme aimed at preventing and addressing malnutrition among the children under 3 years and help their older sibling go back to school. We do this through rural creches where we provide the children nutritious food and a stimulating environment for learning and development.
 
-We started using Avni for our MCH (Maternal and Child Health) and Phulwari (rural creche) programs from month of March 2020. Here is how it is helping us.
+We started using Avni for our MCH (Maternal and Child Health) and Phulwari (rural creche) programs from the month of March 2020. Here is how it is helping us.
 
 ### 1. Instant data, decision support and reminders
 
