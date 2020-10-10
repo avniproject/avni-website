@@ -11,12 +11,12 @@ tags:
   - User stories
   - Health
 ---
-![Ravi JSSCP Quote](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png "JSSCP Ravi Quote")
+![](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png)
 
 At [Jan Swasthya Sahyog](http://www.jssbilaspur.org/), we run multiple programs under our community health project in 72 villages in Bilaspur district.
-Among those programs are MCH and Phulwari. MCH (Maternal and Child Health) programme is aimed at reducing maternal and infant mortality rates by providing quality and comprehensive antenatal care, intrapartum, postpartum mother care, home-based neonatal care in programme villages. Phulwari is a programme aimed at preventing and addressing malnutrition among the children under 3 years and help their older sibling go back to school. We do this through rural creches where we provide the children nutritious food and a stimulating environment for learning and development.
+Among those programs are MCH (Maternal and Child Health) and Phulwari. MCH programme is aimed at reducing maternal and infant mortality rates by providing quality and comprehensive antenatal care, intrapartum, postpartum mother care, home-based neonatal care in programme villages. Phulwari is a programme aimed at preventing and addressing malnutrition among the children under 3 years and help their older sibling go back to school. We do this through rural creches where we provide the children nutritious food and a stimulating environment for learning and development.
 
-We started using Avni for our MCH (Maternal and Child Health) and Phulwari (rural creche) programs from the month of March 2020. Here is how it is helping us.
+With the new year, we started digital transformation of various programs using Avni. We first started with our MCH (Maternal and Child Health) and Phulwari (rural creche) programs and started using it from the month of March 2020. Here is how it is helping us.
 
 ### 1. Instant data, decision support and reminders
 
@@ -24,19 +24,17 @@ We started using Avni for our MCH (Maternal and Child Health) and Phulwari (rura
 
 Earlier Phulwari supervisors had to refer to the gradation chart to know which child is in which nutritional grade. Now, the app calculates the z-score and tells the Phulwari supervisors nutritional grade of children and hence helps in the management of their nutritional status.
 
-![JSSCP Growth Chart](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Growth_Chart.jpg "JSSCP Growth Chart")
+![Automatically plotted growth chart in App](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Growth_Chart.jpg "Automatically plotted growth chart in App")
 
 Likewise, the app is helping MCHWs in identifying on their own the sepsis in newborns, identifying high-risk pregnancies based on various data entered which was otherwise done by their field coordinators. Thanks to the highlighting of abnormal data fields, the MCHWs can easily identify high-risk conditions and take action.
 
-![JSSCP High Risk Pregnancy Alert](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_high_risk_pregnancy_alert.png "JSSCP High Risk Pregnancy Alert")
-
-![JSSCP High Risk Pregnancy Alert2](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_HRP_Alert2.png "JSSCP High Risk Pregnancy Alert2")
+![App detecting high risk pregnancy based on entered data](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_HRP_Alert2.png "App highlighting high risk pregnancy based on entered data")
     
 While sharing their experiences on the use of Avni app our MCH workers (MCHWs) and Phulwari supervisors mention that *they feel empowered by using innovative technology in their work and they feel excited as they can now pull up real-time status reports of any pregnant women, newborn and under three years child.*  They can now track high-risk pregnancies very easily with the help of App and can provide continuous monitoring to such cases.
 
 ### 2. Efficient workforce supervision
 
-![JSSCP Supervisor](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_supervisor.jpg "JSSCP Supervisor")
+![](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_supervisor.jpg)
   
 Avni highlights overdue and cancelled visits along with reasons for cancelling them. Program coordinators can pull this data in to monitor phulwari supervisors more easily. No missed visit goes unnoticed. Before Avni, it used to take 4-8 days for field coordinator to know the work done by field staff and for programme coordinator ranging from 7-15 days. Now with Avni, the delay has been reduced to one day for the villages where we have mobile network and 1-3 days for remote villages where we do not have mobile network and this is for both field and programme coordinator.
 
@@ -45,7 +43,7 @@ Avni highlights overdue and cancelled visits along with reasons for cancelling t
 
 ### 3. No more maintaining and carrying paper registers
 
-![JSSCP Paper Registers](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_paper_registers.jpg "JSSCP Paper Registers")
+![MCHW maintaining paper registers](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_paper_registers.jpg "MCHW maintaining paper registers")
 
    Earlier MCHWs had to maintain physical registers and paper records. They had to carry this to their meetings with respective beneficiaries and meetings with supervisors. They also had to periodically hand them over to a data entry operator to digitise this data into excel sheets.
  
@@ -56,16 +54,16 @@ Earlier field workers used to bring and handover physical registers to a data en
 
 
 ### 5. Saved time for data analysis and making reports for programme coordinators
-Avni has reduced the time and efforts for data analysis for programme coordinators. Various reports can be generated by a single click and can be downloaded in the format we want. Earlier, we used to analyse the data either in excel or SPSS and then write a report for MCH programme.For Phulwari programme, we were using WHO anthro software. Most of the time we had to use spss or excel for other various kind of analysis for Phulwari children. These efforts and time are now taken care by Avni itself. Reports can even be accessed in the field where the network is available.
+Avni has reduced the time and efforts for data analysis for programme coordinators. Various reports can be generated by a single click and can be downloaded in the format we want. Earlier, we used to analyse the data either in excel or SPSS and then write a report for MCH programme.For Phulwari programme, we were using WHO anthro software. Most of the time we had to use SPSS or excel for other various kind of analysis for Phulwari children. These efforts and time are now taken care by Avni itself. Reports can even be accessed in the field where the network is available.
 
-![JSSCP Report Phulwari](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Reports_Phulwari.png "JSSCP Report Phulwari")
+![Phulwari report](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Reports_Phulwari.png "Phulwari report")
 
-![JSSCP Report HRP](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Reports_HRP.png "JSSCP Report HRP") 
+![High risk pregnancy report](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Reports_HRP.png "High risk pregnancy report") 
 
 
 ### 6. Improving the social status of MCHWs
 Our workers already enjoyed good respect in the community because of the services provided by them. The digital tool in their hands and data at their fingertips is further improving their social status in the community.
-Worth mentioning here is the fact that all our workers are from the program villages itself and have a rural or tribal background with limited formal education. Over the years they had developed the dexterity of working with paper formats and it was a little difficult for them to switch from paper based work to entirely digitalised medium of reporting. However, due to simplicity and ease of use of Avni, they could gear up for the change and with constant hand holding by Program coordinators,in a very short span of time, are now enjoying working with Avni
+Worth mentioning here is the fact that all our workers are from the program villages itself and have a rural or tribal background with limited formal education. Over the years they had developed the dexterity of working with paper formats and it was a little difficult for them to switch from paper based work to entirely digitalised medium of reporting. However, due to simplicity and ease of use of Avni, they could gear up for the change and with constant hand holding by Program coordinators,in a very short span of time, are now enjoying working with Avni.
 
 Thus, Avni deserves our attention not only for clinical and public health reason but for social and anthropological reasons as well.
 
