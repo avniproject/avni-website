@@ -16,7 +16,7 @@ tags:
 At [Jan Swasthya Sahyog](http://www.jssbilaspur.org/), we run multiple programs under our community health project in 72 villages in Bilaspur district.
 Among those programs are MCH (Maternal and Child Health) and Phulwari. MCH programme is aimed at reducing maternal and infant mortality rates by providing quality and comprehensive antenatal care, intrapartum, postpartum mother care, home-based neonatal care in programme villages. Phulwari is a programme aimed at preventing and addressing malnutrition among the children under 3 years and help their older sibling go back to school. We do this through rural creches where we provide the children nutritious food and a stimulating environment for learning and development.
 
-With the new year, we started digital transformation of various programs using Avni. We first started with our MCH (Maternal and Child Health) and Phulwari (rural creche) programs and started using it from the month of March 2020. Here is how it is helping us.
+With the new year, we started digital transformation of various programs using Avni. We first started with our MCH and Phulwari programs and started using it from the month of March 2020. Avni provides an android app for field workers and supervisors and web based reporting and dashboard for programme coordinators. Here is how it is helping us.
 
 ### 1. Instant data, decision support and reminders
 
@@ -37,9 +37,7 @@ While sharing their experiences on the use of Avni app our MCH workers (MCHWs) a
 ![](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_supervisor.jpg)
   
 Avni highlights overdue and cancelled visits along with reasons for cancelling them. Program coordinators can pull this data in to monitor phulwari supervisors more easily. No missed visit goes unnoticed. Before Avni, it used to take 4-8 days for field coordinator to know the work done by field staff and for programme coordinator ranging from 7-15 days. Now with Avni, the delay has been reduced to one day for the villages where we have mobile network and 1-3 days for remote villages where we do not have mobile network and this is for both field and programme coordinator.
-
-
-[//]: # (todo under point number 2: Add How much delay was eliminated here?) 
+ 
 
 ### 3. No more maintaining and carrying paper registers
 
@@ -63,6 +61,7 @@ Avni has reduced the time and efforts for data analysis for programme coordinato
 
 ### 6. Improving the social status of MCHWs
 Our workers already enjoyed good respect in the community because of the services provided by them. The digital tool in their hands and data at their fingertips is further improving their social status in the community.
+
 Worth mentioning here is the fact that all our workers are from the program villages itself and have a rural or tribal background with limited formal education. Over the years they had developed the dexterity of working with paper formats and it was a little difficult for them to switch from paper based work to entirely digitalised medium of reporting. However, due to simplicity and ease of use of Avni, they could gear up for the change and with constant hand holding by Program coordinators,in a very short span of time, are now enjoying working with Avni.
 
 Thus, Avni deserves our attention not only for clinical and public health reason but for social and anthropological reasons as well.
