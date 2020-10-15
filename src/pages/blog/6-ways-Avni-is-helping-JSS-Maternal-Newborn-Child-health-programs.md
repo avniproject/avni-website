@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: 6 Ways Avni is helping JSS in maternal, new-born, and child health programs
+title: 6 Ways Avni is helping JSS Maternal, New-born, and Child health programs
 date: 2020-09-30T11:39:26.313Z
 description: >-
-    Ravindra from JSS shares the experience and benefits they are seeing 8 months into digital tranformation of their community health programs using Avni.   
+    Ravindra from JSS shares the experience and benefits they are seeing 8 months into digital tranformation of their community health programs using Avni.
 featuredpost: false
 featuredimage: /img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png
 author: Ravindra Kurbude
@@ -30,7 +30,7 @@ Likewise, the app is helping MCHWs in identifying on their own the sepsis in new
 
 ![App detecting high risk pregnancy based on entered data](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_HRP_Alert2.png "App highlighting high risk pregnancy based on entered data")
     
-While sharing their experiences on the use of Avni app our MCH workers (MCHWs) and Phulwari supervisors mention that *they feel empowered by using innovative technology in their work and they feel excited as they can now pull up real-time status reports of any pregnant women, newborn and under three years child.*  They can now track high-risk pregnancies very easily with the help of App and can provide continuous monitoring to such cases.
+While sharing their experiences on the use of Avni app our MCH workers (MCHWs) and Phulwari supervisors mention that <span style="color:#ff470f">they feel empowered and excited using this innovative technology in their work as they can now pull up real-time status reports of any pregnant women, newborn and under three years child. They can now track high-risk pregnancies very easily with the help of App and can provide continuous monitoring to such cases.</span>
 
 ### 2. Efficient workforce supervision
 
