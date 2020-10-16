@@ -1,8 +1,12 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b4fc6248-5840-4383-9cfa-b2b3dcb7165a/deploy-status)](https://app.netlify.com/sites/avniproject/deploys)
 
-## Getting Started
+See live - https://avniproject.org/
+
+## Development - Getting Started
 Install `gatsby-cli` globally - `npm install -g gatsby-cli`
 
 In repo root:
-- Install dependencies - `yarn install` or `make deps`
+- Install dependencies - `npm install` or `make deps`
 - Start development server - `gatsby develop` or `make start`
+
+
