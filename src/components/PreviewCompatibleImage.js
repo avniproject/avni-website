@@ -7,7 +7,6 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   const { alt = '', childImageSharp, image } = imageInfo
 
   if (!!image && !!image.childImageSharp) {
-      console.log(image);
     return (
       <Img style={imageStyle} fluid={image.childImageSharp.fluid} alt={alt} />
     )
