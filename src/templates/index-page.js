@@ -42,7 +42,7 @@ const IndexPage = ({data}) => {
 
     return (
         <Layout hero={<LandingPageHero/>}>
-            <SEO title="Avni Field Service and Data Collection Platform"/>
+            <SEO />
             <IndexPageTemplate features={frontmatter.features}/>
         </Layout>
     )

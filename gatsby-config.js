@@ -1,4 +1,4 @@
-const { createProxyMiddleware } = require("http-proxy-middleware")
+var proxy = require('http-proxy-middleware');
 
 module.exports = {
     siteMetadata: {
@@ -50,15 +50,15 @@ module.exports = {
         {
             resolve: 'gatsby-source-filesystem',
             options: {
-                path: `${__dirname}/src/img`,
-                name: 'uploads',
+                path: `${__dirname}/src/pages`,
+                name: 'pages',
             },
         },
         {
             resolve: 'gatsby-source-filesystem',
             options: {
-                path: `${__dirname}/src/pages`,
-                name: 'pages',
+                path: `${__dirname}/src/img`,
+                name: 'images',
             },
         },
         'gatsby-plugin-sharp',
@@ -127,7 +127,7 @@ module.exports = {
     developMiddleware: app => {
         app.use(
             '/.netlify/functions/',
-            createProxyMiddleware({
+            proxy({
                 target: 'http://localhost:9000',
                 pathRewrite: {
                     '/.netlify/functions/': '',

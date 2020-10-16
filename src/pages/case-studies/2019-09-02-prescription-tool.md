@@ -7,6 +7,7 @@ description: >-
   a few data inputs provided by the village health worker - to fill some gaps
   caused by extreme remoteness of some villages.
 featuredstudy: false
+featuredimage: /img/products-grid1.jpg
 tags:
   - Health
   - Prescription
