@@ -18,6 +18,7 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
     `
     );
     const metaDescription = description || site.siteMetadata.description;
+    console.log(image);
     const image =
         metaImage && metaImage.src
             ? `${site.siteMetadata.siteUrl}${metaImage.src}`

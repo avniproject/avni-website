@@ -39,7 +39,7 @@ export const BlogPostTemplate = ({
                         <PostContent content={content}/>
                         {tags && tags.length ? (
                             <div className="field is-grouped is-grouped-multiline" style={{marginTop: `4rem`}}>
-                                <div className="pt-4 control is-4"><p>Tags</p></div>
+                                <div className="control is-4"><p>Tags</p></div>
                                 {tags.map(tag => (
                                     <div key={tag + `tag`} className="control">
                                         <Link className="tag" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
@@ -49,16 +49,16 @@ export const BlogPostTemplate = ({
                         ) : null}
                         <div className="field is-grouped is-grouped-multiline post-social-block">
                             <p style={{marginRight: 8}}>Share</p>
-                                <Share
-                                    socialConfig={{
-                                        twitterHandle,
-                                        config: {
-                                            url: `${siteUrl}${slug}`,
-                                            title,
-                                        },
-                                    }}
-                                    tags={tags} className="control"
-                                />
+                            <Share
+                                socialConfig={{
+                                    twitterHandle,
+                                    config: {
+                                        url: `${siteUrl}${slug}`,
+                                        title,
+                                    },
+                                }}
+                                tags={tags} className="control"
+                            />
                         </div>
                     </div>
                 </div>
@@ -92,11 +92,16 @@ const BlogPost = ({data}) => {
         },
     } = data;
 
+    const image = data.post.frontmatter.image
+        ? data.post.frontmatter.image.childImageSharp.resize
+        : null;
+
     return (
         <Layout>
             <SEO
                 title={title}
                 description={description}
+                image={image}
             />
             <BlogPostTemplate
                 content={html}
@@ -139,6 +144,15 @@ export const pageQuery = graphql`
         author
         description
         tags
+        image: featuredimage {
+          childImageSharp {
+            resize(width: 1200) {
+              src
+              height
+              width
+            }
+          }
+        }
       }
       fields {
 			slug
