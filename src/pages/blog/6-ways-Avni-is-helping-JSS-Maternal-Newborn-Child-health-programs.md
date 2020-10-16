@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 6 Ways Avni is helping JSS Maternal, New-born, and Child health programs
+title: 6 Ways Avni is helping JSS Maternal, new-born, and Child health programs
 date: 2020-09-30T11:39:26.313Z
 description: >-
     Ravindra from JSS shares the experience and benefits they are seeing 8 months into digital tranformation of their community health programs using Avni.
