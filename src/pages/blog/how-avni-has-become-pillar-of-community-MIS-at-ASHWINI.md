@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How Avni has become a pillar of community health project at ASHWINI
+title: How Avni has become a pillar of community health program at ASHWINI
 date: 2020-12-15T11:39:26.313Z
 description: >-
  ASHWINI team shares how Avni has become a major part of managing information of beneficiaries in their community health programme in Gudalur district of Tamil Nadu.
@@ -22,7 +22,7 @@ In mid of 2017, we decided to switch from the 25-year-old, register-based system
 
 ![CHP Team after training on Avni](/img/how-avni-has-become-pillar-of-community-MIS-at-ASHWINI/ASHWINI_training.jpeg "CHP Team after training on Avni")
 
-## Here is how Avni has become a pillar of the community health project in ASHWINI
+## Here is how Avni has become a pillar of the community health program in ASHWINI
 ### 1. Instant access to information of beneficiaries of the community health programme 
 Immediate beneficiaries of the ASHWINI CHP programme are nearly 8000. The field workers are now assessing beneficiary information using their android device in the field and the program coordinators are monitoring progress using the web-based reporting system. Previously this information was stored in registers and was collated at the end of the month using monthly reports from each area. Avni has made this information instantly available and hence boosted the efficiency of our programme massively. Until three years back the data was captured in the field note of health animators and then it was transferred to respective program registers in Area centres. Manually monthly and yearly reports were prepared and these hardcopies were submitted to coordinators and which then fed in the computer. The data was extracted from the computers, cleaned and edited yearly basis. Now at the time of village visits itself, the data is captured directly into Avni and reports are available at a central level instantaneously for viewing which is amazing!!! 
 
