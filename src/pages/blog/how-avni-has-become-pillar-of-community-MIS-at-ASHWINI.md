@@ -37,7 +37,7 @@ The in-built z-score calculator helps to monitor the growth progress of the unde
  
 ### 5. Effective use of gathered information leading to early interventions 
 The collected information is collated by the program coordinators for prompt decision making for the beneficiaries who may require immediate medical or social or nutritional intervention. Detailed analysis of captured data over a time period sheds light on the changes required in the programme design, to yield better outcomes. 
-### 5. Research and analysis of information 
+### 6. Research and analysis of information 
 The collected data is analysed and results published. The findings can be used for decision making in similar settings.
 
 Avni was a major milestone and a leap for ASHWINI. It paved a new era of digital transformation which made our work efficient and helped us understand anything is possible if we keep trying. 
