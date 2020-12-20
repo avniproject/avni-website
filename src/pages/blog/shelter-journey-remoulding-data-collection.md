@@ -20,7 +20,7 @@ In this article, we talk about our approach of moving from Paper based field dat
 ## Data-Driven Approach
 One of the organisation’s core competencies lies in its data-driven approach. We follow a rigorous process of collecting data through surveys and mapping efforts. The slum data collected by the team is spatially organised using GIS software and presented as an overlay on Google Earth remote sensing imagery. The collated data is used for inclusive urban planning and implementing affordable housing and sanitation schemes across the slums in Maharashtra. You can see live dashboards on our website. Our data-driven approach using technology to plan citywide strategies for social housing has impacted the <a href="http://shelter-associates.org/" target="_blank" rel="noopener noreferrer">Rajiv Awas Yojana (RAY) policy of GOI.</a>
 
-![](/img/shelter-remoulding-data-collection/Shelter_kolhapur_dashboard_screenshot.png)
+![Screenshot of a live dashboard from Shelter website](/img/shelter-remoulding-data-collection/Shelter_kolhapur_dashboard_screenshot.png)
 
 In 2013 we undertook a landmark project ‘One Home One Toilet’ to deliver household toilets on a cost-sharing basis. The data-driven initiative follows a community-centric and an inclusive approach wherein it works closely with the municipal corporations right from validating data to toilet delivery. As of September 2020, SA has surveyed around 2,93,000 households for successful implementation of OHOT. It has impacted over 3,70,000 people directly & indirectly with a home toilet.
  
@@ -48,7 +48,7 @@ Below are the key differences and benefits we are noticing of using Avni over Ko
 #### 1. Ability to design a custom app using locations, subject, programs and forms from Avni data model
 The most important difference between the two softwares is that Avni provided us with the ability to create app as per our data model and data collection process. We created our location hierarchy of City, Ward and Slums using locations; households are created as subjects and separate forms for different vertical services like property tax, solid waste management, metered water connection, etc. 
 
-![](/img/shelter-remoulding-data-collection/Shelter_data_model.png)
+![Shelter Avni app data model](/img/shelter-remoulding-data-collection/Shelter_data_model.png)
 
 This provided us with 2 benefits
 ##### a. Avoid repetitive data collection
@@ -59,7 +59,7 @@ In the near future, household-level data collected can be shared and accessed wi
 #### 2. Ability to search, view and update records anytime in the mobile app
 As described earlier, in Kobo Collect once the data is submitted it is not possible to view and edit them. In Avni, the records always stay in the device even after submitting to the server. They can be modified and synchronized again with the server. This is really helpful in the field!
 
-![](/img/shelter-remoulding-data-collection/Shelter_avni_app_screenshot.png)
+![Screenshots from Shelter Avni App ](/img/shelter-remoulding-data-collection/Shelter_avni_app_screenshot.png)
 #### 3. Ability to control access of data to surveyors based on their work areas
 Another useful feature is the assignment of the catchment. The administrator can give access or remove access of any particular catchment to any surveyor. This has enabled us to maintain the privacy of the information as well. 
 #### 4. Hassle free modification of forms
