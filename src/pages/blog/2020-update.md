@@ -30,7 +30,7 @@ Usage and Impact
 
 We keep thinking about how much value Avni provides its users. As we look back this year, there are quite a few reasons to be optimistic.
 
-All of the <a href="https://avniproject.org/case-studies/#avni-implementations" target="_blank" rel="noopener noreferrer">existing projects</a> have continued to use Avni, some even scaled up. 6 projects went live on the field and 3 are ready to go live. 5 new projects chose to use Avni, taking the total to 25 projects. In spite of the pandemic forcing a halt of work for a few months on the field, we saw greater usage of Avni this year as compared to the previous year. 70k new beneficiaries were registered and 1.7 lakh new service instances were recorded.
+All of the <a href="https://avniproject.org/case-studies/#avni-implementations" target="_blank" rel="noopener noreferrer">existing projects</a> have continued to use Avni, some even scaled up. 6 projects went live on the field and 3 are ready to go live. 5 new projects chose to use Avni, taking the total to 25 projects. In spite of the pandemic forcing a halt of work for a few months on the field, we saw greater usage of Avni this year as compared to the previous year. <span style="color:#ff470f">70k new beneficiaries were registered and 1.7 lakh new service instances were recorded.</span>
 
 Avni got used for newer domains and modules like Sanitation, Affordable Housing, Tuberculosis, Non-communicable diseases and COVID surveys.
 
@@ -56,7 +56,7 @@ Check out these users stories, case studies and project updates on our blogs <a 
 
 Avni on cloud and Self-Serviceability
 ------------------------------------------------------------
-Before 2020 all of the implementations of Avni were done by the Avni core team at Samanvay. Mid of 2020 we made Avni <a href="https://avniproject.org/blog/2020-05-25-avni-cloud-annoucement/" target="_blank" rel="noopener noreferrer">available as a self-serviceable platform on the cloud</a> with a very economical price and an <a href="https://avniproject.org/signup/?source=trial" target="_blank" rel="noopener noreferrer">easy sign-up process</a>. We have received 24 sign-ups since then.
+Before 2020 all of the implementations of Avni were done by the Avni core team at <a href="https://www.samanvayfoundation.org/" target="_blank" rel="noopener noreferrer">Samanvay</a>. Mid of 2020 we made Avni <a href="https://avniproject.org/blog/2020-05-25-avni-cloud-annoucement/" target="_blank" rel="noopener noreferrer">available as a self-serviceable platform on the cloud</a> with a very economical price and an <a href="https://avniproject.org/signup/?source=trial" target="_blank" rel="noopener noreferrer">easy sign-up process</a>. We have received 24 sign-ups since then.
 
 We also had 3 successful pilot projects where implementations were done by someone outside of the core Avni team at Samanvay, either an IT person at NGO or another tech partner. We received a lot of feedback and have come a long way on this path. Small changes in some existing projects are now done by users themselves, making them "atmanirbhar" :-)
 
