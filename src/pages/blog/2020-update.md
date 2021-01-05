@@ -21,7 +21,7 @@ We constantly listen to community program teams and improve the product based on
 4. Subject groups and households with an easy workflow for Household surveys
 5. Improved Access Control: User Groups and privileges
 
-And, many more small improvements! Avni is now simpler, powerful and much more capable.
+And, many more small improvements! <span style="color:#ff470f">Avni is now simpler, powerful and much more capable.</span>
 
 
 Usage and Impact
@@ -34,7 +34,7 @@ All of the <a href="https://avniproject.org/case-studies/#avni-implementations" 
 
 Avni got used for newer domains and modules like Sanitation, Affordable Housing, Tuberculosis, Non-communicable diseases and COVID surveys.
 
-In 2020, we also saw organisations move from using Avni for single programmes such as maternity to deeper integration of the field-work processes. This means moving all their community-based interventions to Avni. The promise of Avni to fulfil the role of the complete field-work app and a full-fledged beneficiary MIS for community-based organisations is becoming a reality.
+In 2020, we also saw organisations move from using Avni for single programmes such as maternity to deeper integration of the field-work processes. This means moving all their community-based interventions to Avni. <span style="color:#ff470f">The promise of Avni to fulfil the role of the complete field-work app and a full-fledged beneficiary MIS for community-based organisations is becoming a reality.</span>
 
 Until 2019, Avni development was primarily funded by funding organisations. This year, several existing user organisations also came forward to contribute to the development of new features proposed by us. This demonstrated their confidence in the utility of Avni.
 
@@ -74,5 +74,5 @@ We’d like to use this opportunity to thank all those who have been part of thi
 
 Do connect with us on <a href="https://www.linkedin.com/company/samanvay-research-and-development-foundation" target="_blank" rel="noopener noreferrer">LinkedIn</a>, <a href="https://twitter.com/avniproject" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.facebook.com/avniproject" target="_blank" rel="noopener noreferrer">Facebook</a>.
 
-And last but not the least, wishing you a better, safer, healthy and prosperous new year 2021!
+<span style="color:#ff470f">And last but not the least, wishing you a better, safer, healthy and prosperous new year 2021!</span>
 
