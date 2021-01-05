@@ -4,11 +4,11 @@ title: 2020 Update
 date: 2021-01-05T11:39:26.313Z
 author: The Avni Team
 description: >-
+    2020 has been a strange year. It has challenged and strengthened us as a team. We share with you how we have grown in the past year and what's coming up.
 featuredpost: false
+featuredimage: /img/2020-update/avni_update_impact_and_usage.jpg
 tags:
 ---
-2020 Newsletter
-
 2020 has been a strange year. It has challenged and strengthened us as a team. We share with you how we have grown in the past year and what's coming up.
 
 Product Capabilities
