@@ -13,6 +13,7 @@ export const CaseStudyTemplate = ({
                                       description,
                                       tags,
                                       title,
+                                      author,
                                       date,
                                       helmet,
                                   }) => {
@@ -28,7 +29,7 @@ export const CaseStudyTemplate = ({
                         <h2>
                             {title}
                         </h2>
-                        <p className="has-text-grey">Last updated on: <b>{date}</b></p>
+                        <p className="has-text-grey">Last updated on: <b>{date}</b> by {author}</p>
                         <PostContent content={content}/>
                         {tags && tags.length ? (
                             <div style={{marginTop: `4rem`}}>
@@ -54,6 +55,7 @@ CaseStudyTemplate.propTypes = {
     contentComponent: PropTypes.func,
     description: PropTypes.string,
     title: PropTypes.string,
+    author: PropTypes.string,
     date: PropTypes.string,
     helmet: PropTypes.object,
 };
@@ -63,7 +65,7 @@ const CaseStudy = ({data}) => {
 
     return (
         <Layout>
-            <SEO title={post.frontmatter.title} />
+            <SEO title={post.frontmatter.title}/>
             <CaseStudyTemplate
                 content={post.html}
                 contentComponent={HTMLContent}
@@ -79,6 +81,7 @@ const CaseStudy = ({data}) => {
                 }
                 tags={post.frontmatter.tags}
                 title={post.frontmatter.title}
+                author={post.frontmatter.author}
                 date={post.frontmatter.date}
             />
         </Layout>
@@ -101,6 +104,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        author
         description
         tags
       }
