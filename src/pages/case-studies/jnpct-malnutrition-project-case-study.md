@@ -141,6 +141,7 @@ Co-ordinator level
 5. Location is tracked to know which supervisor was in which village on which day
 6. Changing the information of any beneficiary through the web app can be done easily
 
+Thus, we are seeing a good return on investment from using a digital system based on Avni in our Malnutrition project. 
 
 ### About the Author
 Dr Dhiren Modi is a Public Health Specialist working with SEWA Rural since last 14 years. He has done MBBS and MD from M.P. Shah Medical College, Jamnagar and recently finished Global Health Fellowship from UCSF Sanfrancisco. He has keen interest in public health, biostatistics, administration and handles several important responsibilites at SEWA Rural. He works as a consultant for JNPCT.
