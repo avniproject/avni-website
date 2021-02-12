@@ -16,12 +16,12 @@ tags:
 
 
 ### About the organisation
-Jashoda Narottam Public Charity Trust ( JNPCT) is a non-profit organization working in the two tribal blocks of Valsad District (Gujarat) since the last 20 years. JNPCT mainly undertakes activities in the following areas: Health, Education, Soil and Water Conservation, Self-help groups and income generation activity with farmers. 
+Jashoda Narottam Public Charity Trust ( JNPCT) is a non-profit organization working in the two tribal blocks of Valsad District (Gujarat) since the last 20 years. JNPCT mainly undertakes activities in the following areas: Health, Education, Soil and Water Conservation and income generation activity with farmers. 
 
 ![](/img/jnpct_case_study/jnpct_scenic_surrounding.jpg "")
 ![](/img/jnpct_case_study/jnpct_cutoff_monsoon.jpg "")
 
-Geographically the area in which JNPCT works is hilly and gets isolated from the rest of the land during monsoon season.
+Geographically the area in which JNPCT works is hilly and a few parts get isolated from the rest of the land during monsoon season.
 
 The area is also called Cherrapunji of Gujarat!
 
@@ -72,7 +72,7 @@ Like most organisations, we also started with a paper-based system comprising pr
 #### Issues with the system
 The data from such individual records were recorded in a concise form into registers by supervisors. However deriving insights from these registers like identifying high risk was a very tedious exercise. 
 
-![](/img/jnpct_case_study/jnpct_tracking_hrp.jpg "")
+![](/img/jnpct_case_study/jnpct_tracking_hrp.jpg "Tracking high risk pregnancy in paper registers")
 
 Apart from this, there were many other issues faced.
 - In our work daily planning of field visit of supervisors was an issue 
@@ -89,26 +89,25 @@ The next logical step was to move to a digital system to address these pain poin
 We adopted Avni and cloud hosting from [Samanvay Foundation](http://samanvayfoundation.org/) because of the following reasons
 
 - [SEWA Rural](https://sewarural.org/), our partner organisation, had used it for the last 4 years
-- During the trial, our staff found it very useful
 - Offline capability in Android app to be able to work without an internet connection
 - Ability to create customised App and Reports
 - Cost-effective
-- Feedback mechanism and Compliance are very fast
-- Prompt resolution of technical issues
-- Ready to change requirement as per our demand even after stabilizing the application
+- During the trial, our staff found it very useful
+- Good feedback mechanism and prompt resolution on technical issues from the Samanvay support team
+- Ready to update the application as per our demand even after stabilizing it
 
 #### Development and Output
 Samanvay developed the app and reports for us as per our requirements. We did testing of the app, provided feedback and changes got incorporated. We then started using the system.
  
 Below are some of the screenshots from the app
 
-![](/img/jnpct_case_study/jnpct_app_screenshot_1.png "")
+![](/img/jnpct_case_study/jnpct_app_screenshot_1.png "App Screenshots 1")
 
-![](/img/jnpct_case_study/jnpct_app_screenshot_2.png "")
+![](/img/jnpct_case_study/jnpct_app_screenshot_2.png "App Screenshots 2")
 
 We have numerous reports created in the system so that we don’t have to do data crunching when information or insights are needed
 
-![](/img/jnpct_case_study/jnpct_reports.png "")
+![](/img/jnpct_case_study/jnpct_reports.png "Reports")
 
 
 #### Benefits as we are seeing it
@@ -116,30 +115,29 @@ We have numerous reports created in the system so that we don’t have to do dat
 Below are the advantages users are seeing as they are using the application
 
 Supervisor level
-1. Planning - The app keeps on generating the plan as per the protocol so no additional time is required for planning.
-2. Easy to get a list of remaining visits and outstanding services
+1. Planning - The app generates the plan as per the protocol so no additional time is required for planning.
+2. Easy to get a list of remaining visits and outstanding services, so no beneficiary is deprived of services
 3. Saves a lot of paperwork
 4. History (details) of each beneficiary is found with one click
 5. Diagnosis of illness (risks) is found automatically
 6. Risk advice is received through mobile
-7. We can reach every beneficiary so no beneficiary is deprived of services
-8. No need to work hard or manually calculate fields like Estimated Date of Delivery (EDD) as per Last Menstrual Period (LMP), Body Mass Index (BMI) as per Weight, Height and nutritional status as per weight and height, grade of anaemia as per HB. These are auto-calculated.
-9. Every question has to be filled compulsorily due to which the beneficiary is thoroughly investigated
+7. No need to work hard to manually calculate fields like Estimated Date of Delivery (EDD) as per Last Menstrual Period (LMP), Body Mass Index (BMI) for adults and Nutritional status for children as per Weight and Height and Grade of anaemia as per haemoglobin. These are auto-calculated.
+8. Every question has to be filled compulsorily due to which the beneficiary is thoroughly investigated
 
 Cluster in-charge level
 1. Planning - The app keeps on generating the plan as per the protocol so no additional time is required for planning.
-2. Supervisor monitoring - Due, overdue and cancel visits can easily be monitored
+2. Supervisor monitoring - Due, overdue and cancelled visits can be monitored easily
 3. Risk alerts are received
 4. All PHC data can be found with one click
-5. Risk beneficiaries are visited on time
+5. High risk beneficiaries are visited on time
 
-Co-ordinator level
+Coordinator level
 1. One click reports make complete project information easily accessible
 2. Data Quality check is easier - Misinformation can be tracked
-3. Based on data easy to identify where to focus on the project
-4. Know the task of each supervisor/cluster in-charge
-5. Location is tracked to know which supervisor was in which village on which day
-6. Changing the information of any beneficiary through the web app can be done easily
+3. Data correction - Changing the information of any beneficiary through the web app can be done easily 
+4. Based on data, easier to identify where to focus on the project
+5. Know the task of each supervisor/cluster in-charge
+6. Location is tracked to know which supervisor was in which village on which day
 
 Thus, we are seeing a good return on investment from using a digital system based on Avni in our Malnutrition project. 
 
