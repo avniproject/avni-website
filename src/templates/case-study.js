@@ -25,12 +25,13 @@ export const CaseStudyTemplate = ({
             <div className="container content">
                 <div className="columns">
                     <div className="column is-10 is-offset-1">
-                        <h1><a href="/case-studies">Case Studies</a></h1>
-                        <h2>
+                        <h1>
                             {title}
-                        </h2>
+                        </h1>
                         <p className="has-text-grey">Last updated on: <b>{date}</b> by {author}</p>
                         <PostContent content={content}/>
+                        <br/>
+                        <h4>Read more : <a href="/case-studies">Case Studies</a> | <a href="/blog">Blogs</a></h4>
                         {tags && tags.length ? (
                             <div style={{marginTop: `4rem`}}>
                                 <h4>Tags</h4>
