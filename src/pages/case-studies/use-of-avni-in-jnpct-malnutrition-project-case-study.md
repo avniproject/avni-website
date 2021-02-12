@@ -79,7 +79,7 @@ Apart from this, there were many other issues faced.
 - Took almost 2-3 days in a month to plan an exact visit as per malnutrition status of children
 - Compilation of daily data was cumbersome and time-consuming
 - For program manager and doctors, it was time-consuming to identify their monitoring visits
-We can see the progress report after a month once data entered and the report generated manually
+- We could see the progress report only after a month once data entered and the report generated manually
 
 ### Moving to digital system
 
@@ -132,7 +132,7 @@ Cluster in-charge level
 5. High risk beneficiaries are visited on time
 
 Coordinator level
-1. One click reports make complete project information easily accessible
+1. One click reports make complete and latest project information easily accessible
 2. Data Quality check is easier - Misinformation can be tracked
 3. Data correction - Changing the information of any beneficiary through the web app can be done easily 
 4. Based on data, easier to identify where to focus on the project
