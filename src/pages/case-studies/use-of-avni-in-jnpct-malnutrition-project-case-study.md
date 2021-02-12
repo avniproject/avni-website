@@ -139,7 +139,11 @@ Coordinator level
 5. Know the task of each supervisor/cluster in-charge
 6. Location is tracked to know which supervisor was in which village on which day
 
-Thus, we are seeing a good return on investment from using a digital system based on Avni in our Malnutrition project. 
+Thus, we are seeing a good return on investment from using a digital system based on Avni in our Malnutrition project.
+
+If you prefer watching over reading, do check out the Avni webinar of January where we shared this case study:
+
+`youtube: 4_nZ8Q4RKYA?t=833` 
 
 ### About the Author
 Dr Dhiren Modi is a Public Health Specialist working with SEWA Rural since last 14 years. He has done MBBS and MD from M.P. Shah Medical College, Jamnagar and recently finished Global Health Fellowship from UCSF Sanfrancisco. He has keen interest in public health, biostatistics, administration and handles several important responsibilites at SEWA Rural. He works as a consultant for JNPCT.
