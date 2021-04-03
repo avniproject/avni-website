@@ -11,7 +11,8 @@ title: About the Project
 # Avni Software
 
 * <a href="https://github.com/avniproject" target="_blank" rel="noopener noreferrer">Source code (https://github.com/avniproject)</a>
-* AGPL 3 license
+* <a href="https://www.gnu.org/licenses/agpl-3.0.en.html" target="_blank" rel="noopener noreferrer">AGPL 3 license</a>
+* Copyright - <a href="https://samanvayfoundation.org" target="_blank" rel="noopener noreferrer">Samanvay Research and Development Foundation</a>
 * <a href="https://gitter.im/avniproject/avni" target="_blank" rel="noopener noreferrer">Chat channel for developers (https://gitter.im/avniproject/avni)</a>
 * <a href="https://circleci.com/gh/avniproject" target="_blank" rel="noopener noreferrer">CI Server and Binary Download (https://circleci.com/gh/avniproject)</a>- requires login
 * <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank" rel="noopener noreferrer">Android Playstore App</a>
