@@ -11,10 +11,10 @@ tags:
  - Product Updates
 ---
 
-Product Capabilities
-------------------------------------------------------------
 ![](/img/2020-update/avni_product_capabilities.png)
 
+Product Capabilities
+------------------------------------------------------------
 We constantly listen to community program teams and improve the product based on their experience of using Avni. In 2020, we added many new features and components to the product.
 1. A Web-based Application to support entry by data entry operators and viewing of records, data quality check and quick corrections by program managers.
 2. App & Form designer for all implementers and IT persons at community-based organisations to enable ease of configuration and self-serviceability.

@@ -4,15 +4,13 @@ title: Avni-AppSheet Comparison
 date: 2021-06-22T11:39:26.313Z
 author: The Avni Team
 description: >-
-    Avni is sometimes compared with other products available in the market and nonprofit organisations are interested in know why they should choose Avni. Hence, this is the first in series of posts where we discuss how Avni compares with these options - in the context of the frontline social/development programs done by nonprofit organisations. In this blog, we cover **Avni's comparison with AppSheet**. We have left out the virtues of open source from the scope of these posts.
+    Avni is sometimes compared with other products available in the market and nonprofit organisations are interested in know why they should choose Avni. Hence, this is the first in series of posts where we discuss how Avni compares with these options - in the context of the frontline social/development programs done by nonprofit organisations. In this blog, we cover Avni's comparison with AppSheet. We have left out the virtues of open source from the scope of these posts.
 featuredpost: false
 featuredimage: 
 tags:
  - Product Comparison
 ---
 
-About AppSheet
-------------------------------------------------------------
 
 <a href="https://www.appsheet.com/" target="_blank">AppSheet</a> is a product by the Google Cloud team. It is available at subscription fees. The similarity between Avni and AppSheet is that both can be used by the frontline workers via the android app, and they both provide its complete functionality in an offline mode. Both are designed to be configurable and one can set up one's data model, forms, and rules.
 
@@ -42,7 +40,7 @@ Cost comparison
 ------------------------------------------------------------
 **Avni is an order of magnitude (10-50x) cheaper per user than AppSheet.**
 
-Avni is comparable on the <a href="https://avniproject.org/pricing" target="_blank">sticker price</a> compared to <a href="https://solutions.appsheet.com/pricing" target="_blank">AppSheet</a>, after considering the discounted price for nonprofits. This doesn't account for full cost of ownership for the nonprofits though.
+Avni is comparable on the <a href="https://avniproject.org/pricing" target="_blank">sticker price</a> compared to <a href="https://solutions.appsheet.com/pricing" target="_blank">AppSheet</a>, after considering the discounted price for nonprofits. At higher number of users, Avni starts getting cheaper compared to AppSheet. This doesn't account for full cost of ownership for the nonprofits though.
 
 - The per-user pricing doesn't account for the subscription cost of computing infrastructure required for the database and analytics components.
 - AppSheet is not offered as a managed service hence the nonprofits need to hire technology providers to do this for them. Since Avni is offered as a **shared** managed service, it has significant cost advantages.
