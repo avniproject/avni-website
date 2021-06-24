@@ -6,11 +6,12 @@ author: The Avni Team
 description: >-
     Avni is sometimes compared with other products available in the market and nonprofit organisations are interested in know why they should choose Avni. Hence, this is the first in series of posts where we discuss how Avni compares with these options - in the context of the frontline social/development programs done by nonprofit organisations. In this blog, we cover Avni's comparison with AppSheet. We have left out the virtues of open source from the scope of these posts.
 featuredpost: false
-featuredimage: 
+featuredimage: /img/avni_appsheet_product_comparison.png
 tags:
  - Product Comparison
 ---
 
+![](/img/avni_appsheet_product_comparison.png)
 
 <a href="https://www.appsheet.com/" target="_blank">AppSheet</a> is a product by the Google Cloud team. It is available at subscription fees. The similarity between Avni and AppSheet is that both can be used by the frontline workers via the android app, and they both provide its complete functionality in an offline mode. Both are designed to be configurable and one can set up one's data model, forms, and rules.
 
