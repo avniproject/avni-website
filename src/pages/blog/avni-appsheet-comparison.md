@@ -43,12 +43,12 @@ Cost comparison
 
 Avni is comparable on the <a href="https://avniproject.org/pricing" target="_blank">sticker price</a> compared to <a href="https://solutions.appsheet.com/pricing" target="_blank">AppSheet</a>, after considering the discounted price for nonprofits. At higher number of users, Avni starts getting cheaper compared to AppSheet. This doesn't account for full cost of ownership for the nonprofits though.
 
-- The per-user pricing doesn't account for the subscription cost of computing infrastructure required for the database and analytics components.
+- The per-user pricing* doesn't account for the subscription cost of computing infrastructure required for the database and analytics components.
 - AppSheet is not offered as a managed service hence the nonprofits need to hire technology providers to do this for them. Since Avni is offered as a **shared** managed service, it has significant cost advantages.
 - The configurability tradeoff (as in the section above) also implies a higher cost of implementation for the skills/time required.
 - If you want a web application for data management online, then it needs to be developed.
 
-We would like to highlight that the use AppSheet is free for up to 10 users, only for development purposes not for using it in production.
+* We would like to highlight that the use of AppSheet is free for up to 10 users, but only for development purposes and not for using it in production.
 
 Overall we strongly believe that all things considered Avni is a better platform for you if you are nonprofit running frontline programs.
 
