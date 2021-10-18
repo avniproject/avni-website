@@ -1,0 +1,40 @@
+---
+templateKey: case-study
+title: "Maha PECOnet - Use of Avni in Covid relief"
+date: 2021-10-01T06:33:06.442Z
+description: >-
+Avni is used as a survey tool, and then as an MIS to keep tabs of Covid relief activities. 
+featuredstudy: false
+tags:
+  - Covid
+  - Survey
+  - MIS
+---
+
+**Summary**
+
+Maha PECOnet is a UNICEF Mumbai-facilitated network of volunteers, corporates, government bodies, and over 75+ civil society organizations formed to streamline the efforts and services offered by them amid lockdown and unlock frenzy. Its members have been working to provide many services for COVID relief including emergency relief, vaccine awareness and assistance. Relief and awareness activities reach more than 5 million people in Maharashtra. While UNICEF was funding activities, RISE Infinity and YUVA were coordinating with NGOs in different districts. See their website (https://mahac19peconet.org) for more details. 
+
+Avni is used for Maha PECOnet as an overall MIS for the programme. While individual NGOs maintain their own data for their operations, it was hard to get a summary of the entire programme without significant effort. Avni filled this gap by providing coded forms to fill in data. All data collected would then be collated and displayed in a public dashboard. 
+
+
+**Phases**
+Avni for Maha PECOnet was implemented in two distinct phases. 
+In the first phase, Avni was a survey collection system. Users surveyed different areas of Maharashtra to identify current levels of covid awareness, opinions on vaccination and WASH practices. This would then be used to determine the right kind of intervention. 
+Based on the surveys conducted, the right kind of intervention was introduced to each area. Interventions include awareness campaigns (mics, pamphlets, online awareness activities etc), relief supplies (ration, medical equipment, masks etc), training and WASH activities (tap installation, soap distribution etc). Recording the activities performed and developing the dashboard was part of the second phase. 
+
+
+**Special needs**
+Being a combination of multiple organisations, Maha PECOnet requires coordination across multiple organisations. This means seamless data flow both from individual organisations to the coordination centre, and easy dissemination of data from the coordination centre to each organisation. It was also important to ensure data quality. To achieve this, we had to
+1. Ensure data collected by field workers are validated/approved. The approval feature of Avni was used here. 
+2. A public dashboard was used to ensure basic data is available for all (both participating organisations and the general public)
+3. Access controls were implemented so that users are able to do only activities that they are responsible for. This greatly streamlines the user interface of each user. For example, a person handling a VHHD can only enter data for VHHD days conducted. 
+
+
+
+**The final app**
+
+
+**New features**
+Being an open-source project, features usually get into Avni either through grants, or projects that have new requirements. 
+Maha PECOnet project funded the introduction of the Home Screen feature in Avni. The Home Screen feature is a mechanism through which you can add a custom splash screen to the Avni field app. This can be written in html, and uploaded through the App Designer. 
