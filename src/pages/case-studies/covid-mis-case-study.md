@@ -1,11 +1,12 @@
 ---
 templateKey: case-study
 title: "Maha PECOnet - Use of Avni in Covid relief"
-date: 2021-10-01T06:33:06.442Z
+date: 2021-10-19T06:33:06.442Z
 description: >-
   Avni is used as a survey tool, and then as an MIS to keep tabs of Covid relief 
   activities.
 featuredstudy: false
+author: Vinay Venu
 tags:
   - Covid
   - Survey
