@@ -24,6 +24,7 @@ Phases
 -------
 Avni for Maha PECOnet was implemented in two distinct phases. 
 In the first phase, Avni was a survey collection system. Users surveyed different areas of Maharashtra to identify current levels of covid awareness, opinions on vaccination and WASH practices. This would then be used to determine the right kind of intervention. 
+
 Based on the surveys conducted, the right kind of intervention was introduced to each area. Interventions include awareness campaigns (mics, pamphlets, online awareness activities etc), relief supplies (ration, medical equipment, masks etc), training and WASH activities (tap installation, soap distribution etc). Recording the activities performed and developing the dashboard was part of the second phase. 
 
 
