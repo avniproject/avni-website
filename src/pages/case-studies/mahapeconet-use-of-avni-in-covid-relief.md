@@ -1,7 +1,7 @@
 ---
 templateKey: case-study
 title: "Maha PECOnet - Use of Avni in Covid relief"
-date: 2021-10-19T06:33:06.442Z
+date: 2021-10-27T11:00:00.00Z
 description: >-
   Avni is used as a survey tool, and then as an MIS to keep tabs of Covid relief 
   activities.
@@ -47,10 +47,15 @@ The final app
 ![](/img/covid-mis-case-study/dashboard-2.png)
 
 
+**Showcase video**
+
+https://drive.google.com/file/d/1e9abXGRJbC68yNJFbbJdM2V4eXeqjSU8/view
+
 New features
 ------------
 Being an open-source project, features usually get into Avni either through grants, or projects that have new requirements. 
 Maha PECOnet project funded the introduction of the Home Screen feature in Avni. The Home Screen feature is a mechanism through which you can add a custom splash screen to the Avni field app. This can be written in html, and uploaded through the App Designer. 
+See documentation ![here](https://avni.readme.io/docs/extension-points)
 
 **Splash Screen for Maha PECO net**
 ![](/img/covid-mis-case-study/splash.png)
