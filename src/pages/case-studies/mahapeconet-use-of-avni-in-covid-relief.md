@@ -13,6 +13,8 @@ tags:
   - MIS
 ---
 
+_In 3 words , AVNI MIS has been versatile , impactful and qualitative._ - **Shilpa Mirashi Director, Indian Institute of Youth Welfare Nagpur**
+
 Summary
 -------
 Maha PECOnet is a UNICEF Mumbai-facilitated network of volunteers, corporates, government bodies, and over 75+ civil society organizations formed to streamline the efforts and services offered by them amid lockdown and unlock frenzy. Its members have been working to provide many services for COVID relief including emergency relief, vaccine awareness and assistance. Relief and awareness activities reach more than 5 million people in Maharashtra. While UNICEF was funding activities, RISE Infinity and YUVA were coordinating with NGOs in different districts. See their <a href="https://mahac19peconet.org" target="_blank" rel="noopener noreferrer">website</a> for more details. 
@@ -49,7 +51,7 @@ The final app
 
 **Showcase video**
 
-https://drive.google.com/file/d/1e9abXGRJbC68yNJFbbJdM2V4eXeqjSU8/view
+`video: https://www.youtube.com/watch?v=emaGhtJfpuA`
 
 New features
 ------------
@@ -59,3 +61,22 @@ See documentation ![here](https://avni.readme.io/docs/extension-points)
 
 **Splash Screen for Maha PECO net**
 ![](/img/covid-mis-case-study/splash.png)
+
+
+
+Testimonial
+------------
+![](/img/covid-mis-case-study/shilpa_mirashi.jpg)
+**Shilpa Mirashi
+Director, Indian Institute of Youth Welfare
+Nagpur**
+
+
+_The MIS and dashboard of Co marg MAHA peconet programme was successfully launched and was effective in data compilation, collation and final outcomes.( Nagpur rural). IIYW has used the AVNI APP and MIS after a focused training from project holders and IIYW found the AVNI MIS very user friendly and qualitative.
+IIYW could use MIS daily and the team who handled the trainings were most skilled and extremely supportive. The MIS and dashboard brought more professionalism in handling the data and mainly to reproduce its impacts.
+The AVNI MIS truly helped IIYW in quick compilations, approvals of data collected from remote villages and its outcomes. MIS and dashboard, in true sense, is a most efficient platform and is educative too.
+The **RISE INFINITY FOUNDATION** and **YUVA** has accelerated the CoMAARG project through AVNI and MIS and  it has helped everyone create wide visibility of work._
+
+_Working with AVNI MIS is so encouraging for volunteers too and it’s effective format captures all work details.
+In 3 words , AVNI MIS has been **versatile , impactful and qualitative.**
+Thank you._
