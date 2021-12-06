@@ -1,7 +1,7 @@
 ---
 templateKey: case-study
 title: "Maha PECOnet - Use of Avni in Covid relief"
-date: 2021-10-27T11:00:00.00Z
+date: 2021-12-06T17:00:00.00Z
 description: >-
   Avni is used as a survey tool, and then as an MIS to keep tabs of Covid relief 
   activities.
@@ -66,17 +66,16 @@ See documentation ![here](https://avni.readme.io/docs/extension-points)
 
 Testimonial
 ------------
-![](/img/covid-mis-case-study/shilpa_mirashi.jpg)
-**Shilpa Mirashi
+![](/img/covid-mis-case-study/shilpa_mirashi.jpg)**Shilpa Mirashi
 Director, Indian Institute of Youth Welfare
 Nagpur**
 
 
-_The MIS and dashboard of Co marg MAHA peconet programme was successfully launched and was effective in data compilation, collation and final outcomes.( Nagpur rural). IIYW has used the AVNI APP and MIS after a focused training from project holders and IIYW found the AVNI MIS very user friendly and qualitative.
+_The MIS and dashboard of Co marg MAHA peconet programme was successfully launched and was effective in data compilation, collation and final outcomes.( Nagpur rural). IIYW has used the Avni App and MIS after a focused training from project holders and IIYW found the Avni MIS very user friendly and qualitative.
 IIYW could use MIS daily and the team who handled the trainings were most skilled and extremely supportive. The MIS and dashboard brought more professionalism in handling the data and mainly to reproduce its impacts.
-The AVNI MIS truly helped IIYW in quick compilations, approvals of data collected from remote villages and its outcomes. MIS and dashboard, in true sense, is a most efficient platform and is educative too.
-The **RISE INFINITY FOUNDATION** and **YUVA** has accelerated the CoMAARG project through AVNI and MIS and  it has helped everyone create wide visibility of work._
+The Avni MIS truly helped IIYW in quick compilations, approvals of data collected from remote villages and its outcomes. MIS and dashboard, in true sense, is a most efficient platform and is educative too.
+The **RISE INFINITY FOUNDATION** and **YUVA** has accelerated the CoMAARG project through Avni App and MIS and  it has helped everyone create wide visibility of work._
 
-_Working with AVNI MIS is so encouraging for volunteers too and it’s effective format captures all work details.
+_Working with Avni MIS is so encouraging for volunteers too and it’s effective format captures all work details.
 In 3 words , AVNI MIS has been **versatile , impactful and qualitative.**
 Thank you._
