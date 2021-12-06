@@ -13,7 +13,7 @@ tags:
   - MIS
 ---
 
-_In 3 words , AVNI MIS has been versatile , impactful and qualitative._ - **Shilpa Mirashi Director, Indian Institute of Youth Welfare Nagpur**
+_In 3 words , Avni MIS has been versatile , impactful and qualitative._ - **Shilpa Mirashi Director, Indian Institute of Youth Welfare Nagpur**
 
 Summary
 -------
@@ -77,5 +77,5 @@ The Avni MIS truly helped IIYW in quick compilations, approvals of data collecte
 The **RISE Infinity Foundation** and **YUVA** has accelerated the Co-MARG project through Avni App and MIS and  it has helped everyone create wide visibility of work._
 
 _Working with Avni MIS is so encouraging for volunteers too and it’s effective format captures all work details.
-In 3 words , AVNI MIS has been **versatile , impactful and qualitative.**
+In 3 words , Avni MIS has been **versatile , impactful and qualitative.**
 Thank you._
