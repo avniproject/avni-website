@@ -31,7 +31,7 @@ but are also subject to dropping-out from schools due to poor educational infras
 Project Strategy
 ------------------------------------------------------------
 
-To address the problem, Save the Children has initiated implementing a project titled “Empowering the Children and Communities in Tea Plantations of Assam, India” in Jorhat and Dibrugarh districts of Assam, from Feb 2021 to Dec 2023.
+To address the problem, Save the Children has initiated implementing a project titled <span style="font-weight:bold">“Empowering the Children and Communities in Tea Plantations of Assam, India”</span> in Jorhat and Dibrugarh districts of Assam, from Feb 2021 to Dec 2023.
 
 SC India, evidenced by the Child Rights Situational Analysis conducted in 2016, identified prevention of children from engaging in labor as one of the most critical priorities for this strategic period.
 In addressing this, the overall approach is based on five key principles:
