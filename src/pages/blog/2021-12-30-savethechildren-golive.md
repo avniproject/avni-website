@@ -1,0 +1,76 @@
+---
+templateKey: blog-post
+title: Empowering the Children and Communities in Tea Plantations of Assam, India
+date: 2021-12-30T11:39:26.313Z
+author: The Avni Team
+description: >-
+    Save the Children joined the Avni user's family as they rolled out the app in their Assam tea plantation project to protect children from labour, trafficking and other vulnerabilities. 
+featuredpost: false
+featuredimage: /img/SaveTheChildren/save-the-children-banner.png
+tags:
+ - Health
+---
+
+![](/img/SaveTheChildren/save-the-children-banner.png)
+
+Save the Children
+------------------------------------------------------------
+Save the Children India, Bal Raksha, Bharat (SC) is a leading child rights organization and an independent member of the International Save the Children Alliance, which works to deliver immediate and lasting improvement to children's lives worldwide.
+
+
+Assam Tea Plantation & Child Protection
+------------------------------------------------------------
+Assam’s tea industry is its biggest source of revenue, as the state is the largest producer of tea in India.
+However, despite decades of building a dedicated economy from tea, the condition of local laborers has only worsened.
+They are deprived of the most basic of amenities to give them an upward growth opportunity – education.
+As local communities are dependent largely on labor, their ability to find growth and more opportunity is limited.
+Children are the worst affected in this situation as they are not only forced to work and contribute to the family income
+but are also subject to dropping-out from schools due to poor educational infrastructure, trafficking, early marriage, domestic violence, abuse and exploitations.The issue requires a multi-dimensional approach engaging with communities, businesses, Government and civil society actors.
+
+
+Project Strategy
+------------------------------------------------------------
+
+To address the problem, Save the Children has initiated implementing a project titled “Empowering the Children and Communities in Tea Plantations of Assam, India” in Jorhat and Dibrugarh districts of Assam, from Feb 2021 to Dec 2023.
+
+SC India, evidenced by the Child Rights Situational Analysis conducted in 2016, identified prevention of children from engaging in labor as one of the most critical priorities for this strategic period.
+In addressing this, the overall approach is based on five key principles:
+1. Progressive approach towards elimination of adolescent child labour (both boys and girls) through advocacy and evidence generation.
+2. Replication of SC’s successful initiatives to prevent child labour and experimenting through innovation based on learnings of our past programming and best practices 
+3. Collaboration with corporates and skill council to help move adolescents from hazardous working situations to decent work by creating opportunities for an improved career through job skill enhancement and life skills training, including soft skills 
+4. Working alongside business houses on eradicating child labour in the supply chain
+5. Empowering children, family and communities to challenge and disown practices that support economic exploitation of children and adolescents in the form of labor and emphasis on accessing social protection schemes and basic rights
+
+The project intervention encompasses 5 large tea estates in Dibrugarh with 3000 plantation workers and 2000 small tea growers in both Jorhat and Dibrugarh districts. SC plans to reach out to 10,000 children and adolescents and 20,000 adults (including youths, parents, teachers, health workers, community members, VLCPC members, CP workforce at district and state level, Small Tea Growers (Including FPOs) and Management/Owners of Tea producing companies / Big Tea Plantations) through this intervention.
+
+Having the CMIS application will help the project in remote beneficiary monitoring, risk assessment, screening, follow ups & facilitating further referrals.
+
+![](/img/SaveTheChildren/framework.png)
+
+How is Avni helping?
+------------------------------------------------------------
+The application would help in tracking the vulnerable children and relevant stakeholders and managing project activities in a manner that provides the right information to the right set of people at the right time to enable adaptive project management and decision support.
+
+Avni modeled consists of following features
+
+1. <span style="font-weight:bold"> Case Tracking and Management </span>
+
+2. <span style="font-weight:bold"> Planning and Follow up visit scheduler (reminders, providing feedback to field staff and assigning tasks etc.)</span>
+
+3. <span style="font-weight:bold"> Dashboard and Monitoring: </span>  A dashboard for the programme team to see the progress made against the plan and the gaps
+
+
+Avni app is functional and supports online and offline with frontend (tablet/smart phone android application and web based) both ways. App is Bilingual (English and Assamese). The children and household records are uniquely linked, to avoid duplicate cases.
+
+![](/img/SaveTheChildren/stcatpMindmap.png)
+
+Pictures from the users training & field work 
+------------------------------------------------------------
+![](/img/SaveTheChildren/stc.jpg)
+
+![](/img/SaveTheChildren/stcatpField.jpg)
+
+Do connect with us on <a href="https://www.linkedin.com/company/samanvay-research-and-development-foundation" target="_blank" rel="noopener noreferrer">LinkedIn</a>, <a href="https://twitter.com/avniproject" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.facebook.com/avniproject" target="_blank" rel="noopener noreferrer">Facebook</a>.
+
+<span style="color:#ff470f">And last but not the least, wishing you a better, safer, healthy and prosperous new year 2022!</span>
+
