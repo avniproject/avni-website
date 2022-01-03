@@ -60,7 +60,7 @@ Avni modeled consists of following features
 3. <span style="font-weight:bold"> Dashboard and Monitoring: </span>  A dashboard for the programme team to see the progress made against the plan and the gaps
 
 
-Avni app is functional and is supported online and offline on tablet/smart phones.We have the web based application available too. Initially app was thought to be made in 2 languages (English and Assamese) but as the users were comfortable with English we skipped translating it into Assamese. The children and household records are uniquely linked, to avoid duplicate cases.
+Avni app is functional and is supported online and offline both on tablet/smart phones. We have the web based application available too. Initially app was thought to be made in 2 languages (English and Assamese) but as the users were comfortable with English we skipped translating it into Assamese. The children and household records are uniquely linked, to avoid duplicate cases.
 
 ![](/img/SaveTheChildren/stcatpMindmap.png)
 
