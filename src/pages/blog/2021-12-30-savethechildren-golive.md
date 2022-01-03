@@ -53,7 +53,8 @@ The application would help in tracking the vulnerable children and relevant stak
 
 Avni modeled consists of following features
 
-1. <span style="font-weight:bold"> Case Tracking and Management </span>
+1. <span style="font-weight:bold"> Case Tracking and Management: </span> Vulnerable children Case Tracking (Case Management from identification to mainstreaming) – linked with Household Registration. Also tracking of beneficiaries for Social Security Schemes and other details.
+
 
 2. <span style="font-weight:bold"> Planning and Follow up visit scheduler (reminders, providing feedback to field staff and assigning tasks etc.)</span>
 
