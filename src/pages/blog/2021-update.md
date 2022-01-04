@@ -11,11 +11,11 @@ tags:
 ---
 # Usage and Impact
 ----------------
-We saw an overall 100% increase in the system usage from last year, which means double the number of services rendered!
+We saw an overall **100% increase in the system usage from last year**, which means double the number of services rendered!
 
 ![](/img/2021-update/2021-reach-and-impact.png)
 
-### Utility in Covid
+### Utility in Covid 😷
 Last year <a href="https://sathicehat.org/" target="_blank" rel="noopener noreferrer">SATHI</a> used Avni to roll out surveys to collect information from ASHAs, Anganwadi workers and health committee members of 28 blocks from 13 districts of Maharashtra. This year we saw multiple organisations using Avni in their projects dealing with the pandemic. 
 
 <a href="https://avniproject.org/blog/shelter-journey-remoulding-data-collection-paper-kobotoolbox-avni/" target="_blank" rel="noopener noreferrer">Shelter Associates</a> tracks vaccination status and interest in getting vaccinated in the households of urban slums of Mumbai, Pune and Kolhapur. 
@@ -28,10 +28,14 @@ Last year <a href="https://sathicehat.org/" target="_blank" rel="noopener norefe
 
 ![](/img/2021-update/avni-in-covid-mpn.png)
 
-Watch this webinar conducted where different organisations share about this <a href="https://www.youtube.com/watch?v=kHagSqKyZxQ&list=PLEy8ff0CKDBma3KoU5fmCJ5Te9zsiuG2a&index=8" target="_blank" rel="noopener noreferrer">Webinar: Avni During Covid</a>
+Watch this webinar conducted where different organisations share about this 🗨️🗨 <a href="https://www.youtube.com/watch?v=kHagSqKyZxQ&list=PLEy8ff0CKDBma3KoU5fmCJ5Te9zsiuG2a&index=8" target="_blank" rel="noopener noreferrer">Webinar: Avni During Covid</a>
 
 ### Scale ups by existing Users
-In 2021, multiple organisations decided to scale up their projects and Avni played an important role in helping them do so. <a href="https://avniproject.org/case-studies/dam-and-water-bodies-desilting-work-monitoring-1" target="_blank" rel="noopener noreferrer">Rejuvenating Water Bodies</a> driven by Caring friends, ATE Chandra Foundation and IIT IIT was scaled up in 3 states of Maharashtra, Rajasthan and Karnataka. Volunteers and members from 13+ NGOs used Avni to record daily desilting work and distribution of silt to farmers. In 2022 the project plans to further scale up covering newer states. Jan Swasthya Sahyog scaled up the <a href="https://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment" target="_blank" rel="noopener noreferrer">Sickle cell screening project</a> to another district in Madhya Pradesh. <a href="https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study" target="_blank" rel="noopener noreferrer">JNPCT</a> app was earlier used by supervisors and is now rolled out to Arogya Saheli, their frontline ASHA like workers.
+In 2021, multiple organisations decided to scale up their projects and Avni played an important role in helping them do so. <a href="https://avniproject.org/case-studies/dam-and-water-bodies-desilting-work-monitoring-1" target="_blank" rel="noopener noreferrer">Rejuvenating Water Bodies</a> driven by Caring friends, ATE Chandra Foundation and IIT-IIT was scaled up in 3 states of Maharashtra, Rajasthan and Karnataka. Volunteers and members from 13+ NGOs used Avni to record daily desilting work and distribution of silt to farmers. In 2022 the project plans to further scale up covering newer states. 
+
+Jan Swasthya Sahyog scaled up the <a href="https://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment" target="_blank" rel="noopener noreferrer">Sickle cell screening project</a> to another district in Madhya Pradesh. 
+
+<a href="https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study" target="_blank" rel="noopener noreferrer">JNPCT</a> app was earlier used by supervisors and is now rolled out to Arogya Saheli, their frontline ASHA like workers.
 
 ### Avni for Offline Stock Management
 <a href="http://www.swasthyaswaraj.org/" target="_blank" rel="noopener noreferrer">Swasthya Swaraj</a> works in rural Odisha running community health centres in 3 remote locations. It gets difficult to manage the drug stock using paper based registers. Missing out on returning expiring drugs and ensuring stock is replenished at right levels is challenging. An offline digital system was desired. We built a new android application using the Avni platform to help solve the problem. The pilot is successfully completed and it is all set to go live with the new year.
@@ -45,25 +49,37 @@ In 2021, multiple organisations decided to scale up their projects and Avni play
 
 # Avni Capabilities
 ----------------
-Based on demand from the users and need on the ground we continued to add more features to the product. Avni now supports **Custom extensions** to plugin your own web application for use cases like report card and ID card prints. **Approval workflow**, **Phone number verification**, **File data types** were added to improve the quality of data while **Draft save**, **News broadcast**, **Custom icons** improve the usability and engagement. We continued to review and improve on security and scalability.
+Based on demand from the users and need on the ground we continued to add more features to the product. Avni now supports **Custom extensions** to plugin your own web application for use cases like report card and ID card prints.
 
-# Other News
+ ✅ **Approval workflow**, 📱 **Phone number verification**, 🗄️**File data types** were added to improve the quality of data while 📨 **Draft save**, 📻 **News broadcast**, 🔍 **Custom icons** improve the usability and engagement. We continued to review and improve on security and scalability.
+
+# Other Updates
 ----------------
 1. ASHWINI now has Avni integrated into their hospital management system Bahmni. The data seamlessly flows both ways. This will provide a holistic picture of each patient and better continuum of care for patients. We anticipate more such integrations with newer platforms in 2022.
 
 
-2. Going with the open source culture, the Avni team participated in a 2 day <a href="https://forum.fossunited.org/t/foss-hack-2021-results/957" target="_blank" rel="noopener noreferrer">FOSS hackathon</a> to build a prototype for <a href="https://fossunited.org/" target="_blank" rel="noopener noreferrer">Canned Analytics</a> and won a prize too! The prototype is rolled out to a few users and we are getting good feedback. We plan to work further on this feature in the coming year.
+2. We conducted a few webinars where our partner organisations shared their learnings from the ground. The webinars received good participation and engagement. Do check out <a href="https://youtube.com/playlist?list=PLEy8ff0CKDBma3KoU5fmCJ5Te9zsiuG2a" target="_blank" rel="noopener noreferrer">Avni’s webinar playlist.</a> Given the current times, you may find 🎥 <a href="https://youtu.be/GbhaCzG3YqY" target="_blank" rel="noopener noreferrer"> Community based work and COVID19 : Learnings from the ground</a> very relevant.
 
-3. Avni won a grant from Zerodha and <a href="https://fossunited.org/" target="_blank" rel="noopener noreferrer">FOSS United</a> to build Rule designer which would be a major step in enabling nonprofits to design their application without having to write code. We would be starting on this as the new year 2022 begins.
+3. Going with the open source spirit, the Avni team participated in a 2 day <a href="https://forum.fossunited.org/t/foss-hack-2021-results/957" target="_blank" rel="noopener noreferrer">FOSS hackathon</a> to build a prototype for <a href="https://fossunited.org/" target="_blank" rel="noopener noreferrer">Canned Analytics</a> and won a prize too! 🏅 The prototype is rolled out to a few users and we are getting good feedback. We plan to work further on this feature in the coming year.
 
-4. In 2021, 76% of Avni expenses came from project revenue,with most of the product capabilities growth supported by existing and new users.The deficit was filled by grants.
+
+4. Avni won a grant 💰 from Zerodha and <a href="https://fossunited.org/" target="_blank" rel="noopener noreferrer">FOSS United</a> to build Rule designer which would be a major step in enabling nonprofits to design their application without having to write code. We would be starting on this as the new year 2022 begins.
+
+
+5. In 2021, 76% of Avni expenses came from project revenue,with most of the product capabilities growth supported by existing and new users.The deficit was filled by grants.
 
 ![](/img/2021-update/avni-sustainability.png)
 
 
-5. We also have a brand new short video introducing Avni, Yay!!!! Do check it out.
+6. We also have a brand new short video introducing Avni, 🎥 Yay!!!! Do check it out.
 
 `video: https://www.youtube.com/watch?v=Xt9EUNXKfWI`
 
-In 2021, all of the Avni core team members continued to work remotely from their hometowns staying closer to the family. As the risk of a new wave due to Omicron stares at all of us, <span style="color:#ff470f">we wish you, your family and the communities you serve a very safe 2022.</span>
+In 2021, all of the Avni core team members continued to work remotely from their hometowns staying closer to the family.
+
+We’d like to use this opportunity to thank all those who have been with us in this journey - our users, partners, funders and well-wishers. Together we will continue to cross new milestones.
+
+As the risk of a new wave due to Omicron stares at all of us, <span style="color:#ff470f">we wish you, your family and the communities you serve a very safe 2022.</span>
+
+
 
