@@ -14,7 +14,7 @@ tags:
 ![](/img/SaveTheChildren/STCATP_banner.png)
 
 Save the Children India (Bal Raksha Bharat)
-------------------------------------------------------------
+-------------------------------------------
 Save the Children, is one of the largest independent child rights organisations. The
 organisation is transforming the lives of millions of vulnerable children through targeted
 interventions on identified focus areas of Education, Health &amp; Nutrition, Child Protection &amp; Psychosocial, Poverty &amp; Livelihood and Humanitarian response. Having embarked on an
@@ -27,7 +27,7 @@ the barriers to their survival, learning and protection.
 
 
 Assam Tea Plantation & Need for Child Protection
-------------------------------------------------------------
+-------------------------------------------------
 Assam’s tea industry is its biggest source of revenue, as the state is the largest producer of tea in India.
 However, despite decades of building a dedicated economy from tea, the condition of local laborers has only worsened.
 They are deprived of the most basic of amenities to give them an upward growth opportunity – education.
@@ -78,7 +78,7 @@ In first week of October app was live on production.
 ![](/img/SaveTheChildren/stcatpMindmap.png)
 
 Pictures from the users training & field work 
-------------------------------------------------------------
+----------------------------------------------
 ![](/img/SaveTheChildren/stc.jpg)
 
 ![](/img/SaveTheChildren/stcatpField.jpg)
