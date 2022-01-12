@@ -6,7 +6,7 @@ author: Nupoor Khandelwal
 description: >-
     Save the Children joined the Avni user's family as they rolled out the app in their Assam tea plantation project to protect children from labour, trafficking and other vulnerabilities. 
 featuredpost: false
-featuredimage: /img/SaveTheChildren/save-the-children-banner.png
+featuredimage: /img/SaveTheChildren/STCATP_banner.png
 tags:
  - Health
 ---
