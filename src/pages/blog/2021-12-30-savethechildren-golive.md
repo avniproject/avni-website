@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Empowering the Children and Communities in Tea Plantations of Assam, India
-date: 2021-12-30T11:39:26.313Z
-author: The Avni Team
+date: 2022-01-12T11:39:26.313Z
+author: Nupoor Khandelwal
 description: >-
     Save the Children joined the Avni user's family as they rolled out the app in their Assam tea plantation project to protect children from labour, trafficking and other vulnerabilities. 
 featuredpost: false
@@ -11,14 +11,22 @@ tags:
  - Health
 ---
 
-![](/img/SaveTheChildren/save-the-children-banner.png)
+![](/img/SaveTheChildren/STCATP_banner.png)
 
-Save the Children
+Save the Children India (Bal Raksha Bharat)
 ------------------------------------------------------------
-Save the Children India, Bal Raksha, Bharat (SC) is a leading child rights organization and an independent member of the International Save the Children Alliance, which works to deliver immediate and lasting improvement to children's lives worldwide.
+Save the Children, is one of the largest independent child rights organisations. The
+organisation is transforming the lives of millions of vulnerable children through targeted
+interventions on identified focus areas of Education, Health &amp; Nutrition, Child Protection &amp; Psychosocial, Poverty &amp; Livelihood and Humanitarian response. Having embarked on an
+independent journey in India since 2008, as ‘Bal Raksha Bharat’, In India, it has touched the
+lives of over 10 million children in the past 13 years. The organisation works in saving
+children’s lives and is committed to helping them achieve their true potential. In a world
+where millions of children are denied their rights because of who they are or where they live,
+Save the Children aims to put the most deprived and marginalised children first, and tackle
+the barriers to their survival, learning and protection.
 
 
-Assam Tea Plantation & Child Protection
+Assam Tea Plantation & Need for Child Protection
 ------------------------------------------------------------
 Assam’s tea industry is its biggest source of revenue, as the state is the largest producer of tea in India.
 However, despite decades of building a dedicated economy from tea, the condition of local laborers has only worsened.
@@ -28,10 +36,10 @@ Children are the worst affected in this situation as they are not only forced to
 but are also subject to dropping-out from schools due to poor educational infrastructure, trafficking, early marriage, domestic violence, abuse and exploitations.The issue requires a multi-dimensional approach engaging with communities, businesses, Government and civil society actors.
 
 
-Project Strategy
+Empowering the Children and Communities in Tea Plantations of Assam, India
 ------------------------------------------------------------
 
-To address the problem, Save the Children has initiated implementing a project titled <span style="font-weight:bold">“Empowering the Children and Communities in Tea Plantations of Assam, India”</span> in Jorhat and Dibrugarh districts of Assam, from Feb 2021 to Dec 2023.
+To address the problem, Save the Children, India (SC India) has initiated implementing a project titled <span style="font-weight:bold">“Empowering the Children and Communities in Tea Plantations of Assam, India”</span> in Jorhat and Dibrugarh districts of Assam, from Feb 2021 to Dec 2023.
 
 SC India, evidenced by the Child Rights Situational Analysis conducted in 2016, identified prevention of children from engaging in labor as one of the most critical priorities for this strategic period.
 In addressing this, the overall approach is based on five key principles:
@@ -41,9 +49,9 @@ In addressing this, the overall approach is based on five key principles:
 4. Working alongside business houses on eradicating child labour in the supply chain
 5. Empowering children, family and communities to challenge and disown practices that support economic exploitation of children and adolescents in the form of labor and emphasis on accessing social protection schemes and basic rights
 
-The project intervention encompasses 5 large tea estates in Dibrugarh with 3000 plantation workers and 2000 small tea growers in both Jorhat and Dibrugarh districts. SC plans to reach out to 10,000 children and adolescents and 20,000 adults (including youths, parents, teachers, health workers, community members, VLCPC members, CP workforce at district and state level, Small Tea Growers (Including FPOs) and Management/Owners of Tea producing companies / Big Tea Plantations) through this intervention.
+The project intervention encompasses 5 large tea estates in Dibrugarh with 3000 plantation workers and 2000 small tea growers in both Jorhat and Dibrugarh districts. SC plans to reach out to 10,000 children and adolescents and 20,000 adults (including youths, parents, teachers, health workers, community members, Village level Child Protection Committe (VLCPC) members, Child Protection workforce at district and state level, Small Tea Growers (Including FPOs) and Management/Owners of Tea producing companies / Big Tea Plantations) through this intervention.
 
-Having the CMIS application will help the project in remote beneficiary monitoring, risk assessment, screening, follow ups & facilitating further referrals.
+Having the Case Management Information System application will help the project in remote beneficiary monitoring, risk assessment, screening, follow ups & facilitating further referrals.
 
 ![](/img/SaveTheChildren/framework.png)
 
