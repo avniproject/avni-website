@@ -8,7 +8,8 @@ description: >-
 featuredpost: false
 featuredimage: /img/SaveTheChildren/STCATP_banner.png
 tags:
- - Health
+ - Project Updates
+ - Child Protection
 ---
 
 ![](/img/SaveTheChildren/STCATP_banner.png)
@@ -29,9 +30,9 @@ the barriers to their survival, learning and protection.
 Assam Tea Plantation & Need for Child Protection
 -------------------------------------------------
 Assam’s tea industry is its biggest source of revenue, as the state is the largest producer of tea in India.
-However, despite decades of building a dedicated economy from tea, the condition of local laborers has only worsened.
+However, despite decades of building a dedicated economy from tea, the condition of local labourers has only worsened.
 They are deprived of the most basic of amenities to give them an upward growth opportunity – education.
-As local communities are dependent largely on labor, their ability to find growth and more opportunity is limited.
+As local communities are dependent largely on labour, their ability to find growth and more opportunity is limited.
 Children are the worst affected in this situation as they are not only forced to work and contribute to the family income
 but are also subject to dropping-out from schools due to poor educational infrastructure, trafficking, early marriage, domestic violence, abuse and exploitations.The issue requires a multi-dimensional approach engaging with communities, businesses, Government and civil society actors.
 
@@ -41,25 +42,25 @@ Empowering the Children and Communities in Tea Plantations of Assam, India
 
 To address the problem, Save the Children, India (SC India) has initiated implementing a project titled <span style="font-weight:bold">“Empowering the Children and Communities in Tea Plantations of Assam, India”</span> in Jorhat and Dibrugarh districts of Assam, from Feb 2021 to Dec 2023.
 
-SC India, evidenced by the Child Rights Situational Analysis conducted in 2016, identified prevention of children from engaging in labor as one of the most critical priorities for this strategic period.
+SC India, evidenced by the Child Rights Situational Analysis conducted in 2016, identified prevention of children from engaging in labour as one of the most critical priorities for this strategic period.
 In addressing this, the overall approach is based on five key principles:
 1. Progressive approach towards elimination of adolescent child labour (both boys and girls) through advocacy and evidence generation.
-2. Replication of SC’s successful initiatives to prevent child labour and experimenting through innovation based on learnings of our past programming and best practices 
+2. Replication of SC’s successful initiatives to prevent child labour and experimenting through innovation based on learning of our past programming and best practices 
 3. Collaboration with corporates and skill council to help move adolescents from hazardous working situations to decent work by creating opportunities for an improved career through job skill enhancement and life skills training, including soft skills 
 4. Working alongside business houses on eradicating child labour in the supply chain
-5. Empowering children, family and communities to challenge and disown practices that support economic exploitation of children and adolescents in the form of labor and emphasis on accessing social protection schemes and basic rights
+5. Empowering children, family and communities to challenge and disown practices that support economic exploitation of children and adolescents in the form of labour and emphasis on accessing social protection schemes and basic rights
 
 The project intervention encompasses 5 large tea estates in Dibrugarh with 3000 plantation workers and 2000 small tea growers in both Jorhat and Dibrugarh districts. SC plans to reach out to 10,000 children and adolescents and 20,000 adults (including youths, parents, teachers, health workers, community members, Village level Child Protection Committe (VLCPC) members, Child Protection workforce at district and state level, Small Tea Growers (Including FPOs) and Management/Owners of Tea producing companies / Big Tea Plantations) through this intervention.
-
-Having the Case Management Information System application will help the project in remote beneficiary monitoring, risk assessment, screening, follow ups & facilitating further referrals.
 
 ![](/img/SaveTheChildren/framework.png)
 
 How is Avni helping?
 ------------------------------------------------------------
+Having a Case Management Information System will help the project in remote beneficiary monitoring, risk assessment, screening, follow ups & facilitating further referrals.
+
 The application would help in tracking the vulnerable children and relevant stakeholders and managing project activities in a manner that provides the right information to the right set of people at the right time to enable adaptive project management and decision support.
 
-Avni modeled consists of following features
+Our team at <a href="https://www.samanvayfoundation.org/" target="_blank" rel="noopener noreferrer">Samanvay foundation</a> used Avni to model the system. It consists of following features
 
 1. <span style="font-weight:bold"> Case Tracking and Management: </span> Vulnerable children Case Tracking (Case Management from identification to mainstreaming) – linked with Household Registration. Also tracking of beneficiaries for Social Security Schemes and other details.
 
