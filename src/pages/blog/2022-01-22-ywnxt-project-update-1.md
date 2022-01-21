@@ -6,7 +6,7 @@ author: Utkarsh Hathi
 description: >-
     This is the story of an Avni implementation that eventually became something entirely different. 
 featuredpost: false
-featuredimage: /img/ywnxt/ywnxt-flow.png
+featuredimage: /img/ywnxt/ywnxt-flow1.png
 tags:
  - Project Updates
  - YWNXT
