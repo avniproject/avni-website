@@ -34,7 +34,7 @@ The solution
 ---------------------------
 At first, we thought of using Avni for this purpose. Each partner would have its own organisation, and the Avni data model suits well for the modelling of Students, Batches, Facilitators, Sessions and Participation. Initial data would be uploaded into the system, and data entry requirements would be kept at a minimum.
 
-![](/img/ywnxt/avni-modelling-kef.png)
+![](/img/ywnxt/ywnxt-original-idea.png)
  
  Field restrictions, time crunch and other factors led to a situation where most partners opted out of using a phone-based data entry mechanism. Eventually, only one partner would end up using Avni. The others agreed to provide data in the form of spreadsheets to Samagra.
  
@@ -42,8 +42,8 @@ The problem of analysing data still remained. Towards this, we hosted a central 
  
 The final architecture looks something like the diagram below.. Partner NGOs provide excel spreadsheets created either manually, or through their LMSes to Samagra. This gets uploaded to a central data repository, and is available for analytics through dashboards and reports provided by Metabase.
 
-![](/img/ywnxt/ywnxt-flow.png)
+![](/img/ywnxt/ywnxt-flow1.png)
 
-As of this writing, <a href="https://kaivalyaeducation.org/" target="_blank" rel="noopener noreferrer">Kaivalya Education Foundation</a> - the lone organisation using Avni is live and using the system. Their program/intervention is still going on despite challenges posed by the closing down of schools due to Covid. The data from Avni is regularly exported in CSV format using its longitudinal export feature and imported into the central data repository. 
+As of this writing, <a href="https://kaivalyaeducation.org/" target="_blank" rel="noopener noreferrer">Kaivalya Education Foundation</a> - the lone organisation using Avni is live and using the system. Their program/intervention is still going on despite challenges posed by the closing down of schools due to Covid. The data from Avni will be exported in CSV format using its longitudinal export feature and imported into the central data repository. 
 
-This project again reinforced the idea that a tool is only as good as its user. And this is especially true in the development sector.
+Working with the NGOs in the development sector pushes us to design and redesign to accommodate the constraints and come up with pragmatic solutions that actually work. This has been another such interesting case.
