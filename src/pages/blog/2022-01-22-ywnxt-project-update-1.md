@@ -1,0 +1,46 @@
+---
+templateKey: blog-post
+title: The Avni implementation that never was!
+date: 2022-01-22T11:39:26.313Z
+author: Utkarsh Hathi
+description: >-
+    This is the story of an Avni implementation that eventually became something entirely different. 
+featuredpost: false
+featuredimage: /img/SaveTheChildren/STCATP_banner.png
+tags:
+ - Project Updates
+ - YWNXT
+ - Skill development and employment
+---
+
+Young Warrior NXT
+------------------------
+Generation Unlimited is a global multi-sector partnership developed by UNICEF to increase opportunities for education, training and employment available to the young population in the age group of 10 to 24. YuWaah! is its Indian chapter which focuses on engagement, learning, skill development and employment of young people and for that purpose they aim to identify high impact scalable initiatives developed with collaboration of different partner organisations. The initiative <a href="https://www.yuwaah.org/youngwarrior" target="_blank" rel="noopener noreferrer">Young Warrior NXT (YWNXT)</a>  was conceptualised by a coalition of UNICEF, Udhyam Learning Foundation, Dell Foundation and other partners to identify and pilot 18 interventions of which 3 to 5 will be rolled out after measuring the impact.
+The project puts emphasis on delivering life skills to the learners in the age group of 14-18. The skills include self-awareness, communication, achievement orientation, problem-solving and collaboration. The engagements for this purpose are delivered through multiple delivery channels (online-offline), facilitation modes (self driven/facilitator based) and varying content.
+To generate evidence on impact created by different models, data is being collected on reach, enrollment and engagement.
+
+The problem
+--------------------------
+
+<a href="https://www.samagragovernance.in/" target="_blank" rel="noopener noreferrer">Samagra governance</a> is doing the program management for this initiative. They realised that the final data analysis will be difficult to perform with spreadsheets from multiple partners. There was the need for a central data repository in order to analyse all data once it was collected.
+Some partners already have their LMS system to collect data. Some did not. For those partners that do not have easy data collection mechanisms, a simple and easy to use mechanism was required. 
+This dual requirement of the need to collect data easily, and the ability to analyse this data once it was collected was the technical problem <a href="https://www.samanvayfoundation.org/" target="_blank" rel="noopener noreferrer">Samanvay</a> set out to solve.
+ 
+The solution
+---------------------------
+At first, we thought of using Avni for this purpose. Each partner would have its own organisation, and the Avni data model suits well for the modelling of Students, Batches, Facilitators, Sessions and Participation. Initial data would be uploaded into the system, and data entry requirements would be kept at a minimum. 
+Field restrictions, however, led to a situation where most partners opted out of using a phone-based data entry mechanism. Eventually, only one partner would end up using Avni. The others agreed to provide data in the form of spreadsheets to Samagra. 
+The problem of analysing data still remained. Towards this, we hosted a central repository where all spreadsheets would be uploaded. This could be analysed through Metabase - the same analytics tool that is used in Avni. 
+The final architecture looks something like the diagram below.. Partner NGOs provide excel spreadsheets created either manually, or through their LMSes to Samagra. This gets uploaded to a central data repository, and is available for analytics through dashboards and reports provided by Metabase.
+
+![](/img/ywnxt/ywnxt-flow.png)
+
+
+Avni Modelling
+-----------------
+Modelling in Avni was relatively easy. Entities (subjects, encounters etc) were all pre-created for the users, who had to just edit encounters and fill in the details. This made the job of data entry operators easy. 
+
+As of this writing, <a href="https://kaivalyaeducation.org/" target="_blank" rel="noopener noreferrer">Kaivalya Education Foundation</a> - the lone organisation using Avni is live and using the system. Their program/intervention is still going on despite challenges posed by the closing down of schools due to Covid. Data upload of other organisations are in progress. We will have an updated post once all data collection is over, and results come by. 
+
+![](/img/ywnxt/avni-modelling-kef.png)
+
