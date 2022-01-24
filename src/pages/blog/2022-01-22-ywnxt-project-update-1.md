@@ -24,7 +24,7 @@ To generate evidence on impact created by different models, data is being collec
 The problem
 --------------------------
 
-<a href="https://www.samagragovernance.in/" target="_blank" rel="noopener noreferrer">Samagra governance</a> is doing the program management for this initiative. They realised that the final data analysis will be difficult to perform with spreadsheets from multiple partners. There was the need for a central data repository in order to analyse all data once it was collected.
+<a href="https://www.samagragovernance.in/" target="_blank" rel="noopener noreferrer">Samagra governance</a> who is doing the program management for this initiative realised that the final data analysis will be difficult to perform with spreadsheets from multiple partners. There was a need for a central data repository in order to analyse all data once it was collected.
 
 Some partners already have their LMS system to collect data. Some did not. For those partners that do not have easy data collection mechanisms, a simple and easy to use mechanism was required.
  
@@ -40,7 +40,7 @@ At first, we thought of using Avni for this purpose. Each partner would have its
  
 The problem of analysing data still remained. Towards this, we hosted a central repository where all spreadsheets would be uploaded. This could be analysed through Metabase - the same analytics tool that is used in Avni.
  
-The final architecture looks something like the diagram below.. Partner NGOs provide excel spreadsheets created either manually, or through their LMSes to Samagra. This gets uploaded to a central data repository, and is available for analytics through dashboards and reports provided by Metabase.
+The final architecture looks like the diagram below. Partner NGOs provide excel spreadsheets created either manually, or through their LMSes to Samagra. This gets uploaded to a central data repository, and is available for analytics through dashboards and reports provided by Metabase.
 
 ![](/img/ywnxt/ywnxt-flow1.png)
 
