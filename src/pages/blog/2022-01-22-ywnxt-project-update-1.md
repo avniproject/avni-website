@@ -44,6 +44,6 @@ The final architecture looks like the diagram below. Partner NGOs provide excel 
 
 ![](/img/ywnxt/ywnxt-flow1.png)
 
-As of this writing, <a href="https://kaivalyaeducation.org/" target="_blank" rel="noopener noreferrer">Kaivalya Education Foundation</a> - the lone organisation using Avni is live and using the system. Their program/intervention is still going on despite challenges posed by the closing down of schools due to Covid. The data from Avni will be exported in CSV format using its longitudinal export feature and imported into the central data repository. 
+As of this writing, <a href="https://kaivalyaeducation.org/" target="_blank" rel="noopener noreferrer">Kaivalya Education Foundation</a> - the only organisation using Avni is live and using the system. Their program/intervention is still going on despite challenges posed by the closing down of schools due to Covid. The data from Avni will be exported in CSV format using its longitudinal export feature and imported into the central data repository. 
 
 Working with the NGOs in the development sector pushes us to design and redesign to accommodate the constraints and come up with pragmatic solutions that actually work. This has been another such interesting case.
