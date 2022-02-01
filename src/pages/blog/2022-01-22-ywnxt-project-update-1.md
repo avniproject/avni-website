@@ -25,7 +25,7 @@ The problem
 --------------------------
 <a href="https://www.samagragovernance.in/" target="_blank" rel="noopener noreferrer">Samagra governance</a> is doing program management for YW NXT (PMU). They realised the need for a central data repository in order to streamline the process of data collection, storage and processing for analysis of all multiple interventions.
 
-Some implementation partners already have their LMS system to collect data. Some did not. For those partners that do not have easy data collection mechanisms, a simple and easy to use mechanism was required.
+Some implementation partners already had their Learning Management System (LMS) to collect data. Some did not. For those partners that did not have easy data collection mechanisms, a simple and easy to use mechanism was required.
 
 This dual requirement of the need to collect data easily, and the ability to analyse this data once it was collected was the technical problem <a href="https://www.samanvayfoundation.org/" target="_blank" rel="noopener noreferrer">Samanvay</a> set out to solve.
  
