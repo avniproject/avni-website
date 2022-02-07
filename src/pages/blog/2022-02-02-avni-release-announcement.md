@@ -16,14 +16,20 @@ tags:
 
 ### Quick edit in forms
 
-Many times, some fields in the form are not available, and will be filled later during the form edit. This feature allows users to jump directly to any page in the form and then quickly save the form skipping the middle questions. This will save a lot of time as now users don't have to go through all the pages.
+Many times, some fields in the form are not available, and will be filled later during the form edit. This feature allows users to jump directly to any page in the form and change the record in that page. This will save a lot of time as now users don't have to go through all the pages.
 
+### Jump to summary
+
+Enabling this feature allows user to directly jump to summary page skipping the middle pages.
+
+![](/img/features/quick-form-edit.gif)
 ---------------------------------------------------------------------------
 
 ### Custom fields in search results
 
 Avni app has the capability to search by many fields, but the results do not show any of these fields. Using this feature one can add additional fields in the search result.
 
+![](/img/features/custom-search-result-fields.gif)
 ---------------------------------------------------------------------------
 
 ### Bug Fixes
