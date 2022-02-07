@@ -24,6 +24,7 @@ Many times, some fields in the form are not available, and will be filled later 
 
 Avni app has the capability to search by many fields, but the results do not show any of these fields. Using this feature one can add additional fields in the search result.
 
+![myfile](/img/features/custom_search_result_fields.gif)
 ---------------------------------------------------------------------------
 
 ### Bug Fixes
