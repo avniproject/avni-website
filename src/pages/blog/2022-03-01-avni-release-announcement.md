@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Release announcement - Rule designer, Image access and CSV upload validations
+title: Release announcement - Rule designer, Canned Analytics, Image access and CSV upload validations
 date: 2022-03-01T09:12:26.313Z
 author: The Avni Team
 description: >-
@@ -8,7 +8,11 @@ featuredpost: false
 tags:
   - Release announcement 
 ---
- 
+TLDR : In February we worked on some amazing features. Rule Designer and Canned Analytics eliminate the last of the hurdles in making Avni self-serviceable, at least and definitely for the small projects and survey type usecases. Images and other media will now be accessible from Reports in a secure manner. Fixing a leakage on quality when data uploaded via CSV. They now pass through a net of validations. 
+
+The Feb release is now out!! 🎉
+
+Read on to know more.    
 
 ### New features
 
@@ -34,6 +38,16 @@ Below are some examples
 <span style="display:flex;justify-content:center;">Visit scheduling rule</span>
 <br>
 <br>
+
+### Canned Analytics
+Analytics from data captured via Avni can be derived by connecting any BI tool e.g. Metabase to either Avni database or APIs. However, this has certain limitations Setting up analytics using these BI tool requirers the know-how of these tools. Many organisations using Avni don't have these expertise and they need to depend upon software partners to set this up for them. This has time and cost implications.
+
+So introducing Avni canned reports where it understands the domain and smartly gives out-of the box insights which can be a good starter for organisations to start reviewing and making sense of their data without any extra cost. It also gives ability to explore data based on dimensions and pre-defined filters required in the domain.
+
+![](/img/features/avni_canned_reports.gif)
+<span style="display:flex;justify-content:center;">Avni Canned Analytics</span>
+
+
 
 ### Image and media access
 Data in Avni is stored in two different data sources. The first is the postgres database, which are easily connected to the reporting servers that are being used by hosting. The second is an S3 database where media is stored.
