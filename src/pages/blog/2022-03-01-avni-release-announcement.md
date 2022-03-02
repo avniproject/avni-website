@@ -49,7 +49,7 @@ So introducing Avni canned reports where it understands the domain and smartly g
 
 
 
-### Image and media access
+### Secure Media access from Reports
 Data in Avni is stored in two different data sources. The first is the postgres database, which are easily connected to the reporting servers that are being used by hosting. The second is an S3 database where media is stored.
 
 In reporting tools, there is a mechanism to show data by connecting to a data source. However, S3 access is usually not provided. In case you need to expose media through reports, here is what you need to do.
