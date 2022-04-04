@@ -14,7 +14,9 @@ tags:
 ---------------------------------------------------------------------------
 
 ### Grouped form elements
-Inline form groups are groups of form elements that show up together. They are useful for showing groups of questions for male/female etc.
+Inline form groups are groups of form elements that show up together. 
+They are useful for showing groups of questions for males/females etc. 
+Group options are displayed in a grid which makes the data entry and readability of the related questions easier.
 
 
 ![](/img/features/QuestionGroup-AD.png)
@@ -35,3 +37,5 @@ Inline form groups are groups of form elements that show up together. They are u
 
 ### UI changes
 - [Data entry app] - Change the UI for completed and scheduled visits, and make it tabular.
+
+![](/img/features/completedVisits-DEA.png)
