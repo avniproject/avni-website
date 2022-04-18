@@ -48,4 +48,4 @@ _ps: the health program has been described in more detail on LBP's website here.
 
 **Credit for icons**
 
-"designed by - https://www.flaticon.com/authors/roundicons, https://www.flaticon.com/authors/pixel-buddha, https://www.flaticon.com/authors/freepik, https://www.flaticon.com/authors/eucalyp- from Flaticon"
+"designed by - https://www.flaticon.com/authors/roundicons, https://www.flaticon.com/authors/pixel-buddha, https://www.flaticon.com/authors/freepik, https://www.flaticon.com/authors/eucalyp - from Flaticon"
