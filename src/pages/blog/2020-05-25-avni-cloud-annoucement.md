@@ -18,7 +18,7 @@ Following customisations or setup are usually required on Avni. We have also ind
 * Define your master data like work areas, users, access control. [UI]
 * Define rules using JavaScript for visit schedules, calculated fields etc. [JavaScript]
 * Export data in excel for analysis. [UI]
-* Create your own reports using the reporting service (based on <a href="https://metabase.org" target="_blank" rel="noopener noreferrer">metabase</a>). [SQL]
+* Create your own reports using the reporting service (based on <a href="https://metabase.com" target="_blank" rel="noopener noreferrer">metabase</a>). [SQL]
 
 Please use the implementer’s guide to understand how to implement Avni for your needs - <a href="https://avni.readme.io/docs/implementers-guide" target="_blank" rel="noopener noreferrer">https://avni.readme.io/docs/implementers-guide</a>. For signing up please check the pricing and <a href="/pricing">signup</a>. We are offering a really affordable plan given the needs of social sector.
 
