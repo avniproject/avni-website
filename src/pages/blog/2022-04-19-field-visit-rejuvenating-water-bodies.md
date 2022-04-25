@@ -17,7 +17,7 @@ tags:
 
 On April 9, 2022, I joined a bunch of people for the inauguration of the desilting of two water bodies in Kolar district of Karnataka. This is a field-visit report. 
 
-Water body desilting is important to preserve the retention capacity of water bodies. In the Rejuvenating Water Bodies Programme, this retention capacity is increased by desilting during summer. The excavates silt is then used for several purposes such as agriculture, plot leveling, bund making or road construction. The first version of this programme started under the Maharashtra Government, has since been replicated in other states. Several NGOs, CSR partners and some state governments have participated in this process. Today, water body rejuvenation is being carried out in three different states in India under this programme. One of these states is Karnataka, and one of the lakes being rejuvenated is near Mulbagal, Kolar, Karnataka. This is the setting of my field visit.   
+Water body desilting is important to preserve the retention capacity of water bodies. In the Rejuvenating Water Bodies Programme, this retention capacity is increased by desilting during summer. The excavated silt is then used for several purposes such as agriculture, plot leveling, bund making or road construction. The first version of this programme started under the Maharashtra Government, has since been replicated in other states. Several NGOs, CSR partners and some state governments have participated in this process. Today, water body rejuvenation is being carried out in three different states in India under this programme. One of these states is Karnataka, and one of the lakes being rejuvenated is near Mulbagal, Kolar, Karnataka. This is the setting of my field visit.   
 
 Why are lakes important in Kolar district? Rainfed man-made lakes/water tanks are the primary mechanism of water storage in Kolar. People call Kolar "ಕೆರೆಗಳ ನಾಡು" (Keregaḷa nāḍu - the land of lakes). One look at the [map of Kolar](https://www.google.com/maps/@13.1447965,78.327046,11z) will tell you why. These tanks were built a few hundred years ago. Today, while water in the lakes are not directly used, it helps build the water table.
 
@@ -28,7 +28,7 @@ I reached the first lake at 8:30 am. This was close to Mulbagal. The weather was
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake1-pic.jpeg)
 
 
-There was a pooja going on. Every big activity must start with a pooja. Priests around here like to keep adding tidbits of knowledge along with conducting the pooja. One thing they told was that silt excavation was once the job of kings. By doing this, we are performing the king's duty. But who are "we"?
+There was a pooja going on. Every big activity must start with a pooja. The priest kept adding tidbits of general knowledge along with conducting the pooja. One thing he told was that silt excavation was once the job of kings. By doing this, we are performing the king's duty. That's an interesting thought, But who are the "we" doing the king's duty here?
 
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake1-pooja-pic2.jpeg)
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake1-pooja-pic3.jpeg)
