@@ -1,5 +1,5 @@
 start:
-	gatsby develop
+	npm run develop
 
 deps:
 	npm i
