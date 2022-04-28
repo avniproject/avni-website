@@ -35,9 +35,9 @@ There was a pooja going on. Every big activity must start with a pooja. The prie
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake1-pooja-pic3.jpeg)<pre>Pooja at the site</pre>
 ----------------------------
 
-Several people and activities have to come together to make this desilting operation in the Mulbagal lake happen. First, we need to establish the demand for silt. The local NGO (Grama Vikas in this case) worked with the gram panchayat and local villagers to establish this. They got a nod from the Gram Panchayat, and found enough farmers who agreed to cart silt once operations start. This is called the demand generation process within the programme.
+Several people and activities have to come together to make this desilting operation in the Mulbagal lake happen. First, we need to establish the demand for silt. The local NGO ([Grama Vikas](https://gramavikas.org/) in this case) worked with the gram panchayat and local villagers to establish this. They got a nod from the Gram Panchayat, and found enough farmers who agreed to cart silt once operations start. This is called the demand generation process within the programme.
 
-After Grama Vikas was convinced of demand around the lake, they reached out to IIT-IIT - the glue that connects donors and the field NGO. Rotary club agreed to fund the operation. IIT-IIT would also provide technical support in the form of processes that help run the programme. Not that Grama Vikas would need much of technical support. They have done this in about 15 lakes around the Kolar area the previous year. One of these 15 lakes is right next to the Grama Vikas office. It looks beautiful.  
+After Grama Vikas was convinced of demand around the lake, they reached out to [IIT-IIT](https://www.iit-iit.org/) - the glue that connects donors and the field NGO. Rotary club agreed to fund the operation. IIT-IIT would also provide technical support in the form of processes that help run the programme. Not that Grama Vikas would need much of technical support. They have done this in about 15 lakes around the Kolar area the previous year. One of these 15 lakes is right next to the Grama Vikas office. It looks beautiful.  
 
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake2-pic1.jpeg)<pre>The lake near Grama Vikas</pre>
 ----------------------------
