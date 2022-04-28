@@ -37,7 +37,7 @@ There was a pooja going on. Every big activity must start with a pooja. The prie
 
 Several people and activities have to come together to make this desilting operation in the Mulbagal lake happen. First, we need to establish the demand for silt. The local NGO ([Grama Vikas](https://gramavikas.org/) in this case) worked with the gram panchayat and local villagers to establish this. They got a nod from the Gram Panchayat, and found enough farmers who agreed to cart silt once operations start. This is called the demand generation process within the programme.
 
-After Grama Vikas was convinced of demand around the lake, they reached out to [IIT-IIT](https://www.iit-iit.org/) - the glue that connects donors and the field NGO. Rotary club agreed to fund the operation. IIT-IIT would also provide technical support in the form of processes that help run the programme. Not that Grama Vikas would need much of technical support. They have done this in about 15 lakes around the Kolar area the previous year. One of these 15 lakes is right next to the Grama Vikas office. It looks beautiful.  
+After Grama Vikas was convinced of demand around the lake, they reached out to [IIT-IIT](https://www.iit-iit.org/) - the glue that connects donors and the field NGO. Rotary club agreed to fund the operation. IIT-IIT would also provide technical support in the form of processes that help run the programme. Not that Grama Vikas would need much of technical support. They have done this in about 15 lakes around the Kolar area the previous year. There's a lake right in front of their office that was rejuvenated a few years ago, and is now being preserved by Grama Vikas. It looks beautiful. 
 
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake2-pic1.jpeg)<pre>The lake near Grama Vikas</pre>
 ----------------------------
@@ -51,10 +51,10 @@ The first steps of the desilting process is to take pre-measurements. A pre-pers
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake3-sitemarkings.jpeg)<pre>Site markings at the lake</pre>
 ----------------------------
 
-After the tender coconut, we proceed to Grama Vikas for breakfast. In case you have not been there, the dosas were excellent. They also make nice pickles. I purchased a pack of ginger chutney that was served during breakfast. It was yummy.
+After the tender coconut, we proceed to Grama Vikas for breakfast. In case you have not been there, the dosas are excellent. They also make nice pickles. I purchased a pack of ginger chutney that was served during breakfast. It was yummy.
 
 
-While we were busy with breakfast, desilting is in full progress at the site. Excavators lift silt and fill up tractors. A farmer is allowed upto 24 loads in a day. They pay Rs. 20 per load. A tractor costs between Rs. 3000 and Rs. 4000 per day in rent and driver fees. There is a lot of tomato, vegetable and ragi cultivation close to the lake, making it easier to find farmers willing to cart silt.
+While we were busy with breakfast, desilting is in full progress at the site. Excavators lift silt and fill up tractors. Farmers cart them to their field. The farmers also contribute to the cost of excavators through a token amount per load (that is different at different locations). A tractor costs between Rs. 3000 and Rs. 4000 per day in rent and driver fees in this area. There is a lot of tomato, vegetable and ragi cultivation close to the lake, making it easier to find farmers willing to cart silt.
 
 I got to meet the supervisor for the Mulbagal lake, and folks at the Grama Vikas office. They showed me the log book used by supervisors to enter daily recording of silt excavation and carting. The book is exactly like the forms in Avni. It gets bright and hot during the day at the lake, which means using cell phones is hard. Entry into the phone happens when the supervisors get back to office after the field work. It is then approved by Grama Vikas staff.
 
@@ -63,7 +63,7 @@ Breakfast is over, and we proceed to the next lake, which is on the way back fro
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake3-pic1.jpeg)<pre>Is this really a lake?</pre>
 ----------------------------
 
-In fact, there were clues to indicate these were really lakes. There was a culvert close by. Naveen (from KPMG. KPMG handles project management for the RWB programme) showed me some plants that exclusively grow along the shore of lakes. 
+In fact, there were clues to indicate these were really lakes. There was a culvert close by. Naveen (who is part of the project management team for the programme) showed me some plants that exclusively grow along the shore of lakes. 
 
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake3-flowering-plant.jpeg)<pre>Plants found around lakes</pre>
 ----------------------------
@@ -74,12 +74,11 @@ He also pointed me to a bunch of trees that are really weeds. Can you imagine a 
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/lake3-weed-pic2.jpeg)<pre>These trees are really weeds</pre>
 ----------------------------
 
-
 This lake was about 77 acres in size. The objective is to increase the depth by 1.5 metres in as much part of the lake as possible. Since the lake is dry, work starts from the center and progresses outwards. This would not have been possible in the first lake where they had to go outside-in until it is no longer possible to desilt. 1.5 metres is two scoops. By the end, about 460,000 cubic metres of silt would have been carted from this one lake. That is space for 460 million litres of water! 
 
+Of course, not all of this will be done this year. Typically desilting happens in modules (where a module is 10,000 cubic metres). The number of modules to be done in a lake depends on the number generated during the demand generation proess. 
 
 We have another round of tender coconut, talk about the efficiency of excavators, the style of farming in the area, and the questions from potential new CSR partners and others who want to try a hand at desilting in their own areas. And then we bid good bye and go back home. 
-
 
 On the way back, I attempted to climb a short hill. On the way, I had to go through a lake. I kept looking at the side, and found the same plant that was there at the second lake. 
 ![](/img/2022-04-19-field-visit-rejuvenating-water-bodies/trek-hill.jpeg)<pre>Looks like a volcano, right? </pre>
