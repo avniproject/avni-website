@@ -76,7 +76,7 @@ He also pointed me to a bunch of trees that are really weeds. Can you imagine a 
 
 This lake was about 77 acres in size. The objective is to increase the depth by 1.5 metres in as much part of the lake as possible. Since the lake is dry, work starts from the center and progresses outwards. This would not have been possible in the first lake where they had to go outside-in until it is no longer possible to desilt. 1.5 metres is two scoops. By the end, about 460,000 cubic metres of silt would have been carted from this one lake. That is space for 460 million litres of water! 
 
-Of course, not all of this will be done this year. Typically desilting happens in modules (where a module is 10,000 cubic metres). The number of modules to be done in a lake depends on the number generated during the demand generation proess. 
+Of course, not all of this will be done this year. Typically desilting happens in modules (where a module is 10,000 cubic metres). The number of modules planned for a lake depends on the number generated during the demand generation process. 
 
 We have another round of tender coconut, talk about the efficiency of excavators, the style of farming in the area, and the questions from potential new CSR partners and others who want to try a hand at desilting in their own areas. And then we bid good bye and go back home. 
 
