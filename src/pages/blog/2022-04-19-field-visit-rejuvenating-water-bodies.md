@@ -4,7 +4,7 @@ title: Field visit report - Rejuvenating Water Bodies project at Kolar!
 date: 2022-04-21T00:00:00.000Z
 author: Vinay Venu
 description: >-
-    A field visit report of the Rejuvenating Water Bodies project 
+    On April 9, 2022, I joined a bunch of people for the inauguration of the rejuvenation of two water bodies in Kolar district of Karnataka. This is a field-visit report. 
 featuredpost: false
 featuredimage: /img/2022-04-19-field-visit-rejuvenating-water-bodies/lake1-pic.jpeg
 tags:
@@ -12,13 +12,10 @@ tags:
  - Rejuvenating Water Bodies
  - Water Security
  - Desilting
+ - Field Visit Report
 ---
 
-
-On April 9, 2022, I joined a bunch of people for the inauguration of the desilting of two water bodies in Kolar district of Karnataka. This is a field-visit report. 
-
-
-Desilting is an important activity that needs to be performed regularly on water bodies to preserve their retention capacity. The Rejuvenating Water Bodies Programme performs a systematic identification of water bodies, desilting them, and monitoring their health over time. The excavated silt is used for several purposes such as agriculture, plot leveling, bund making or road construction. The [first version](https://avniproject.org/case-studies/dam-and-water-bodies-desilting-work-monitoring-1) of this programme started under the Maharashtra Government under the [GDGS](https://wotr-website-publications.s3.ap-south-1.amazonaws.com/Policy_Brief_GDGS_2_Mar_2020.pdf) scheme, has since been replicated in other states. Several NGOs, CSR partners and some state governments have participated in this process. Today, water body rejuvenation is being carried out in three different states in India under this programme. Avni is being used to monitor operations. One of the states where this is happening is Karnataka, and one of the lakes being rejuvenated is near Mulbagal, Kolar, Karnataka. This is the setting of my field visit.
+Under the rejuvenation project, the identified waterbodies like lakes and ponds are taken up for desilting. There are **several benefits** of this such as the removal of silt helps in increasing storage capacity and groundwater recharge thereby improving the availability of water. The excavated silt gets used for several purposes such as agriculture, plot leveling, bund making or road construction. The  project that we are involved in is a collaboration of several NGOs, CSR partners and governments. Avni is used to monitor the operations. Offline app is used by field partners to capture the work done and reports and analytics helps project management team and donors to review the progress and make key decisions.  The [first version](https://avniproject.org/case-studies/dam-and-water-bodies-desilting-work-monitoring-1) of this project  done in 2019 under the Maharashtra government has since then been replicated in selected districts of several states. Today, this project is being carried out in three different states in India. One of these states is Karnataka, and one of the lakes being rejuvenated is near Mulbagal, Kolar, Karnataka. This is the setting of my field visit.
 
 Why are lakes important in Kolar district? Rainfed man-made lakes/water tanks are the primary mechanism of water storage in Kolar. People call Kolar "ಕೆರೆಗಳ ನಾಡು" (Keregaḷa nāḍu - the land of lakes). One look at the [map of Kolar](https://www.google.com/maps/@13.1447965,78.327046,11z) will tell you why. These tanks were built a few hundred years ago. Today, while water in the lakes are not directly used, it helps build the water table.
 
