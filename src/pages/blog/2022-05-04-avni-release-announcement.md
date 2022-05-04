@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Release announcement - UI improvements
+title: Release announcement - April 2022
 date: 2022-05-04T09:12:26.313Z
 author: The Avni Team
 description: >-
