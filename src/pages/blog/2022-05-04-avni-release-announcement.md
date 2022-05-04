@@ -14,9 +14,12 @@ tags:
 ---------------------------------------------------------------------------
 
 ### Multiple sync strategies
-Now Avni provides multiple ways to sync a subject to the user's mobile device. By default subjects are synced based on 
-their registered locations and this behaviour can be changed by changing "sync settings" under "advance settings" in the
-subject type page. Read more about the feature and how to configure it in the [Avni readme](https://avni.readme.io/docs/sync-strategies).
+Earlier Avni is used to provide only catchment based sync strategies where subjects would sync to the offline android app based subject's registered location and the catchment assigned to user. Now Avni provides more options on the subjects can sync to the user
+- Subject's Locations and Users Catchment
+- Direct Assignment to Users
+- Subject Attributes
+ 
+Read more about the feature and how to configure it in the [Avni readme](https://avni.readme.io/docs/sync-strategies).
 
 ![](/img/features/Sync_settings.png)
 
