@@ -29,7 +29,7 @@ On the evening we reached Dharampur, Dr Sachin took us for an excursion in the c
 
 Next morning, we started our day with breakfast at JNPCT office. Dr Sachin along with Mahendrabhai explained the organisation’s background and work. Initial support was provided by SEWA Rural to understand the need of the area and the severity of the issues faced. The awareness about the quite low rate of institutionalised deliveries and alarming rate of infant and neonatal mortality convinced them to work on maternal and child health.
 
-The  focus of community health intervention is on identifying eligible couples and identifying pregnant women. After the identification, consistent follow ups are done till the time of child birth and afterwards till the child’s age is 5 years. Awareness and counselling is done to adapt correct practices for the well-being of the mother and child during this entire process. Since these villages do not have access to some of the grains and produce available in plain terrain areas and urban areas, the people from the organisation also help the women in households in identifying available materials at their homes and in villages and items they can make at home to feed the child.
+The  focus of community health intervention at the moment is on early identification and provision of services to eligible couples, pregnant women and children upto 5 years of age. Once these beneficiaries are identified, regular follow ups are done. Awareness and counselling is done to adapt correct practices for the well-being of the mother and child during this entire process. Since these villages do not have access to some of the grains and produce available in plain terrain areas and urban areas, the people from the organisation also help the women in households in identifying available materials at their homes and in villages and items they can make at home to feed the child.
 
 After having a brief discussion about ongoing issues in application with cluster incharge we then left for the villages where some visits were scheduled with beneficiaries.
 
@@ -37,7 +37,7 @@ After having a brief discussion about ongoing issues in application with cluster
 ----------------------------
 
 
-The first village we visited was Penda, a village that often gets separated from rest of the region during monsoons. It becomes quite difficult to access. Health workers inform the woman before the expected date of delivery to shift to a nearby village with better access. In cases when even that is not possible, the organisation has already provided training to midwives through the help of staff from ARCH (Action Research in Community Health), another organisation which has been working in the region on community health. This ensures avoidance of any critical situations.
+The first village we visited was Penda, a village that often gets separated from rest of the region during monsoons. It becomes quite difficult to access. Health workers inform the woman before the expected date of delivery to shift to a nearby village with better access. In cases when even that is not possible, the organisation has already provided training to midwives through the help of staff from ARCH (Action Research in Community Health), another organisation which has been working in the region on community health. This ensures avoidance of any critical situations. Here we interacted with sahelis and supervisors, also observed how they interact with beneficiaries and fill up the data in avni.
 
 ![](/img/2022-05-03-field-visit-jnpct/village-meet.jpg)<pre>Discussion in village</pre>
 ----------------------------
@@ -53,10 +53,14 @@ During the visit, we learnt a very interesting practice of baby care called Kang
 
 As we observed the Aarogya sahelis and Supervisors interacting with beneficiaries and recording details in the digital application, Dr Sachin shared a surprising fact with us. 95 of the sahelis had never used a smartphone before. In spite of this learning to use the app has not been very difficult for them.This is mainly due to the simplicity of the app and their motivation to pick up something new.
 
-Before returning to Dharampur we also had a visit to a beautiful place called Wilson hill which is named after the Governor of Mumbai from 1923 to 1928 by Vijay Devji, the last king of Dharampur.
+Before returning to Dharampur we also visited to a beautiful place called Wilson hill which is named after the Governor of Mumbai from 1923 to 1928 by Vijay Devji, the last king of Dharampur.
 
 ![](/img/2022-05-03-field-visit-jnpct/group-pic.jpg)<pre>Mahendrabhai, Dr Sachin, Myself and Utkarsh from left to right</pre>
 ----------------------------
 
 
-The next morning we spent some time with Dr Sachin and Mahendrabhai understanding their concerns and feedback for the system. 
+The next morning we spent some time with Dr Sachin and Mahendrabhai understanding their concerns and feedback for the system.
+ 
+There are many socio-political and technical challenges in the Health for all mission they are pursuing. It was nice to hear from them how Avni is helping them in this. Avni has helped in beneficiary monitoring, risk assessment, screening, follow up and facilitating further reference. They are looking forward to using Avni for the adolescent programme which they are planning to start soon.
+
+This exposure to ground-level work and challenges enriched me professionally as well as personally. It gave me a sense of satisfaction that amidst the materialistic and selfish pursuits, I am able to utilise my technical knowledge for the betterment of my people far away.
