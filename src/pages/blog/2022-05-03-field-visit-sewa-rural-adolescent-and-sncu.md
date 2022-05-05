@@ -26,9 +26,9 @@ SEWA Rural runs a hospital in Jhagadia town. Dr. Maitri showed us around the hos
 ![](/img/2022-05-03-field-visit-SEWA-Rural/SEWA-Rural-hospital.jpeg)<pre>SEWA Rural hospital</pre>
 ----------------------------
 
-The organisation runs two community health programs: SNCU (Sick NewBorn Care Unit) and Adolescent Care. Avni is being used for both the programs. We spend time understanding both the programs and interacting with users. 
+The organisation runs multiple community health programs. Among them are SNCU (Sick NewBorn Care Unit) and Adolescent Care. Avni is being used for these programs. We spend time understanding both the programs and interacting with users. 
 
-The SNCU program was started in 2005. It was in 2018 that they started using Avni. SNCU takes care of premature newborns and those with low birth weight. The infants at risk of mortality or severe illness are transferred to the Neonatal intensive care unit. Once discharged, field supervisors enrol them in the Avni app. The follow-up of these children is done till 5 years of age to improve their nutritional status.The app helps the field workers in monitoring the health by scheduling visits and displaying indicators on the infants’ nutritional status and illness.
+The SNCU program was started in 2018. It was in 2019-20 that they started using Avni. SNCU Follow up project takes care of all the newborns, discharged from SEWA Rural NICU, till the age of 5 years and those with low birth weight. The infants at risk of mortality or severe illness are transferred to the Neonatal intensive care unit. Once discharged, field supervisors enrol them in the Avni app. The follow-up of these children is done till 5 years of age to improve their nutritional status.To prevent deaths due to preventable causes, look after milestones of the newborns and improve immunization of the all babies, the app helps the field workers in monitoring the health by scheduling visits and displaying indicators on the infants’ nutritional status and illness.
 
 ![](/img/2022-05-03-field-visit-SEWA-Rural/mother-child.jpeg)<pre>Mother and child</pre>
 ----------------------------
