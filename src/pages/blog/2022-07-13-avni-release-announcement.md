@@ -15,9 +15,9 @@ tags:
 
 ### Repeatable question group
 Now you can mark a Question group repeatable which allows user to repeat and fill same questions again. User can add the 
-same set of questions, or remove any set that is filled by mistake.
+same set of questions, or remove any set that is filled by mistake. [Read more about repeatable question group](https://avni.readme.io/docs/repeatable-question-group)
 
-![](/img/features/repeatable-question-group.png)<pre>Repeatable question group showing Material dispatched filled two times</pre>
+![](/img/features/repeatable-question.gif)<pre>Repeatable question group in mobile app</pre>
 
 ---------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ long list.
 ### Encounter data type
 Similar to subject data type now implementers can link encounters in the form using new Encounter data type.
 All the configurations related to how the encounter name should appear, and which encounter type to take 
-can be done while creating the concept.
+can be done while creating the concept. [Read more about the supported data types in avni](https://avni.readme.io/docs/concepts)
 
 ![](/img/features/encounter-data-type.png)<pre>Creating Encounter data type</pre>
 
@@ -42,7 +42,8 @@ can be done while creating the concept.
 ### Documentation in Avni
 Now you can create custom documentation in Avni. Documentation supports rich text and can be written in different
 languages supported by an organisation. Right now you can also link a particular documentation to a form element and 
-it'll show up in the mobile app. This is useful where more context is required for any question.
+it'll show up in the mobile app. This is useful where more context is required for any question. 
+[Read here to know more about configuring the documentation](https://avni.readme.io/docs/documentation)
 
 ![](/img/features/form-element-documentation.png)<pre>Documentation linked to the form elements</pre>
 
@@ -51,7 +52,7 @@ it'll show up in the mobile app. This is useful where more context is required f
 ### Timed questions
 Questions can be timed in Avni. If you want user to fill some set of questions after a particular time then you can mark the 
 page as timed page and specify the time when the questions in the page should be visible. You also set the stay time 
-which forces user to fill all those questions in the mentioned time frame. 
+which forces user to fill all those questions in the mentioned time frame. [More about the timed questions in Avni documentation](https://avni.readme.io/docs/timed-questions)
 
 ![](/img/features/timed-questions.png)
 
@@ -60,6 +61,7 @@ which forces user to fill all those questions in the mentioned time frame.
 ### Colourful form element groups
 Now you can make form filling more interesting by giving relevant colours to the page headers. Background and text colour 
 can be chosen for a form element group and it'll show the page name in that color while filling up the form and in the observation table.
+[Read more in the documentation](https://avni.readme.io/docs/styling-the-name-of-the-page)
 
 ![](/img/features/colourful-groups.gif)
 
@@ -67,7 +69,8 @@ can be chosen for a form element group and it'll show the page name in that colo
 
 ### No subject Indicators in offline dashboards
 More information can be displayed on the offline dashboard cards. Till now it only supported the count based on the query written,
-but now implementer can pass `primaryValue`, `secondaryValue`, and `lineListFunction` separately.
+but now implementer can pass `primaryValue`, `secondaryValue`, and `lineListFunction` separately. [Read more about configuring the custom 
+dashboard](https://avni.readme.io/docs/offline-reports)
 
 ![](/img/features/offline-dashboard.png)
 
