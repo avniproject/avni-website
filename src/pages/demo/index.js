@@ -57,10 +57,8 @@ export default function Index() {
                         <div className="content">
                             <h3>A few more login</h3>
                             <hr/>
-                            {demoDetails("Cancer Screening", "canscr-demo", undefined, "this demo doesn't use smart forms (with skip logic etc) and decision support rules.")}
-                            <br/>
                             {/*"since the admin is open to public, someone may have made breaking changes causing the field app to not work as expected in some places. Please contact us if you need help."*/}
-                            {demoDetails("Maternal and child health", undefined, "admin@mch-demo", undefined)}
+                            {demoDetails("Maternal and child health", undefined, "mch-demo", undefined)}
                         </div>
                     </div>
                 </div>
