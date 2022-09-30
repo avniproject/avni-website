@@ -17,6 +17,11 @@ Release 3.34 is now live. This release includes minor changes and bug fixes to t
 ---------------------------------------------------------------------------
 
 ### Web Application
+- Assignment of users to subjects. With this release, subjects can be assigned to one or more users. Only subjects that are assigned sync to the relevant user. 
+
+![](/img/2022-09-30-avni-release-announcement/assignment.png)
+
+
 - The landing page for the Data Entry Application has been shifted to the search screen
 - Hierarchical address selection on the Data Entry Application when registering a subject, or when filling form elements of type "Location"
 
