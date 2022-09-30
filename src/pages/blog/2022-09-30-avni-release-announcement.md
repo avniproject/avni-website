@@ -10,7 +10,7 @@ tags:
 ---
 
 
-Release 3.34 is now live. This release includes minor changes and bug fixes to the application. Notable changes are given below. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/3.34) for more information. 
+Release 3.34 is now live. This release includes minor changes and bug fixes to the application. Notable changes are given below. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.34.0) for more information. 
 
 
 ## Notable Changes
