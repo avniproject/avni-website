@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar"
 import banner from '../img/cover.png'
+import DiwaliBanner from '../img/diwali-banner.jpeg'
 import {PopupText} from "react-calendly";
 import Constants from "../Constants";
 import SecondaryCTAButton from "./SecondaryCTAButton";
@@ -24,7 +25,7 @@ export default function LandingPageHero() {
             </div>
             <div className="hero-body full-width-image"
                  style={{
-                     backgroundImage: `url(${banner})`,
+                     backgroundImage: `url(${DiwaliBanner})`,
                      backgroundPosition: 'center',
                      display: 'flex',
                      justifyContent: 'flex-start',
