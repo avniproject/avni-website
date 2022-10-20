@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Release announcement - September-end 2022
-date: 2022-09-30T16:00:26.313Z
+title: Release announcement - October 2022
+date: 2022-10-20T16:00:26.313Z
 author: The Avni Team
 description: >-
 featuredpost: false
@@ -10,38 +10,46 @@ tags:
 ---
 
 
-Release 3.34 is now live. This release includes minor changes and bug fixes to the application. Notable changes are given below. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.34.0) for more information. 
+Happy Diwali to you !!!
+
+Release 3.35 is now live. This release includes minor changes and bug fixes to the application. Notable changes are given below. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.35.0) for more information. 
 
 
 ## Notable Changes
 ---------------------------------------------------------------------------
 
 ### Web Application
-- Assignment of users to subjects. With this release, subjects can be assigned to one or more users. Only subjects that are assigned sync to the relevant user. 
-
-![](/img/2022-09-30-avni-release-announcement/assignment.png)
-
-
-- The landing page for the Data Entry Application has been shifted to the search screen
-- Hierarchical address selection on the Data Entry Application when registering a subject, or when filling form elements of type "Location"
+- Add flags for Glific messaging (WIP)
+- Auto populate is not working if all form elements are read only
+- Adding middle name without a regex fails the app designer
 
 ### Field App
-- Group information will now be available when adding new members
-- Include auth support on custom application menus. Auth credentials of the user can now be added when adding a new custom application menu, so that extensions configured on Avni can be triggered using this feature
+- Support ids in custom links
+- Allow refresh of cards on custom dashboard
+- Unable to add member to a household in staging
+- App does not parse some valid ISO8601 formats
+
+### Server
+Additions for the new Glific message integration feature (WIP)
+Fix user csv upload to ensure blank sync settings are added
+Unable to set group role to concept of type GroupAffiliation in form (Deployed as part of 3.34.1)
+Voided form mappings should not fail the app
+Include location types in metadata zip
+
+### Component release notes
+- https://github.com/avniproject/avni-server/releases/tag/v3.35.0
+- https://github.com/avniproject/avni-client/releases/tag/v3.35.0
+- https://github.com/avniproject/avni-webapp/releases/tag/v3.35.0
+- https://github.com/avniproject/integration-service/releases/tag/v3.35.0
+- https://github.com/avniproject/rules-server/releases/tag/v3.35.0
 
 
-### Bug fixes
-- There was an issue with deletion of visits/encounters on the subject dashboard. This has been fixed
 
-
-
-## Next priorities in Avni
+## What are we focussed on
 ---------------------------------------------------------------------------
 
-Here are the primary objectives that the Avni team is working on right now. 
+The priorities on Avni are still the same as we discussed in release [3.35](/blog/2022-09-30-avni-release-announcement/). However, the work involved in upgrading the Android field app is taking time. We believe that the most important pieces of the puzzle have been solved, and it is mostly a matter of driving this to completion. 
 
-- Glific message integration. This will allow creation of rules for sending automated messages to beneficiaries through Whatsapp
-- Improved Longitudinal exports. This will allow flexibility in creating longitudinal exports. There will be options to have multiple programs and forms together in the same export, and the ability to choose only columns that matter
-- Upgrade of the Android field app packages. Components of the field app (react native, and other packages) have not been upgraded for about 3 years now. This is making development slower, and making it hard to fix some long-standing stability issues. This activity is ongoing, and will be released when complete
+As a result, we have put a brake on the other two objectives, and are going full-steam on the upgrade. 
 
-The next release (3.35) will include Glific integration and the improved longitudinal exports. React Native upgrade is expected to be released in release 3.36. 
+We will continue to have minor bug fixes that help in solving immediate problems, or are essential for implementations. 
