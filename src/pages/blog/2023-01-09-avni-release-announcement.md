@@ -9,7 +9,7 @@ tags:
   - Release announcement 
 ---
 
-Release 3.36 is now live. Please note that this is a major release.
+Release 3.36 is now live. Please note that this is a major release. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.36.5) for more information.
 
 ## Notable Changes
 ---------------------------------------------------------------------------
@@ -68,3 +68,10 @@ Some minor enhancements on the Tasks feature are going live with this release on
 - Webapp - Task status screen - Ensure the task status dropdown is filled on the Actions section
 - App Designer - Generic Extensions (Allow definition of Avni extensions without specifying a functionality associated with it)
 
+
+### Component release notes
+- https://github.com/avniproject/avni-server/releases/tag/v3.36.5
+- https://github.com/avniproject/avni-client/releases/tag/v3.36.5
+- https://github.com/avniproject/avni-webapp/releases/tag/v3.36.5
+- https://github.com/avniproject/integration-service/releases/tag/v3.36.5
+- https://github.com/avniproject/rules-server/releases/tag/v3.36.5
