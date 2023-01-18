@@ -11,15 +11,15 @@ featuredimage: /img/2023-01-12-avni-conference-goa/day-2/coverphoto.jpeg
 
 ## End of day 1
 
-After having a tiring day from lot of travelling, catching up with the entire team, somewhat working and having lot of fun, the first day came to an end in the blink of an eye.
+After having a tiring day from a lot of travelling, catching up with the entire team, somewhat working and having a lot of fun, the first day came to an end in the blink of an eye.
 
 ![](/img/2023-01-12-avni-conference-goa/day-1/varca-beach-sunset-group-photo.jpeg)<pre>Sunset by the sea</pre>
 
 ## Start of day 2 :)
 
-The second day started at 6am in the morning, followed by a half an hour run in the beach until the sunrise. And right when I was about to rest, my collegues mainly named Vinay, Arjun, Sachin and Beulah, dragged me into the sea.
+The second day started at 6am in the morning, followed by a half an hour run in the beach until the sunrise. And right when I was about to rest, my colleagues, mainly named Vinay, Arjun, Sachin and Beulah, dragged me into the sea.
 
-They dragged me so furhter into the sea, that there was a point when the waves started slapping me(Literally, and I started fighting them back 😈😈). I was so scraed since I didn't know how to swim, but the folks decided not to let me go by holding my hands, and I gained only so much courrage that I went with the flow.
+They dragged me so further into the sea, that there was a point when the waves started slapping me(Literally, and I started fighting them back 😈😈). I was so scared since I didn't know how to swim, but the folks decided not to let me go by holding my hands, and I gained only so much courage that I went with the flow.
 
 ![](/img/2023-01-12-avni-conference-goa/day-2/restaurant-view.jpeg)<pre>View from the restaurant</pre>
 
@@ -45,4 +45,4 @@ And right when the clock said 6, I ran towards the beach to have a look at the s
 
 The beauty captured through my eyes, can never be explained in the photo.
 
-After having an overwhelming dinner, lots of pastries and ice-cream, we ended our day by playing "Mafia" right under the moonlight, under the tress, surrounded by greenery and the crashing sounds of waves, the day finally came to an end by me loosing the game. (Which is not so bad for such a beautifull day)
+After having an overwhelming dinner, lots of pastries and ice-cream, we ended our day by playing "Mafia" right under the moonlight, under the trees, surrounded by greenery and the crashing sounds of waves, the day finally came to an end by me losing the game. (Which is not so bad for such a beautiful day)
