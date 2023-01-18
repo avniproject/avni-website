@@ -6,7 +6,7 @@ author: Mohammed Taqi Afsar
 description: In this blog, we have covered the happenings of the second day of the Avni Conference at Goa, January 2023. 
 
 featuredpost: false 
-featuredimage: /img/2023-01-12-avni-conference-goa/day-1/varca-le-palms-day-1-shot-1.jpeg
+featuredimage: /img/2023-01-12-avni-conference-goa/day-2/coverphoto.jpeg
 ---
 
 ## End of day 1
