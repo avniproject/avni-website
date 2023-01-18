@@ -24,7 +24,7 @@ After this, we did a team retrospective that stretched through lunch and beyond.
 ![](/img/2023-01-12-avni-conference-goa/day-3/retro-discussion.jpeg)<pre>Retro discussion</pre>
 
 
-After the retrospective, a lot of us started on prep work for the next day. Himesh wrote up the Day 1 blog. Taqi and Beulah sorted the T-shirts that we were about to distribute. Nupoor and Himesh labelled them. Sachin got a bike and traveled with Nupoor to get some beach shirts to wear for the next day. I spent some time working on the roadmap.
+After the retrospective, a lot of us started on prep work for the next day. Himesh wrote up the Day 1 blog. Taqi and Beulah sorted the T-shirts that we were about to distribute. Nupoor and Himesh labelled them. Utkarsh and Achala started detailing out the next day's schedule. Sachin got a bike and traveled with Nupoor to get some beach shirts to wear for the next day. I spent some time working on the roadmap.
 
 
 ### Evening
