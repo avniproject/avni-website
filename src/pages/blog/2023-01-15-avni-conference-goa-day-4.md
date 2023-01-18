@@ -32,7 +32,7 @@ Post lunch representatives of TEACH tool, LAHI, Seva rural also presented insigh
 ### Evening
 But day was not ended here. We took walk on beach watching picturesque sunset. Also clicked some beach photes wearing our Avni special Goan shirts.
 
-![](/img/2023-01-12-avni-conference-goa/day-3/sunset_collage.png)<pre>Enjoying sunset on beach</pre>
+![](/img/2023-01-12-avni-conference-goa/day-4/sunset_collage.png)<pre>Enjoying sunset on beach</pre>
 
 
 We end our long busy day with stomach full dinner and mind full of never ending talks with clients and team members.
