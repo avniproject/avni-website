@@ -6,7 +6,7 @@ author: Sachin Kadam
 description: In this blog, we have covered the happenings of the fourth day of the Avni Conference at Goa, January 2023.
 
 featuredpost: false
-featuredimage: /img/2023-01-12-avni-conference-goa/day-4/sunset_beach.jpeg
+featuredimage: /img/2023-01-12-avni-conference-goa/day-4/sunset_group.jpeg
 ---
 
 This is the first day of our Goa conference where Avni team interacted with our clients. Conferance was scheduled at 9.30 am. Before that we optimised our enthusiasm with early morning beach walk and equally heart worming breakfast.
