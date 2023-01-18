@@ -30,7 +30,7 @@ After the retrospective, a lot of us started on prep work for the next day. Hime
 ### Evening
 NGO partners had started coming in by this time. Some were here for lunch, some for tea and others for dinner. We spent some time with everyone near the sea before breaking for dinner.
 
-![](/img/2023-01-12-avni-conference-goa/day-3/relax-by-the-sea.jpeg)<pre>Relaxing by hte sea</pre>
+![](/img/2023-01-12-avni-conference-goa/day-3/relax-by-the-sea.jpeg)<pre>Relaxing by the sea</pre>
 
 
 Everyone is now rested and ready for the most interesting days of the conference.
