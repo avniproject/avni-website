@@ -52,3 +52,13 @@ But the day did not end there. We took a walk on the beach watching the pictures
 
 We finally ended our long busy day with a satiating dinner and a mind full of never-ending talks with clients and team members.
 
+----------------------------
+### Read the other day blogs
+
+* [Day 1 blog post - by Himesh R](https://avniproject.org/blog/2023-01-12-avni-conference-goa-day-1/)
+* [Day 2 blog post - by Mohammed Taqi Afsar](https://avniproject.org/blog/2023-01-13-avni-conference-goa-day-2/)
+* [Day 3 blog post - by Vinay Venu](https://avniproject.org/blog/2023-01-14-avni-conference-goa-day-3/)
+* [Day 4 blog post - by Sachin Kadam](https://avniproject.org/blog/2023-01-15-avni-conference-goa-day-4/)
+* [Day 4 blog post - by Beulah Evanjalin](https://avniproject.org/blog/2023-01-17-avni-conference-goa-day-4/)
+* [Day 4 blog post - by Utkarsh Hathi](https://avniproject.org/blog/2023-01-18-avni-conference-goa-day-4/)
+* [An overview - by Achala Belokar](https://avniproject.org/blog/2023-01-19-avni-conference-goa-all-days/)
