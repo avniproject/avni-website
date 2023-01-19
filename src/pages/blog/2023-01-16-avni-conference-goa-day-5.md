@@ -13,7 +13,10 @@ featuredimage: /img/2023-01-12-avni-conference-goa/day-5/morning_sunrise.jpg
 
 Amidst gushing waves, vast blue sky we had this mesmerizing stay at Varca Le Palms beach resort, Goa. No other location could have been better to have our Avni 2023 Conference.
 
+![](/img/2023-01-12-avni-conference-goa/day-5/me.jpg)
+
 Since it was the last day of the conference, this was our last chance to get drenched in the sea, so we all decided to go into the sea that morning and we enjoyed being there together a lot!
+
 ![](/img/2023-01-12-avni-conference-goa/day-5/beachside.jpg)
 <pre></pre>
 
@@ -97,8 +100,7 @@ Few major retro points that came were - It was good to know how other NGOs or or
 
 ### And finally some fun in Goa..
 One most exciting part of the day for the Avni team was these blue T-shirts with Avni logo embroidered on it!
-![](/img/2023-01-12-avni-conference-goa/day-5/team1.jpg)
-![](/img/2023-01-12-avni-conference-goa/day-5/team2.jpg)
+![](/img/2023-01-12-avni-conference-goa/day-5/team_collage.jpg)
 
 Last but not the least, by the evening the complete Avni team was on its toes to rock and we all headed to Colva beach. At one of the shacks we spent an extremely wonderful time which we are still cherishing.
 
