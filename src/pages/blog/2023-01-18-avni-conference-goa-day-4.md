@@ -6,7 +6,7 @@ author: Utkarsh Hathi
 description: This blogpost covers the fourth day of the Avni conference which includes the participation of various NGOs who have been using Avni in their programs.
 
 featuredpost: false 
-featuredimage: /img/2023-01-12-avni-conference-goa/day-1/varca-le-palms-day-1-shot-1.jpeg
+featuredimage: /img/2023-01-12-avni-conference-goa/day-4/Floral with NGO.jpg
 ---
 
 I woke up with some fresh energy. I am not sure if it was adequate sleep after not being able to sleep well for a couple of nights or it was the refreshing taste of Goan coconut Fenny from previous night. The day started with Avni team members and some of the NGO folks participating in the morning run at the beach. 

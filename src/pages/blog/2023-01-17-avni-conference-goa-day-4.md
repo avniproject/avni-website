@@ -18,13 +18,13 @@ Starting early, we caught up with some fresh air and energetic brisk jog, follow
 ----------------------------
 
 After a quick breakfast, we all headed up to the conference room. Firstly each member of the crew introduced themselves to break the ice between them, as getting to know each other is very important for group cohesion and also it will be easier for people to cooperate well in the session. As we all entered one by one, Vinay made us all contribute something to the open board sketching, which ended up being a wonderful portrait that satisfied our whole hearts.
-Contuined with small introduction.
+Continued with small introduction.
 
 ![](/img/2023-01-12-avni-conference-goa/day-4/open-sketch.jpg)
 
 ----------------------------
 
-Arjun then reviewed the agenda and welcomed everyone to the meeting. He started his talk by <a href="https://avniproject.org/blog/2023-01-12-a-review-of-2022/" target="_blank" rel="noopener noreferrer">reviewing 2022</a> to let everyone know what happened in Avni last year. JSS has been using Avni since 
+Arjun then reviewed the agenda and welcomed everyone to the meeting. He started his talk by <a href="https://avniproject.org/blog/2023-01-12-a-review-of-2022/" target="_blank" rel="noopener noreferrer">reviewing 2022</a> to let everyone know what happened in Avni last year.
 
 ![](/img/2023-01-12-avni-conference-goa/day-4/context-setting.jpg)
 
