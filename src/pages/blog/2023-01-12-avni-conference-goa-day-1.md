@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Avni Conference, Goa, January 2023 - Day 1
-date: 2023-01-14T17:00:00.000Z
+date: 2023-01-12T23:00:00.000Z
 author: Himesh R
 description: In this blog, we have covered the happenings of the first day of the Avni Conference at Goa, January 2023. 
 
