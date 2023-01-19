@@ -113,9 +113,15 @@ Last but not the least, by the evening the complete Avni team was on its toes to
 Read the other day blogs
 
 [Day 1](https://avniproject.org/blog/2023-01-12-avni-conference-goa-day-1/)
+
 [Day 2](https://avniproject.org/blog/2023-01-13-avni-conference-goa-day-2/)
+
 [Day 3](https://avniproject.org/blog/2023-01-14-avni-conference-goa-day-3/)
+
 [Day 4](https://avniproject.org/blog/2023-01-15-avni-conference-goa-day-4/)
+
 [Day 4](https://avniproject.org/blog/2023-01-17-avni-conference-goa-day-4/) 
+
 [Day 4](https://avniproject.org/blog/2023-01-18-avni-conference-goa-day-4/)
+
 [An overview](https://avniproject.org/blog/2023-01-19-avni-conference-goa-all-days/)
