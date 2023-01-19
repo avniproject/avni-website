@@ -118,4 +118,6 @@ Last but not the least, by the evening the complete Avni team was on its toes to
 * [Day 4 blog post - by Sachin Kadam](https://avniproject.org/blog/2023-01-15-avni-conference-goa-day-4/)
 * [Day 4 blog post - by Beulah Evanjalin](https://avniproject.org/blog/2023-01-17-avni-conference-goa-day-4/)
 * [Day 4 blog post - by Utkarsh Hathi](https://avniproject.org/blog/2023-01-18-avni-conference-goa-day-4/)
+* [Day 5 blog post - by Nupoor Khandelwal](https://avniproject.org/blog/2023-01-16-avni-conference-goa-day-5/)
 * [An overview - by Achala Belokar](https://avniproject.org/blog/2023-01-19-avni-conference-goa-all-days/)
+

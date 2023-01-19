@@ -64,3 +64,14 @@ Finally, we ended the night with a sumptuous dinner and a walk on the beach, whi
 ----------------------------
 ![](/img/2023-01-12-avni-conference-goa/day-1/varca-beach-sunset-2.jpeg)<pre>Varca Le Palms, sunset photo. Picture Courtesy : Nupoor Khandelwal</pre>
 ----------------------------
+
+### Read the other day blogs
+
+* [Day 1 blog post - by Himesh R](https://avniproject.org/blog/2023-01-12-avni-conference-goa-day-1/)
+* [Day 2 blog post - by Mohammed Taqi Afsar](https://avniproject.org/blog/2023-01-13-avni-conference-goa-day-2/)
+* [Day 3 blog post - by Vinay Venu](https://avniproject.org/blog/2023-01-14-avni-conference-goa-day-3/)
+* [Day 4 blog post - by Sachin Kadam](https://avniproject.org/blog/2023-01-15-avni-conference-goa-day-4/)
+* [Day 4 blog post - by Beulah Evanjalin](https://avniproject.org/blog/2023-01-17-avni-conference-goa-day-4/)
+* [Day 4 blog post - by Utkarsh Hathi](https://avniproject.org/blog/2023-01-18-avni-conference-goa-day-4/)
+* [Day 5 blog post - by Nupoor Khandelwal](https://avniproject.org/blog/2023-01-16-avni-conference-goa-day-5/)
+* [An overview - by Achala Belokar](https://avniproject.org/blog/2023-01-19-avni-conference-goa-all-days/)
