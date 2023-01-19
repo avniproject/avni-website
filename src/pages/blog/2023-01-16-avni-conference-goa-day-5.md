@@ -15,8 +15,9 @@ featuredimage: /img/2023-01-12-avni-conference-goa/day-5/morning_sunrise.jpg
 Amidst gushing waves, vast blue sky we had this mesmerizing stay at Varca Le Palms beach resort, Goa. No other location could have been better to have our Avni 2023 Conference.
 
 ![](/img/2023-01-12-avni-conference-goa/day-5/beachside.jpg)
-<pre>Since it was the last day of the conference, this was our last chance to get drenched in the sea, so we all decided to go into the sea that morning and we enjoyed being there together a lot!
-</pre>
+<pre></pre>
+
+Since it was the last day of the conference, this was our last chance to get drenched in the sea, so we all decided to go into the sea that morning and we enjoyed being there together a lot!
 
 Avni team members and its NGO Partners were the conference attendees. Around 12 NGO partners were invited to this two day conference. By the second day of the conference we all had enough interactions amongst each other and developed a feeling of being part of a social ecosystem where Avni was the connecting element.
 
@@ -65,23 +66,32 @@ LAHI team explained how it is working towards vocational training for 11th/12th 
 Rupesh and Sujit shared how Piramal Foundation aims at strengthening systems through leadership development and digitization, and engaging youth in nation-building efforts, they aim to create lasting change in India. They explained how under SAKHI they aim to digitally empower ASHA workers, provide continuous health support to beneficiaries and use the data collected from ground to make better health decisions. SAKHI app is built using Avni and there are few major changes in appl that they are looking forward to.
 
 ![](/img/2023-01-12-avni-conference-goa/day-5/kuldeep.jpg)
-<pre>Kuldeep from Shelter Associates explaining why Avni was used in their Sanitation program in Urban slums. Shelter Associates is one of the organizations who has self-serviced Avni. They have configured the complete app and the dashboards by themselves and manage any new changes on their own. 
-</pre>
+<pre>Kuldeep from Shelter Associates</pre>
 
-![](/img/2023-01-12-avni-conference-goa/day-5/avni_team.jpg)
-<pre>Jagadisha from APF, giving a brief about their program using Avni which is running in 5 blocks in the state Odisha. He set the overall project context as how this program aims at working towards eradicating malnutrition in accordance with the Odisha government. APF was rolled out within 2 months of duration and has multiple feature requests and changes from the ground.
-</pre>
+Kuldeep explained why Avni was used in their Sanitation program in Urban slums. Shelter Associates is one of the organizations who has self-serviced Avni. They have configured the complete app and the dashboards by themselves and manage any new changes on their own.
+
+![](/img/2023-01-12-avni-conference-goa/day-5/jagadisha.jpg)
+<pre>Jagadisha from APF</pre>
+
+Jagadisha gave a brief about their program using Avni which is running in 5 blocks in the state Odisha. He set the overall project context as how this program aims at working towards eradicating malnutrition in accordance with the Odisha government. APF was rolled out within 2 months of duration and has multiple feature requests and changes from the ground.
+
 
 The Tech4dev team had their sprint starting from the 16th, so we got a chance to listen to a one hour session driven by their different team members.It was quite informative and it helped the Avni family to understand the complete picture of how and what all The Project Tech4dev do.
 
 ![](/img/2023-01-12-avni-conference-goa/day-5/piyali.jpg)
 ![](/img/2023-01-12-avni-conference-goa/day-5/erica.jpeg)
-<pre>Piyali and Erica from the Project Tech4Dev team describing the Tech4Dev Project where they aim at building the Open-Source Technology & Data Ecosystem for the Social Sector globally. 
-</pre>
+<pre>Piyali and Erica from the Project Tech4Dev team </pre>
+
+Piyali and Sneha described how under the Tech4Dev Project they aim at building the Open-Source Technology & Data Ecosystem for the Social Sector globally.
+
 
 ![](/img/2023-01-12-avni-conference-goa/day-5/sneha.jpeg)
-<pre>Sneha from Glific gave a brief presentation about their two-way conversation platform for social impact which enables nonprofits to interact with their beneficiaries at scale to deliver their programs with a last mile reach at reasonable cost. She also highlighted key features of Glific - Easy to launch and scale, No code platform and have a strong documentation for the same. Glific is one of the software partners in the Tech4Dev project as it works for non-profit organizations. The picture shows some statistics of the same.
-</pre>
+<pre>Sneha from Glific </pre>
+
+Sneha gave a brief presentation about their two-way conversation platform for social impact which enables nonprofits to interact with their beneficiaries at scale to deliver their programs with a last mile reach at reasonable cost. She also highlighted key features of Glific - Easy to launch and scale, No code platform and have a strong documentation for the same. Glific is one of the software partners in the Tech4Dev project as it works for non-profit organizations. The picture shows some statistics of the same.
+This was followed by a demo from Mahalakshme on the Avni Glific integration that Avni has been working on. Many of NGO partners found to be very interesting and had queries especially came on the consent part.
+
+Sanjeev and Siddhant from the project Tech4Dev team gave us insight on Development Data Platform initiative where they have been working on building a system that allows NGO to offload their data management. Under this they provide analysis dashboard and visualizations.Also, they would be piloting this before end of year in partnership with IDInsight and The Agency Fund.
 
 Apart from the serious sessions and talks, one interesting game that we played to start the post lunch session where everybody was supposed to repeat the line with their own fears - Wave se darr nhi lagta, ___ se lagta hai!! One of them was -
 
@@ -101,6 +111,8 @@ One most exciting part of the day for the Avni team was these blue T-shirts with
 ![](/img/2023-01-12-avni-conference-goa/day-5/team2.jpg)
 
 Last but not the least, by the evening the complete Avni team was on its toes to rock and we all headed to Colva beach. At one of the shacks we spent an extremely wonderful time which we are still cherishing.
+
+
 ----------------------------
 
 ![](/img/2023-01-12-avni-conference-goa/day-5/party1.jpg)
