@@ -9,7 +9,7 @@ featuredpost: false
 featuredimage: /img/2023-01-12-avni-conference-goa/personal/mahalakshme_stretching_hands.jpg
 ---
 
-On hearing the word Goa, what comes to your mind? Beaches? Night life? Portuguese colony? For me it is the Avni Jan 2023 sprint! Since that’s where I met my people. For the first three days in Goa, I worked with my colleagues preparing for the conference and understanding the different implementations for which Avni product is used. The next 2 days(Sunday and Monday) were packed with NGOs presentations, Avni feature walkthrough and roadmap, and ofcourse lots of fun!
+On hearing the word _Goa_, what comes to your mind? Beaches? Night life? Portuguese colony? For me it is the Avni Jan 2023 sprint! Since that’s where I met my people. For the first three days in Goa, I worked with my colleagues preparing for the conference and understanding the different implementations for which Avni product is used. The next 2 days(Sunday and Monday) were packed with NGOs presentations, Avni feature walkthrough and roadmap, and ofcourse lots of fun!
 
 ![](/img/2023-01-12-avni-conference-goa/common/avni-tshirt-group-photo.jpg)<pre>Avni family in Avni t-shirts</pre>
 ----------------------------
