@@ -18,7 +18,7 @@ On hearing the word _Goa_, what comes to your mind? Beaches? Night life? Portugu
 #### Impact of Avni product on ground:
 - Survey to surveillance: I realised how Avni has helped NGOs to shift from survey to surveillance of beneficiaries with the help of features like visit scheduling and decisions.
 - Community data: Also from talks of Ravi, Jan Swasthya Sahyog and Abhay, Yenepoya, I understood the important role Avni product is playing by enabling gathering of community data to complement with the hospital records and how family data is going to be a great resource.
-- Field workers life made easier: Rupesh from Piramal foundation mentioned the case where ASHA workers used to carry all their paperwork to consolidate them digitally to get their salaries. Now with a custom extension added on Avni they can consolidate their work on a button click, which they can use to get paid.
+- Field workers life made easier: Rupesh from Piramal foundation mentioned the case where ASHA workers used to carry all their paperwork to consolidate them digitally to get their incentives. Now with a custom extension added on Avni they can consolidate their work on a button click, which they can use to get paid.
 - Beneficiaries life made easier: Madhuri from Indus Action mentioned how by integrating their system with Avni, they are attempting to move the process of availing benefits from scheme-centric to household-centric to simplify the process.
 
 #### There is always an another way:
