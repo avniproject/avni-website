@@ -64,19 +64,23 @@ Akash from Lend A Hand India, was helping me find my specs, that I lost when pla
 #### Next steps and feedback:
 One of the interesting thought raised by NGOs was to have a conference involving the actual field workers who use the app, like the ASHAs, volunteers etc.,  Across different talks of NGOs, we collected feedback and expectations from them. Having followed Agile processes for day-to-day work, collecting feedback and incorporating expectations were imbibed in the design of the conference as well.
 
->***The above have made our bonds stronger like never before!***
-
+<h5 align="center"><i>
+The above have made our bonds stronger like never before!
+</i></h5>
 
 ### Conclusion:
 When I was working for the corporate sector, I was always confused about the utility of my work and hence my very existence. Then having failed clearing the Civil Services exam a couple of times, I was searching for clarity to find the right place for me where I can contribute my skills for the greater good. Having listened to all the discussions, I feel this conference has reinforced that I am in the right place and has increased my resolve to work 10x harder.
 
->***I searched for light and in turn got the sun!***
+<h5 align="center"><i>
+I searched for light and in turn got the sun!
+</i></h5>
 ![](/img/2023-01-12-avni-conference-goa/personal/mahalakshme_holding_sun.jpeg)<pre>At Baina beach. Picture Courtesy: One of the shacks worker</pre>
 ----------------------------
 
->***Itni shakti humein dena daata mann ka vishvas kamzor ho na***  
->***Hum chale nek raste pe humse bhulkar bhi koi bhool ho na***
-
+<h5 align="center"><i>
+Itni shakti humein dena daata mann ka vishvas kamzor ho na  
+Hum chale nek raste pe humse bhulkar bhi koi bhool ho na
+</i></h5>
 
 ### Read the other day blogs
 
