@@ -74,11 +74,12 @@ When I was working for the corporate sector, I was always confused about the uti
 <h5 align="center"><i>
 I searched for light and in turn got the sun!
 </i></h5>
+
 ![](/img/2023-01-12-avni-conference-goa/personal/mahalakshme_holding_sun.jpeg)<pre>At Baina beach. Picture Courtesy: One of the shacks worker</pre>
 ----------------------------
 
 <h5 align="center"><i>
-Itni shakti humein dena daata mann ka vishvas kamzor ho na  
+Itni shakti humein dena daata mann ka vishvas kamzor ho na<br>  
 Hum chale nek raste pe humse bhulkar bhi koi bhool ho na
 </i></h5>
 
