@@ -6,10 +6,13 @@ author: Maha Lakshme S
 description: In this blog, I have covered my takeaways and outcomes of the Avni Conference at Goa, January 2023.
 
 featuredpost: false
-featuredimage: /img/2023-01-12-avni-conference-goa/common/avni-tshirt-group-photo.jpg
+featuredimage: /img/2023-01-12-avni-conference-goa/personal/mahalakshme_stretching_hands.jpg
 ---
 
 On hearing the word Goa, what comes to your mind? Beaches? Night life? Portuguese colony? For me it is the Avni Jan 2023 sprint! Since that’s where I met my people. For the first three days in Goa, I worked with my colleagues preparing for the conference and understanding the different implementations for which Avni product is used. The next 2 days(Sunday and Monday) were packed with NGOs presentations, Avni feature walkthrough and roadmap, and ofcourse lots of fun!
+
+![](/img/2023-01-12-avni-conference-goa/common/avni-tshirt-group-photo.jpeg)<pre>Avni family in Avni t-shirts</pre>
+----------------------------
 
 ### My takeaways from the sprint:
 #### Impact of Avni product on ground:
@@ -61,18 +64,18 @@ Akash from Lend A Hand India, was helping me find my specs, that I lost when pla
 #### Next steps and feedback:
 One of the interesting thought raised by NGOs was to have a conference involving the actual field workers who use the app, like the ASHAs, volunteers etc.,  Across different talks of NGOs, we collected feedback and expectations from them. Having followed Agile processes for day-to-day work, collecting feedback and incorporating expectations were imbibed in the design of the conference as well.
 
->_The above have made our bonds stronger like never before!_
+>***The above have made our bonds stronger like never before!***
 
 
 ### Conclusion:
 When I was working for the corporate sector, I was always confused about the utility of my work and hence my very existence. Then having failed clearing the Civil Services exam a couple of times, I was searching for clarity to find the right place for me where I can contribute my skills for the greater good. Having listened to all the discussions, I feel this conference has reinforced that I am in the right place and has increased my resolve to work 10x harder.
 
->_I searched for light and in turn got the sun!_
+>***I searched for light and in turn got the sun!***
 ![](/img/2023-01-12-avni-conference-goa/personal/mahalakshme_holding_sun.jpeg)<pre>At Baina beach. Picture Courtesy: One of the shacks worker</pre>
 ----------------------------
 
->_Itni shakti humein dena daata mann ka vishvas kamzor ho na_  
->_Hum chale nek raste pe humse bhulkar bhi koi bhool ho na_
+>***Itni shakti humein dena daata mann ka vishvas kamzor ho na***  
+>***Hum chale nek raste pe humse bhulkar bhi koi bhool ho na***
 
 
 ### Read the other day blogs
