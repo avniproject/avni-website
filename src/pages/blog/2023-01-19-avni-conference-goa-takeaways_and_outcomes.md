@@ -24,7 +24,8 @@ On hearing the word _Goa_, what comes to your mind? Beaches? Night life? Portugu
 #### There is always an another way:
 I always thought that, it is by working with the government, we can make a large-scale impact. But some NGOs who attended the sprint proved me wrong. NGOs who attended the sprint were of two kinds.
 - One was working with the government trying to improve the efficiency of delivery of schemes and influencing policy change. Eg: Poverty reduction by Indus Action.
-- The other kind was establishing a parallel system with the government to bring-in change. Eg: Comprehensive health care to rural poor by Jan Swasthya Sahyog.
+- The other kind was establishing a parallel system with the government to bring-in change. Eg: Comprehensive health care to rural poor by Jan Swasthya Sahyog.  
+
 Both kinds had their own challenges and accomplishments.
 
 #### High tech-crunch:
