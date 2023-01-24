@@ -31,7 +31,7 @@ Both kinds had their own challenges and accomplishments.
 #### High tech-crunch:
 - Over the different discussions, there were so many requirements from different NGOs, that we were unable to accommodate everything for this year's roadmap. Hiring software developers for Avni product, has never been easy.
 - Discussions in the conference helped me better understand the two-fold reasons for the same:
-  - Social impact can only afford less and hence pay less, but need the same level of technical expertise that corporates get.
+  - Social impact sector can only afford less and hence pay less, but need the same level of technical expertise that corporates get.
   - People with technical expertise who join the social impact sector as well, want to go to field, so retaining them in their role becomes a challenge.
 - From the talk of Tech4Dev, came to know about an interesting concept, Fractional CxOs(CTO + CDO) that they introduced to combat a facet of the above challenge. Fractional CxOs support non-profits by providing Tech and Data Strategy assistance. They support 2-3 Nonprofits at the same time.
 
