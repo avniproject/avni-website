@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Release announcement - February 2023
 date: 2023-02-13T16:00:26.313Z
 author: The Avni Team
-description: App Stability, Whatsapp (Glific) Integration, Feature Enhancements and Bug fixes
+description: 
 featuredpost: false
 featuredimage: /img/2023-02-13-avni-release-announcement/whatsapp-480.png
 tags:
@@ -12,7 +12,7 @@ tags:
 
 Release 3.37 is now live. This release includes App Stability, Whatsapp (Glific) Integration, Feature Enhancements and Bug fixes. 
  
-Please note that this is a major release. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.37.11) for more information.
+Please note that this is a major release.
 
 
 ## Notable Changes
@@ -57,8 +57,10 @@ This is one of the most looked forward feature that we have been working on. In 
 
 
 ### Component release notes
+Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.37.11) for more information.
+
 - <a href="https://github.com/avniproject/avni-server/releases/tag/v3.37.11" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-server/releases/tag/v3.37.11</a>
 - <a href="https://github.com/avniproject/avni-client/releases/tag/v3.37.11" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-client/releases/tag/v3.37.11</a>
 - <a href="https://github.com/avniproject/avni-webapp/releases/tag/v3.37.11" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-webapp/releases/tag/v3.37.11</a>
 
-<a target="_blank" href="https://icons8.com/icon/30448/whatsapp">WhatsApp</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+Credits : <a target="_blank" href="https://icons8.com/icon/30448/whatsapp">WhatsApp</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
