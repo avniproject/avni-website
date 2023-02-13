@@ -36,21 +36,21 @@ Documentation link - https://avni.readme.io/docs/whatsapp-integration#limitation
 - Showing options for Coded concepts in Task filters
 - Support subject form element in a repeatable question group
 
-### Bug fixes/minor changes
-- Field app - Task filters
-- Field app - Updating task status
-- Field app - Task reschedule
-- Field app - Editing draft subject
-- Field app - Blocking rule failure error messages
-- Field app - Subject form element with displayAllGroupMembers enabled
-- Field app - Edit of program enrolment
-- Field app - Overlapping of screens when editing forms
-- Webapp - Updating of task status
-- Webapp - Configuring of form wise approval settings
-- App Designer - Support both skip answers and value in form element
-- App Designer - Unable to load registration form
-- App Designer - Opening of Advanced settings
-- Entry of Decimal values in Numeric concepts
+### Bug fixes
+- Field app - Fix for search with custom filters not working
+- Field app - Fix for unable to apply filters on Task List screen
+- Field app - Fix for unable to update task status
+- Field app - Fix for unable to reschedule a task
+- Field app - Fix for create / edit of DraftSubject not retaining the entered values
+- Field app - Fix for rule failure error messages blocking the usage of the app
+- Field app - Fix for subject form element with displayAllGroupMembers enabled not showing the selected members
+- Field app - Fix for overlapping of screens when editing forms
+- Data Entry App - Fix for unable to add decimal numbers in the numeric field
+- Webapp - Fix for issues with updating of task status
+- Webapp - Fix for unable to open form wise approval settings
+- App Designer - Fix for supporting both skip answers and value in form element
+- App Designer - Fix for unable to open registration form for some organisations
+- App Designer - Fix for unable to open Advanced settings
 
 
 ### Component release notes
