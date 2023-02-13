@@ -29,7 +29,10 @@ Check out this [before performance improvement video](https://drive.google.com/f
   - Currently only member's name is supported to be sent as dynamic parameter. In future other individual's data will also be supported.
 - Viewing of scheduled and sent messages in subject profile of data entry app.
 
-Documentation link - https://avni.readme.io/docs/whatsapp-integration#limitations
+![](/img/2023-02-09-avni-release-announcement/glific_sending_message.png)<pre>Screen for scheduling message to groups</pre>
+----------------------------
+
+Documentation link - https://avni.readme.io/docs/whatsapp-integration
 
 ### Existing feature enhancements
 - Allowing multiple enrolments of same program for a subject - https://avni.readme.io/docs/program 
