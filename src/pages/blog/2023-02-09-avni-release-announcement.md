@@ -21,7 +21,7 @@ Release 3.37 is now live. Please note that this is a major release. Please see t
 - Moving to the Summary and Recommendations page
 - Sync performance by optimizing caching for addresses
 
-Check out this [before video](https://drive.google.com/file/d/1ROqesiF_X4RgJ2DMmBq-UQZVVwAjKYtt/view?usp=share_link) and [after video](https://drive.google.com/file/d/1aXSQ8fQOifRMB3O22ms6Oa68-CiBA0yV/view?usp=share_link) to understand the performance improvement.
+Check out this [before performance improvement video](https://drive.google.com/file/d/1ROqesiF_X4RgJ2DMmBq-UQZVVwAjKYtt/view?usp=share_link) and [after performance improvement video](https://drive.google.com/file/d/1aXSQ8fQOifRMB3O22ms6Oa68-CiBA0yV/view?usp=share_link) to get a feel of the performance improvement made.
 
 ### Whatsapp integration
 - Sending scheduled messages to subjects and users on filling up of registration form, encounter form or enrolment form.
