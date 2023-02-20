@@ -9,7 +9,7 @@ tags:
 - Patch release announcement
 ---
 
-Patch Release 3.37.12 is now live. This release includes Support translations in growth chart, 12hr time format support and Bug fixes.
+Patch Release 3.37.12 is now live. This release includes Support translations in growth chart, 12hr time format support and minor Bug fixes.
 
 Please note that this is a patch release.
 
@@ -18,15 +18,15 @@ Please note that this is a patch release.
 ---------------------------------------------------------------------------
 
 ### Support translations in growth chart
-Now growth chart also supporting the translations.
+Now translations are supported in growth chart.
 
 ![](/img/2023-02-20-avni-release-announcement/before-after-translation.jpeg)<pre>Before and after translations in growth chart screen</pre>
 
 ### 12hr time format support
-- Now selection and display of time will be changed to 12-hour format.
+- We have made changes across the Avni android app to use 12-hour format for selection and display of time.
 
 ### 🐞 Bug fixes
-- App Designer - Fixed JDBC error on saving some forms in app designer.
+- App Designer - Fixed JDBC error on saving some forms with voided Form-elements in app designer.
 
 ![](/img/2023-02-20-avni-release-announcement/jdbc_error_on_app_designer.png)<pre>Error on saving form</pre>
 
@@ -39,5 +39,3 @@ Please see the [detailed release notes](https://github.com/avniproject/avni-prod
 - <a href="https://github.com/avniproject/avni-server/releases/tag/v3.37.12" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-server/releases/tag/v3.37.12</a>
 - <a href="https://github.com/avniproject/avni-client/releases/tag/v3.37.12" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-client/releases/tag/v3.37.12</a>
 - <a href="https://github.com/avniproject/avni-webapp/releases/tag/v3.37.12" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-webapp/releases/tag/v3.37.12</a>
-
-Credits : <a target="_blank" href="https://icons8.com/icon/30448/whatsapp">WhatsApp</a> icon by <a target="_blank" href="https://icons8.com">Icons8</20
