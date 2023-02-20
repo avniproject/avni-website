@@ -1,13 +1,12 @@
 ---
 templateKey: blog-post
-title: Release announcement - February 2023
+title: Patch release announcement - February 2023
 date: 2023-02-20T16:00:26.313Z
 author: The Avni Team
 description:
 featuredpost: false
-featuredimage: /img/2023-02-13-avni-release-announcement/whatsapp-480.png
 tags:
-- Release announcement
+- Patch release announcement
 ---
 
 Patch Release 3.37.12 is now live. This release includes Support translations in growth chart, 12hr time format support and Bug fixes.
