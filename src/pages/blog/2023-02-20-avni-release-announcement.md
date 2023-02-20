@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: Patch release announcement - February 2023
+title: Release announcement - February 2023
 date: 2023-02-20T16:00:26.313Z
 author: The Avni Team
 description:
 featuredpost: false
 tags:
-- Patch release announcement
+- Release announcement
 ---
 
 Patch Release 3.37.12 is now live. This release includes Support translations in growth chart, 12hr time format support and minor Bug fixes.
