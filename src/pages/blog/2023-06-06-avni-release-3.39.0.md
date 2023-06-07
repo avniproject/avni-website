@@ -12,6 +12,7 @@ Major Release 3.39.0 is now live, it includes following modifications to Avni ap
 
 
 ## Notable Changes
+
 ---------------------------------------------------------------------------
 
 ### Support for Filters on Custom Dashboards
@@ -22,6 +23,9 @@ While the regular dashboard of Avni has default filters, custom dashboards did n
 External API users can now POST media for Subject, Task, Encounter, ProgramEnrolment and ProgramEncounter entities.
 [Read more](https://avni.readme.io/docs/api-guide#media-observations).
 
+### Draft Encounter
+Previously, draft save only worked for registration forms. Now encounters can be saved as drafts as well.
+
 ### Sync Performance improvements
 We have improved performance of sync when media needs to be uploaded to Avni. 
 
@@ -30,6 +34,16 @@ Different implementations of the Avni field app can now be packaged and released
 
 ### Removal of dependence on Amazon Web Services
 There were some components that were being used by Avni that made it work only on Amazon Web Services infrastructure. With this release, Avni provides options to plugin other open-source software replacements for these AWS specific components. Avni is now ready to be installed on any on-premise servers.
+
+### Switch to bundles on Play store
+We have switched to using bundles for distribution of the Android app on the play store. This reduces the size of the download required to install the app.
+
+### Other minor features
+Support standard report card to show "Due Checklist Items" on mobile dashboards.
+
+Support custom attributes in Attendance form element.
+
+Ability to not send a whatsapp message, but only schedule it.
 
 There have also been other minor bug fixes and UI/UX improvements. Please see the Component release notes linked at the end for more information. 
 
@@ -40,6 +54,9 @@ There are some big features that we have been working for a while that will be r
 
 #### Access control on the web application
 We are working on introducing fine-grained data based access control on the browser based apps - the App Designer, Admin and Data Entry Applications. Non-catchment based access control (access control to programs, subject types, encounter types etc) along with fine-grained access control to parts of the Admin section will be introduced in this release.
+
+#### Media Viewer
+We are working on an interface in the web app to easily browse media that has been uploaded to Avni. Users will be able to search and filter the media based on various criteria.
 
 #### Improvements to ETL
 We are working on making the ETL processing more robust for organisations that have analytics enabled. 
