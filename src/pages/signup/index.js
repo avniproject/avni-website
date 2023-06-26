@@ -175,7 +175,7 @@ export default class SignupIndexPage extends React.Component {
                                             </div>
                                         </div>
                                         <div className="field">
-                                            <label className="label">Phone number (Optional)</label>
+                                            <label className="label">Phone number</label>
                                             <div className="control has-icons-left has-label">
                                                 <input className="input"
                                                        name="phone"
