@@ -180,6 +180,7 @@ export default class SignupIndexPage extends React.Component {
                                                 <input className="input"
                                                        name="phone"
                                                        type="tel"
+                                                       required
                                                        placeholder="Phone number"
                                                 />
                                                 <span className="icon is-left">
