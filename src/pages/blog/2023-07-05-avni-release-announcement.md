@@ -34,7 +34,7 @@ See the [documentation](https://avni.readme.io/docs/media-viewer) for more detai
 
 ---------------------------------------------------------------------------
 #### Optional Last Name
-Last names are optional now. Make the optional on the subject type, and it will be available, but will not mandate a last name.  
+Last names are optional now. Mark "Last Name optional" on the subject type, and it will show up as optional.   
 
 ![](/img/2023-07-05-avni-release-announcement/last_name_optional.gif)
 <span style="display:flex;justify-content:center;">Optional Last name</span>
