@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Major Release 3.39.0 - June 2023
+title: Major Release Announcement - June 2023
 date: 2023-06-06T10:50:00.000Z
 author: The Avni Team
 description:

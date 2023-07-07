@@ -40,11 +40,16 @@ Last names are optional now. Make the optional on the subject type, and it will 
 <span style="display:flex;justify-content:center;">Optional Last name</span>
 
 ---------------------------------------------------------------------------
+#### Show and persist Custom Dashboard Filters
+You will now be able to see the filters that have been applied on CustomDashboard cards. These are also persisted across app relaunches, until the user effects a change manually or there is a change in the Dashboard filter configuration coming in as part of a sync.
+
+<img src="/img/2023-07-05-avni-release-announcement/customDashboardShowAndSave.gif" width="500px"/><pre>Show and persist Custom Dashboard filters</pre>
+
+---------------------------------------------------------------------------
 ### What else is happening in Avni?
 In 4.0.0, we will be completing the first set of work for Access control of the web application and App Designer. There are quite a few other small items that are being worked on.  
 
-Additionally, there are some changes in the Avni processes, which includes release naming conventions, release processes, a public product roadmap handling and communications. The purpose of these changes is to provide more visibility into the inner workings of product releases Watch out for a detailed blog post on this. .
-
+Additionally, there are some changes in the Avni processes, which includes release naming conventions, release processes, a public product roadmap handling and communications. The purpose of these changes is to provide more visibility into the inner workings of product releases. You can read more about it in [**this**](https://avniproject.org/blog/2023-07-07-opening-up/) blog .
 
 
 ### Special mentions
@@ -53,3 +58,15 @@ Rudresh Shrotriya and Brajesh Kumar from [ColoredCow](https://coloredcow.com/) f
 
 ---------------------------------------------------------------------------
 ### Component release notes
+Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.40.0) for more information.
+
+- <a href="https://github.com/avniproject/avni-server/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-server/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/avni-webapp/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-webapp/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/avni-client/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-client/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/rules-server/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/rules-server/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/integration-service/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/integration-service/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/integration-admin-app/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/integration-admin-app/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/avni-infra/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-infra/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/avni-etl/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-etl/releases/tag/v3.40.0</a>
+- <a href="https://github.com/avniproject/avni-media/releases/tag/v3.40.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-media/releases/tag/v3.40.0</a>
+
