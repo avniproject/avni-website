@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Opening up
 date: 2023-07-07T09:00:00.000Z
-author: The Avni Team
+author: Vinay Venu
 description:
 featuredpost: false
 tags:
