@@ -33,10 +33,12 @@ Soon, the work sessions were in full swing, with teams collaborating on tasks, t
 
 - A memorable team outing at Lake Pichola, followed by indulging in the delicious Rajasthani delicacy, Dal Baati Churma, at Khambagani.
 ![](/img/2023-07-Avni-Udaipur-Conference/pichola.jpeg)
+
 ![](/img/2023-07-Avni-Udaipur-Conference/Khambagani.jpeg)
 
 - Early morning strolls by Fateh Sagar, immersing myself in the breathtaking beauty of nature.
 ![](/img/2023-07-Avni-Udaipur-Conference/Fateh-Sagar.jpeg)
+
 ![](/img/2023-07-Avni-Udaipur-Conference/Fateh-Sagar-2.jpeg)
 
 - The thrilling team activity called "Beg Borrow Steal," where two teams were formed and given a set of tasks and items to complete. The first team to finish emerged victorious.
