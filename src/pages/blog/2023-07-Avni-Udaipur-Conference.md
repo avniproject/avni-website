@@ -1,8 +1,8 @@
 ---
 
 templateKey: blog-post
-title: Avni Sprint, Udaipur, July 2023 - Day 2
-date: 2023-07-14T09:45:00.000Z
+title: Avni Sprint, Udaipur, July 2023
+date: 2023-07-15
 author: Mohammed Taqi
 
 
