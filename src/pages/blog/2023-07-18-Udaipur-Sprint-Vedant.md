@@ -12,33 +12,33 @@ tags:
 ## _khamma Ghani !!_
 
 
-It was my first-time experience being part of Sprint after my joining. I am very grateful to the organizer for conducting this kind of program.
+It was my first-time experience being part of a team offsite Sprint after joining Avni. I am very grateful to the organizer for conducting this kind of program.
 
 
 ## Getting to Know My Teammates Better
 
-First, we arranged a team bonding session __'A day in the life of everyone'__. In this session, all team members describe their whole day in brief. From this session, I was able to discover each other's strengths and skills. It creates a friendly and inclusive atmosphere.
+The very first, session was a team bonding session __'A day in the life of everyone'__. In this session, all team members described their daily routine in brief. From this session, I was able to discover each participant's strengths and skills. It paved the way for a friendly and inclusive atmosphere in the future.
 
 ![Avni Team](/img/2023-07-18-Udaipur-Sprint-Vedant/avni-team.jpeg)
 
 
-## Working of Avni
+## Avni Functionalities
 
-It was arranged by a senior team member. They gave a brief understanding of the Product and other tools and technology we used. It was a good and very informative session and helped me to understand.
+This session was arranged by a senior team member. They gave a brief explanation of the functionalities of the Product and the tools and technology we used. It was a very informative session and helped me to understand the working of Avni.
 
 ![Pairing](/img/2023-07-18-Udaipur-Sprint-Vedant/pairing.jpeg)
 
 
 ## Field Visit
 
-I visited ngo called __Aajeevika Bureau__ with my fellow teammates. It was my first-time experience knowing how NGOs are working at the ground level.
+I visited an NGO called __Aajeevika Bureau__ with my teammates. It was my first experience with an NGO. It helped me to understand the workings at the ground level and how Avni will help.
 
 ![Aajeevika Bureau Helpline](/img/2023-07-18-Udaipur-Sprint-Vedant/ajeevika.jpeg)
 
 
 ## Fun Activities and Place Visit
 
-From the start to the end of the sprint session, we had some fun activities. It gives a lot of joy and happiness. As We are coming from different states and different cultures, It gives respect, empathy, and sensitivity toward others.
+Before each session of the sprint, we had fun activities. These activities created a joyful atmosphere. I was particularly happy to learn the languages and food habits of the culturally diverse participants. Overall I believe we gained respect, empathy, and sensitivity toward each other.
 
 ![Lake Pichola](/img/2023-07-18-Udaipur-Sprint-Vedant/lake-pichola.jpeg)
 
