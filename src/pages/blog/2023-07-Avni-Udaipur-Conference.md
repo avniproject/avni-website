@@ -8,6 +8,8 @@ author: Mohammed Taqi
 
 featuredpost: false
 featuredimage: /img/2023-07-Avni-Udaipur-Conference/Featured-image.jpeg
+tags:
+- Udaipur Sprint
 ---
 
 So my excitement started somewhere around mid-June when Arjun informed us that we would be participating in the Tech4Dev sponsored Udaipur sprint.
