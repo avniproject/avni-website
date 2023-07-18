@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Avni Sprint, Udaipur, July 2023
-date: 2023-07-18T00:00:00.000Z
+date: 2023-07-18T08:24:48.337Z
 author: Beulah Evanjalin A
 description: This blog describes a four-day sprint journey in Udaipur, Rajasthan, where work, play, and cultural immersion intertwine. It highlights the arrival and preparation, team building, thought-provoking discussions, exploring Avni (the project focus), cultural immersion experiences, role clarification, team alignment, reflection, and departure
 
