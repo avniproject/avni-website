@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Reflections from the Udaipur Sprint: A Blend of Productivity and Joy
+title: Reflections from the Udaipur Sprint - A Blend of Productivity and Joy
 date: 2023-07-18T09:00:00.000Z
 author: Nupoor Khandelwal
 description:
