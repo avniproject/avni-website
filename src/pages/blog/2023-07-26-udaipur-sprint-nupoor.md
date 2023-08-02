@@ -5,9 +5,14 @@ date: 2023-07-18T09:00:00.000Z
 author: Nupoor Khandelwal
 description:
 featuredpost: false
+featuredimage: /img/2023-01-12-avni-conference-goa/day-3/retro-board.jpeg
+---
 tags: 
 - Udaipur Sprint
 ---
+
+![](/img/2023-07-26-udaipur-sprint-nupoor/Team.png)
+<span style="display:flex;justify-content:center;">A team pic in printed Avni t-shirts</span>
 
 Last week, our team had the incredible opportunity to attend the Udaipur Sprint.The event was at the beautiful Justa Sajjangarh, surrounded by green mountains and a stunning view of the Monsoon Palace. As a remote team, this sprint provided us with a chance to come together, work side by side, and forge stronger connections.
 
@@ -18,9 +23,6 @@ The experience was truly remarkable, and in this blog post, I would like to shar
 
 ## Coming Together with Defined Goals:
 The sprint kicked off with a clear focus on personal and team-level goals. We set out to achieve specific milestones and made significant progress towards them during the Sprint.The dedication and commitment of each team member were truly commendable, and it fueled our collective success.
-
-![](/img/2023-07-26-udaipur-sprint-nupoor/Team.png)
-<span style="display:flex;justify-content:center;">A team pic in printed Avni t-shirts</span>
 
 ## Insights into Our Lives:
 One of the standout sessions was when we shared how our typical days unfold, shedding light on our roles. This exercise not only allowed us to reveal our professional and personal approaches to work but also facilitated a deeper understanding of each other's routines, work hours, and priorities. It created a stronger bond within the team.
