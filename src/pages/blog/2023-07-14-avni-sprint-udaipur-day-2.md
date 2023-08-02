@@ -217,6 +217,7 @@ It was a great end to a very memorable day, in which we had atleast partially ac
 ![](/img/2023-07-14-avni-sprint-udaipur-day-2/avni-team-group-photo-udaipur-sprint.jpg)
 
 ----------------------------
-#### Read the sprint related blogs
+### Samanvay Foundation is Hiring for multiple roles
 
-* [Day 2 blog post - by Himesh R](https://avniproject.org/blog/2023-07-14-avni-sprint-udaipur-day-2/)
+Samanvay is looking for people who are passionate about their craft and want to work for social development.
+You can find all the open positions [here](https://www.samanvayfoundation.org/join-us)
