@@ -42,7 +42,7 @@ The scenic beauty of Udaipur left us spellbound, and a boat ride on Lake Pichola
 ## Brainstorming for Efficiency:
 Our sprint concluded with sessions on ease of implementation and process reviews for each role. These brainstorming sessions generated innovative ideas and strategies to enhance our work efficiency. They provided a platform for collaborative discussions and empowered us to identify areas for improvement.
 
-![](/img/2023-07-26-udaipur-sprint-nupoor/ProcessReview.png)
+![](/img/2023-07-26-udaipur-sprint-nupoor/ProcessReview.jpg)
 <span style="display:flex;justify-content:center;">Process Reviews</span>
 
 ## Meaningful Feedback:
