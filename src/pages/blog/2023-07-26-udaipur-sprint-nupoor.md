@@ -5,7 +5,7 @@ date: 2023-07-18T09:00:00.000Z
 author: Nupoor Khandelwal
 description:
 featuredpost: false
-featuredimage: /img/2023-01-12-avni-conference-goa/day-3/retro-board.jpeg
+featuredimage: /img/2023-07-26-udaipur-sprint-nupoor/lakePichola2.jpg
 ---
 tags: 
 - Udaipur Sprint
@@ -42,8 +42,14 @@ The scenic beauty of Udaipur left us spellbound, and a boat ride on Lake Pichola
 ## Brainstorming for Efficiency:
 Our sprint concluded with sessions on ease of implementation and process reviews for each role. These brainstorming sessions generated innovative ideas and strategies to enhance our work efficiency. They provided a platform for collaborative discussions and empowered us to identify areas for improvement.
 
+![](/img/2023-07-26-udaipur-sprint-nupoor/ProcessReview.png)
+<span style="display:flex;justify-content:center;">Process Reviews</span>
+
 ## Meaningful Feedback:
 An important goal of the sprint was to exchange one-on-one feedback in person. This activity proved to be intriguing and valuable as we gained insights into the challenges faced by each team member. Understanding these difficulties fostered empathy and opened avenues for collaboration and support. It was an essential step in nurturing a culture of continuous improvement and growth.
 
 ## Conclusion:
 The Udaipur Sprint was a wonderful event that allowed us to connect, learn, and be inspired. It was a memorable experience that has motivated us to continue making a positive difference in our work. We're excited to bring this renewed enthusiasm and perspective back to our roles and continue our journey as a strong and united team.
+
+![](/img/2023-07-26-udaipur-sprint-nupoor/Sweets.png)
+<span style="display:flex;justify-content:center;">Desserts</span>
