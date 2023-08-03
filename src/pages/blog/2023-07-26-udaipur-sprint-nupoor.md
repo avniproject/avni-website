@@ -6,8 +6,7 @@ author: Nupoor Khandelwal
 description:
 featuredpost: false
 featuredimage: /img/2023-07-26-udaipur-sprint-nupoor/lakePichola2.jpg
----
-tags: 
+tags:
 - Udaipur Sprint
 ---
 
