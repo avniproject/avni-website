@@ -11,7 +11,7 @@ tags:
 ---
 
 ![](/img/2023-07-26-udaipur-sprint-nupoor/Team.png)
-<span style="display:flex;justify-content:center;">A team pic in printed Avni t-shirts</span>
+<span style="display:flex;justify-content:center;">Avni team pic</span>
 
 Last week, our team had the incredible opportunity to attend the Udaipur Sprint.The event was at the beautiful Justa Sajjangarh, surrounded by green mountains and a stunning view of the Monsoon Palace. As a remote team, this sprint provided us with a chance to come together, work side by side, and forge stronger connections.
 
