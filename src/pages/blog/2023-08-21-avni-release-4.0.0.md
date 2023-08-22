@@ -45,4 +45,17 @@ There are some major security and core-plugin upgrades on which we have been wor
 
 ---------------------------------------------------------------------------
 ### Product release notes
-- <a href="https://github.com/avniproject/avni-product/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-product/releases/tag/v4.0.0</a>
+Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v4.0.0) for more information.
+
+---------------------------------------------------------------------------
+### Component release notes
+- <a href="https://github.com/avniproject/avni-server/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-server/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/avni-webapp/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-webapp/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/avni-client/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-client/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/rules-server/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/rules-server/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/integration-service/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/integration-service/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/integration-admin-app/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/integration-admin-app/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/avni-infra/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-infra/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/avni-etl/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-etl/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/avni-media/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-media/releases/tag/v4.0.0</a>
+- <a href="https://github.com/avniproject/avni-infra/releases/tag/v4.0.0" target="_blank" rel="noopener noreferrer">https://github.com/avniproject/avni-infra/releases/tag/v4.0.0</a>
