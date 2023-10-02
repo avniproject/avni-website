@@ -23,12 +23,16 @@ We have added support for the following capabilities in integration-service
 - Multi-tenancy for every organisation-specific module
 - Meta-data migration for an organisation across different tenants of the same module
 
+Check out the Avni [integration design and developer guide here](https://avni.readme.io/docs/integration-developer-guide).
+
 ### Major enhancements in the ETL application
 We have added support to process data of the following types in our ETL application:
 - GroupSubjects (Household as well as Generic GroupSubjects)
 - RepeatableQuestionGroups
 - SyncTelemetry
 - Users
+
+Read full documentation of Avni ETL service [here](https://avni.readme.io/docs/etl-schema-and-reporting).
 
 ### Minor bug fixes
 There have also been minor bug fixes and UI/UX improvements. Please see the component release notes linked at the end for more information.
