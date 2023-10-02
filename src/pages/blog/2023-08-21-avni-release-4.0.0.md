@@ -5,15 +5,14 @@ date: 2023-08-21T20:30:00.000Z
 author: The Avni Team
 description:
 featuredpost: false
+featuredimage: /img/Access control in Avni.png
 tags:
 - Release announcement
 ---
 Major Release 4.0.0 is now live, it includes the following modifications to the Avni application
 
 
-## Notable Changes
-
----------------------------------------------------------------------------
+![Fine-grained access control in Avni](/img/Access control in Avni.png)
 
 ### Fine-grained access control in the Avni application
 We have always wanted to have fine-grained controls in the Avni application. This would enable organisations to grant users privileges for specific functionalities without exposing other critical operations. Ex: Allow a user to upload a transactional data file without providing him access to the "App Designer" capabilities.
