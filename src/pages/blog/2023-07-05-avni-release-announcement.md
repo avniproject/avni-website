@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Release announcement - July 2023
+title: Major Release announcement - July 2023
 date: 2023-07-05T19:35:00.000Z
 author: The Avni Team
 description:
