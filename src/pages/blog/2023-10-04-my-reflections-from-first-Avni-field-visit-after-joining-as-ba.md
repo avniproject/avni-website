@@ -6,7 +6,7 @@ author: Salil Arora
 description: >-
   During my field expedition in Gujarat, I had the privilege of witnessing the grassroots activities where Avni is making a significant impact. Sewa Rural and Jashoda Narottam Public Charity Trust (JNPCT), both long-standing NGOs dedicated to serving the tribal communities of Gujarat, have harnessed the power of Avni to enhance their work. Join me on this journey as we delve into the tangible results and transformative potential of Avni in the heart of Gujarat's tribal regions.
 featuredpost: false
-featuredimage: /img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/dharampur_arogya_saheli.jpeg
+featuredimage: /img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/dharampur_arogya_saheli.jpg
 tags:
   - Field Visit Report 
   - SEWA Rural Adolescent Tracker
@@ -54,17 +54,17 @@ On September 6th, our journey led us to the Jashoda Narottam Public Charity Trus
 
 JNPCT currently operates in 4 Primary Health Centers (PHCs) of Valsad District, spanning 62 villages, and serving a population of approximately 1 lakh. They have a dedicated team of around 235 permanent staff members complemented by 125 part-time workers. What sets them apart is their commitment to local engagement—most of their staff members hail from the very communities they serve. This unique approach allows them to intimately understand the challenges at hand and devise solutions tailored to the local context, thereby enhancing their ability to effect positive change.
 
-![Image name: Arogya Saheli monthly meeting at JNPCT’s Dharampur office](/img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/dharampur_arogya_saheli.jpeg)
+![Image name: Arogya Saheli monthly meeting at JNPCT’s Dharampur office](/img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/dharampur_arogya_saheli.jpg)
 
 The above image encapsulates the spirit of empowerment. It features Arogya Saheli proudly raising their hands—a gesture signifying their newfound skill in using smartphones. They acquired this knowledge through training provided by the JNPCT team to capture data on the Avni app. This dedication to empowering local individuals wherever opportunities arise speaks volumes about JNPCT's mission.
 
-![Image Name: On the Ground: Visiting a Remote Village in Siddha PHC](/img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/arogya_saheli_remote_village_visit.jpeg)
+![Image Name: On the Ground: Visiting a Remote Village in Siddha PHC](/img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/arogya_saheli_remote_village_visit.jpg)
 
 Our day commenced with a journey to a remote tribal area: Tiskari Jungle and Sildha village, which comes under Sildha PHC in Valsad district. This region is near to the border between Maharashtra and Gujarat and is inhabited by Kokna, Warle, and Korcha tribal populations.
 
 The level of trust that these tribal communities repose in the JNPCT team is akin to considering them as family. This trust is not just logical but for a good reason.<span style="color:#ff470f"> Health indicators in these tribal areas have witnessed remarkable improvements across the board.</span> In 2018, the tally of severe acute malnutrition (SAM) children was above 2,000. Today, thanks to JNPCT's unwavering dedication, there are only 31 children who are in such SAM condition. JNPCT has consistently gone the extra mile to provide improved health facilities to these tribal populations.
 
-![Image name: Observing Arogya Saheli utilizing Avni during a home visit](/img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/arogya_saheli_using_avni.jpeg)
+![Image name: Observing Arogya Saheli utilizing Avni during a home visit](/img/2023-10-04-my-reflections-from-first-Avni-field-visit-after-joining-as-ba/arogya_saheli_using_avni.jpg)
 
 Yet, one challenge still looms large: family planning. During our visit, we met a young woman, just 24 years old, who had recently given birth to her fifth child in August 2023. Conversations with the JNPCT team revealed that while progress has been made, there was a time when both the mother-in-law and daughter-in-law would be pregnant simultaneously, with the mother-in-law on her 9th or 10th pregnancy. This serves as a poignant reminder of the complex challenges that persist in these remote tribal communities. 
 
