@@ -41,7 +41,7 @@ Central to the success of the Teach AP program was the rigorous training and ass
 
 To run a program of this size requires several pieces to come together. Technology can help in some of them.
 
-- Regular reports help those running the programme information on both the regularity of the program as well as the quality of data coming in. This helps them make any necessary corrections at the right time.
+- Regular reports provide information to people running the program on both the regularity of the program as well as the quality of data coming in. This helps them make any necessary corrections at the right time.
 
 ![](/img/classroom-observation-tool-for-andhra-pradesh/reports.png)
 
@@ -49,7 +49,7 @@ To run a program of this size requires several pieces to come together. Technolo
 
 ![](/img/classroom-observation-tool-for-andhra-pradesh/offline_dashboard.png)
 
-- Bulk uploads of observers and teachers help quickly add data into the system to scale up as needed. Administrators of the system use the csv upload functionality to add new observers and teachers. Observers get a notification
+- Bulk uploads of observers and teachers help quickly add data into the system to scale up as needed. Administrators of the system use the csv upload functionality to add new observers and teachers. 
 
 - Support channels are required to assist users in case of any trouble on the ground. Avni can help in two different ways. First, the Application Menu allows addition of [custom links](https://avni.readme.io/docs/application-menu). This has been used in many implementations to connect to a Google Form or a Whatsapp channel where support can be provided. In another implementation, users are automatically added to a Whatsapp chatbot through Glific. This provides some support for regular questions and allows administrators to contact them when human support is required.
 
