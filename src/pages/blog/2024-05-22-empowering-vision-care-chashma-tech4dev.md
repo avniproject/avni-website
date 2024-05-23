@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 2024-05-22-empowering-vision-care-chashma-tech4dev.md
+title: Empowering Vision Care: Project Chashma’s Transformation with Avni Platform
 date: 2024-05-22T20:30:00.000Z
 author: The Avni Team
 description:
@@ -10,7 +10,6 @@ tags:
 - Release announcement
 ---
 
-# Empowering Vision Care: Project Chashma’s Transformation with Avni Platform
 
 ## Executive Summary
 Sarva Mangal Family Trust (SMFT), a non-profit organization, in collaboration with Bhansali Trust, also a non-profit organization working in healthcare, initiated Project Chashma with the ambitious goal of delivering eye care services to 20 million individuals within five years through partnerships with grassroots NGOs. However, the project encountered operational inefficiencies, especially in data management, during its initial stages, hindering its scalability and effectiveness. With the adoption of an open-source data collection and case management platform, Avni, these challenges were addressed, leading to streamlined data management and enhanced overall operational efficiency.
