@@ -14,7 +14,7 @@ import SecondaryCTAButton from "./SecondaryCTAButton";
 
 let valueProposition = function (icon, text, description, additionalLine) {
     return <div className="column is-one-quarter-desktop is-10-mobile is-offset-1-mobile">
-        <div className="content" style={{padding: '2em', backgroundColor: "#f2f2f2"}}>
+        <div className="content" style={{padding: '2em', backgroundColor: "#f8f7e7"}}>
             <img src={icon} alt={text} width="80px"/>
             <h4>{text}</h4>{description}<br/>
             {additionalLine && <br/>}

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Explanation = () => (
-    <div className="container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex', backgroundColor: '#f2f2f2'}}>
+    <div className="container" style={{alignItems: 'center', flexDirection: 'column', display: 'flex', backgroundColor: '#f8f7e7'}}>
         <br/>
         <h1 className="full-centered">In-house data collection applications are <u>unsustainable</u></h1>
         <div>

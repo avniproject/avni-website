@@ -12,7 +12,7 @@ let step = function (title, text) {
     </div>;
 };
 const Plan = ({}) => (
-    <div className="container" style={{flexDirection: 'column', display: 'flex', backgroundColor: '#f2f2f2'}}>
+    <div className="container" style={{flexDirection: 'column', display: 'flex', backgroundColor: '#f8f7e7'}}>
         <br/>
         <h1 className="title has-text-centered">Transform your project from paper/excel based to digital</h1>
         <br/>
