@@ -10,6 +10,7 @@ import Authority from "../components/Authority";
 import Plan from "../components/Plan";
 import Explanation from "../components/Explanation";
 import SEO from "../components/seo"
+import Testimonials from '../Testimonials';
 
 export const IndexPageTemplate = ({
                                       features,
@@ -21,6 +22,7 @@ export const IndexPageTemplate = ({
                     <div className="content">
                         <ValuePropositions gridItems={features.blurbs}/>
                         <Plan/>
+                        <Testimonials/>
                         <Authority/>
                         <Explanation/>
                     </div>
