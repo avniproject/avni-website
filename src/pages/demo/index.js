@@ -48,17 +48,12 @@ export default function Index() {
                         <div className="content">
                             <h3>Demo login</h3>
                             <hr/>
-                            {demoDetails("Track and support adolescents under risk", "adol-demo")}
-                            {demoDetails("Child growth monitoring", "phulwari-demo")}
-                            {demoDetails("Data reporting of dam de-silting work", "ddm-demo")}
-                        </div>
-                    </div>
-                    <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
-                        <div className="content">
-                            <h3>A few more login</h3>
-                            <hr/>
-                            {/*"since the admin is open to public, someone may have made breaking changes causing the field app to not work as expected in some places. Please contact us if you need help."*/}
-                            {demoDetails("Maternal and child health", undefined, "mch-demo", undefined)}
+                            {demoDetails("Track the progress of silt excavaction from water bodies", "demo@wbd")}
+                            {demoDetails("Social security facilitation", "demo@ssdemo")}
+                            {demoDetails("Teacher development program", "demo@teachdemo")}
+                            {demoDetails("Community program-Phulwari", "phulwari-user@cpdemo")}
+                            {demoDetails("Non Communicable Disease control program", "ncd-user@cpdemo")}
+                            {demoDetails("Pregnancy & child nutrition program", "preg-child@cpdemo")}
                         </div>
                     </div>
                 </div>
@@ -75,14 +70,6 @@ function demoDetails(title, fieldUser, adminUser, note) {
             <div><b>Field app</b></div>
             <div>
                 User={fieldUser}
-                <br/>
-                Password=password
-            </div>
-        </>}
-        {adminUser && <>
-            <div><b>System administration app</b></div>
-            <div>
-                User={adminUser}
                 <br/>
                 Password=password
             </div>
