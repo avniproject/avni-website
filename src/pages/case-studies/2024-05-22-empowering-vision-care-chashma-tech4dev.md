@@ -6,7 +6,6 @@ author: The Avni Team
 description:
 featuredpost: true
 featuredimage:
-tags:
 ---
 
 
