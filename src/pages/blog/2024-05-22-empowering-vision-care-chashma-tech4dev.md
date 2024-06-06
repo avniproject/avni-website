@@ -31,12 +31,24 @@ In response, the project team revamped the patient flow and data collection proc
 
 Avni is an open-source platform for on-field service delivery and data collection. Designed for the development sector, Avni strengthens field capacity for non-profits and governments across sectors like health, water, education, and social welfare.
 
-<img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/avni-block-diagram.png" height="310" width="190" align='middle'><pre>**Avni Block Diagram**</pre>
-<img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/dashboard-patient-registration.png" height="310" width="190" align='middle'><pre>**Avni Mobile App Dashboard & Patient Registration**</pre>
-<img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/participation-gender-age-group.png" height="310" width="190" align='middle'><pre>**Patients Participation in the Eye-camp by Gender & Age-Group**</pre>
-<img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/percentage-of-student-need-eyeglasses.png" height="310" width="190" align='middle'><pre>**Patients Participation and Percentage of Adults and Students Need Eyeglasses**</pre>
+<div style="width: 50%">
+    <img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/avni-block-diagram.png"><pre>**Avni Block Diagram**</pre>
+</div>
+<div style="width: 50%">
+        <img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/dashboard-patient-registration.png"><pre>**Avni Mobile App Dashboard & Patient Registration**</pre>
+</div>
+<div style="width: 50%">
+        <img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/dashboard-patient-registration.png"><pre>**Avni Mobile App Dashboard & Patient Registration**</pre>
+</div>
+<div style="width: 50%">
+        <img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/participation-gender-age-group.png"><pre>**Patients Participation in the Eye-camp by Gender & Age-Group**</pre>
+</div>
+<div style="width: 50%">
+        <img src="/img/2024-05-22-Empowering-vision-care-Chashma-tech4dev/percentage-of-student-need-eyeglasses.png"><pre>**Patients Participation and Percentage of Adults and Students Need Eyeglasses**</pre>
+</div>
 
 ## Impact
+
 The strategic enhancements facilitated by the Avni digital solution resulted in notable improvements in operational efficiency throughout the project:
 
 - **Token System for Crowd Management**: Introducing a token system improved patient flow and organization at the camps, mitigating overcrowding and streamlining the registration process.
