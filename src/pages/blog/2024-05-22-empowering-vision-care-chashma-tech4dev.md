@@ -7,7 +7,8 @@ description:
 featuredpost: false
 featuredimage:
 tags:
-- Release announcement
+- Case study 
+- Project updates
 ---
 
 
@@ -64,5 +65,4 @@ The Avni platform not only resolved the project’s immediate data management ch
 The integration of the Avni platform into Project Chashma’s operations has been transformative, addressing critical challenges in crowd management, data collection, staff upskilling, and impact assessment. The improvements in process efficiency and data management capabilities have not only bolstered the project’s effectiveness but have also set a new standard for leveraging technology in nonprofit initiatives. Project Chashma’s experience underscores the potential of digital tools to enhance service delivery and expand impact, serving as a valuable blueprint for other NGOs aiming to scale their efforts in underserved communities.
 
 
-
-*Tech4Dev has published this insightful article detailing the transformative impact of the Avni platform on Project Chashma, led by Sarva Mangal Family Trust (SMFT) and Bhansali Trust. The article tells how Avni's offline capabilities and robust data management tools have improved patient registration, eye exams, eyeglass distribution, follow-up treatments, and overall project impact assessment, setting a new benchmark for technology in non-profit initiatives.*
+*This article was originally published on Tech4dev website.*
