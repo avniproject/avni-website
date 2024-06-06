@@ -7,8 +7,7 @@ description:
 featuredpost: false
 featuredimage:
 tags:
-- Case study 
-- Project updates
+- Case study
 ---
 
 
