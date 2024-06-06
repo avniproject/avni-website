@@ -8,9 +8,8 @@ featuredpost: false
 featuredimage:
 tags:
 ---
-# Avni Conference 2024, Goa (India)
 
-## Avni Goa Conference 2024 (Team Picture)
+
 <img src="/img/2024-06-03-avni-conference-goa/team.png" height="400" width="250" align='middle'>
 
 Working in a remote job fosters a unique enthusiasm to meet partners and team members face-to-face. The Avni Conference 2024 provided a platform for such interactions, allowing participants to understand each other better and strengthen their bonds. Meeting in person was a significant motivation for many attendees.
