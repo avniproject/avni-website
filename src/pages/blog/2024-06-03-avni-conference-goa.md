@@ -11,8 +11,6 @@ tags:
 ---
 
 
-
-
 Working in a remote job fosters a unique enthusiasm to meet partners and team members face-to-face. The Avni Conference 2024 provided a platform for such interactions, allowing participants to understand each other better and strengthen their bonds. Meeting in person was a significant motivation for many attendees.
 
 I started my journey from Bangalore at 4:00 am on January 20, 2024, amidst a period when flights across India were frequently delayed due to fog in the north. Fortunately, my flight to Goa was on time, and I reached the hotel without any issues.
@@ -21,6 +19,7 @@ The conference began with Vinay's session, where everyone introduced themselves 
 
 Following this, each NGO showcased their work and how they were utilizing Avni in their programs. This segment was particularly interesting as it provided ideas for improving program implementation by expanding Avni's scope or modifying its usage.
 
+<img src="/img/2024-06-03-avni-conference-goa/team.png" height="400" width="250" align='middle'><pre>**Celebrating collaboration and community! Grateful for our dedicated team and inspiring NGO clients who make a difference every day.**</pre>
 
 After concluding the meeting around 6:00 pm, we planned to explore Goa and enjoy some leisure time. This casual interaction helped strengthen our connections further. The next morning, I woke up early and went to the beach with a few team members, as many were too tired from the previous night's activities. We enjoyed the beach and visited a nearby fort.
 
