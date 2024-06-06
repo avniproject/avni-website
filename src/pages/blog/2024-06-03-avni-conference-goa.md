@@ -1,13 +1,14 @@
 ---
 templateKey: blog-post
 title: Avni Conference 2024, Goa (India)
-date: 2024-06-03T20:30:00.000Z
+date: 2024-01-19T20:30:00.000Z
 author: Parth 
 description:
 featuredpost: false
 featuredimage:
 tags: Avni Conference
 ---
+
 
 
 
@@ -19,9 +20,7 @@ The conference began with Vinay's session, where everyone introduced themselves 
 
 Following this, each NGO showcased their work and how they were utilizing Avni in their programs. This segment was particularly interesting as it provided ideas for improving program implementation by expanding Avni's scope or modifying its usage.
 
-<div style="width: 70%">
-    <img src="/img/2024-06-03-avni-conference-goa/team.png"><pre>**Celebrating collaboration and community! Grateful for our dedicated team and inspiring NGO clients who make a difference every day.**</pre>
-</div>
+<img src="/img/2024-06-03-avni-conference-goa/team.png" height="400" width="250" align='middle'><pre>**Celebrating collaboration and community! Grateful for our dedicated team and inspiring NGO clients who make a difference every day.**</pre>
 
 After concluding the meeting around 6:00 pm, we planned to explore Goa and enjoy some leisure time. This casual interaction helped strengthen our connections further. The next morning, I woke up early and went to the beach with a few team members, as many were too tired from the previous night's activities. We enjoyed the beach and visited a nearby fort.
 
