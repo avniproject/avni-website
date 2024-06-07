@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Avni Conference 2024, Goa (India)
-date: 2024-01-19T20:30:00.000Z
+date: 2024-01-22T20:30:00.000Z
 author: Salil Arora 
 description:
 featuredpost: false
-featuredimage:
+featuredimage: /img/2024-06-03-avni-conference-goa/team.png
 tags: 
 - Avni Conference
 ---
