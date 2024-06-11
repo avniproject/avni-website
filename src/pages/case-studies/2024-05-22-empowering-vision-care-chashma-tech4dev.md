@@ -1,10 +1,10 @@
 ---
-templateKey: blog-post
+templateKey: case-study
 title: Empowering Vision Care Project Chashma’s Transformation with Avni Platform
 date: 2024-05-22T20:30:00.000Z
 author: The Avni Team
 description:
-featuredpost: true
+featuredpost: false
 featuredimage:
 ---
 
