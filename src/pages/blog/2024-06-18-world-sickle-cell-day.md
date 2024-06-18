@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: World Sickle Cell Day : Role of NGOs and Open-source
+title: World Sickle Cell Day - Role of NGOs and Open-source
 date: 2024-06-19T20:30:00.000Z
 author: The Avni Team
 description:
 featuredpost: true
-featuredimage:
+featuredimage: 
 ---
 
 
@@ -45,7 +45,7 @@ The fight against SCD is filled with challenges. Some key ones include:
 
 ### Social Stigma: Misinformation and misconceptions result in social isolation and discrimination against those with SCD. Incidences of discrimination for marriages are becoming common now in western, & central India. 
 
-##Role of Avni in SCD Management
+## Role of Avni in SCD Management
 In managing Sickle Cell Disease (SCD), especially in resource-poor settings, open-source and easy-to-use technology like Avni is transformative by aiding NGOs in several critical areas. Currently, multiple NGOs are using Avni to streamline the workflow to screen the population, their case management and timely follow-ups. Avni facilitates remote patient monitoring, thus reducing the frequency of clinic visits and allowing for continuous oversight of patient health. Additionally, it enhances healthcare delivery efficiency by providing real-time data to healthcare providers, which supports better decision-making and the personalisation of care, ultimately improving patient outcomes.
 
 Every year on June 19, countries throughout the world unite to celebrate World Sickle Cell Day. The international awareness day is observed to increase public knowledge of SCD. On this World Sickle Cell Day, we recognise the collective efforts of governments, NGOs, and technology in addressing the challenges of Sickle Cell Disease. By raising awareness, supporting innovative solutions, and advocating for comprehensive care, we can improve the lives of those affected by SCD, ensuring they receive the support and treatment they deserve. Join us in celebrating the progress made and the ongoing commitment to overcoming the barriers posed by SCD.
