@@ -23,31 +23,31 @@ Agencies worldwide are increasingly recognising the severity of SCD and prioriti
 ## How NGOs Help
 NGOs play a crucial role in bridging healthcare gaps for SCD patients, particularly in underserved and rural areas. Their contributions are multifaceted, including:
 
-### Screening and Diagnosis:
+#### Screening and Diagnosis:
 NGOs conduct community outreach and local screening camps to facilitate early detection of SCD. This proactive approach brings diagnostic services directly to rural areas, identifying patients who might not have easy access to healthcare.
 
-### Medical Support:
+#### Medical Support:
 NGOs provide home-based care by training community health workers to manage SCD symptoms locally, reducing hospital visits. They ensure access to necessary treatments (Hydroxyurea, folic acid etc.), including pain management and routine check-ups, often supplying medications and medical support to remote communities.
 
-### Education and Awareness:
+#### Education and Awareness:
 NGOs have empanelled their dedicated counsellors for these patients who take their regular followup, raise awareness about SCD symptoms, its genetic nature, emergency preparations and management strategies through educational campaigns. This effort helps in reducing stigma, promoting early diagnosis, and improving disease management. They also train local healthcare providers, enhancing their ability to care for SCD patients.
 
-### Support Systems: 
+#### Support Systems: 
 NGOs create peer support groups for individuals and families affected by SCD. These groups offer emotional support, share experiences, and provide practical advice on managing the disease. These groups are also emerging as a strong advocacy platform which gives them power to lay down their demands with governments. Recently NASCO (National Alliance of Sickle Cell Organisations) a patient organisation along with other NGOs and government Institutes and departments has successfully advocated for National Program on the management of SCD. 
 
 ## Challenges in Combating Sickle Cell Disease
 The fight against SCD is filled with challenges. Some key ones include:
 
-### Limited Healthcare Access: 
+#### Limited Healthcare Access: 
 Many rural and underserved areas lack blood, adequate public healthcare facilities and trained public healthcare professionals.
 
-### Financial Burden: 
+#### Financial Burden: 
 High treatment and care costs are a significant barrier for many families. Inadequate and interrupted supply of medicines in the public health system also leads to loose the trust of patients in the system, which ultimately takes them to the private healthcare sector. 
 
-### Lack of Awareness: 
+#### Lack of Awareness: 
 Lack of awareness among the medical community and limited knowledge about SCD leads to delayed diagnosis and inadequate management.
 
-### Social Stigma: 
+#### Social Stigma: 
 Misinformation and misconceptions result in social isolation and discrimination against those with SCD. Incidences of discrimination for marriages are becoming common now in western, & central India. 
 
 ## Role of Avni in SCD Management
