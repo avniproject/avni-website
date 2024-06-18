@@ -10,7 +10,6 @@ featuredimage:
 
 
 
-
 ## Understanding Sickle Cell Disease
 Sickle Cell Disease (SCD) is a severe inherited blood disorder that affects the structure of haemoglobin within red blood cells. Instead of the usual round shape, these cells become crescent or “sickle”-shaped. This abnormal shape leads to blockages in blood vessels, causing intense pain, chronic anaemia, increased risk of infections, reduced growth and adverse effects on many organs like lungs, heart, kidneys, eyes, bones and the brain. 
 Each year, about 300,000 babies are born with SCD globally, with 20,000 cases in India alone. In India’s tribal regions, SCD is prevalent, affecting 1 in 86 tribal births. In remote villages, managing SCD is daunting. Clinics are often hours away, resulting in delayed diagnoses and inadequate treatment.
@@ -37,13 +36,17 @@ NGOs create peer support groups for individuals and families affected by SCD. Th
 ## Challenges in Combating Sickle Cell Disease
 The fight against SCD is filled with challenges. Some key ones include:
 
-### Limited Healthcare Access: Many rural and underserved areas lack blood, adequate public healthcare facilities and trained public healthcare professionals.
+### Limited Healthcare Access: 
+Many rural and underserved areas lack blood, adequate public healthcare facilities and trained public healthcare professionals.
 
-### Financial Burden: High treatment and care costs are a significant barrier for many families. Inadequate and interrupted supply of medicines in the public health system also leads to loose the trust of patients in the system, which ultimately takes them to the private healthcare sector. 
+### Financial Burden: 
+High treatment and care costs are a significant barrier for many families. Inadequate and interrupted supply of medicines in the public health system also leads to loose the trust of patients in the system, which ultimately takes them to the private healthcare sector. 
 
-### Lack of Awareness: Lack of awareness among the medical community and limited knowledge about SCD leads to delayed diagnosis and inadequate management.
+### Lack of Awareness: 
+Lack of awareness among the medical community and limited knowledge about SCD leads to delayed diagnosis and inadequate management.
 
-### Social Stigma: Misinformation and misconceptions result in social isolation and discrimination against those with SCD. Incidences of discrimination for marriages are becoming common now in western, & central India. 
+### Social Stigma: 
+Misinformation and misconceptions result in social isolation and discrimination against those with SCD. Incidences of discrimination for marriages are becoming common now in western, & central India. 
 
 ## Role of Avni in SCD Management
 In managing Sickle Cell Disease (SCD), especially in resource-poor settings, open-source and easy-to-use technology like Avni is transformative by aiding NGOs in several critical areas. Currently, multiple NGOs are using Avni to streamline the workflow to screen the population, their case management and timely follow-ups. Avni facilitates remote patient monitoring, thus reducing the frequency of clinic visits and allowing for continuous oversight of patient health. Additionally, it enhances healthcare delivery efficiency by providing real-time data to healthcare providers, which supports better decision-making and the personalisation of care, ultimately improving patient outcomes.
