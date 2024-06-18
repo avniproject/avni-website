@@ -4,7 +4,7 @@ title: World Sickle Cell Day - Role of NGOs and Open-source
 date: 2024-06-19T20:30:00.000Z
 author: The Avni Team
 description:
-featuredpost: true
+featuredpost: false
 featuredimage: 
 ---
 
