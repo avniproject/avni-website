@@ -8,7 +8,9 @@ featuredpost: false
 featuredimage: 
 ---
 
-
+<div style="width: 50%">
+        <img src="/img/2024-06-18-world-sickle-cell-day/SCD.png">
+</div>
 
 ## Understanding Sickle Cell Disease
 Sickle Cell Disease (SCD) is a severe inherited blood disorder that affects the structure of haemoglobin within red blood cells. Instead of the usual round shape, these cells become crescent or “sickle”-shaped. This abnormal shape leads to blockages in blood vessels, causing intense pain, chronic anaemia, increased risk of infections, reduced growth and adverse effects on many organs like lungs, heart, kidneys, eyes, bones and the brain. 
