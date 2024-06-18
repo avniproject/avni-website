@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: 
 ---
 
-<div style="width: 50%">
+<div style="width: 50%">{.center}
         <img src="/img/2024-06-18-world-sickle-cell-day/SCD.png">
 </div>
 
