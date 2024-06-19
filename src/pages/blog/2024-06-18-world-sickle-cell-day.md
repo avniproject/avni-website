@@ -2,22 +2,25 @@
 templateKey: blog-post
 title: World Sickle Cell Day - Role of NGOs and Open-source
 date: 2024-06-19T20:30:00.000Z
-author: The Avni Team
+author: Parth Halani
 description:
 featuredpost: false
-featuredimage: 
+featuredimage: /img/2024-06-18-world-sickle-cell-day/SCD.png
 ---
 
-<div style="width: 50%"{.center}>
-        <img src="/img/2024-06-18-world-sickle-cell-day/SCD.png">
-</div>
+<img src="/img/2024-06-18-world-sickle-cell-day/SCD.png">
 
 ## Understanding Sickle Cell Disease
 Sickle Cell Disease (SCD) is a severe inherited blood disorder that affects the structure of haemoglobin within red blood cells. Instead of the usual round shape, these cells become crescent or “sickle”-shaped. This abnormal shape leads to blockages in blood vessels, causing intense pain, chronic anaemia, increased risk of infections, reduced growth and adverse effects on many organs like lungs, heart, kidneys, eyes, bones and the brain. 
 Each year, about 300,000 babies are born with SCD globally, with 20,000 cases in India alone. In India’s tribal regions, SCD is prevalent, affecting 1 in 86 tribal births. In remote villages, managing SCD is daunting. Clinics are often hours away, resulting in delayed diagnoses and inadequate treatment.
 
-## Government’s Focus on Sickle Cell Disease
-Agencies worldwide are increasingly recognising the severity of SCD and prioritising efforts to combat it. In India, the government has launched the National Sickle Cell Anaemia Control Program, aiming to reduce the incidence and improve the management of SCD through widespread screening, early diagnosis, and comprehensive care. This program focuses on high-prevalence regions, particularly among tribal populations, and promotes awareness and education to reduce stigma and improve outcomes. In India Prime minister, President and state governors are actively discussing the management of SCD. 
+## Focus on Sickle Cell Disease
+Agencies worldwide are increasingly recognising the severity of SCD and prioritising efforts to combat it.
+
+### World Sickle Cell Day
+In December 2008, the United Nations General Assembly designated June 19th as World Sickle Cell Awareness Day, identifying sickle cell disease as a global health issue. The resolution established this day to address a lack of awareness and improve healthcare access to people affected by the disease. The theme for this year's World Sickle Cell Day is "Hope Through Progress: Advancing Sickle Cell Care Globally". Every year on June 19, countries throughout the world unite to celebrate World Sickle Cell Day. The international awareness day is observed to increase public knowledge of SCD.    
+
+In India, the government has launched the <a href="https://sickle.nhm.gov.in/sickle2.0/home/about" target="_blank" rel="noopener noreferrer">National Sickle Cell Anaemia Control Program</a>, aiming to reduce the incidence and improve the management of SCD through widespread screening, early diagnosis, and comprehensive care. This program focuses on high-prevalence regions, particularly among tribal populations, and promotes awareness and education to reduce stigma and improve outcomes.
 
 
 ## How NGOs Help
@@ -51,8 +54,10 @@ Lack of awareness among the medical community and limited knowledge about SCD le
 Misinformation and misconceptions result in social isolation and discrimination against those with SCD. Incidences of discrimination for marriages are becoming common now in western, & central India. 
 
 ## Role of Avni in SCD Management
-In managing Sickle Cell Disease (SCD), especially in resource-poor settings, open-source and easy-to-use technology like Avni is transformative by aiding NGOs in several critical areas. Currently, multiple NGOs are using Avni to streamline the workflow to screen the population, their case management and timely follow-ups. Avni facilitates remote patient monitoring, thus reducing the frequency of clinic visits and allowing for continuous oversight of patient health. Additionally, it enhances healthcare delivery efficiency by providing real-time data to healthcare providers, which supports better decision-making and the personalisation of care, ultimately improving patient outcomes.
+In managing Sickle Cell Disease (SCD), especially in resource-poor settings, appropriate low-cost technology can play a big role. Avni is transformative by aiding NGOs in several critical areas. Currently, multiple NGOs like <a href="https://www.jssbilaspur.org/" target="_blank" rel="noopener noreferrer">Jan Swasthya Sahyog (Chattisgarh)</a>, <a href="https://iphindia.org/" target="_blank" rel="noopener noreferrer">IPH India (Karnataka)</a>, <a href="https://www.jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=0&CID=4&PID=10002" target="_blank" rel="noopener noreferrer">JSS Medical college Mysuru (Karnataka)</a> and <a href="https://ashwini.org/" target="_blank" rel="noopener noreferrer">ASHWINI,Gudalur</a> are using simple and easy-to-use mobile applications built using Avni's open-source platform to streamline the workflow to screen the population, their case management and timely follow-ups. Avni facilitates remote patient monitoring, thus reducing the frequency of clinic visits and allowing for continuous oversight of patient health. Additionally, it enhances healthcare delivery efficiency by providing real-time data to healthcare providers, which supports better decision-making and the personalisation of care, ultimately improving patient outcomes.
 
-Every year on June 19, countries throughout the world unite to celebrate World Sickle Cell Day. The international awareness day is observed to increase public knowledge of SCD. On this World Sickle Cell Day, we recognise the collective efforts of governments, NGOs, and technology in addressing the challenges of Sickle Cell Disease. By raising awareness, supporting innovative solutions, and advocating for comprehensive care, we can improve the lives of those affected by SCD, ensuring they receive the support and treatment they deserve. Join us in celebrating the progress made and the ongoing commitment to overcoming the barriers posed by SCD.
-
+## Conclusion
+ On this World Sickle Cell Day, we recognise the collective efforts of governments, NGOs, and technology in addressing the challenges of Sickle Cell Disease. By raising awareness, supporting innovative solutions, and advocating for comprehensive care, we can improve the lives of those affected by SCD, ensuring they receive the support and treatment they deserve. Join us in celebrating the progress made and the ongoing commitment to overcoming the barriers posed by SCD.
+<br/>
+<br/>
 
