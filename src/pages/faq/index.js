@@ -37,7 +37,7 @@ export default function Index() {
                     <div className="content">
                         <h4>I want to implement Avni, where should I start from</h4>
                         <p>The getting started page is for this purpose. You can start from there and go through the <ExternalLink href="https://avni.readme.io/docs">documentation</ExternalLink>. The documentation currently is to only
-                            get you started, after which you please contact us on <ExternalLink href="https://gitter.im/OpenCHS/openchs">Gitter channel</ExternalLink> or using
+                            get you started, after which you please contact us on <ExternalLink href="https://join.skype.com/qFCxfcZ8paru">Gitter channel</ExternalLink> or using
                             the Contact us form below.</p>
                     </div>
                     <div className="content">

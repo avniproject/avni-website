@@ -25,14 +25,8 @@ export default function Index() {
                             <h3>Reporting and dashboard capability</h3>
                             <p>
                                 Avni uses metabase for reporting, analytics and dashboards. You can learn more about metabase <ExternalLink
-                                href="https://www.metabase.com/docs/latest/users-guide/start.html">here</ExternalLink> or checkout <a href="/usage-statistics">Avni's
+                                href="https://www.metabase.com/docs/latest/">here</ExternalLink> or checkout <a href="/usage-statistics">Avni's
                                 own dashboard</a> which has been created using metabase.</p>
-
-                            {/*<h3>App designer (under development)</h3>*/}
-                            {/*<p>*/}
-                            {/*App designer is the new feature that will be released soon but is available for preview. This will allow most of the form designing and*/}
-                            {/*data model setup from the browser interface. For this go to <a*/}
-                            {/*href="https://staging.openchs.org">https://staging.openchs.org</a></p>*/}
 
                             <h3>About the demo and login details</h3>
                             <p>See below the logins that you can use in the app. These demos are inspired from real

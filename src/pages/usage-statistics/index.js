@@ -8,7 +8,7 @@ export default function Index() {
       <section className="section">
         <div className="container">
           <iframe
-            src="https://reporting.openchs.org/public/dashboard/de69d6d5-347f-41af-b84a-0967625bee24"
+            src="https://reporting.avniproject.org/public/dashboard/de69d6d5-347f-41af-b84a-0967625bee24"
             frameBorder="0"
             title="Usage statistics"
             width="100%"
