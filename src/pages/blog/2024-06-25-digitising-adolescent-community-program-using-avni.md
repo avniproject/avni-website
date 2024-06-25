@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Digitising Adolescent community program using Avni
-date: 2024-06-11T20:30:00.000Z
+date: 2024-06-25T20:30:00.000Z
 author: The Avni Team
 description:
 featuredpost: false
