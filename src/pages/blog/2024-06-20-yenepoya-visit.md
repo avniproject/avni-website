@@ -10,7 +10,9 @@ featuredimage: /img/yenepoya-visit-20-06-2024/Feature-image.JPG
 
 ## In this blog post, I will share my experience and key insights from my recent visit to Yenepoya Deemed to be University - Mangalore.
 
-Yenepoya University runs an HDSS (Health and Demographic Surveillance System) program and uses the Avni app to collect data and for surveillance. 
+### About HDSS program and DAY 1
+
+Yenepoya University runs an HDSS (Health and Demographic Surveillance System) program and uses the Avni app to collect data and for surveillance.
 
 The project was launched in full scale on 4th January 2021 by Yenepoya and the community medicine department led by Dr. Abhay Nirgude and Dr. Poonam shortly after the pandemic hit.
 
@@ -25,11 +27,11 @@ Simply put, this program aims to identify meaningful trends and patterns from th
 Yenepoya and the community medicine department have a team of 15-20 field workers all of them who have pursued MSW(Masters in Social Work)
 For more information on the course, you can follow this *[link](https://www.shiksha.com/msw-master-of-social-work-chp)*.
 
-![Department of community medicice Yenenpoya medical college and me](/img/yenepoya-visit-20-06-2024/Yenepoya-team.JPG)
+![Department of community medicine Yenenpoya medical college and me](/img/yenepoya-visit-20-06-2024/Yenepoya-team.JPG)
 
 Yenepoya(Field workers) use the Avni app to collect data and conduct surveillance of the entire household.
 
-**Equipment used in field survey**
+### Equipment used in field survey
 
 - The field workers carry a Digital BP apparatus, Weighing machine, Glucometer, Measuring tapes, and other necessary apparatus.
 
@@ -98,7 +100,7 @@ In this session, Dr. Navya helped me and the rest of the field users understand 
 
 ![Session by Dr. Navya](/img/yenepoya-visit-20-06-2024/Continuum-of-care.JPG)
 
-Below are the key aspects/takeaway points from the session.
+**Below are the key aspects/takeaway points from the session.**
 
 1. **Screening of the beneficiaries**
 It involves the initial assessment of beneficiaries to identify potential health issues early. This step is crucial for preventive healthcare, as it allows for the detection of diseases or conditions before symptoms appear. Screening can include various tests and evaluations, such as blood pressure checks, blood tests, and questionnaires about lifestyle and family history.
