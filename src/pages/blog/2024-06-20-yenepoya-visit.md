@@ -75,7 +75,7 @@ Once the data has been collected, using Longitudinal exports(Read more about lon
 
 - Communication - Field staff need to know more than one language to interact with the beneficiaries. 
 
-- Leadership qualities - Field staff try to dominate the conversation with the beneficiaries and bring them back to the main purpose of the visit.
+- Leadership qualities - Field staff try to lead the conversation with the beneficiaries and bring them back to the main purpose of the visit.
 
 - Field users are adamant with beneficiaries and consult/follow up with them again and again for their benefit.
 
