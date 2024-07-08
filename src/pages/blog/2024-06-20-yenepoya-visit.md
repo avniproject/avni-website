@@ -145,6 +145,6 @@ I got to witness first hand on how the users use the application and take readin
 
 - My team, Dr. Abhay and Arjun for making this happen
 
-- *[Jyothika](https://www.linkedin.com/in/jyothika-k-s-186871243/)* and *[Richard](https://www.linkedin.com/in/jyothika-k-s-186871243/)* for being my point of contact throughout my stay.
+- *[Jyothika](https://www.linkedin.com/in/jyothika-k-s-186871243/)* and Richard for being my point of contact throughout my stay and helping me out with any kind of query.
 
 - All the field users for making the Q&A sessions interactive and productive.
