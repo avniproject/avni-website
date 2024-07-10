@@ -48,6 +48,7 @@ export default function Index() {
                             {demoDetails("Community program-Phulwari", "phulwari-user@cpdemo")}
                             {demoDetails("Non Communicable Disease control program", "ncd-user@cpdemo")}
                             {demoDetails("Pregnancy & child nutrition program", "preg-child@cpdemo")}
+                            {demoDetails("Waste management program", "demo@wmdemo")}
                         </div>
                     </div>
                 </div>
