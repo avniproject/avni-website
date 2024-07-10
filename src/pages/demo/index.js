@@ -49,8 +49,6 @@ export default function Index() {
                             {demoDetails("Non Communicable Disease control program", "ncd-user@cpdemo")}
                             {demoDetails("Pregnancy & child nutrition program", "preg-child@cpdemo")}
                             {demoDetails("Waste management program", "demo@wmdemo", "https://reporting.avniproject.org/public/dashboard/14c0f214-d55c-4b3b-8dfa-550d3d969796")}
-                            {demoDetails("Waste management program", "demo@wmdemo", "https://reporting.avniproject.org/public/dashboard/14c0f214-d55c-4b3b-8dfa-550d3d969796", " ")}
-
                         </div>
                     </div>
                 </div>
