@@ -42,13 +42,13 @@ export default function Index() {
                         <div className="content">
                             <h3>Demo login</h3>
                             <hr/>
-                            {demoDetails("Track the progress of silt excavaction from water bodies", "demo@wbd")}
+                            {demoDetails("Track the progress of silt excavation from water bodies", "demo@wbd")}
                             {demoDetails("Social security facilitation", "demo@ssdemo")}
                             {demoDetails("Teacher development program", "demo@teachdemo")}
                             {demoDetails("Community program-Phulwari", "phulwari-user@cpdemo")}
                             {demoDetails("Non Communicable Disease control program", "ncd-user@cpdemo")}
                             {demoDetails("Pregnancy & child nutrition program", "preg-child@cpdemo")}
-                            {demoDetails("Waste management program", "demo@wmdemo")}
+                            {demoDetails("Waste management program", "demo@wmdemo", "https://reporting.avniproject.org/public/dashboard/14c0f214-d55c-4b3b-8dfa-550d3d969796")}
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ export default function Index() {
     )
 }
 
-function demoDetails(title, fieldUser, adminUser, note) {
+function demoDetails(title, fieldUser, reportLink, note) {
     return <>
         <h5>{title}</h5>
         {fieldUser && <>
@@ -69,9 +69,15 @@ function demoDetails(title, fieldUser, adminUser, note) {
                 Password=password
             </div>
         </>}
+        {reportLink && <>
+            <div><b><ExternalLink href={reportLink}>Operational Reports</ExternalLink></b></div>
+        </>}
         {note && <small>
             <i><b>Note</b>: {note}</i>
         </small>}
         <br/>
     </>;
 }
+
+
+
