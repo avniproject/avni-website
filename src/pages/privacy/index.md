@@ -4,7 +4,6 @@ title: Privacy Policy
 ---
 
 
-# Avni - Privacy Policy
 
 **Last updated: 15-July-2024**
 
