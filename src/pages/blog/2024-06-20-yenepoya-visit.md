@@ -35,7 +35,7 @@ Yenepoya(Field workers) use the Avni app to collect data and conduct surveillanc
 
 - The field workers carry a Digital BP apparatus, Weighing machine, Glucometer, Measuring tapes, and other necessary apparatus.
 
-- Before starting to collect the data, the field workers approach the Head of Household, explain the purpose of their visit, and try to convince him/her to cooperate with them to collect the data. The data is collected only after verbal consent is given from the Head of the household.
+- Before starting to collect the data, the field workers approach the Head of Household, explain the purpose of their visit, and try to convince him/her to cooperate with them to collect the data. The data is collected only after written consent is given from the Head of the household and all the individuals.
 
 - Once the consent is given by the HOH, the field workers capture the data using their smartphones in the Avni app.
 
