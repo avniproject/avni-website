@@ -20,7 +20,7 @@ HDSS is a method of comprehensive data collection focusing on the population of 
 
 HDSS plays a crucial role in creating health and demographic databases, monitoring health interventions, and formulating intervention strategies to reduce disease morbidities and mortalities in the population. They provide valuable information on the profile of populations, including sociodemographic variables, disease morbidity and mortality, and risk factors for different health problems.
 
-Additionally, HDSS can be used to study the non-specific effects of vaccines and test potential vaccination programs through intensive follow-up and randomized trials. Overall, HDSS are important tools for understanding population health, identifying health issues, and guiding public health interventions.
+Additionally, HDSS can be used to build demographic surveillance sites for undertaking clinical trials, vaccine trials and longitudinal epidemiological studies. HDSS will provide sampling framework to build population based epidemiological studies. Overall, HDSS are important tools for understanding population health, identifying health issues, and guiding public health interventions.
 
 Simply put, this program aims to identify meaningful trends and patterns from the data that is being collected from the beneficiaries.
 
