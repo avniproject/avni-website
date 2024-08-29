@@ -9,7 +9,7 @@ export default function Index() {
             <br/>
             <div className="container">
                 <div className="columns is-mobile is-multiline">
-                    <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
+                    <div className="column is-10-mobile is-offset-1-mobile">
                         <h1 className="title">Avni Plans</h1>
                         <p>Avni is fully open source, and can be <ExternalLink href="https://avni.readme.io/docs/environment-setup-guides">setup and used for
                             free</ExternalLink>.
@@ -23,6 +23,8 @@ export default function Index() {
                             <li>Security and data backup/recovery are all taken care of</li>
                         </div>
                     </div>
+                </div>
+                <div className="columns is-mobile is-multiline">
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
                             <h1>3 Months Free Trial</h1>
@@ -39,29 +41,6 @@ export default function Index() {
                             </p>
                         </div>
                     </div>
-                </div>
-                <div className="columns is-mobile is-multiline">
-                    <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
-                        <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
-                            <h1>First 50</h1>
-                            <p><i><ExternalLink href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325">25 signed up so
-                                far</ExternalLink></i></p>
-                            <br/>
-                            <li><b>All features</b></li>
-                            <li><b>Flat Rs. 30,000 annually, including tax</b></li>
-                            <li><b>Up to 100 users or 10,000 form submissions per month</b></li>
-                            <li><b>Multiple projects</b></li>
-                            <li><b>Billed one time</b></li>
-                            <li><b>Free 3 months trial (no credit card)</b></li>
-                            <li><b>Community support</b></li>
-                            <br/>
-
-                            <p className="control full-centered">
-                                <a href={`/signup?${Constants.ContactSource}=${Constants.First50}`} className="is-secondary button"><b>SIGN UP</b></a>
-                            </p>
-                        </div>
-                    </div>
-
                     <div className="column is-half-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '2em'}}>
                             <h1>Customised plan</h1>
