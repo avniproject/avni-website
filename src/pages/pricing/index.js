@@ -36,7 +36,7 @@ export default function Index() {
                             </ol>
                             <p className="has-text-weight-semibold">Pricing: Free</p>
                             <p className="control full-centered">
-                                <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="is-secondary button"><b>SIGNUP</b></a>
+                                <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="is-primary button"><b>SIGNUP</b></a>
                             </p>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ export default function Index() {
                             </ol>
                             <p className="has-text-weight-semibold">Pricing: ₹40,000/-</p>
                             <p className="control full-centered">
-                                <a href={`/signup?${Constants.ContactSource}=${Constants.TrainingPlan}`} className="is-secondary button"><b>SIGNUP</b></a>
+                                <a href={`/signup?${Constants.ContactSource}=${Constants.TrainingPlan}`} className="is-primary button"><b>SIGNUP</b></a>
                             </p>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ export default function Index() {
                             </ol>
                             <p className="has-text-weight-semibold">Pricing: Custom Quote</p>
                             <p className="control full-centered">
-                                <a href={`/signup?${Constants.ContactSource}=${Constants.CustomPlan}`} className="is-secondary button"><b>POST ENQUIRY</b></a>
+                                <a href={`/signup?${Constants.ContactSource}=${Constants.CustomPlan}`} className="is-primary button"><b>POST ENQUIRY</b></a>
                             </p>
                         </div>
                     </div>
