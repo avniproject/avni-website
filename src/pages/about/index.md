@@ -17,7 +17,7 @@ title: About the Project
 * <a href="https://circleci.com/gh/avniproject" target="_blank" rel="noopener noreferrer">CI Server and Binary Download (https://circleci.com/gh/avniproject)</a>- requires login
 * <a href="https://play.google.com/store/apps/details?id=com.openchsclient" target="_blank" rel="noopener noreferrer">Android Playstore App</a>
 * <a href="https://docs.google.com/presentation/d/1bExRrIIwMVbQrmETkv8iHxlZQxgXGGGr-kpDQwNdxW0" target="_blank" rel="noopener noreferrer">Product Slide Deck</a>
-* Contact Avni - <mailto:avni-project@googlegroups.com>
+* Contact Avni - <mailto:avnipartnerships@samanvayfoundation.org>
 * Join Avni Google Group by visiting (requires Gmail account) - <https://groups.google.com/forum/#!forum/avni-project>
 * <a href="https://avni.readme.io/v2.0/docs/avni-code-of-conduct" target="_blank" rel="noopener noreferrer">Code of conduct</a>
 * <a href="https://twitter.com/avniproject" target="_blank" rel="noopener noreferrer">Avni on Twitter</a>

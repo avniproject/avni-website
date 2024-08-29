@@ -31,7 +31,7 @@ export default function Index() {
                             Implementation is usually one time activity of configuring application as per your needs on the platform. When you want to start using the
                             application
                             then you will need hosting and perhaps ongoing user support. In order to understand the details of these cost please contact us
-                            avni-project@googlegroups.com - as the cost depends on the complexity of the implementation, number of users and workloads.
+                            avnipartnerships@samanvayfoundation.org - as the cost depends on the complexity of the implementation, number of users and workloads.
                         </p>
                     </div>
                     <div className="content">
