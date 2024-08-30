@@ -126,9 +126,12 @@ export default class Navbar extends React.Component {
                                                     <div className="field is-grouped is-grouped-multiline">
                                                         {/*https://tcampb.github.io/react-calendly/?path=/story/components--popuptext*/}
                                                         <p className="has-text-centered"><a className="navbar-item has-text-weight-bold" href="https://app.avniproject.org">Log in</a></p>
-                                                        <p className="has-text-weight-bold control">
-                                                            <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button">Try for free</a>
-                                                        </p>
+                                                        {location.pathname !== '/pricing' && (
+                                                            <p className="has-text-weight-bold control">
+                                                                <a href={`/pricing`} className="button">Try Avni</a>
+                                                            </p>
+                                                        )
+                                                        }
                                                         <p className="button is-primary" style={{marginRight: 12}}>
                                                             <PopupText
                                                                 text="Schedule a Demo"

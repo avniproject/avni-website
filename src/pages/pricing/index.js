@@ -6,10 +6,8 @@ import ExternalLink from '../../components/ExternalLink';
 export default function Index() {
     return (
         <Layout>
-            <br/>
             <div className="container" style={{paddingLeft: '1em', paddingRight: '1em'}}>
                 <h1 className="title">Avni Pricing</h1>
-                <br/>
                 <p>Avni is fully open source, and can be <ExternalLink
                     href="https://avni.readme.io/docs/environment-setup-guides">setup and used for
                     free</ExternalLink>. The pricing plans here are not for the software, but to cover the human and
@@ -25,7 +23,7 @@ export default function Index() {
                 <div className="columns is-mobile is-multiline">
                     <div className="column is-one-third-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '1em', minHeight: '30em'}}>
-                            <p className="is-size-5 has-text-weight-bold has-text-centered">Self Service App Development</p>
+                            <p className="is-size-5 has-text-weight-bold has-text-centered">Self-Service</p>
                             <ul>
                                 <li>Develop your app and reports yourself</li>
                                 <li>Use online community support channel for support</li>
@@ -33,7 +31,7 @@ export default function Index() {
                             </ul>
                             <p className="has-text-weight-semibold">Pricing: Free</p>
                             <br/>
-                            <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting</p>
+                            <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting (After first month)</p>
                             <ol style={{paddingLeft: '1em', paddingRight: '1em'}}>
                                 <li>Up to 20 users: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
                                 <li>Up to 100 users: <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
@@ -41,21 +39,21 @@ export default function Index() {
                             </ol>
                             <p className="control full-centered">
                                 <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`}
-                                   className="is-primary button"><b>SIGNUP</b></a>
+                                   className="is-primary button"><b>TRY FOR FREE</b></a>
                             </p>
                         </div>
                     </div>
                     <div className="column is-one-third-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '1em', minHeight: '30em'}}>
-                            <p className="is-size-5 has-text-weight-bold has-text-centered">Self Service with Training</p>
+                            <p className="is-size-5 has-text-weight-bold has-text-centered">Assisted Self-Service</p>
                             <ul>
                                 <li>12 hours of Avni low-code platform live training</li>
                                 <li>8 hours of consulting support over the next 1 month</li>
-                                <li>One month of free hosting</li>
+                                <li>One month of free hosting after training</li>
                             </ul>
                             <p className="has-text-weight-semibold">Pricing: ₹40,000/-</p>
                             <br/>
-                            <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting</p>
+                            <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting (After first month)</p>
                             <ol style={{paddingLeft: '1em', paddingRight: '1em'}}>
                                 <li>Up to 20 users: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
                                 <li>Up to 100 users: <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
@@ -69,7 +67,7 @@ export default function Index() {
                     </div>
                     <div className="column is-one-third-tablet is-10-mobile is-offset-1-mobile">
                         <div className="content has-background-grey-lighter" style={{padding: '1em', minHeight: '30em'}}>
-                            <p className="is-size-5 has-text-weight-bold has-text-centered">Fully Serviced Implementation</p>
+                            <p className="is-size-5 has-text-weight-bold has-text-centered">Avni Managed</p>
                             <ul>
                                 <li>We help you build Avni to your needs</li>
                                 <li>We support you in migration from an existing system or integrating to other
@@ -79,7 +77,7 @@ export default function Index() {
                             </ul>
                             <p className="has-text-weight-semibold">Pricing: Custom Quote</p>
                             <br/>
-                            <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting</p>
+                            <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting (After go-live)</p>
                             <ol style={{paddingLeft: '1em', paddingRight: '1em'}}>
                                 <li>Up to 20 users: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
                                 <li>Up to 100 users: <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
@@ -104,8 +102,7 @@ export default function Index() {
                     </li>
                     <li>If your project is simple, you might still want to go through an Avni training to get a good
                         grasp of how to use it to your advantage. We've noticed new users of Avni have trouble using it
-                        directly without some hand-holding. Training is included in the <span className="has-text-weight-semibold">Self Service with
-                            Training</span> option
+                        directly without some hand-holding. Training is included in the <span className="has-text-weight-semibold">Assisted self-service</span> option
                     </li>
                     <li>If your project is complex, or if you don't have someone who is either free or capable of
                         building Avni, then it is best to go with a <span className="has-text-weight-semibold">Fully Serviced Implementation</span></li>
