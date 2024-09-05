@@ -33,8 +33,8 @@ export default function Index() {
                             <br/>
                             <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting (After first month)</p>
                             <ol style={{paddingLeft: '1em', paddingRight: '1em'}}>
-                                <li>Up to 20 users: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
-                                <li>Up to 100 users: <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
+                                <li>Up to 20 users, 5k forms per month: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
+                                <li>Up to 100 users:, 10k forms per month <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
                                 <li>More than 100 users: Custom quote</li>
                             </ol>
                             <p className="control full-centered">
@@ -55,8 +55,8 @@ export default function Index() {
                             <br/>
                             <p className="is-size-6 has-text-weight-bold">Avni Cloud Hosting (After first month)</p>
                             <ol style={{paddingLeft: '1em', paddingRight: '1em'}}>
-                                <li>Up to 20 users: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
-                                <li>Up to 100 users: <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
+                                <li>Up to 20 users, 5k forms per month: <span className="has-text-weight-semibold">₹7,000/- per month</span> (paid upfront annually)</li>
+                                <li>Up to 100 users:, 10k forms per month <span className="has-text-weight-semibold">₹10,000/- per month</span> (paid upfront annually)</li>
                                 <li>More than 100 users: Custom quote</li>
                             </ol>
                             <p className="control full-centered">
