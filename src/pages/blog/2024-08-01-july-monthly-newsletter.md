@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/newsletters/avni-newsletter.png
 ---
 
-### Avni August Newsletter
+### Avni July Newsletter
 
 <a href="https://mailchi.mp/60e8fd7554b9/avni-july-newsletter">
 <img src="/img/newsletters/avni-newsletter.png">
