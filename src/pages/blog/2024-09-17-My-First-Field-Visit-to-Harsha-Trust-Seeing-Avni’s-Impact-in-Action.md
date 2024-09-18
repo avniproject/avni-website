@@ -5,7 +5,7 @@ date: 2024-09-17T20:30:00.000Z
 author: Shubhamita Kanungo
 description:
 featuredpost: true
-featuredimage:
+featuredimage: img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_blog_1.jpeg
 ---
 
 
@@ -15,7 +15,7 @@ In my role as L1 Support for Avni, working with APF’s nutrition programs, I re
 <div style="width: 50%">
     <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_blog_1.jpeg">
 </div>
-**Image name**: *APF and Harsha Team at Nuasahi AWC during a field visit to observe monthly growth monitoring using the Avni app.*
+APF and Harsha Team at Nuasahi AWC during a field visit to observe monthly growth monitoring using the Avni app.
 
 ## About APF and Avni’s Role in Maternity and Child Nutrition
 
@@ -32,7 +32,7 @@ We discussed how the app helps them collect important data like child growth, nu
 <div style="width: 50%">
     <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_Blog_2.png">
 </div>
-**Image name**: *Discussion with QRT users and supervisors about the role of Avni in tracking maternal and child health data.*
+Discussion with QRT users and supervisors about the role of Avni in tracking maternal and child health data.
 
 ## Visiting Villages: Avni in Action
 
@@ -41,7 +41,7 @@ I also had the chance to visit some villages with Poshan Sathi users, who are co
 <div style="width: 50%">
     <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_Blog_3.png">
 </div>
-**Image name**: *Poshan Sathi taking the observation of the height and weight of the beneficiary.*
+Poshan Sathi taking the observation of the height and weight of the beneficiary.
 
 I was truly amazed when I met Belarani Adhikari, a Poshan Sathi user with over 20 years of experience as a health worker. Despite her years of service, she showed a deep interest in learning how to use Avni and was even guiding other users. It was truly inspiring to see her embrace technology with such enthusiasm, proving that there’s no age limit to learning new skills.
 
@@ -50,7 +50,7 @@ She also gave me feedback on how Avni Phase 2 is making her work easier. Hearing
 <div style="width: 50%">
     <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_Blog_4.png">
 </div>
-**Image name**: *A Poshan Sathi user, alongside Belarani Adhikari, demonstrating an ANC (Antenatal Care) visit to fellow community health workers.*
+A Poshan Sathi user, alongside Belarani Adhikari, demonstrating an ANC (Antenatal Care) visit to fellow community health workers.
 
 ## Challenges and Successes
 
@@ -63,7 +63,7 @@ They have also shared with me the list of challenges they face on a daily basis.
 <div style="width: 50%">
     <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_Blog_5.png">
 </div>
-**Image name**: *Users operating Avni without access to the internet.*
+Users operating Avni without access to the internet.
 
 ## The Beauty of Muniguda
 
