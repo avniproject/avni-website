@@ -5,7 +5,7 @@ date: 2024-09-19T20:30:00.000Z
 author: The Avni Team
 description:
 featuredpost: true
-featuredimage: img/2024-09-19-Scaling-Rural-Education/CInI-1.png
+featuredimage: /img/2024-09-19-Scaling-Rural-Education/CInI-1.png
 ---
 
 
@@ -52,7 +52,7 @@ The digital shift brought several benefits to CInI’s education program:
 
 Here are few clips of the CInI program in the Avni app:
 
-<div style="width: 100%">
+<div style="width: 150%">
     <img src="/img/2024-09-19-Scaling-Rural-Education/CInI-3.gif">
 </div>
 
