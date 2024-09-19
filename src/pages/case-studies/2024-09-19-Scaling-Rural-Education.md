@@ -1,6 +1,6 @@
 ---
-templateKey: case-study
-title: Scaling Rural Education: How Schools And Anganwadis Are Building Lifelong Skills Beyond the Classroom
+templateKey: blog-post
+title: Scaling Rural Education - How Schools And Anganwadis Are Building Lifelong Skills Beyond the Classroom
 date: 2024-09-19T20:30:00.000Z
 author: The Avni Team
 description:
