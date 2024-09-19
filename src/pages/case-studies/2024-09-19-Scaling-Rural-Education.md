@@ -12,7 +12,6 @@ featuredimage: img/2024-09-19-Scaling-Rural-Education/CInI-1.png
 In the heart of rural India, education is getting a fresh makeover. It’s not just about reading and writing anymore; it’s about giving children the skills they need for life. The Collectives for Integrated Livelihood Initiatives (CInI), part of Tata Trusts, is leading this change, reaching over 150,000 students in rural and tribal areas in Odisha and Jharkhand. They blend traditional learning with practical experiences to help these children build a brighter future.
 
 
-
 ## CInI’s Vision: Empowering Through Education
 
 CInI, started in 2007, aims to improve the lives of tribal households in Central India. Their education program is unique, combining book learning with hands-on activities. Here’s what they’re doing:
