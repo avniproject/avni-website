@@ -70,7 +70,7 @@ Users operating Avni without access to the internet.
 Apart from the work, I was amazed by the natural beauty of Muniguda. The peaceful surroundings, with green hills and small villages, added to the experience of seeing how the Avni app is helping in such remote areas. It reminded me that even in these quiet places, important work is being done.
 
 <div style="text-align: center;">
-    <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_Blog_6.jpeg" style="width: 50%;">
+    <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_Blog_6.jpeg" width="50%">
 </div>
 
 
