@@ -12,9 +12,10 @@ featuredimage: img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni�
 
 In my role as L1 Support for Avni, working with APF’s nutrition programs, I recently visited Harsha Trust in Muniguda, Odisha. This visit helped me understand how the Avni app is being used at the grassroots level to support community health and nutrition programs, especially for vulnerable populations like children and pregnant women.
 
-<div style="width: 50%">
-    <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_blog_1.jpeg">
+<div style="text-align: center;">
+    <img src="/img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_blog_1.jpeg" alt="Harsha Trust Field Visit">
 </div>
+
 APF and Harsha Team at Nuasahi AWC during a field visit to observe monthly growth monitoring using the Avni app.
 
 ## About APF and Avni’s Role in Maternity and Child Nutrition
