@@ -9,7 +9,7 @@ featuredimage: /img/2024-09-19-Scaling-Rural-Education/CInI-1.png
 ---
 
 
-In the heart of rural India, education is getting a fresh makeover. It’s not just about reading and writing anymore; it’s about giving children the skills they need for life. The Collectives for Integrated Livelihood Initiatives (CInI), part of Tata Trusts, is leading this change, reaching over 150,000 students in rural and tribal areas in Odisha and Jharkhand. They blend traditional learning with practical experiences to help these children build a brighter future.
+In the heart of rural India, education is getting a fresh makeover. It’s not just about reading and writing anymore; it’s about giving children the skills they need for life. The Collectives for Integrated Livelihood Initiatives (CInI), part of Tata Trusts, is leading this change, reaching over 250,000 students in rural and tribal areas in Odisha and Jharkhand. They blend traditional learning with practical experiences to help these children build a brighter future.
 
 <div style="width: 60%">
     <img src="/img/2024-09-19-Scaling-Rural-Education/CInI-1.png">
@@ -19,10 +19,11 @@ In the heart of rural India, education is getting a fresh makeover. It’s not j
 
 CInI, started in 2007, aims to improve the lives of tribal households in Central India. Their education program is unique, combining book learning with hands-on activities. Here’s what they’re doing:
 
-- **Print-Rich Classrooms**: Making classrooms visually engaging and fun.
-- **Kitchen Gardens and Student Parliaments (Balsansads)**: Teaching kids about responsibility and sustainable living.
+- **Systems Strengthening**: Collaborating with departments of Education to establish itself as a resource for community strengthening and Foundational Literacy and Numeracy.
+- **Making School Environments Vibrant**: Making classrooms visually engaging and fun through creating print rich environment, developing kitchen gardens to teach kids about responsibility and sustainable living, engaging children through libraries, and integrating technology.
+- **Academic Enrichment**: Focus on improving Foundational Literacy and Numeracy through academic interventions and teacher support.
+- **Community Engagement**: Involve SMCs, Panchayati Raj Institutions (PRIs) and parents in children’s education and school development through a strong model of engagement. 
 - **Continuous Assessments**: Helping students understand key concepts and find areas where they need more help.
-- **Teacher Training**: Improving the quality of teaching and classroom management.
 
 CInI focuses on timely interventions to continuously improve the classroom environment and overall quality of education. It's amazing to see how these initiatives are shaping a self-sustaining future for these kids!
 
@@ -62,14 +63,14 @@ Here are some key personas using Avni in the field:
 
 - **Field Coordinators**: Responsible for visiting schools and Anganwadis, Field Coordinators use Avni to schedule visits, track progress, and report on any issues or improvements needed.
 - **Cluster Coordinators**: Overseeing several field coordinators, Cluster Coordinators monitor the overall progress of multiple schools and Anganwadis within their designated clusters, ensuring that reports are timely and accurate.
-- **District Coordinators**: At a higher level, District Coordinators manage the education program across several districts. They use Avni to analyse field data, assess overall program performance, and provide strategic input to improve the education initiatives in their region.
+- **State Coordinators**: At a higher level, State Coordinators manage the education program across several districts. They use Avni to analyse field data, assess overall program performance, and provide strategic input to improve the education initiatives in their region.
 
 ## The Journey So Far
 
-As of July 2024, Avni is being used in three districts of Odisha and eight districts of Jharkhand. The platform supports over 2,000 schools, 4,500 school teachers, 490 Anganwadis, and 520 Anganwadi teachers, each of whom is now empowered to capture and act on data like never before.
+As of July 2024, Avni is being used in three districts of Odisha and eight districts of Jharkhand. The platform supports over 2,500 schools, 4,500 school teachers, 490 Anganwadis, and 520 Anganwadi Workers, each of whom is now empowered to capture and act on data like never before.
 
 <div style="width: 50%">
     <img src="/img/2024-09-19-Scaling-Rural-Education/CInI-4.png">
 </div>
 
-CInI and its more than 150 users are working on the ground to elevate the quality of education. By prioritising robust assessments, Academic Enrichment has recorded a 23.2% improvement in language and a remarkable 28% advancement in math in Jharkhand. CInI has successfully set up more than 600 *jhola* libraries in the schools and Anganwadis so far.
+CInI and its more than 150 users are working on the ground to elevate the quality of education. By prioritising robust assessments, Academic Enrichment has recorded an average of 30%  improvement in language and in math. CInI has successfully set up more than 1200 libraries in the schools and Anganwadis so far.
