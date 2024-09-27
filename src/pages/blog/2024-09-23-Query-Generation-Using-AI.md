@@ -23,7 +23,7 @@ Most Avni projects tend to require rich business intelligence (BI) dashboards an
 
 Technically the second step above involves writing complex/large SQL queries and configuring the dashboard, dataset, chart and filters using the SuperSet web application. We have automated the process of generating SQLs from the spreadsheet/csv.
 
-<div style="width: 80%">
+<div style="width: 90%">
     <img src="/img/2024-09-23-Query-Generation-Using-AI/with-ai.png">
 </div>
 <br/>
