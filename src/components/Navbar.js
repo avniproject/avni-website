@@ -135,7 +135,7 @@ export default class Navbar extends React.Component {
                                                         <p className="button is-primary" style={{marginRight: 12}}>
                                                             <PopupText
                                                                 text="Schedule a Demo"
-                                                                url="https://calendly.com/avniproject/discuss-demo"
+                                                                url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
                                                                 styles={{color:'white', fontWeight:'bold'}}
                                                             />
                                                         </p>
