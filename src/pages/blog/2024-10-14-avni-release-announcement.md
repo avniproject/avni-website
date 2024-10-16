@@ -24,7 +24,7 @@ Example: To create a report card that helps you to view all the overdue visits o
 Example: When a subject type filter is configured, you can make the report card dynamically return the list of subjects based on the selected subject types by adding appropriate code.
 
 <div style="width: 70%">
-    <img src="/img/2024-10-14-avni-release-announcement/#1.gif">
+    <img src="/img/2024-10-14-avni-release-announcement/1.gif">
 </div>
 <br/>
 
