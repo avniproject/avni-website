@@ -57,7 +57,7 @@ export default function LandingPageHero() {
                         <p className="button is-primary is-medium" style={{marginTop: 10}}>
                             <PopupText
                                 text="Schedule a Demo"
-                                url="https://calendly.com/avniproject/discuss-demo"
+                                url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
                                 styles={{color: 'white', fontWeight: 'bold'}}
                             />
                         </p>

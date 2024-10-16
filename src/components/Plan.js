@@ -26,7 +26,7 @@ const Plan = ({}) => (
                 <p className="button is-primary is-medium">
                     <PopupText
                         text="Schedule a Demo"
-                        url="https://calendly.com/avniproject/discuss-demo"
+                        url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
                         styles={{color: 'white', fontWeight: 'bold'}}
                     />
                 </p>
