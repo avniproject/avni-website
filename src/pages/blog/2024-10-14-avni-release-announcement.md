@@ -25,7 +25,8 @@ We’ve improved the way you interact with dashboards by enhancing filter option
 Example: To create a report card that helps you to view all the overdue visits of type 'Delivery' for subjects of type 'Beneficiary' enrolled in Pregnancy program, you need not write code. In the App designer, you can simply create a report card of type 'Overdue visits', and select Beneficiary, Pregnancy and Delivery in the Subject type, Program and Encounter type drop-downs respectively.
 
 2) New filters, namely 'Subject Type' and 'As on date' can be configured at dashboard level.
-Example: When a subject type filter is configured, you can make the report card dynamically return the list of subjects based on the selected subject types by adding appropriate code.
+
+**Example:** When a subject type filter is configured, you can make the report card dynamically return the list of subjects based on the selected subject types by adding appropriate code.
 
 <div style="width: 70%">
     <img src="/img/2024-10-14-avni-release-announcement/1.gif">
