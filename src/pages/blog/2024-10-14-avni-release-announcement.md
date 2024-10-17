@@ -43,7 +43,7 @@ We’ve made the CSV upload process more intuitive and user-friendly. Error mess
 **Example:** If there’s an error in your CSV file (like a missing field), the system will now show a more detailed message, helping you correct the issue quickly without guessing what went wrong.
 
 <div style="width: 70%">
-    <img src="/img/2024-10-14-avni-release-announcement/3.mp4">
+    <img src="/img/2024-10-14-avni-release-announcement/3.gif">
 </div>
 <br/>
 
