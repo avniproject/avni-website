@@ -10,6 +10,10 @@ tags:
 - Release announcement
 ---
 
+<div style="width: 70%">
+    <img src="/img/2024-10-14-avni-release-announcement/2.png">
+</div>
+<br/>
 
 We are pleased to announce the release of Avni 10.0, which introduces important enhancements aimed at improving user interaction with dashboards, optimizing the performance of the Data Entry App (DEA), and simplifying the CSV upload process. These updates are designed to enhance efficiency, reduce errors, and streamline data management, particularly for large-scale projects.
 
