@@ -128,7 +128,7 @@ export default class Navbar extends React.Component {
                                                         <p className="has-text-centered"><a className="navbar-item has-text-weight-bold" href="https://app.avniproject.org">Log in</a></p>
                                                         {location.pathname !== '/pricing' && (
                                                             <p className="has-text-weight-bold control">
-                                                                <a href={`/pricing`} className="button">Try Avni</a>
+                                                                <a href={`/signup?${Constants.ContactSource}=${Constants.Trial}`} className="button">Try Avni</a>
                                                             </p>
                                                         )
                                                         }
