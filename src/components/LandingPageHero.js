@@ -53,7 +53,6 @@ export default function LandingPageHero() {
                     {subtitle("Designed to work for all sectors")}
                     {subtitle("Health, Education, Sanitation, Water, Waste, Agriculture, Social Security.")}
                     <div style={{paddingTop: '1rem', flexDirection: 'column', display: 'flex', alignItems: 'center'}}>
-                        <SecondaryCTAButton text="Try Avni" link={`/pricing`}/>
                         <SecondaryCTAButton text="Try for free" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
                         <p className="button is-primary is-medium" style={{marginTop: 10}}>
                             <PopupText
