@@ -9,6 +9,7 @@ module.exports = {
         twitterHandle: '@avniproject',
         author: 'Avni'
     },
+    trailingSlash: `never`,
     plugins: [
         {
             resolve: `gatsby-plugin-google-analytics`,
@@ -95,7 +96,7 @@ module.exports = {
             },
         },
         {
-            resolve: 'gatsby-plugin-netlify-cms',
+            resolve: 'gatsby-plugin-decap-cms',
             options: {
                 modulePath: `${__dirname}/src/cms/cms.js`,
             },
