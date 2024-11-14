@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: From Privilege to Purpose: A Journey into Rural India’s Everyday Struggles
+title: From Privilege to Purpose - A Journey into Rural India’s Everyday Struggles
 date: 2024-11-08T13:00:00.000Z
 author: Maha Lakshme S
 description: something
@@ -17,7 +17,7 @@ A significant focus of Goonj’s efforts is on providing clothing, a priority in
 To track field activities and kit distributions, Goonj uses the Avni platform. Field coordinators photograph the community activities and upload them to Avni for documentation and monitoring.
 
 #### A Day in Torekolammanahall Village:
-![](/img/2024-11-08-from-privilege-to-purpose/common/turbines.jpeg)<pre>Wind turbines in Chitradurga</pre>
+![](/img/2024-11-08-from-privilege-to-purpose/turbines.png)<pre>Wind turbines in Chitradurga</pre>
 
 Torekolammanahall village is situated 50 kms from Chitradurga in Karnataka. We three from Samanvay foundation were accompanied by Vaishali from Goonj to the place where villagers were doing activities on ground. It was scorching hot when we got down that we regretted not bringing hats or sunscreen. We visited three ponds and a canal where villagers using ​​shovel were rejuvenating it up for the below reasons:
 - To recharge groundwater for irrigating nearby lands,
@@ -25,7 +25,7 @@ Torekolammanahall village is situated 50 kms from Chitradurga in Karnataka. We t
 - To prevent snakes from inhabiting the area, and
 - To avail water during the summer season
 
-![](/img/2024-11-08-from-privilege-to-purpose/common/field_work.png)<pre>Community activities</pre>
+![](/img/2024-11-08-from-privilege-to-purpose/field_work.png)<pre>Community activities</pre>
 
 The work in the Torekolammanahall was carried out by around 20 women, while their husbands travelled to nearby villages for work. Pause and consider—what are the hidden privileges we often take for granted?
 
@@ -33,7 +33,7 @@ The work in the Torekolammanahall was carried out by around 20 women, while thei
 Watching these women labour under the hot sun was a striking contrast to seeing the uploaded images of such activities from the comfort of our Bengaluru office. It was a reminder that, while we worry about hats or sunscreen, many people have needs far more fundamental than our conveniences, such as regular access to water.
 These villagers don’t have piped water to their homes, a reality that explains their reliance on ponds. At first glance, the above setup may seem similar to the goals of the MNREGA scheme. However, the benefits of MNREGA have not reached them. The villagers told us that contractors often bring in machines to complete the work, claiming both the work and payment, leaving the villagers without the intended employment opportunities.
 
-![](/img/2024-11-08-from-privilege-to-purpose/common/assembly_of_villagers.jpeg)<pre>Interaction with an assembly of villagers</pre>
+![](/img/2024-11-08-from-privilege-to-purpose/assembly_of_villagers.jpeg)<p align="center">Interaction with an assembly of villagers</p>
 
 ### Stories from the Field: Voices of the Village Women
 After lunch, we had the chance to interact with a group of around 30 women from the village. Vaishali asked if the cloth kits and community projects had been beneficial, and they generally expressed satisfaction. Out of curiosity, we also asked about their general wellness.
@@ -46,4 +46,4 @@ Many questions arose within me during this visit. I felt a writ petition can be 
 Government partnerships with NGOs could be instrumental in this transformation. From what I gathered from Vaishali and other NGOs, the most effective outcomes emerge when district or state authorities engage wholeheartedly with NGOs. However, this level of partnership isn’t always achieved due to various challenges. Given the strengths each entity brings—NGOs with their capacity to innovate and governments with the resources to scale—it’s crucial for both to reflect on what holds these partnerships back and address these issues proactively.
 Thanks to the insightful questions asked by my colleagues and Vaishali, I was able to add all the above discussed details. We returned feeling grateful and privileged, carrying both the memories of the visit and a handful of groundnuts freshly plucked from the fields.
 
-![](/img/2024-11-08-from-privilege-to-purpose/common/taqi_plucking_groundnuts.png)<pre>Taqi plucking groundnuts to take back to Samrasoi(Kitchen in Samanvay)</pre>
+![](/img/2024-11-08-from-privilege-to-purpose/taqi_plucking_groundnuts.png)<pre>Taqi plucking groundnuts to take back to Samrasoi(Kitchen in Samanvay)</pre>
