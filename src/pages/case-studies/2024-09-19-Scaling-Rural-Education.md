@@ -4,7 +4,7 @@ title: Scaling Rural Education - How Schools And Anganwadis Are Building Lifelon
 date: 2024-09-19T20:30:00.000Z
 author: The Avni Team
 description:
-featuredpost: true
+featuredpost: false
 featuredimage: /img/2024-09-19-Scaling-Rural-Education/CInI-1.png
 ---
 

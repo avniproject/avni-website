@@ -4,7 +4,7 @@ title: Avni September 2024 newsletter launched
 date: 2024-10-01T20:30:00.000Z
 author: The Avni Team
 description:
-featuredpost: true
+featuredpost: false
 featuredimage: /img/newsletters/avni-newsletter.png
 ---
 
