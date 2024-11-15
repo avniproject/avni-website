@@ -3,13 +3,13 @@ templateKey: blog-post
 title: From Privilege to Purpose - A Journey into Rural India’s Everyday Struggles
 date: 2024-11-08T13:00:00.000Z
 author: Maha Lakshme S
-description: 
+description: Disclaimer - The suggestions in this blog reflect solely my personal opinions. Avni, Samanvay, and Goonj do not engage in policy recommendations, and the views expressed here are not representative of these organizations.
 
 featuredpost: false
 featuredimage: /img/2024-11-08-from-privilege-to-purpose/turbine.jpeg
 ---
 
-Each field visit reminds me of how much privileged I am, and this one was no exception. Among Goonj's various initiatives, we witnessed one of their impactful community projects.
+Every field visit reminds me of how much privileged I am, and this one was no exception. Among Goonj's various initiatives, we witnessed one of their impactful community projects.
 
 #### Goonj's Community-Driven Development Approach:
 Goonj begins by identifying villages in need, often through local contacts. The villagers themselves decide on the development projects that would benefit their community most—whether it’s creating or rejuvenating ponds, lakes, and rivers, setting up kitchen gardens, laying roads, or other essential improvements. Goonj provides guidance to mobilise the villagers for these tasks using whatever tools they have, with a goal of instilling a sense of ownership. The hope is that communities will maintain these resources over time and, if needed, organise similar activities independently. Each family involved receives a cloth kit—80% clothing and 20% other essentials—as a token of appreciation rather than compensation, since the work is seen as a direct investment in their own wellbeing.
@@ -33,7 +33,7 @@ The work in the Torekolammanahall was carried out by around 20 women, while thei
 
 ### Hidden Privilege: A Closer Look at Rural Inequities
 Watching these women labour under the hot sun was a striking contrast to seeing the uploaded images of such activities from the comfort of our Bengaluru office. It was a reminder that, while we worry about hats or sunscreen, many people have needs far more fundamental than our conveniences, such as regular access to water.
-These villagers don’t have piped water to their homes, a reality that explains their reliance on ponds. At first glance, the above setup may seem similar to the goals of the [MNREGA scheme](https://nrega.nic.in/MGNREGA_new/Nrega_home.aspx). However, the benefits of MNREGA have not reached them. The villagers told us that contractors often bring in machines to complete the work, claiming both the work and payment, leaving the villagers without the intended employment opportunities.
+These villagers don’t have piped water to their homes, a reality that explains their reliance on ponds. At first glance, the above setup may seem similar to the goals of the [MNREGA scheme](https://nrega.nic.in/MGNREGA_new/Nrega_home.aspx). However, the above work was not done under it. The villagers told us that contractors often bring in machines to complete the work, claiming both the work and payment, leaving the villagers without the intended employment opportunities.
 
 ### Stories from the Field: Voices of the Village Women
 
