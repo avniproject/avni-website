@@ -48,9 +48,9 @@ Key features tailored for this implementation included scheduled follow-up visit
 
 ## Self-Servicing Avni
 The program adopted a self-service mode to implement Avni, empowering the local team to operate the platform without depending on external consultants. This approach ensures:
-- Sustainability: Internal capacity-building enables long-term scalability.
-- Local Ownership: Greater accountability and community involvement in implementation.
-- Cost Efficiency: Eliminates the need for costly external implementation teams.
+- **Sustainability:** Internal capacity-building enables long-term scalability.
+- **Local Ownership:** Greater accountability and community involvement in implementation.
+- **Cost Efficiency:** Eliminates the need for costly external implementation teams.
 
 ## Experience of Self-Servicing Avni
 The journey of self-servicing Avni demonstrated how focused training, determined effort, and collaboration can lead to transformative change within a short span and with minimal resources.
@@ -64,7 +64,7 @@ The journey of self-servicing Avni demonstrated how focused training, determined
 This self-service journey underscores the power of localized capacity building and collaboration in accelerating the adoption of digital tools for improving healthcare access. It stands as a testament to what can be achieved through teamwork, strategic support, and a commitment to innovation.
 ## Impact of Using Avni
 Since implementing Avni, the program has achieved remarkable milestones:
-1. **Enhanced Coverage:** Over 1,000 beneficiaries registered within a month, providing access to Health cards that can be used for critical health services.
+1. **Enhanced Coverage:** Over **1,000** beneficiaries registered within a month, providing access to Health cards that can be used for critical health services.
 2. **Timely Follow-Ups:** Automated reminders ensure consistent outreach by the field team, even remotely.
 3. **Data Accuracy:** Digitized records have minimized errors and reduced instances of duplication or fraud.
 4. **Empowered Field Teams:** Local workers are equipped to manage processes independently, improving productivity.
@@ -82,16 +82,18 @@ Rumi , a field supervisor, says:
 Poornima, a panchayat coordinator, shares:
 *"With Avni, health card registration has become so streamlined. I can work offline, edit and track everything—right from eKYC to card distribution. This has reduced our workload significantly."*
 As one Panchayat coordinator shared:
-"Avni has made my work much easier. I can register beneficiaries and ensure they get their health cards on time. "
+*"Avni has made my work much easier. I can register beneficiaries and ensure they get their health cards on time. "*
 
 
 ## Planning for Other Projects
 Building on the initial success of the Health Access Program, we are excited to expand Avni’s application to other critical areas of community development. Future plans include:
-Students’ Progress Tracking: Leveraging Avni to monitor student attendance, academic performance, and overall development, ensuring timely interventions to improve programming-based skilled outcomes.
-Youth Database Creation and Monitoring: Using the platform to build and manage a comprehensive database of youth for skill training and employment programs, enabling better tracking of their progress and matching them with suitable opportunities.
+- **Students’ Progress Tracking:** Leveraging Avni to monitor student attendance, academic performance, and overall development, ensuring timely interventions to improve programming-based skilled outcomes.
+- **Youth Database Creation and Monitoring:** Using the platform to build and manage a comprehensive database of youth for skill training and employment programs, enabling better tracking of their progress and matching them with suitable opportunities.
+
 Avni’s adaptability and customizability makes it an ideal choice for these initiatives, ensuring that it can seamlessly address the unique needs of diverse community-driven programs. By integrating Avni into these projects, we aim to enhance efficiency, accountability, and the impact of our efforts across various sectors.
 
 ## Conclusion
-The digitization of data collection through Avni is transforming healthcare access in Kishanganj, starting with Besarbati Panchayat. By empowering local teams and adopting a self-service approach, the program has laid the foundation for sustainable and scalable healthcare delivery.
+The digitization of data collection through Avni is transforming healthcare access in Kishanganj, starting with **Besarbati Panchayat**. By empowering local teams and adopting a self-service approach, the program has laid the foundation for sustainable and scalable healthcare delivery.
 As Project Potential refines and expands this model, Kishanganj is becoming a beacon for technology-driven, community-led healthcare access. This journey not only enhances healthcare outcomes but also creates a replicable blueprint for other regions of Bihar and India.
-Together, technology and community efforts are bridging healthcare gaps—one digital record at a time.
+
+**Together, technology and community efforts are bridging healthcare gaps—one digital record at a time.**
