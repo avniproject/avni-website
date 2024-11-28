@@ -25,9 +25,6 @@ To overcome these challenges, Project Potential has launched an integrated imple
 - Extending impact to 5,000 beneficiaries in the adjacent Bhatgaon Panchayat.
 1 https://www.indiaspend.com/data-viz/three-charts-on-ayushman-bharats-achievements-and-shortfalls-878004
 
-<div style="width: 60%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/community.jpeg">
-</div>
 
 
 ## Why Digitization is Needed
@@ -35,9 +32,6 @@ In today’s data-driven world, reliable and accessible information is the corne
 
 Digitization transforms these challenges into opportunities by streamlining data collection, ensuring real-time accessibility, and enhancing accuracy. In Kishanganj, one of India’s poorest regions, healthcare gaps are significant, making digital solutions indispensable for bridging the divide between policy and practice. By embracing digitization, we ensure that every eligible beneficiary can access the benefits they are entitled to.
 
-<div style="width: 60%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/work.jpg">
-</div>
 
 
 ## Exploring Tools for Digitization
@@ -72,9 +66,7 @@ The journey of self-servicing Avni demonstrated how focused training, determined
 
 **Community Adaptation:** Transitioning from being trained to training others with limited exposure to digital tools required a strategically planned approach. The platform was piloted and tested multiple times to ensure its reliability. After fine-tuning it to meet the practical needs of program managers, field coordinators, panchayat coordinators, data operators, and ward mobilizers, the platform was ready for field implementation. This step ensured that the system was both relevant and user-friendly, enabling seamless data-driven decision-making.
 
-<div style="width: 60%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/self-service.png">
-</div>
+
 
 
 This self-service journey underscores the power of localized capacity building and collaboration in accelerating the adoption of digital tools for improving healthcare access. It stands as a testament to what can be achieved through teamwork, strategic support, and a commitment to innovation.
@@ -85,9 +77,7 @@ Since implementing Avni, the program has achieved remarkable milestones:
 3. **Data Accuracy:** Digitized records have minimized errors and reduced instances of duplication or fraud.
 4. **Empowered Field Teams:** Local workers are equipped to manage processes independently, improving productivity.
 
-<div style="width: 60%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/impact.png">
-</div>
+
 
 
 ## Impact Story: Changing Lives Through Health Cards
@@ -105,9 +95,6 @@ Poornima, a panchayat coordinator, shares:
 As one Panchayat coordinator shared:
 *"Avni has made my work much easier. I can register beneficiaries and ensure they get their health cards on time. "*
 
-<div style="width: 60%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/testimonials.png">
-</div>
 
 
 ## Planning for Other Projects
