@@ -25,7 +25,9 @@ To overcome these challenges, Project Potential has launched an integrated imple
 - Extending impact to 5,000 beneficiaries in the adjacent Bhatgaon Panchayat.
 1 https://www.indiaspend.com/data-viz/three-charts-on-ayushman-bharats-achievements-and-shortfalls-878004
 
-
+<div style="width: 60%">
+    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/community.jpeg">
+</div>
 
 ## Why Digitization is Needed
 In today’s data-driven world, reliable and accessible information is the cornerstone of effective decision-making—especially in healthcare. The paper-based system along with the limited use of Google Forms, which we were using for tracking healthcare access and beneficiary data, were often prone to errors, duplication, and inefficiency. These limitations resulted in missed opportunities to connect eligible individuals with vital health schemes like Ayushman Bharat Yojana (PMJAY).
