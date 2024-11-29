@@ -102,7 +102,7 @@ As one Panchayat coordinator shared:
 *"Avni has made my work much easier. I can register beneficiaries and ensure they get their health cards on time. "*
 
 <div style="width: 60%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/testimonials.png">
+    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/testimonial.png">
 </div>
 
 ## Planning for Other Projects
