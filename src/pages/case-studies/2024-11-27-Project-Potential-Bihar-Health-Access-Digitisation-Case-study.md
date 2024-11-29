@@ -101,7 +101,9 @@ Poornima, a panchayat coordinator, shares:
 As one Panchayat coordinator shared:
 *"Avni has made my work much easier. I can register beneficiaries and ensure they get their health cards on time. "*
 
-
+<div style="width: 60%">
+    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/testimonials.png">
+</div>
 
 ## Planning for Other Projects
 Building on the initial success of the Health Access Program, we are excited to expand Avni’s application to other critical areas of community development. Future plans include:
