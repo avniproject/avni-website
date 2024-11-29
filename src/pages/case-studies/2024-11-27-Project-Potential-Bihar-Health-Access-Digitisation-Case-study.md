@@ -34,7 +34,9 @@ In today’s data-driven world, reliable and accessible information is the corne
 
 Digitization transforms these challenges into opportunities by streamlining data collection, ensuring real-time accessibility, and enhancing accuracy. In Kishanganj, one of India’s poorest regions, healthcare gaps are significant, making digital solutions indispensable for bridging the divide between policy and practice. By embracing digitization, we ensure that every eligible beneficiary can access the benefits they are entitled to.
 
-
+<div style="width: 60%">
+    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/work.jpg">
+</div>
 
 ## Exploring Tools for Digitization
 Before choosing Avni, we explored other tools for digitization. However, most options were either too rigid to adapt to our needs of working offline or required expensive customization. Avni stood out for its open-source nature, flexibility, and user-friendly design, allowing seamless integration with program requirements.
