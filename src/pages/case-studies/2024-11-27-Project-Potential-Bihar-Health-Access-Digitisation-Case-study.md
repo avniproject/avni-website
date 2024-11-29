@@ -74,7 +74,6 @@ The journey of self-servicing Avni demonstrated how focused training, determined
     <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/self-service.png">
 </div>
 
-
 This self-service journey underscores the power of localized capacity building and collaboration in accelerating the adoption of digital tools for improving healthcare access. It stands as a testament to what can be achieved through teamwork, strategic support, and a commitment to innovation.
 ## Impact of Using Avni
 Since implementing Avni, the program has achieved remarkable milestones:
@@ -83,8 +82,9 @@ Since implementing Avni, the program has achieved remarkable milestones:
 3. **Data Accuracy:** Digitized records have minimized errors and reduced instances of duplication or fraud.
 4. **Empowered Field Teams:** Local workers are equipped to manage processes independently, improving productivity.
 
-
-
+<div style="width: 60%">
+    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/impact.png">
+</div>
 
 ## Impact Story: Changing Lives Through Health Cards
 One such story is of Ram, a 50-year-old resident of Hathiduba village of Besarbati Panchayat. He had been suffering from chronic health issues but could not afford treatment. During a health card registration drive, Ram’s family was registered under PMJAY using Avni. Within weeks, he underwent heart surgery at a hospital in Patna with 2 lakh utilisation from Ayushman card. Today, Ram is healthy and grateful for the access to quality healthcare that was made possible through this initiative. His story is a testament to the life-changing potential of digitised healthcare access.
