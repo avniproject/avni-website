@@ -8,6 +8,10 @@ featuredpost: true
 featuredimage: /img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/featured.jpg
 ---
 
+<div style="width: 100%">
+    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/community.jpeg">
+</div>
+
 ## About Project Potential
 [Project Potential](https://www.projectpotential.org/), based in Kishanganj, Bihar, was founded in 2014 with a vision to end poverty sustainably and inclusively in India’s poorest districts. The organization envisions enabling intergenerational social mobility by addressing systemic challenges in health, education, and employment.
 To achieve its goals, Project Potential has actively worked to empower youth through skill development, employment opportunities, and solving critical community issues. Over the years, their efforts have created an impact on more than **7.5 lakh people**, transforming lives through innovative and community-driven solutions.
@@ -25,9 +29,6 @@ To overcome these challenges, Project Potential has launched an integrated imple
 - Extending impact to 5,000 beneficiaries in the adjacent Bhatgaon Panchayat.
 1 https://www.indiaspend.com/data-viz/three-charts-on-ayushman-bharats-achievements-and-shortfalls-878004
 
-<div style="width: 100%">
-    <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/community.jpeg">
-</div>
 
 ## Why Digitization is Needed
 In today’s data-driven world, reliable and accessible information is the cornerstone of effective decision-making—especially in healthcare. The paper-based system along with the limited use of Google Forms, which we were using for tracking healthcare access and beneficiary data, were often prone to errors, duplication, and inefficiency. These limitations resulted in missed opportunities to connect eligible individuals with vital health schemes like Ayushman Bharat Yojana (PMJAY).
@@ -89,7 +90,7 @@ Since implementing Avni, the program has achieved remarkable milestones:
 ## Impact Story: Changing Lives Through Health Cards
 One such story is of Ram, a 50-year-old resident of Hathiduba village of Besarbati Panchayat. He had been suffering from chronic health issues but could not afford treatment. During a health card registration drive, Ram’s family was registered under PMJAY using Avni. Within weeks, he underwent heart surgery at a hospital in Patna with 2 lakh utilisation from Ayushman card. Today, Ram is healthy and grateful for the access to quality healthcare that was made possible through this initiative. His story is a testament to the life-changing potential of digitised healthcare access.
 
-## Testimonials from the Ground
+## What users are saying
 Rumi , a field supervisor, says:
 *With Avni app data can be collected in both online and offline modes which helps in continuing work in remote areas where there is limited or no internet connectivity.It is available in both Hindi and English which makes work easier for the on-field team.*
 
