@@ -34,6 +34,8 @@ module.exports = {
                 // sampleRate: 5,
                 // siteSpeedSampleRate: 10,
                 // cookieDomain: "example.com",
+                defer: true,
+                enableWebVitalsTracking: true
             },
         },
         'gatsby-plugin-react-helmet',
