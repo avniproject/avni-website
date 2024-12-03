@@ -104,6 +104,23 @@ module.exports = {
             resolve: `gatsby-plugin-typography`,
             options: {
                 pathToConfigModule: `src/utils/typography`,
+                omitGoogleFont: true
+            },
+        },
+        {
+            resolve: `gatsby-plugin-prefetch-google-fonts`,
+            options: {
+                fonts: [
+                    {
+                        family: `Muli`,
+                        styles: [
+                            '900',
+                            '900i',
+                            '400',
+                            '200',
+                        ]
+                    },
+                ],
             },
         },
         {
