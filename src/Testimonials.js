@@ -13,7 +13,7 @@ const Testimonials = () => (
         </div>
         <br/>
         <div style={{alignItems: 'center', flexDirection: 'row', display: 'flex', justifyContent: "center", flexWrap: "wrap"}}>
-            <div><img src={NoahImage} width="230px"/></div>
+            <div><img loading="lazy" src={NoahImage} width="230px"/></div>
             <div style={{maxWidth: "650px", padding: 15}}>
                 <div><h4><i>Earlier our health workers used to bring their paper records to the MIS data entry person. Now with Avni - our health workers manage the data in the
                     field, make monthly data presentation themselves, and have gained even more respect in the community. We have seen transformational empowerment. Our health workers
@@ -27,12 +27,12 @@ const Testimonials = () => (
         </div>
         <br/>
         <div style={{alignItems: 'center', flexDirection: 'row', display: 'flex', justifyContent: "center", flexWrap: "wrap"}}>
-            <div><img src={ShobhabenImage} width="275px"/></div>
+            <div><img loading="lazy" src={ShobhabenImage} width="275px"/></div>
             <div style={{maxWidth: "600px", padding: 25}}>
                 <div><h4><i>Our adolescent program data used to sit in registers and excel. Because of Avni analytics, we uncovered vulnerable adolescents having different problems. Somewhere high-risk behaviour, while others with high levels of anaemia, much poorer menstrual hygiene practices, sickle cell disease, skin diseases, and so on. Avni has helped us address the most pressing problems of our clients. Our supervisors are now able to schedule their fieldwork more effectively.</i></h4></div>
                 <div><b>Dr Shobha Shah and Maitri Vayeda, <ExternalLink text="Sewa Rural" href="https://sewarural.org/"/></b></div>
             </div>
-            <div><img src={MaitriImage} width="275px"/></div>
+            <div><img loading="lazy" src={MaitriImage} width="275px"/></div>
         </div>
     </div>
 );

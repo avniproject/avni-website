@@ -16,20 +16,20 @@ const Authority = ({}) => (
             <div id="avni-customers" className="columns is-mobile is-multiline"
                  style={{alignItems: 'center', flexDirection: 'row', display: 'flex', justifyContent: 'center'}}>
                 <div className="column is-4-tablet is-one-third-mobile" style={{marginTop: '-0.4em'}}>
-                    <img src={unicef_logo} alt="UNICEF"/>
+                    <img loading="lazy" src={unicef_logo} alt="UNICEF"/>
                 </div>
                 <div className="column is-4-tablet is-one-third-mobile">
-                    <img src={sewa_rural_logo} alt="Sewa Rural"/>
+                    <img loading="lazy" src={sewa_rural_logo} alt="Sewa Rural"/>
                     <h5 className="has-text-grey has-text-weight-bold">Sewa Rural</h5>
                 </div>
                 <div className="column is-4-tablet is-one-third-mobile">
-                    <img src={ihmp_logo} alt="Institute of Health Management, Pachod"/>
+                    <img loading="lazy" src={ihmp_logo} alt="Institute of Health Management, Pachod"/>
                 </div>
                 <div className="column is-4-tablet is-one-third-mobile">
-                    <img src={yenepoya_logo} alt="Yenepoya University"/>
+                    <img loading="lazy" src={yenepoya_logo} alt="Yenepoya University"/>
                 </div>
                 <div className="column is-4-tablet is-one-third-mobile">
-                    <img src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur"/>
+                    <img loading="lazy" src={jss_logo} alt="Jan Swasthya Sahyog, Bilaspur"/>
                 </div>
             </div>
         </div>
