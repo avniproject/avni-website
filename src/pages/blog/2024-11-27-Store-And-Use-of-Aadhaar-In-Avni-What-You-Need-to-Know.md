@@ -6,12 +6,14 @@ author: Arjun Khandelwal & Vinay Venu
 description: 
 
 featuredpost: false
-featuredimage: /img/2024-11-08-from-privilege-to-purpose/turbine.jpeg
+featuredimage: /img/2024-11-27-Aadhaar-what-you-need-to-know/Aadhaar_blog.png
 ---
 
 ## Context
 
-In recent years, the question of storing Aadhaar numbers has come up frequently from our customers. Given the **sensitive nature** of Aadhaar data and the **legal implications** of storing it, we took this as an opportunity to learn more about the topic to guide our approach. We share our learnings with you. 
+In recent years, the question of storing Aadhaar numbers has come up frequently from our customers. Given the **sensitive nature** of Aadhaar data and the **legal implications** of storing it, we took this as an opportunity to learn more about the topic to guide our approach. We share our learnings with you.
+
+![](/img/2024-11-27-Aadhaar-what-you-need-to-know/Aadhaar_blog.png)
 
 ## What is Aadhaar
 
@@ -76,6 +78,8 @@ Based on the regulatory requirements and features Avni provides, we recommend th
 - **Explore creative ways** like storing only the last 4 digits   
 - When possible, **use alternative identifiers**, such as program-specific IDs, to avoid the need for Aadhaar  
 - Feel free to store images of the Aadhaar card if you have taken consent based on the guidelines prescribed. A more secure way would be to store images of **masked Aadhaar** where the first 8 digits are hidden or replaced by xxxx-xxxx. UIDAI provides an option to choose masked Aadhaar when downloading it.
+
+![](/img/2024-11-27-Aadhaar-what-you-need-to-know/masked_aadhaar.jpeg)
 
 
 ## Summary
