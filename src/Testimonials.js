@@ -1,7 +1,7 @@
-import NoahImage from './img/testimonials/noah.jpg';
+import NoahImage from './img/testimonials/noah.webp';
 import ExternalLink from './components/ExternalLink';
-import ShobhabenImage from './img/testimonials/shobhaben.png';
-import MaitriImage from './img/testimonials/maitri.png';
+import ShobhabenImage from './img/testimonials/shobhaben.webp';
+import MaitriImage from './img/testimonials/maitri.webp';
 import React from 'react';
 
 const Testimonials = () => (

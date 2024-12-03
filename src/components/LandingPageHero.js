@@ -22,10 +22,10 @@ let subtitle = function (text) {
 export default function LandingPageHero() {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "cover.png" }) {
+      file(relativePath: { eq: "cover.webp" }) {
         childImageSharp {
           fluid {
-            ...GatsbyImageSharpFluid_tracedSVG
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }

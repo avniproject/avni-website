@@ -1,6 +1,6 @@
 import React from 'react';
 import unicef_logo from '../img/unicef-logo.png';
-import jss_logo from '../img/jss-logo.png';
+import jss_logo from '../img/jss-logo.webp';
 import ihmp_logo from '../img/ihmp-logo.png';
 import yenepoya_logo from '../img/yenepoya.png';
 import sewa_rural_logo from '../img/authority/sewa-rural.jpeg';
