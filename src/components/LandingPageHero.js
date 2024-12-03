@@ -25,7 +25,7 @@ export default function LandingPageHero() {
       file(relativePath: { eq: "cover.webp" }) {
         childImageSharp {
           fluid {
-            ...GatsbyImageSharpFluid_withWebp
+            ...GatsbyImageSharpFluid_withWebp_tracedSVG
           }
         }
       }
