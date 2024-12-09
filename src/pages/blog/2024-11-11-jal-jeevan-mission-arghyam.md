@@ -9,8 +9,9 @@ featuredimage: /img/2024-11-11-jal-jeevan-mission-arghyam/1.webp
 tags:
 ---
 
-# Jal Jeevan Mission – Arghyam  
-**Nov 2024**
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/1.webp">
+</div>
 
 <div style="width: 100%">
     <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/2.webp">
