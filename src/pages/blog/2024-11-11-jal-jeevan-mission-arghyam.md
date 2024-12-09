@@ -5,12 +5,16 @@ date: 2024-11-11T19:35:00.000Z
 author: Siddhant Singh, Project Tech4Dev
 description:
 featuredpost: false
-featuredimage: 
+featuredimage: /img/2024-11-11-jal-jeevan-mission-arghyam/1.webp
 tags:
 ---
 
 # Jal Jeevan Mission – Arghyam  
 **Nov 2024**
+
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/2.webp">
+</div>
 
 The Jal Jeevan Mission (JJM), launched by the Government of India in 2019, aims to provide safe and adequate drinking water through individual household tap connections to every rural household by 2024. At its inception, only 3.23 crore (17%) rural households had tap water connections, but the mission has set an ambitious goal of adding nearly 16 crore additional households, benefiting over 19 crore rural families. As of August 2024, JJM has achieved significant progress, providing tap water connections to 11.82 crore more rural households, raising total coverage to over 15.07 crore households, or 77.98% of all rural households. The mission emphasizes a community-based approach, encouraging local ownership through contributions of cash, kind, or labor (shramdaan) and prioritizes sustainable water supply systems, infrastructure functionality, and resource maintenance. Additionally, it focuses on developing skilled human resources in construction, plumbing, water quality management, and catchment protection, creating a lasting impact on health, quality of life, and rural empowerment.
 
@@ -85,3 +89,70 @@ In Bihar, Avni has been rolled out by Arghyam partner agency **Aga Khan Rural Su
 - Biological parameter: Bacteriological contamination  
 **Frequency:** As per the testing schedule  
 **Importance:** Provides critical data on water safety, enabling quick responses to contamination issues and ensuring compliance with health standards.  
+Each form in the Avni app thus plays a key role in PWS functionality, supporting both operational tracking and community engagement for a sustainable and safe water supply system.
+
+As of now, Anuarakshaks have used Avni in 3 blocks of Muzaffarpur and efforts are on to take it to 7 districts and 8 blocks. Also, simultaneous efforts are being made to influence the government by advocating its utility and relevance through trusted data generation and improved visibility made available through the Anuarakshak dashboard. 
+
+### mGramSeva:
+
+mGramseva is a portal developed by the eGovernment Foundation for managing income and expenditure at the PWS level digitally. Through its partners, Arghyam has rolled out mGramseva to 3 blocks of the Muzaffarpur district of Bihar, and efforts are being made to scale this to 10 blocks across 7 districts of Bihar.
+
+mGramSeva allows Anurakshaks to track the financial management of the  water connections in their area of coverage, the consumers for these connections, and these consumers’ billing and payment histories. It also helps them track the expenses they incurred on the operation and maintenance of the pipe water supply system such as remuneration to pump operator, plumbing cost , consumables for FTK /water testing , repair cost , electricity bill etc . 
+
+**Engagement with DALGO on developing Integrated Dashboard:-**Arghyam has partnered with DALGO to develop an integrated dashboard from PWS physical and financial performance by pulling data from the both apps. The team has already developed unified Avni and mGramSeva dashboards. The final step remaining is to integrate these dashboards into the mGramSeva application.
+
+## Dalgo Adoption
+
+### Challenges Before
+
+1. **Problem with Consolidation and Visualization:** The key challenge was consolidating and visualizing data from Avni and mGramSeva into a unified dashboard for Anurakshaks. Although there was a silo dashboard for AVNI in the metabase but that doesn’t give a unified dashboard across two sources. 
+
+2. **Unique Access Requirement:** Each Anurakshak requires a unique URL for personalized access, allowing them to view only their own dashboard and this needs to integrate with mGramSeva users to see their dashboard.
+mGramSeva will help them with unique username in the url parameters to map it with their logins. 
+
+3. **Power BI Licensing Cost:** Power BI proved to be cost-prohibitive for multiple users accessing the visualization, making it infeasible for this use case.
+
+### Solution
+
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/3.png">
+</div>
+
+1. **Data Integration:** We leveraged Dalgo to integrate data from multiple sources, including Avni and mGramSeva, streamlining data management.
+2. **Custom Connector:** Developed an in-house connector for mGramSeva, a unique feature that’s hard to find in other tools, enhancing our system’s versatility.
+3. **Unique URL Solution:** Addressed the multiple unique URL issue, which you can read more about [here], ensuring smoother navigation and access.
+4. **Scalable User Onboarding:** Using open-source versions of Superset allows us to onboard an unlimited number of users, with hosting on AWS as our only cost.
+
+
+## Superset Visualization
+With the help of a unique URL an Anurakshak can see their activities. 
+
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/4.png">
+</div>
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/5.png">
+</div>
+
+## Monitoring Pipeline
+User can check the status of their data pipeline here  
+Sync is running on the daily basis for avni and weekly for mGramSeva and if something fails users can receive a discord notification and an email notification on the failures. 
+
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/6.png">
+</div>
+
+## Data Quality Tests
+We have written a few test cases which can identify data problems in your data. Like not null, unique columns, and type checks for the column. 
+If something fails with the test cases you’ll be notified by the yellow line which you can see above.
+
+<div style="width: 100%">
+    <img src="/img/2024-11-11-jal-jeevan-mission-arghyam/7.png">
+</div>
+
+## Conclusion 
+Keeping in mind the Arghyam strategy of leveraging the power of technology as an enabler and working on scale, we are trying to establish a sustainable PWS operation and maintenance model, which is amenable to govt and replicable and scalable through their system.
+
+Integrated dashboard of both these digital tools Avni & mGramseva try to address quite critical aspects of PWS operation and management by ensuring trusted data generation through the participation of frontline workers which could be utilised to improve decision making to strengthen the system for better accountability and transparency. For the frontline, this dashboard helps them to understand their performance by looking at one single dashboard that is readily available, sharable and retrievable and is not prone to physical damage to be misplaced or lost which are the main challenges they face while maintaining physical records.
+
+
