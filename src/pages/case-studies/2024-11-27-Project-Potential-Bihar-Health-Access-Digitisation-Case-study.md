@@ -19,14 +19,16 @@ To achieve its goals, Project Potential has actively worked to empower youth thr
 ## About the Health Access Program
 Every year, an estimated **6.3 crore Indians** fall below the poverty line due to high healthcare costs<sup>1</sup>, despite government programs like universal health insurance and maternal support schemes.
 In Bihar, **36% of the population** faces multidimensional poverty, struggling with inadequate healthcare, poor education, and low living standards. This translates to a staggering population of over **4 crore** people in need of urgent interventions.
-To address the financial burden of healthcare, the Government of India introduced the **Pradhan Mantri Jan Arogya Yojana (PMJAY)**, providing health coverage of ₹5,00,000 per family per year for secondary and tertiary care. Despite its benefits, the lack of awareness and infrastructure has hindered many eligible individuals from registering for this life-changing scheme.
-To overcome these challenges, Project Potential has launched an integrated implementation system aimed at increasing access to health schemes like Ayushman Bharat Yojana (PMJAY) across the Kishanganj district. Starting with Thakurganj, Pothia, and Bahadurganj blocks, the project focuses on awareness campaigns and end-to-end processes, from registration to card distribution.
+To address the financial burden of healthcare, the Government of India introduced the **Pradhan Mantri Jan Arogya Yojana (PMJAY)**, providing health coverage of **₹5,00,000 per family per year** for secondary and tertiary care. Despite its benefits, the lack of awareness and infrastructure has hindered many eligible individuals from registering for this life-changing scheme.
+
+To overcome these challenges, Project Potential has launched an integrated implementation system aimed at increasing access to health schemes like **Ayushman Bharat Yojana (PMJAY)** across the Kishanganj district. Starting with **Thakurganj, Pothia, and Bahadurganj** blocks, the project focuses on awareness campaigns and end-to-end processes, from registration to card distribution.
 
 ### Key Achievements:
-- Access to health cards has been provided to over 20,000 beneficiaries so far.
+- Access to health cards has been provided to over **20,000 beneficiaries** so far.
 ### Goals and Targets:
 - Building a PMJAY model panchayat in Besarbati (Thakurganj Block), targeting 100% health card enrollment for over 10,000 eligible beneficiaries providing benefits worth over Rs 100 crores.
 - Extending impact to 5,000 beneficiaries in the adjacent Bhatgaon Panchayat.
+
 1 https://www.indiaspend.com/data-viz/three-charts-on-ayushman-bharats-achievements-and-shortfalls-878004
 
 
@@ -41,23 +43,19 @@ Digitization transforms these challenges into opportunities by streamlining data
 
 ## Exploring Tools for Digitization
 Before choosing Avni, we explored other tools for digitization. However, most options were either too rigid to adapt to our needs of working offline or required expensive customization. Avni stood out for its open-source nature, flexibility, and user-friendly design, allowing seamless integration with program requirements.
-Digitisation using Avni
-Central to the program’s success is the Avni platform, an open-source mobile application tailored to community health initiatives. This tool revolutionises healthcare delivery by enabling:
-- Efficient beneficiary registration.
-- Tracking of beneficiaries and follow-ups.
-- Real-time, digitized data collection, replacing cumbersome paper records.
-By leveraging Avni, Project Potential ensures no beneficiary is left behind, whether during health card creation camps, household visits, or awareness campaigns. This digital transformation is reshaping healthcare access in Kishanganj.
 
 ## Why Avni?
-The Avni platform was selected for its flexibility, scalability, and ease of use. Key reasons include:
-Customizability for Local Needs: Seamlessly integrates with processes like PMJAY’s eKYC, tracking card printing, and ensuring card distribution to beneficiaries.
-Offline Functionality: Ensures uninterrupted data collection even in areas with limited internet access.
-Data Analytics: Provides actionable insights to identify healthcare gaps and prioritize interventions effectively.
-Multilingual Support: Avni’s availability in Hindi and English makes it accessible to on-ground teams, facilitating smooth operations.
-Key features tailored for this implementation included scheduled follow-up visits to beneficiaries’ households with reminders, offline report cards and longitudinal reports to track the progress at the individual field coordinators’ level, and customized  dashboards using the integrated metabase platform for tracking the program’s progress
+The Avni platform was selected for its open-source platform, flexibility, scalability, and ease of use. Key reasons include:
+
+1. **Customizability for Local Needs:** Seamlessly integrates with processes like PMJAY’s eKYC, tracking card printing, and ensuring card distribution to beneficiaries.
+2. **Offline Functionality:** Ensures uninterrupted data collection even in areas with limited internet access.
+3. **Data Analytics:** Provides actionable insights to identify healthcare gaps and prioritize interventions effectively.
+4. **Multilingual Support:** Avni’s availability in Hindi and English makes it accessible to on-ground teams, facilitating smooth operations.
+
+Key features tailored for this implementation included scheduled follow-up visits to beneficiaries, households with reminders, offline report cards and longitudinal reports to track the progress at the individual field coordinators’ level, and customized  dashboards using the integrated metabase platform for tracking the program’s progress
 
 ## Self-Servicing Avni
-The program adopted a self-service mode to implement Avni, empowering the local team to operate the platform without depending on external consultants. This approach ensures:
+We adopted a self-service mode to implement Avni, **empowering** us to operate the platform without depending on external consultants. This approach ensures:
 - **Sustainability:** Internal capacity-building enables long-term scalability.
 - **Local Ownership:** Greater accountability and community involvement in implementation.
 - **Cost Efficiency:** Eliminates the need for costly external implementation teams.
@@ -71,12 +69,21 @@ The journey of self-servicing Avni demonstrated how focused training, determined
 
 **Community Adaptation:** Transitioning from being trained to training others with limited exposure to digital tools required a strategically planned approach. The platform was piloted and tested multiple times to ensure its reliability. After fine-tuning it to meet the practical needs of program managers, field coordinators, panchayat coordinators, data operators, and ward mobilizers, the platform was ready for field implementation. This step ensured that the system was both relevant and user-friendly, enabling seamless data-driven decision-making.
 
+
 <div style="width: 100%">
     <img src="/img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/self-service.png">
 </div>
+<br/>
+<span style="color:#ff470f">This self-service journey underscores the power of localized capacity building and collaboration in accelerating the adoption of digital tools for improving healthcare access. It stands as a testament to what can be achieved through teamwork, strategic support, and a commitment to innovation.</span>
 
-This self-service journey underscores the power of localized capacity building and collaboration in accelerating the adoption of digital tools for improving healthcare access. It stands as a testament to what can be achieved through teamwork, strategic support, and a commitment to innovation.
-## Impact of Using Avni
+## Digitisation using Avni and it's impact
+Central to the program’s success is the Avni platform, an open-source mobile application tailored to community health initiatives. It enables:
+- Efficient beneficiary registration.
+- Tracking of beneficiaries and follow-ups.
+- Real-time, digitized data collection, replacing cumbersome paper records.
+
+By leveraging Avni, Project Potential ensures no beneficiary is left behind, whether during health card creation camps, household visits, or awareness campaigns. This digital transformation is reshaping healthcare access in Kishanganj.
+
 Since implementing Avni, the program has achieved remarkable milestones:
 1. **Enhanced Coverage:** Over **1,000** beneficiaries registered within a month, providing access to Health cards that can be used for critical health services.
 2. **Timely Follow-Ups:** Automated reminders ensure consistent outreach by the field team, even remotely.
@@ -92,14 +99,17 @@ One such story is of Ram, a 50-year-old resident of Hathiduba village of Besarba
 
 ## What users are saying
 Rumi , a field supervisor, says:
-*With Avni app data can be collected in both online and offline modes which helps in continuing work in remote areas where there is limited or no internet connectivity.It is available in both Hindi and English which makes work easier for the on-field team.*
 
 *अवनी ऐप की मदद से हम ऑनलाइन और ऑफलाइन दोनों तरीकों से डेटा कलेक्ट कर सकते हैं। यह उन क्षेत्रों में बहुत मददगार है जहाँ इंटरनेट कनेक्टिविटी नहीं है। हिंदी और अंग्रेज़ी दोनों में उपलब्ध होने से हमारी टीम का काम बहुत आसान हो गया है*
 
+Translated in English : *With Avni app data can be collected in both online and offline modes which helps in continuing work in remote areas where there is limited or no internet connectivity. It is available in both Hindi and English which makes work easier for the on-field team.*
 
 Poornima, a panchayat coordinator, shares:
+
 *"With Avni, health card registration has become so streamlined. I can work offline, edit and track everything—right from eKYC to card distribution. This has reduced our workload significantly."*
-As one Panchayat coordinator shared:
+
+Another Panchayat coordinator shares:
+
 *"Avni has made my work much easier. I can register beneficiaries and ensure they get their health cards on time. "*
 
 <div style="width: 100%">
@@ -118,3 +128,5 @@ The digitization of data collection through Avni is transforming healthcare acce
 As Project Potential refines and expands this model, Kishanganj is becoming a beacon for technology-driven, community-led healthcare access. This journey not only enhances healthcare outcomes but also creates a replicable blueprint for other regions of Bihar and India.
 
 **Together, technology and community efforts are bridging healthcare gaps—one digital record at a time.**
+
+_About the Author : [A Ashok Kumar](https://www.linkedin.com/in/a-ashok-kumar/), Associate Director - Program Strategy & Operations, Project Potential, is passionate about creating meaningful impact in healthcare, youth development, and leadership. With a strong focus on improving Monitoring and Evaluation (M&E) systems, he is committed to driving scalable and sustainable change in underserved communities._

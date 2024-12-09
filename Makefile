@@ -4,3 +4,6 @@ start:
 
 deps:
 	npm i
+
+clean:
+	rm -rf node_modules

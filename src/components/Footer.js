@@ -20,27 +20,27 @@ const Footer = class extends React.Component {
 
                 <div className="has-text-centered">
                     <ExternalLink href="https://github.com/avniproject">
-                        <img alt="GitHub" src={GitHubLogo} style={{height: 48, width: 48}}/>
+                        <img loading="lazy" alt="GitHub" src={GitHubLogo} style={{height: 48, width: 48}}/>
                     </ExternalLink>
                     {/*<ExternalLink href="https://twitter.com/avniproject">*/}
                     {/*    <img alt="Twitter" src={TwitterLogo} style={{marginLeft: 10, height: 48, width: 48}}/>*/}
                     {/*</ExternalLink>*/}
                     <ExternalLink href="https://www.youtube.com/channel/UCShsfKJlw0B3B6Pg2DmQkSQ">
-                        <img alt="YouTube" src={YouTubeLogo} style={{height: 48, width: 67, marginLeft: 10}}/>
+                        <img loading="lazy" alt="YouTube" src={YouTubeLogo} style={{height: 48, width: 67, marginLeft: 10}}/>
                     </ExternalLink>
                     <ExternalLink href="https://play.google.com/store/apps/details?id=com.openchsclient">
-                        <img alt="Play Store" src={PlayStoreLogo} style={{height: 48, width: 48, marginLeft: 10}}/>
+                        <img loading="lazy" alt="Play Store" src={PlayStoreLogo} style={{height: 48, width: 48, marginLeft: 10}}/>
                     </ExternalLink>
                     <ExternalLink href="https://www.linkedin.com/showcase/avniproject">
-                        <img alt="LinkedIn" src={LinkedinIcon} style={{height: 48, width: 48, marginLeft: 10}}/>
+                        <img loading="lazy" alt="LinkedIn" src={LinkedinIcon} style={{height: 48, width: 48, marginLeft: 10}}/>
                     </ExternalLink>
                 </div>
                 <div className="has-text-left">
                     <ExternalLink href="https://www.netlify.com">
-                        <img alt="Netlify" src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style={{height: 40, marginLeft: 10, marginTop: 0, marginBottom: 5}}/>
+                        <img loading="lazy" alt="Netlify" src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style={{height: 40, marginLeft: 10, marginTop: 0, marginBottom: 5}}/>
                     </ExternalLink>
                     <ExternalLink href="https://icons8.com">
-                        <img alt="Icons8" src={Icons8Icon} style={{height: 40, marginLeft: 5, marginTop: 0, marginBottom: 0}}/>
+                        <img loading="lazy" alt="Icons8" src={Icons8Icon} style={{height: 40, marginLeft: 5, marginTop: 0, marginBottom: 0}}/>
                     </ExternalLink>
                 </div>
             </footer>

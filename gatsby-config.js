@@ -24,6 +24,8 @@ module.exports = {
                 exclude: ["/do-not-track/example/"],
                 // Delays sending pageview hits on route update (in milliseconds)
                 pageTransitionDelay: 0,
+                defer: true,
+                enableWebVitalsTracking: true,
                 // Enables Google Optimize using your container Id
                 // optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
                 // Enables Google Optimize Experiment ID
@@ -104,6 +106,7 @@ module.exports = {
             resolve: `gatsby-plugin-typography`,
             options: {
                 pathToConfigModule: `src/utils/typography`,
+                omitGoogleFont: true
             },
         },
         {
