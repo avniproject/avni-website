@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: case-study
 title: Jal Jeevan Mission – Arghyam 
 date: 2024-11-11T19:35:00.000Z
 author: Siddhant Singh, Project Tech4Dev
