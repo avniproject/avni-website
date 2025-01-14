@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Exploring Ground Realities- A Visit to Centre for Social Justice in Ahmedabad
-date: 2024-11-27T20:30:00.000Z
+date: 2025-01-12T20:30:00.000Z
 author: Parth Halani
 description:
 featuredpost: true
