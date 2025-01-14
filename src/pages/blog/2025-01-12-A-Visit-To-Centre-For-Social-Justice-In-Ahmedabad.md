@@ -1,16 +1,14 @@
 ---
-templateKey: case-study
-title: Empowering Healthcare Access in Kishanganj - Digitizing Data Collection with the Avni Platform
+templateKey: blog-post
+title: Exploring Ground Realities- A Visit to Centre for Social Justice in Ahmedabad
 date: 2024-11-27T20:30:00.000Z
-author: A Ashok Kumar
+author: Parth Halani
 description:
 featuredpost: true
-featuredimage: /img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/featured.jpg
+featuredimage: /img/2025-01-12-A-Visit-To-Centre-For-Social-Justice-In-Ahmedabad/3.webp
 ---
 
 
-
-# Exploring Ground Realities: A Visit to Centre for Social Justice in Ahmedabad
 
 Earlier this month, I had the privilege of visiting the [Centre for Social Justice (CSJ)](https://www.centreforsocialjustice.net) office in Ahmedabad, accompanied by CSJ's Managing Trustee and a team of project coordinators and leadership members. This visit provided a valuable opportunity to engage deeply with the work CSJ undertakes and to understand the nuances of their operations.
 
