@@ -18,7 +18,7 @@ Avni, a **community service and data collection platform**, has become a **lifel
 
 ## Workshop Highlights  
 
-Although all **sessions and lightning talks** were insightful, these were some of the key takeaways for me:  
+Although all sessions and lightning talks** were insightful, these were some of the key takeaways for me:  
 
 ### **1. Democratization of Data**  
 **Pratima Joshi** from **Shelter Associates** stressed the need to make **data accessible to all stakeholders**. This not only empowers government efforts to reach underserved communities but also helps attract **funding opportunities**.  
@@ -34,29 +34,29 @@ A fascinating talk by **Pratiksha from Tech4Dev** introduced us to **AI tools** 
 
 ## The Power of Collaboration  
 
-The workshop’s well-structured agenda **balanced informal discussions with interactive, skill-building activities**, ensuring that every participant could **share their journey and experiences**.  
+The workshop’s well-structured agenda balanced informal discussions with interactive, skill-building activities**, ensuring that every participant could share their journey and experiences.  
 
-It was insightful to learn about **Avni’s recent updates**, and the **brainstorming session** on **Avni’s sustainability** was particularly engaging. I personally felt that Avni’s contributions need **more visibility**, either through:  
+It was insightful to learn about Avni’s recent updates, and the brainstorming session on Avni’s sustainability was particularly engaging. I personally felt that Avni’s contributions need more visibility, either through:  
 
-- **Co-authored articles**  
-- **Acknowledgments by partners on their websites**  
-- **Highlighting social impact through a dashboard on Avni’s website**  
+- Co-authored articles
+- Acknowledgments by partners on their websites
+- Highlighting social impact through a dashboard on Avni’s website
 
 ## Exploring Mahabalipuram  
 
-Beyond the **conference rooms and delicious cuisine**, I had the opportunity to explore the **beauty and history of Shore Temple**, a **UNESCO World Heritage Site**. Its **intricate carvings** and the serene **Bay of Bengal backdrop** provided a perfect mix of **relaxation and inspiration**.  
+Beyond the conference rooms and delicious cuisine, I had the opportunity to explore the beauty and history of Shore Temple, a UNESCO World Heritage Site. Its intricate carvings and the serene Bay of Bengal backdrop provided a perfect mix of relaxation and inspiration.
 
-<div style="width: 70%">
+<div style="width: 40%">
     <img src="/img/2025-01-29-avni-conf-2025-pooja-aggarwal/2.webp">
 </div><p align="center"><i></i></p>
 
 ## Final Thoughts  
 
-As I left on the final day with **renewed energy** and a **deeper connection** to both my **peer NGOs** and the **causes they champion**, I realized that the **Avni workshop is more than an annual event**—it is a **movement towards a more equitable and empowered world**!  
+As I left on the final day with renewed energy and a deeper connection to both my peer NGOs and the causes they champion, I realized that the Avni workshop is more than an annual event**—it is a **movement towards a more equitable and empowered world!  
 
 ---  
 
-**Best wishes,**  
-**Pooja Aggarwal (PhD)**  
-*Scientist, CTRITH (JSSMC, Mysuru)*  
-*Adjunct Faculty, IPH Bengaluru*  
+Best wishes,
+Pooja Aggarwal (PhD) 
+Scientist, CTRITH (JSSMC, Mysuru)
+Adjunct Faculty, IPH Bengaluru
