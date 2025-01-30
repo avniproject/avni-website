@@ -8,26 +8,35 @@ featuredpost: false
 featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp
 ---
 
+
+Last year when i had attended the Avni Conference in Goa, we had just started with the engagement with Avni team. In the conference I got to meet the team and getting introduced to the ecosystem. 
+Over the course of 2024 Samanvay team developed our application on Avni and we started using it. So this time i was even more excited to join the Avni Conference 2025. 
+
+Check out the below introductory video that we recorded with Avni team sharing how we are using Avni, what we love the most and how we see the future.
+
+`video: https://youtu.be/eV-dVnxrpGU?feature=shared`
+
+The tranquil town of **Mahabalipuram**, with its stunning coastline, set the perfect stage for the Avni 2025 workshop, an annual event I eagerly look forward to attending.  
+
+Avni, a community service and data collection platform, has become a lifeline for NGOs across diverse sectors, including Health, Education, Sanitation, Agriculture, Legal Aid, and many more. This workshop brought together many NGOs, including mine (IPH Bengaluru), to share updates, engage in hands-on activities, and discuss the future of tech-based, community-driven solutions. The event was a testament to how digital tools can enhance grassroots efforts and transform lives.  
+
 <div style="width: 70%">
     <img src="/img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp">
 </div><p align="center"><i></i></p>
 
-The tranquil town of **Mahabalipuram**, with its stunning coastline, set the perfect stage for the Avni 2025 workshop, an annual event I eagerly look forward to attending.  
-
-Avni, a **community service and data collection platform**, has become a lifeline for NGOs across diverse sectors, including Health, Education, Sanitation, Agriculture, Legal Aid, and many more. This workshop brought together **many NGOs, including mine (IPH Bengaluru)**, to share updates, engage in hands-on activities, and discuss the future of **tech-based, community-driven solutions**. The event was a testament to how digital tools can enhance grassroots efforts and transform lives.  
 
 ## Workshop Highlights  
 
-Although all sessions and lightning talks** were insightful, these were some of the key takeaways for me:  
+Although all sessions and lightning talks were insightful, these were some of the key takeaways for me:  
 
 ### **1. Democratization of Data**  
-Pratima Joshi from Shelter Associates stressed the need to make data accessible to all stakeholders. This not only empowers government efforts to reach underserved communities but also helps attract funding opportunities.  
+Pratima Joshi from [Shelter Associates](https://shelter-associates.org/) stressed the need to make data accessible to all stakeholders. This not only empowers government efforts to reach underserved communities but also helps attract funding opportunities.  
 
 ### **2. The Impact of Digitization on Health Services**  
-Gopal Kulkarni from IHMP, Panchod, shared inspiring examples of how digital tools are **revolutionizing healthcare delivery and research**.  
+Gopal Kulkarni from [IHMP, Pachod](https://www.ihmp.org/), shared inspiring examples of how digital tools are **revolutionizing healthcare delivery and research**.  
 
 ### **3. Hands-on Workshop with Superset Reports**  
-A particularly useful session provided practical insights into **creating and analyzing data-driven reports using Superset**.
+A particularly useful session provided practical insights into creating and analyzing data-driven reports using Superset.
 
 ### **4. Leveraging AI for the Social Sector**  
 A fascinating talk by Pratiksha from Tech4Dev introduced us to AI tools for handling mundane daily tasks like note-taking, writing emails, and even presentation and data analysis.  
@@ -51,8 +60,7 @@ Beyond the conference rooms and delicious cuisine, I had the opportunity to expl
 </div><p align="center"><i></i></p>
 
 ## Final Thoughts  
-As I left on the final day with renewed energy and a deeper connection to both my peer NGOs and the causes they champion, I realized that the Avni workshop is more than an annual event—it is a **movement towards a more equitable and empowered world**!  
-
+As I left on the final day with renewed energy and a deeper connection to both my peer NGOs and the causes they champion, I realized that <span style="color:#ff470f">the Avni workshop is more than an annual event—it is a movement towards a more equitable and empowered world!</span>
 ---  
 
 **Best wishes,**  
