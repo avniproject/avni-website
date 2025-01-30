@@ -9,10 +9,6 @@ featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp
 ---
 
 
-Last year when i had attended the Avni Conference in Goa, we had just started with the engagement with Avni team. In the conference I got to meet the team and getting introduced to the ecosystem. 
-Over the course of 2024 Samanvay team developed our application on Avni and we started using it. So this time i was even more excited to join the Avni Conference 2025. 
-
-Check out the below introductory video that we recorded with Avni team sharing how we are using Avni, what we love the most and how we see the future.
 
 `video: https://youtu.be/eV-dVnxrpGU?feature=shared`
 
