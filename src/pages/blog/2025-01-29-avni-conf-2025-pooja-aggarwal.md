@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Avni 2025 Workshop- A Gathering of Innovation and Impact
+title: Avni 2025 Conference- A Gathering of Innovation and Impact
 date: 2025-01-29T20:30:00.000Z
 author: Pooja Aggarwal
 description:
@@ -23,16 +23,16 @@ Avni, a community service and data collection platform, has become a lifeline fo
 
 Although all sessions and lightning talks were insightful, these were some of the key takeaways for me:  
 
-### **1. Democratization of Data**  
+### 1. Democratization of Data 
 Pratima Joshi from [Shelter Associates](https://shelter-associates.org/) stressed the need to make data accessible to all stakeholders. This not only empowers government efforts to reach underserved communities but also helps attract funding opportunities.  
 
-### **2. The Impact of Digitization on Health Services**  
+### 2. The Impact of Digitization on Health Services 
 Gopal Kulkarni from [IHMP, Pachod](https://www.ihmp.org/), shared inspiring examples of how digital tools are **revolutionizing healthcare delivery and research**.  
 
-### **3. Hands-on Workshop with Superset Reports**  
+### 3. Hands-on Workshop with Superset Reports 
 A particularly useful session provided practical insights into creating and analyzing data-driven reports using Superset.
 
-### **4. Leveraging AI for the Social Sector**  
+### 4. Leveraging AI for the Social Sector 
 A fascinating talk by Pratiksha from Tech4Dev introduced us to AI tools for handling mundane daily tasks like note-taking, writing emails, and even presentation and data analysis.  
 
 ## The Power of Collaboration  
