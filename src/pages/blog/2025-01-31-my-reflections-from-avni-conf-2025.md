@@ -58,7 +58,7 @@ Key suggestions included:
 - Engaging close funder forums such as RNPF and collectives such as the Bihar Development Collective.  
 - Building relationships with existing NGO partners and implementation networks to spread Avni’s impact.  
 
-<div style="width: 30%">
+<div style="width: 70%">
     <img src="/img/2025-01-31-my-reflections-from-avni-conf-2025/2.webp">
 </div><p align="center"><i></i></p>
 
