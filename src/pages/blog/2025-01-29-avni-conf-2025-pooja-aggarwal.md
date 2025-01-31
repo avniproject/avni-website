@@ -10,8 +10,6 @@ featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp
 
 
 
-`video: https://youtu.be/eV-dVnxrpGU?feature=shared`
-
 The tranquil town of **Mahabalipuram**, with its stunning coastline, set the perfect stage for the Avni 2025 workshop, an annual event I eagerly look forward to attending.  
 
 Avni, a community service and data collection platform, has become a lifeline for NGOs across diverse sectors, including Health, Education, Sanitation, Agriculture, Legal Aid, and many more. This workshop brought together many NGOs, including mine (IPH Bengaluru), to share updates, engage in hands-on activities, and discuss the future of tech-based, community-driven solutions. The event was a testament to how digital tools can enhance grassroots efforts and transform lives.  
@@ -63,3 +61,10 @@ As I left on the final day with renewed energy and a deeper connection to both m
 **Pooja Aggarwal (PhD)**  
 *Scientist, CTRITH (JSSMC, Mysuru)*  
 *Adjunct Faculty, IPH Bengaluru*  
+
+
+
+
+
+## An introduction to how IPH Bengaluru using Avni platform
+`video: https://youtu.be/eV-dVnxrpGU?feature=shared`
