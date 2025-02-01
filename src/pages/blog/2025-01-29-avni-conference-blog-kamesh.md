@@ -22,7 +22,7 @@ We kicked off with Vinay Venu (Avni Team) giving a quick yet insightful recap of
 
 Next, Pratima Joshi from [Shelter Associates](https://shelter-associates.org/) captivated us with her session on leveraging data for impactful change. What stood out the most was how the organization makes all its data publicly accessible on its website. This sparked a mix of awe and curiosity, leading to a deep discussion about data transparency and its implications. Pratima answered all the questions gracefully, leaving everyone inspired.
 
-Gopal Kulkarni from [IHMP](https://www.ihmp.org/) continued the sessions while sharing his key insights about using Avni and how leveraging technology was a
+Gopal Kulkarni from [IHMP](https://www.ihmp.org/) continued the sessions while sharing his key insights about using Avni and how leveraging technology has benefited them to impact lives across their intervention areas.
 
 Post-break, we gathered for a series of engaging lightning talks:
 - Yogish CB ([Institute of Public Health](https://iphindia.org/))

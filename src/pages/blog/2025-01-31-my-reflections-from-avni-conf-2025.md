@@ -8,7 +8,6 @@ featuredpost: false
 featuredimage: /img/2025-01-31-my-reflections-from-avni-conf-2025/1.webp
 ---
 
-# My Reflections from the Avni 2025 Conference: Insights and Learnings
 
 
 The Avni 2025 conference, held on January 23rd and 24th, brought together leaders, innovators, and changemakers in the social impact sector to discuss emerging trends and practical tech solutions for nonprofit challenges. Here are my reflections on key sessions that stood out and some actionable insights.
@@ -58,7 +57,7 @@ Key suggestions included:
 - Engaging close funder forums such as RNPF and collectives such as the Bihar Development Collective.  
 - Building relationships with existing NGO partners and implementation networks to spread Avni’s impact.  
 
-<div style="width: 70%">
+<div style="width: 110%">
     <img src="/img/2025-01-31-my-reflections-from-avni-conf-2025/2.webp">
 </div><p align="center"><i></i></p>
 
