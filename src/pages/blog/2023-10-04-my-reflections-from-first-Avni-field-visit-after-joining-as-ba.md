@@ -13,6 +13,8 @@ tags:
   - SEWA Rural SNCU  
   - JNPCT
   - MCH
+  - health
+  - community-health
 ---
 I joined Samanvay and Avni team as a Business Analyst 4 months back. My role is that of a bridge between the programs team of community based organisations and the development team at Avni to ensure that the requirements are clearly understood and the solution using Avni is satisfactorily delivered. For this, an important part is to understand the programs properly.
 
