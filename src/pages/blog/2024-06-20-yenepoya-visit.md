@@ -6,6 +6,10 @@ date: 2024-06-20
 author: Mohammed Taqi
 featuredpost: false
 featuredimage: /img/yenepoya-visit-20-06-2024/Feature-image.JPG
+tags:
+- health
+- public-health
+- education
 ---
 
 ## In this blog post, I will share my experience and key insights from my recent visit to Yenepoya Deemed to be University - Mangalore.
