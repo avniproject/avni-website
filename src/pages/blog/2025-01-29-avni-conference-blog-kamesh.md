@@ -18,7 +18,7 @@ I arrived at the breathtaking venue of Mahabalipuram at the break of dawn on Jan
 
 The first day was filled with enriching sessions aimed at empowering participating NGOs.
 
-We kicked off with Vinay Venu (Avni Team) giving a quick yet insightful recap of Avni’s journey in 2024 and an exciting glimpse into what’s in store for 2025.
+We kicked off with Vinay Venu (Avni Team) giving a quick, yet insightful recap of Avni’s journey in 2024 and an exciting glimpse into what’s in store for 2025.
 
 Next, Pratima Joshi from [Shelter Associates](https://shelter-associates.org/) captivated us with her session on leveraging data for impactful change. What stood out the most was how the organization makes all its data publicly accessible on its website. This sparked a mix of awe and curiosity, leading to a deep discussion about data transparency and its implications. Pratima answered all the questions gracefully, leaving everyone inspired.
 
