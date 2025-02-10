@@ -6,6 +6,8 @@ author: Bhushan Kothalkar
 description:
 featuredpost: false
 featuredimage: /img/2025-02-03-reflections-and-learnings-from-avni-2025-conference/1.webp
+tags:
+- Avni Conference 2025
 ---
 
 

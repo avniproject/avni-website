@@ -6,6 +6,8 @@ author: Pooja Aggarwal
 description:
 featuredpost: false
 featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp
+tags:
+- Avni Conference 2025
 ---
 
 

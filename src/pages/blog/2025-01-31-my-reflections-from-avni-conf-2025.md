@@ -6,6 +6,8 @@ author: A Ashok Kumar
 description:
 featuredpost: false
 featuredimage: /img/2025-01-31-my-reflections-from-avni-conf-2025/1.webp
+tags:
+- Avni Conference 2025
 ---
 
 
