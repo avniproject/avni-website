@@ -6,6 +6,9 @@ author: Parth Halani
 description:
 featuredpost: true
 featuredimage: /img/2025-01-12-A-Visit-To-Centre-For-Social-Justice-In-Ahmedabad/3.webp
+tags:
+  - social-security
+  - community-health
 ---
 
 

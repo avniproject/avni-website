@@ -6,6 +6,10 @@ author: Parth Halani
 description:
 featuredpost: false
 featuredimage: /img/2024-06-18-world-sickle-cell-day/SCD.png
+tags:
+- health
+- public-health
+- community-health
 ---
 
 <img src="/img/2024-06-18-world-sickle-cell-day/SCD.png">

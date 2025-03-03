@@ -6,6 +6,9 @@ author: The Avni Team
 description:
 featuredpost: false
 featuredimage: /img/2024-06-25-digitising-adolescent-community-program-using-avni/adolescents.png
+tags:
+- community-health
+- adolescent
 ---
 
 <img src="/img/2024-06-25-digitising-adolescent-community-program-using-avni/adolescents.png">
