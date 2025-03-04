@@ -14,6 +14,11 @@ featuredimage: /img/2025-02-11-reflections-of-the-avni-conference-2025/collage.w
 </div>
 I’ve never been the kind of person drawn to conferences. The idea of spending an entire day listening to presentations, networking, and sitting through discussions has rarely excited me. However, attending Avni's conference changed my perspective.
 
+<div style="width: 100%; max-width: 800px; padding: 48px;">  
+    <img src="/img/2025-02-11-reflections-of-the-avni-conference-2025/shivangi post (1).webp" 
+         style="width: 100%; height: auto; max-width: 600px; display: block;">
+</div>
+
 It was a deep dive into how NGOs across India are using Avni in innovative ways to drive impact. More importantly, it was a space to learn, exchange ideas, and reflect on how technology can be leveraged better in the development sector.
 
 ## Learning from the Field
