@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Exploring Tech4Dev’s Impact – Dalgo Sprint & Avni Conference
+title: Understanding the Role of Technology in Sustainable Rural Development
 date: 2025-03-03T10:00:00.000Z
 author: Aditya Jain
 description: >-
@@ -8,9 +8,12 @@ description: >-
   It provided an opportunity to understand how technology-driven tools like Dalgo 
   and Avni are empowering NGOs in data collection, visualization, and impact scaling.
 featuredpost: false
-featuredimage: 
+featuredimage: /img/2025-03-03-exploring-tech4devs-impact-dalgo-sprint-avni-conference/45.webp
 ---
-## **Understanding the Role of Technology in Sustainable Rural Development**
+
+<div style="width: 70%">
+    <img src="/img/2025-03-03-exploring-tech4devs-impact-dalgo-sprint-avni-conference/Aditya-quote.webp">
+</div>
 
 Taking over and understanding technology tools within the Sustainable Rural Development vertical at the **A.T.E. Chandra Foundation (ATECF)** has been a great learning experience. Organizations like **Project Tech4Dev** are revolutionizing how NGOs utilize data, ultimately helping them scale their impact.
 
