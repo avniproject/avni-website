@@ -5,7 +5,7 @@ date: 2025-01-29T20:30:00.000Z
 author: Pooja Aggarwal
 description:
 featuredpost: false
-featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp
+featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/POOJAPOST.webp
 tags:
 - Avni Conference 2025
 ---
@@ -17,7 +17,7 @@ The tranquil town of **Mahabalipuram**, with its stunning coastline, set the per
 Avni, a community service and data collection platform, has become a lifeline for NGOs across diverse sectors, including Health, Education, Sanitation, Agriculture, Legal Aid, and many more. This workshop brought together many NGOs, including mine (IPH Bengaluru), to share updates, engage in hands-on activities, and discuss the future of tech-based, community-driven solutions. The event was a testament to how digital tools can enhance grassroots efforts and transform lives.  
 
 <div style="width: 70%">
-    <img src="/img/2025-01-29-avni-conf-2025-pooja-aggarwal/1.webp">
+    <img src="/img/2025-01-29-avni-conf-2025-pooja-aggarwal/POOJAPOST.webp">
 </div><p align="center"><i></i></p>
 
 

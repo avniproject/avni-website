@@ -5,13 +5,13 @@ date: 2025-01-31T20:30:00.000Z
 author: A Ashok Kumar
 description:
 featuredpost: false
-featuredimage: /img/2025-01-31-my-reflections-from-avni-conf-2025/1.webp
+featuredimage: /img/2025-01-31-my-reflections-from-avni-conf-2025/AASHOKPOST.webp
 tags:
 - Avni Conference 2025
 ---
-
-
-
+<div style="padding-bottom: 48px">
+    <img src="/img/2025-01-31-my-reflections-from-avni-conf-2025/AASHOKPOST.webp">
+</div>
 The Avni 2025 conference, held on January 23rd and 24th, brought together leaders, innovators, and changemakers in the social impact sector to discuss emerging trends and practical tech solutions for nonprofit challenges. Here are my reflections on key sessions that stood out and some actionable insights.
 
 ## 1. Democratisation of Data  
