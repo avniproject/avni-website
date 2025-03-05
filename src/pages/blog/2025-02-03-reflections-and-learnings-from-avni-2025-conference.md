@@ -5,7 +5,7 @@ date: 2025-02-03T20:30:00.000Z
 author: Bhushan Kothalkar
 description:
 featuredpost: false
-featuredimage: /img/2025-02-03-reflections-and-learnings-from-avni-2025-conference/1.webp
+featuredimage: /img/2025-02-03-reflections-and-learnings-from-avni-2025-conference/BhushanKothalkar.webp
 tags:
 - Avni Conference 2025
 ---
@@ -15,7 +15,7 @@ tags:
 I extend my sincere gratitude to the Avni team for organizing such an insightful and well-structured conference. I also deeply appreciate the participation of various NGOs and social sector leaders who dedicated their time and energy towards discussions that pave the way for a brighter future for marginalized communities.
 
 <div style="width: 70%">
-    <img src="/img/2025-02-03-reflections-and-learnings-from-avni-2025-conference/1.webp">
+    <img src="/img/2025-02-03-reflections-and-learnings-from-avni-2025-conference/BhushanKothalkar.webp">
 </div>
 
 ## Key Insights and Learnings
