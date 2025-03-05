@@ -6,6 +6,8 @@ author: Shivangi Desai
 description: Insights and key takeaways from the Avni Conference, exploring how technology empowers NGOs
 featuredpost: true
 featuredimage: /img/2025-02-11-reflections-of-the-avni-conference-2025/collage.webp
+tags:
+- Avni Conference 2025
 
 ---
 
