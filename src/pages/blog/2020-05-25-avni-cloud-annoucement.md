@@ -25,6 +25,6 @@ Please use the implementer’s guide to understand how to implement Avni for you
 Once you subscribe, we will create an account for you and then you can do the rest of the tasks above by yourself. Once you start there are following help available for you:
 * Help documentation within the application
 * Avni Implementation Guide (recommended read) - <a href="https://avni.readme.io/docs/implementers-guide" target="_blank" rel="noopener noreferrer">https://avni.readme.io/docs/implementers-guide</a>
-* Community Channel - <a href="https://join.skype.com/qFCxfcZ8paru" target="_blank" rel="noopener noreferrer">https://join.skype.com/qFCxfcZ8paru</a>
+* Community Channel - <a href="https://discord.gg/4pcgcQW8pk" target="_blank" rel="noopener noreferrer">https://discord.gg/4pcgcQW8pk</a>
 * Choosing a custom plan for getting additional services.
 
