@@ -8,7 +8,7 @@ description: Disclaimer - The suggestions in this blog reflect solely my persona
 featuredpost: false
 featuredimage: /img/2024-11-08-from-privilege-to-purpose/turbine.jpeg
 tags: 
-    - Field Visit
+    - Field Visits
 ---
 
 Every field visit reminds me of how much privileged I am, and this one was no exception. Among Goonj's various initiatives, we witnessed one of their impactful community projects.

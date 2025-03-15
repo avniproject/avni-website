@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/2022-05-03-field-visit-SEWA-Rural/Jhagadia.png
 tags:
  - Health
- - Field Visit
+ - Field Visits
 ---
 During the month of April 2022, we visited SEWA Rural, a nonprofit organisation working in the Jhagadia block of Bharuch district in the south of Gujarat. There are using Avni for two programs. This is a field visit report.
 

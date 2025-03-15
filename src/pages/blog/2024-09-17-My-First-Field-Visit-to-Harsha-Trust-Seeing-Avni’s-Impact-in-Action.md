@@ -7,7 +7,7 @@ description:
 featuredpost: false
 featuredimage: img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_blog_1.jpeg
 tags:
-  - Field Visit
+  - Field Visits
   - Health
 ---
 

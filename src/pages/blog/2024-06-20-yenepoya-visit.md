@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/yenepoya-visit-20-06-2024/Feature-image.JPG
 tags:
   - Health
-  - Field Visit
+  - Field Visits
 ---
 
 ## In this blog post, I will share my experience and key insights from my recent visit to Yenepoya Deemed to be University - Mangalore.
