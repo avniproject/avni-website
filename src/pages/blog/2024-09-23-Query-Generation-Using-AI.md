@@ -6,6 +6,8 @@ author: Vivek Singh
 description:
 featuredpost: false
 featuredimage: /img/2024-09-23-Query-Generation-Using-AI/with-ai.png
+tags:
+  - Technology
 ---
 
 ### Context

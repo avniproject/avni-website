@@ -5,8 +5,8 @@ date: 2023-07-18T09:00:00.000Z
 author: Vinay Venu
 description:
 featuredpost: false
-tags: 
-- Udaipur Sprint
+tags:
+  - Udaipur Sprint 2023 July
 ---
 
 It feels like yesterday that we had our Goa sprint. I was surprised when I started getting emails about the Udaipur sprint. 

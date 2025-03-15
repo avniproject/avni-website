@@ -7,7 +7,7 @@ description: Insights and key takeaways from the Avni Conference, exploring how 
 featuredpost: false
 featuredimage: /img/2025-02-11-reflections-of-the-avni-conference-2025/shivangi post (1).webp
 tags:
-- Avni Conference 2025
+  - Avni Conference 2025
 ---
 
 

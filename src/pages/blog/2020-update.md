@@ -8,7 +8,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/2020-update/avni_update_impact_and_usage.jpg
 tags:
- - Product Updates
+ - Annual Update
 ---
 
 ![](/img/2020-update/avni_product_capabilities.png)

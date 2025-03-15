@@ -7,7 +7,7 @@ description: Blog is about my experience and Take Away from the sprint
 
 featuredpost: false
 tags:
-- Udaipur Sprint
+  - Udaipur Sprint 2023 July
 ---
 
 # Avni Conference, Udaipur, July 2023

@@ -16,8 +16,8 @@ description: >-
   in executing the program.
 tags:
   - Health
-  - Tribal
   - Government
+  - Case Study
 ---
 Sickle cell disease (common type being sickle cell anaemia) affects a huge percentage of tribal population in India because of its genetic/hereditary nature. A person can simply be a carrier which is harmless to oneself. But when a child is born from two parents who are both carriers then the child gets this disease. The effects of the disease are severe and more can be read about it here (https://en.wikipedia.org/wiki/Sickle_cell_disease). The carriers are anywhere between 10-20% in many tribal populations. The public health imperative is to reduce the number of couples where both parents are carriers and treat those who have the disease. There is no prevention.
 

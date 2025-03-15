@@ -7,7 +7,6 @@ description:
 featuredpost: false
 featuredimage: /img/2023-02-13-avni-release-announcement/whatsapp-480.png
 tags:
-  - Release announcement 
 ---
 
 Release 3.37 is now live. This release includes App Stability, Whatsapp (Glific) Integration, Feature Enhancements and Bug fixes. 

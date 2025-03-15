@@ -7,6 +7,8 @@ description: This blogpost covers the fifth day of the Avni conference which inc
 
 featuredpost: false 
 featuredimage: /img/2023-01-12-avni-conference-goa/day-5/morning_sunrise.jpg
+tags:
+  - Avni Conference 2023
 ---
 
 ### Wave se darr nhi lagta, ___ se lagta hai….

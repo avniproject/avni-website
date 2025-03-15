@@ -11,7 +11,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/jss-sickle-sample-collection.jpeg
 tags:
-  - Generic
+  - Knowledge
 ---
 Avni caters to field work across sectors and organisations. It can do that because there are a lot of similarities in the field work across sectors. Avni provides for all the similarities within the platform and provides tools to make the organisation specific things easier to implement on it. In other words it is a generic software product that is configurable. But there are also a lot of custom software solutions that are utilised for the same purpose as well. So, how does Avni compare to other custom software solutions in use? To answer this, I must explain the broader picture of "software for social sector" - using Avni's use case as an example.
 

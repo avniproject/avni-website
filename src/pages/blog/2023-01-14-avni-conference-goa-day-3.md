@@ -7,6 +7,8 @@ description: In this blog, we have covered the happenings of the third day of th
 
 featuredpost: false
 featuredimage: /img/2023-01-12-avni-conference-goa/day-3/retro-board.jpeg
+tags:
+  - Avni Conference 2023
 ---
 
 This is the last day the Avni team has for itself, and there is quite a lot to do. This is the second day, and I had blisters in my leg after a bare-foot run in the beach the previous day. I was not sure if I could get a run in today, but Taqi was insistent. We ended up running for about 10 minutes. Playing in the water was mandatory, and we didn't want to miss it. It is the best way to start a day in Goa.

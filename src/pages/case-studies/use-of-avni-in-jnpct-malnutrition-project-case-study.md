@@ -7,11 +7,7 @@ description: >-
 author: Dr Dhiren Modi
 tags:
   - Health
-  - Maternal and Child Health
-  - Non-Government
-  - Rural
-  - Gujarat
-
+  - Case Study
 ---
 If you prefer watching over reading, do check out the [Avni webinar of January](https://youtu.be/4_nZ8Q4RKYA?t=833) where we shared this case study. Otherwise read on.
 

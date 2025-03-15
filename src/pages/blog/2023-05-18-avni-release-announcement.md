@@ -6,7 +6,6 @@ author: The Avni Team
 description:
 featuredpost: false
 tags:
-- Release announcement
 ---
 
 Patch Release 3.38.4 is now live. This release includes minor code changes to fix translation issues.

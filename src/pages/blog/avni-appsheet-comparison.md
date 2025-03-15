@@ -8,7 +8,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/avni_appsheet_product_comparison.png
 tags:
- - Product Comparison
+ - Knowledge
 ---
 
 ![](/img/avni_appsheet_product_comparison.png)

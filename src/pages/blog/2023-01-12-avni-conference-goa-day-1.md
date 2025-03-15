@@ -7,6 +7,8 @@ description: In this blog, we have covered the happenings of the first day of th
 
 featuredpost: false 
 featuredimage: /img/2023-01-12-avni-conference-goa/day-1/varca-le-palms-day-1-shot-1.jpeg
+tags:
+  - Avni Conference 2023
 ---
 
 This was the first ever Avni conference. It is a 5-day event with the entire Avni team and "NGOs using Avni" getting together to have fun, and understand the past, present and future of Avni. The event was scheduled between 12th and 17th of January 2023. The first 3 days were for the Avni team's internal collaboration, while the next 2 days included discussions amongst Avni team and the NGOs.

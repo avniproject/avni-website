@@ -7,7 +7,6 @@ description:
 featuredpost: false
 featuredimage: /img/Access control in Avni.png
 tags:
-- Release announcement
 ---
 Major Release 4.0.0 is now live, it includes the following modifications to the Avni application
 

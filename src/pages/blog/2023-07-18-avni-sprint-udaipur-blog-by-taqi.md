@@ -9,7 +9,7 @@ author: Mohammed Taqi
 featuredpost: false
 featuredimage: /img/2023-07-18-avni-sprint-udaipur-blog-by-taqi/Featured-image.jpeg
 tags:
-- Udaipur Sprint
+  - Udaipur Sprint 2023 July
 ---
 
 So my excitement started somewhere around mid-June when Arjun informed us that we would be participating in the Tech4Dev sponsored Udaipur sprint.

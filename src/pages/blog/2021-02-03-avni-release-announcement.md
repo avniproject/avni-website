@@ -6,10 +6,6 @@ author: The Avni Team
 description: >-
 featuredpost: false
 tags:
-  - Release announcement 
-  - Data Entry app 
-  - Offline reports
-  - Usage analytics
 ---
 
 A new release of Avni field app and Avni admin app is available.

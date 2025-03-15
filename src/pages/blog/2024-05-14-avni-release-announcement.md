@@ -7,7 +7,6 @@ description:
 featuredpost: false
 featuredimage:
 tags:
-- Release announcement
 ---
 Major Release 8.0.0 is now live, it includes the following modifications to the Avni application
 

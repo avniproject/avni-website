@@ -7,7 +7,7 @@ description:
 featuredpost: false
 featuredimage: /img/2025-01-31-my-reflections-from-avni-conf-2025/AASHOKPOST.webp
 tags:
-- Avni Conference 2025
+  - Avni Conference 2025
 ---
 
 <div style="width: 70%">

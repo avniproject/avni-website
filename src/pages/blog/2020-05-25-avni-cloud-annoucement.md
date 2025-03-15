@@ -6,7 +6,6 @@ author: The Avni Team
 description: >-
 featuredpost: false
 tags:
-  - Announcement, Cloud
 ---
 While we started almost 4 years back to create a community health platform, in the last two years our ideas of what Avni should be, became more crystallised. We recognised two things - community health work is only a slightly more specific case of many types of fieldwork. Secondly, we understood that we were not creating a data collection tool but a next-generation fieldwork platform - that caters to most needs of any field worker. Avni now is <a href="https://reporting.avniproject.org/public/dashboard/3b77176c-b304-4e1e-a07c-936080c0e325" target="_blank" rel="noopener noreferrer">used in a number of use cases across sectors</a>. Now we are announcing the beginning of a new chapter for Avni which we are calling **Avni Cloud** - ability to create your own implementation. If you want to get started please visit the <a href="/pricing" target="_blank" rel="noopener noreferrer">subscription page</a>.
 

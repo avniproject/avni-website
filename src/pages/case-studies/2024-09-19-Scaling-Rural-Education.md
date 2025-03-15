@@ -6,6 +6,9 @@ author: The Avni Team
 description:
 featuredpost: false
 featuredimage: /img/2024-09-19-Scaling-Rural-Education/CInI-1.png
+tags:
+  - Education
+  - Case Study
 ---
 
 

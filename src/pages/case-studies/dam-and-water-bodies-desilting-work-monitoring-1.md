@@ -11,8 +11,8 @@ description: >-
   as data collection and project activity monitoring tool.
 tags:
   - Water
-  - Monitoring
   - Government
+  - Case Study
 ---
 Sedimentation is a problem faced by dams and water catchments, whereby the flowing sediments settle to the bottom of the dam because of stoppage of water flow. This impacts the dams negatively. On the other hand, the silt present in these sediments, are quite useful to improve the fertility of the farmland. This presents an opportunity for creating a win-win situation.
 

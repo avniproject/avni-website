@@ -6,7 +6,6 @@ author: The Avni Team
 description:
 featuredpost: false
 tags:
-- Release announcement
 ---
 Major Release 3.38.00 is now live, it includes following modifications to Avni application.
 

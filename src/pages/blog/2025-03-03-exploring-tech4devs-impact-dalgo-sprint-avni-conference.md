@@ -10,7 +10,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/2025-03-03-exploring-tech4devs-impact-dalgo-sprint-avni-conference/45.webp
 tags:
-- Avni Conference 2025
+  - Avni Conference 2025
 ---
 
 <div style="width: 70%">

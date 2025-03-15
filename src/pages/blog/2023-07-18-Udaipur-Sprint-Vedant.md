@@ -6,7 +6,7 @@ author: Vedant Raval
 description: This blog describes my take away from the sprint
 featuredpost: false
 tags:
-- Udaipur Sprint
+  - Udaipur Sprint 2023 July
 ---
 
 ## _khamma Ghani !!_

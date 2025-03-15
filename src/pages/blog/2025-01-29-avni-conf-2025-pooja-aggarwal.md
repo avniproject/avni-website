@@ -7,7 +7,7 @@ description:
 featuredpost: false
 featuredimage: /img/2025-01-29-avni-conf-2025-pooja-aggarwal/POOJAPOST.webp
 tags:
-- Avni Conference 2025
+  - Avni Conference 2025
 ---
 
 

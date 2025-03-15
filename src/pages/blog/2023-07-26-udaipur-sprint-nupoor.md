@@ -7,7 +7,7 @@ description:
 featuredpost: false
 featuredimage: /img/2023-07-26-udaipur-sprint-nupoor/lakePichola2.jpg
 tags:
-- Udaipur Sprint
+  - Udaipur Sprint 2023 July
 ---
 
 ![](/img/2023-07-26-udaipur-sprint-nupoor/Team.png)

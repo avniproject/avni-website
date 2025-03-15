@@ -8,8 +8,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/ywnxt/ywnxt-final-solution.png
 tags:
- - Project Updates
- - YWNXT
+ - Case Study
  - Skill development and employment
 ---
 
