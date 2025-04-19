@@ -117,6 +117,37 @@ module.exports = {
             },
         }, // must be after other CSS plugins
         'gatsby-plugin-netlify', // make sure to keep it last in the array
+        {
+            resolve: 'gatsby-plugin-sharp',
+            options: {
+                defaults: {
+                    formats: ['auto', 'webp', 'avif'],
+                    placeholder: 'dominantColor',
+                    quality: 50,
+                    breakpoints: [750, 1080, 1366, 1920],
+                    backgroundColor: 'transparent',
+                    tracedSVGOptions: {},
+                    blurredOptions: {},
+                    jpgOptions: {},
+                    pngOptions: {},
+                    webpOptions: {},
+                    avifOptions: {},
+                },
+            },
+        },
+        {
+            resolve: 'gatsby-transformer-sharp',
+            options: {
+                // The option defaults to true
+                checkSupportedExtensions: true,
+            },
+        },
+        {
+            resolve: 'gatsby-image',
+            options: {
+                // Add any options here
+            },
+        },
     ],
     // for avoiding CORS while developing Netlify Functions locally
     // read more: https://www.gatsbyjs.org/docs/api-proxy/#advanced-proxying
