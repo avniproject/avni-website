@@ -1,59 +1,58 @@
+import '../styles/about.css'; // External CSS for styling
 import React from 'react';
 import PropTypes from 'prop-types';
-import {graphql} from 'gatsby';
+import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import Content, {HTMLContent} from '../components/Content';
+import Content, { HTMLContent } from '../components/Content';
 import SEO from '../components/seo';
 
-export const BlankPageTemplate = ({title, content, contentComponent}) => {
-    const PageContent = contentComponent || Content;
+// Template for rendering markdown-based pages like /about
+export const BlankPageTemplate = ({ title, content, contentComponent }) => {
+  const PageContent = contentComponent || Content;
 
-    return (
-        <section className="section section--gradient">
-            <div className="container">
-                <div className="columns">
-                    <div className="column is-10 is-offset-1">
-                        <div className="section">
-                            <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                                {title}
-                            </h2>
-                            <PageContent className="content" content={content}/>
-                            <br/>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    )
+  return (
+    <main role="main" aria-label="About Page Content">
+      <section className="about-section">
+        <div className="about-container">
+          <article className="about-content">
+            <h1 className="about-heading">{title}</h1>
+            <PageContent className="content" content={content} />
+          </article>
+        </div>
+      </section>
+    </main>
+  );
 };
 
 BlankPageTemplate.propTypes = {
-    title: PropTypes.string.isRequired,
-    content: PropTypes.string,
-    contentComponent: PropTypes.func,
+  title: PropTypes.string.isRequired,
+  content: PropTypes.string,
+  contentComponent: PropTypes.func,
 };
 
-const BlankPage = ({data}) => {
-    const {markdownRemark: post} = data;
+// Page-level component fetching the markdown content
+const BlankPage = ({ data }) => {
+  const { markdownRemark: post } = data;
 
-    return (
-        <Layout>
-            <SEO title={post.frontmatter.title} />
-            <BlankPageTemplate
-                contentComponent={HTMLContent}
-                title={post.frontmatter.title}
-                content={post.html}
-            />
-        </Layout>
-    )
+  return (
+    <Layout>
+      <SEO title={post.frontmatter.title} />
+      <BlankPageTemplate
+        contentComponent={HTMLContent}
+        title={post.frontmatter.title}
+        content={post.html}
+      />
+    </Layout>
+  );
 };
 
 BlankPage.propTypes = {
-    data: PropTypes.object.isRequired,
+  data: PropTypes.object.isRequired,
 };
 
 export default BlankPage;
 
+// GraphQL query to get the markdown data
 export const aboutPageQuery = graphql`
   query BlankPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
