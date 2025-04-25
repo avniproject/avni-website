@@ -15,7 +15,6 @@ let subtitle = function (text) {
       color: 'white',
       lineHeight: '1',
       fontWeight: '500',
-      textAlign: 'center'
     }}>{text}</p>;
 };
 
@@ -50,6 +49,7 @@ export default function LandingPageHero() {
           alt=""
           fadeIn={false}
           loading="eager"
+          className='hero-img'
           style={{
             position: "absolute",
             top: "60px",
@@ -69,20 +69,21 @@ export default function LandingPageHero() {
             alignItems: 'center'
           }}
         >
-          <p
-            className="is-size-3-mobile is-size-3-tablet is-size-2-desktop is-size-1-widescreen"
-            style={{
-              color: 'white',
-              lineHeight: '1',
-              fontWeight: '600',
-              textAlign: 'center'
-            }}>Community service and data collection platform for non-profits</p>
-          <br/>
-          {subtitle("Designed to work for all sectors")}
-          {subtitle("Health, Education, Sanitation, Water, Waste, Agriculture, Social Security.")}
-          <div style={{paddingTop: '1rem', flexDirection: 'column', display: 'flex', alignItems: 'center'}}>
+          <div>
+            <p
+              className="is-size-3-mobile is-size-3-tablet is-size-2-desktop is-size-1-widescreen"
+              style={{
+                color: 'white',
+                lineHeight: '1',
+                fontWeight: '600',
+              }}>Community service and data collection platform for non-profits</p>
+            <br/>
+            {subtitle("Designed to work for all sectors")}
+            {subtitle("Health, Education, Sanitation, Water, Waste, Agriculture, Social Security.")}
+          </div>
+          <div style={{paddingTop: '4rem', display: 'flex', gap:'1rem', alignItems: 'center'}}>
             <SecondaryCTAButton text="Try for free" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
-            <p className="button is-primary is-medium" style={{marginTop: 10}}>
+            <p className="button is-primary is-medium" style={{borderRadius:'12px'}}>
               <PopupText
                 text="Schedule a Demo"
                 url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
