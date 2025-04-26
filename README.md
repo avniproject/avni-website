@@ -3,6 +3,11 @@
 See live - https://avniproject.org/
 
 ## Development - Getting Started
+> ⚡ **Important:** Make sure you are using **Node.js v16**. You can manage Node versions easily using [nvm](https://github.com/nvm-sh/nvm):
+
+```bash
+nvm install 16
+nvm use 16
 Install `gatsby-cli` globally - `npm install -g gatsby-cli`
 
 In repo root:
