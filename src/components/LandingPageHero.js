@@ -1,4 +1,4 @@
-import React from "react";
+import {React, useEffect} from "react";
 import Navbar from "./Navbar"
 // import banner from '../img/cover.png'
 // import DiwaliBanner from '../img/diwali-banner.jpg'
@@ -18,7 +18,11 @@ let subtitle = function (text) {
     }}>{text}</p>;
 };
 
+
 export default function LandingPageHero() {
+
+
+
   const data = useStaticQuery(graphql`
     query {
       file(relativePath: { eq: "cover.png" }) {
@@ -52,7 +56,6 @@ export default function LandingPageHero() {
           className='hero-img'
           style={{
             position: "absolute",
-            top: "60px",
             left: 0,
             width: "100vw",
             height: "82vh",

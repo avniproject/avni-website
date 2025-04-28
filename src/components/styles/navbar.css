@@ -1,0 +1,25 @@
+.homepage .navbar{
+    background-color: transparent !important;
+    width: 100%;
+    background-image: linear-gradient( rgb(0, 0, 0), rgba(255,0,0,0));
+    position:absolute !important;
+    top: 0;
+}
+
+.homepage .navbar-item,.homepage .navbar-link{
+    color: rgba(255, 255, 255, 0.637) !important;
+}
+
+.homepage .navbar-item:hover,.homepage .navbar-link:hover{
+    color: white !important;
+}
+
+.homepage .navbar-dropdown{
+    background: rgba(46, 46, 46, 0.986);
+}
+
+@media screen and (max-width: 1023px) {
+    .homepage .navbar-menu{
+        background:rgba(46, 46, 46, 0.986);
+    }
+}
