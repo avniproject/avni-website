@@ -105,6 +105,10 @@ export default class Navbar extends React.Component {
                                                               className="navbar-item">
                                                             Case Studies
                                                         </Link>
+                                                        <Link to="/events"
+                                                              className="navbar-item">
+                                                            Events
+                                                        </Link>
                                                         <Link to="/getting-started"
                                                               activeClassName="active-nav-item"
                                                               className="navbar-item">

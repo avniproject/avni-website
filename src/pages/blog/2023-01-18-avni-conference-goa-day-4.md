@@ -7,6 +7,8 @@ description: This blogpost covers the fourth day of the Avni conference which in
 
 featuredpost: false 
 featuredimage: /img/2023-01-12-avni-conference-goa/day-4/Floral with NGO.jpg
+tags:
+  - Avni Conference 2023
 ---
 
 I woke up with some fresh energy. I am not sure if it was adequate sleep after not being able to sleep well for a couple of nights or it was the refreshing taste of Goan coconut Fenny from previous night. The day started with Avni team members and some of the NGO folks participating in the morning run at the beach. 

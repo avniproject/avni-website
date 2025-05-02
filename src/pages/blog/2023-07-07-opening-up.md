@@ -6,7 +6,6 @@ author: Vinay Venu
 description:
 featuredpost: false
 tags: 
-- Process
 ---
 
 ### Hello
@@ -44,3 +43,6 @@ there have been a few developments on the Avni project that made us think more a
 ### Eventually, we will
 
 need to do other things as well, to enable users have a better say in what needs to go into the product etc. Looking for feedback. Do join the Skype channel, and let the conversation begin.
+
+
+Update as on 14 Mar 2025: The communication channels have now been moved to Discord because Skype is shutting down. Please find us on Discord at https://discord.gg/4pcgcQW8pk

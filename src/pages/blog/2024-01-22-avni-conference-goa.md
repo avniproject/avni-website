@@ -7,7 +7,7 @@ description:
 featuredpost: false
 featuredimage: /img/2024-06-03-avni-conference-goa/team.png
 tags: 
-- Avni Conference
+- Avni Conference 2024
 ---
 
 # Introduction

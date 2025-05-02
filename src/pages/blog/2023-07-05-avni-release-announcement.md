@@ -6,7 +6,6 @@ author: The Avni Team
 description:
 featuredpost: false
 tags:
-- Release announcement
 ---
 
 Release 3.40.0 is now live.  

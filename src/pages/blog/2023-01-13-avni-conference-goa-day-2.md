@@ -7,6 +7,8 @@ description: In this blog, we have covered the happenings of the second day of t
 
 featuredpost: false 
 featuredimage: /img/2023-01-12-avni-conference-goa/day-2/coverphoto.jpeg
+tags:
+  - Avni Conference 2023
 ---
 
 ## End of day 1

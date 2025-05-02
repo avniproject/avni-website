@@ -9,7 +9,7 @@ description: >-
 featuredstudy: false
 tags:
   - Health
-  - Prescription
+  - Case Study
 ---
 There are parts of India where the road connectivity from the villages to the nearest block headquarter is quite poor. One such place (tehsil, i.e. block or sub-district) is <a href="https://www.mapsofindia.com/villages/maharashtra/gadchiroli/bhamragad/" target="_blank" rel="noopener noreferrer">Bhamraghad</a>. <a href="http://www.lokbiradariprakalp.org/" target="_blank" rel="noopener noreferrer">Lokbiradari Prakalp</a> (LBP), in village Hemalkasa, is the literal lifeline of this and neighbouring blocks, because it has a hospital (do go to the home page of Lokbiradari Prakalp and see the photos to get the feel of the place and the hospital).
 

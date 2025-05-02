@@ -7,6 +7,8 @@ description: In this blog, we have covered the happenings of the fourth day of t
 
 featuredpost: false
 featuredimage: /img/2023-01-12-avni-conference-goa/day-4/sunset_group.jpeg
+tags:
+  - Avni Conference 2023
 ---
 
 This is the first day of our Goa conference where the Avni team interacted with our clients. The conference was scheduled at 9.30 am. Before that, we gave ourselves an energy boost, with an early morning beach walk and a sumptuous breakfast.

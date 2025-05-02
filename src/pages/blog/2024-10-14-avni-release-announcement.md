@@ -7,7 +7,6 @@ description:
 featuredpost: false
 featuredimage: /img/2024-10-14-avni-release-announcement/2.png
 tags:
-- Release announcement
 ---
 
 <div style="width: 70%">

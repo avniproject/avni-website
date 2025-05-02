@@ -6,7 +6,6 @@ author: The Avni Team
 description: >-
 featuredpost: false
 tags:
-  - Release announcement 
 ---
 
 Release 3.36 is now live. Please note that this is a major release. Please see the [detailed release notes](https://github.com/avniproject/avni-product/releases/tag/v3.36.5) for more information.

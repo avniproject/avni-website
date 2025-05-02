@@ -4,11 +4,11 @@ title: Exploring Ground Realities- A Visit to Centre for Social Justice in Ahmed
 date: 2025-01-12T20:30:00.000Z
 author: Parth Halani
 description:
-featuredpost: true
+featuredpost: false
 featuredimage: /img/2025-01-12-A-Visit-To-Centre-For-Social-Justice-In-Ahmedabad/3.webp
 tags:
-  - social-security
-  - community-health
+  - Health
+  - Field Visits
 ---
 
 

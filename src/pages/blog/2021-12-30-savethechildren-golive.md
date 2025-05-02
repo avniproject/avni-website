@@ -8,7 +8,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/SaveTheChildren/STCATP_banner.png
 tags:
- - Project Updates
+ - Case Study
  - Child Protection
 ---
 

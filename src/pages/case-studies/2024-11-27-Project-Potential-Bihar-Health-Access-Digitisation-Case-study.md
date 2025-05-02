@@ -6,6 +6,9 @@ author: A Ashok Kumar
 description:
 featuredpost: true
 featuredimage: /img/2024-11-27-Project-Potential-Bihar-Health-Access-Digitisation-Case-study/featured.jpg
+tags:
+  - Social Security
+  - Case Study
 ---
 
 <div style="width: 100%">

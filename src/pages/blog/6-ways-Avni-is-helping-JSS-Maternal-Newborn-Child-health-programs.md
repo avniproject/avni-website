@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png
 author: Ravindra Kurbude
 tags:
-  - User stories
+  - User story
   - Health
 ---
 ![](/img/6-ways-how-Avni-is-helping-JSS-MCH-Phulwari-programs/JSSCP_Ravi_Quote.png)

@@ -8,13 +8,13 @@ description: In this blog, I have covered the happenings of the second day of th
 featuredpost: false
 featuredimage: /img/2023-07-14-avni-sprint-udaipur-day-2/fateh-sagar.jpg
 tags:
-- Udaipur Sprint
+  - Udaipur Sprint 2023 July
 ---
 
 The Tech4Dev sponsored, Avni sprint in Udaipur was conducted from 9th - 14th July 2023. After a hectic start to the sprint on the first day, on day 2, we set out to achieve few of the team objectives for the sprint:
  - Group discussions 
  - Knowledge sharing and 
- - Field visits / NGO Founder talks
+ - Field Visitss / NGO Founder talks
 
 Read on to know more about how the day unfolded.
 

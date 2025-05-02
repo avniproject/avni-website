@@ -6,7 +6,6 @@ author: The Avni Team
 description: >-
 featuredpost: false
 tags:
-  - Release announcement 
 ---
 
 Note: There is no update to the Android app. 

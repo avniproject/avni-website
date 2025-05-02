@@ -6,7 +6,6 @@ author: The Avni Team
 description:
 featuredpost: false
 tags:
-- Release announcement
 ---
 
 Patch Release 3.37.12 is now live. This release includes Support translations in growth chart, 12hr time format support and minor Bug fixes.

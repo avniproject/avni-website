@@ -7,6 +7,8 @@ description: In this blog, we have covered the happenings of the fourth day of t
 
 featuredpost: false 
 featuredimage: /img/2023-01-12-avni-conference-goa/day-4/scenary.jpg
+tags:
+  - Avni Conference 2023
 ---
 
 Welcome to Day 4 of Avni Sprint January 2023, Goa. Day 4 brought us a great bond between us, proving that this sprint is a lot more surprising than usual and every second is worth mentioning.

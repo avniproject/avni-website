@@ -7,9 +7,8 @@ description: >-
 author: Vinay Venu
 tags:
   - Education
-  - Scale
   - Government
-  - Andhra Pradesh
+  - Case Study
 ---
 
 ![](/img/classroom-observation-tool-for-andhra-pradesh/classroom.jpg)

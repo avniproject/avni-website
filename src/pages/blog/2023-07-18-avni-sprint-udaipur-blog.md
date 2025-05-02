@@ -8,7 +8,7 @@ description: This blog describes a four-day sprint journey in Udaipur, Rajasthan
 featuredpost: false
 featuredimage: /img/2023-07-18-udaipur-sprint-vinay/team-pic.jpeg
 tags:
-- Udaipur Sprint
+- Udaipur Sprint 2023 July
 ---
 
 # A Four-Day Sprint Journey in Udaipur: A Blend of Work, Play, and Cultural Immersion

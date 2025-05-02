@@ -4,8 +4,11 @@ title: My First Field Visit to Harsha Trust - Seeing Avni’s Impact in Action
 date: 2024-09-17T20:30:00.000Z
 author: Shubhamita Kanungo
 description:
-featuredpost: true
+featuredpost: false
 featuredimage: img/2024-09-17-My-First-Field-Visit-to-Harsha-Trust-Seeing-Avni’s-Impact-in-Action/APF_blog_1.jpeg
+tags:
+  - Field Visits
+  - Health
 ---
 
 

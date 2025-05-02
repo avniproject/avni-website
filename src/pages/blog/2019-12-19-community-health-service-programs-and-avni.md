@@ -13,6 +13,7 @@ featuredpost: false
 featuredimage: /img/chw-work-complexity.png
 tags:
   - Health
+  - Knowledge
 ---
 ## **Community health**
 

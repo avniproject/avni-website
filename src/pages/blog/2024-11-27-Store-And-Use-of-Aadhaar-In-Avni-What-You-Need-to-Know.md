@@ -7,6 +7,8 @@ description:
 
 featuredpost: false
 featuredimage: /img/2024-11-27-Aadhaar-what-you-need-to-know/Aadhaar_blog.png
+tags: 
+    - Knowledge
 ---
 
 ## Context

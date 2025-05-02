@@ -7,7 +7,7 @@ description: I recently had the incredible opportunity to participate in the Avn
 
 featuredpost: false
 tags:
-- Udaipur Sprint
+  - Udaipur Sprint 2023 July
 ---
 
 

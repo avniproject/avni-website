@@ -6,12 +6,6 @@ author: The Avni Team
 description: >-
 featuredpost: false
 tags:
-  - Release announcement 
-  - Household 
-  - Groups 
-  - App Designer 
-  - Data importer
-  - Access control
 ---
 
 A new release of Avni field app and Avni admin app is available.

@@ -9,6 +9,8 @@ description: >-
   and Avni are empowering NGOs in data collection, visualization, and impact scaling.
 featuredpost: false
 featuredimage: /img/2025-03-03-exploring-tech4devs-impact-dalgo-sprint-avni-conference/45.webp
+tags:
+  - Avni Conference 2025
 ---
 
 <div style="width: 70%">

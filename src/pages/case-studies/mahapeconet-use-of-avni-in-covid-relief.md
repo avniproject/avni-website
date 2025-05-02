@@ -8,9 +8,8 @@ description: >-
 featuredstudy: false
 author: Vinay Venu
 tags:
-  - Covid
   - Survey
-  - MIS
+  - Case Study
 ---
 
 _In 3 words , Avni MIS has been versatile , impactful and qualitative._ - **Shilpa Mirashi Director, Indian Institute of Youth Welfare Nagpur**

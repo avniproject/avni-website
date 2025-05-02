@@ -6,7 +6,6 @@ author: The Avni Team
 description:
 featuredpost: false
 tags:
-- Release announcement
 ---
 
 Patch Release 3.39.1 is now live. 

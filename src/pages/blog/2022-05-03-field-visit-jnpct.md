@@ -7,10 +7,8 @@ description: >-
 featuredpost: false
 featuredimage: /img/2022-05-03-field-visit-jnpct/map-of-valsad-district.png
 tags:
- - Project Updates
- - JNPCT
  - Health
- - Field Visit Report
+ - Field Visits
 ---
 In April Utkarsh Hathi and I did a 2 day visit to Jashoda Narottam Public Charity Trust (JNPCT) a non profit organisation working in the tribal belts of south Gujarat. JNPCT works in villages bordering Maharashtra in the blocks of Dharampur and Kaprada of Valsad district. The organisation has been using Avni for their interventions on community health. The purpose of our visit was to see first hand how the users are using the application and take feedback from them.
 

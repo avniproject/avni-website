@@ -6,6 +6,7 @@ See live - https://avniproject.org/
 Install `gatsby-cli` globally - `npm install -g gatsby-cli`
 
 In repo root:
+- Ensure the correct Node.js version - `nvm use`
 - Install dependencies - `npm install` or `make deps`
 - Start development server - `gatsby develop` or `make start`
 - Check the website at ```http://localhost:8000```

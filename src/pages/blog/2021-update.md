@@ -7,7 +7,7 @@ description: 2021 has been a year of mixed emotions going through Wave 2 of the 
 featuredpost: false
 featuredimage: /img/2021-update/2021-reach-and-impact.png
 tags:
- - Product Updates
+ - Annual Update
 ---
 # Usage and Impact
 ----------------

@@ -7,6 +7,9 @@ description:
 featuredpost: false
 featuredimage: /img/2024-11-11-jal-jeevan-mission-arghyam/1.webp
 tags:
+  - Water
+  - Government
+  - Case Study
 ---
 
 <div style="width: 100%">
