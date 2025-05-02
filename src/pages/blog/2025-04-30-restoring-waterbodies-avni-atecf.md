@@ -1,10 +1,9 @@
 ---
 templateKey: blog-post
-title: Restoring Waterbodies: How the Avni Gramin App, in Collaboration with ATECF, is Making a Lasting Impact
+title: Restoring Waterbodies How the Avni Gramin App, in Collaboration with ATECF, is Making a Lasting Impact
 date: 2025-04-30T10:00:00.000Z
 author: Anjali Bhagabati
-description: >-
-  With India's growing water crisis, the Rejuvenation of Waterbodies Project by ATECF 
+description: With India's growing water crisis, the Rejuvenation of Waterbodies Project by ATECF 
   and the Avni Gramin App are bringing lasting change by streamlining restoration efforts 
   through technology, empowering rural communities, and ensuring sustainable water access.
 featuredpost: false
