@@ -149,6 +149,7 @@ The model IHMP has developed is highly replicable and scalable—both in terms o
 If you're interested in adopting a similar approach or want to learn more about how the Avni platform can support your initiatives:
 
 👉 [Schedule a call with us](https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText)
+
 📬 [Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)
 
 Let’s work together to scale impactful solutions for better health outcomes.
