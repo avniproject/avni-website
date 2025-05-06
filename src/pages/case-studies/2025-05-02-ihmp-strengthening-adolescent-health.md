@@ -13,9 +13,25 @@ featuredimage:
 
 ## Introduction
 
-Over the last 45 years, the Institute of Health Management Pachod (IHMP) – a non-profit organisation – has been at the forefront of addressing critical public health issues faced by disadvantaged communities in India. Since its establishment in 1979, IHMP has positively impacted over seven million people, focusing on maternal and neonatal health, child health, sexual and reproductive health, family planning, and adolescent development.
+Over the last 45 years, the Institute of Health Management Pachod (IHMP) – a non-profit
+organisation – has been at the forefront of addressing critical public health issues faced by
+disadvantaged communities in India. Since its establishment in 1979, IHMP has positively impacted
+over seven million people, focusing on maternal and neonatal health, child health, sexual and
+reproductive health, family planning, and adolescent health and development.
 
-A major focus over the last 25 years has been on safeguarding and transforming the lives of vulnerable adolescent girls in rural and urban slum communities. IHMP’s initiatives have reached over 127,000 married adolescent girls, significantly increasing contraceptive use, delaying first pregnancies, and reducing maternal and child mortality. Additionally, IHMP has provided life skills education to 103,000 unmarried girls, delaying marriage age from 14.5 to 18 years, while also engaging 8,600 boys and young men to promote gender-equitable behaviors.
+A major focus over the last 25 years has been on safeguarding and transforming the lives of
+vulnerable adolescent girls in rural and urban slum communities.
+
+IHMP has provided life skills education to 103,000 unmarried girls, delaying marriage age from 14.5
+to 18 years, while also engaging 8,600 boys and young men to prevent child marriage and promote
+gender-equitable behaviours.
+
+The Life skills Education for adolescent girls was scaled up through a network of 7 NGOs with equally
+encouraging results similar to the pilot project.
+
+IHMP’s sexual and reproductive health interventions have reached over 127,000 married adolescent
+girls, significantly increasing contraceptive use, delaying first pregnancies, and reducing maternal,
+neonatal and child morbidity and mortality.
 
 <div style="width: 70%">
     <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/I1.webp">
@@ -23,36 +39,84 @@ A major focus over the last 25 years has been on safeguarding and transforming t
 
 ## Problem Statement & Intervention 1: Addressing Health Risks Among Adolescent Girls
 
-The urban slums of Pune presented several public health challenges:
+The villages of central Maharashtra and the urban slums of Pune presented several public health
+challenges:
 
 - **High Health Risks**: Early pregnancies led to increased adolescent deaths and maternal and neonatal morbidity.
-- **Limited Access to Services**: Young women had little to no access to sexual and reproductive health services.
-- **Behavioral Barriers**: Lack of awareness hindered effective use of healthcare facilities.
+- **Limited Access to Services**: Adolescent girls and young women had limited access to sexual and
+reproductive health services.
+- **Behavioral Barriers**: Lack of awareness had a major influence on health seeking and utilisation
+behaviours and effective use of healthcare facilities.
 
 **IHMP’s Integrated Reproductive and Sexual Health and Family Planning Project** focused on:
 
-- Delaying early pregnancies and increasing family planning awareness.
-- Improving access to antenatal and postnatal care services.
-- Providing life skills education to prevent early marriages.
-- Engaging young men to shift gender norms.
+- Providing life skills education with the aim of empowering adolescent girls in order to prevent
+early marriages.
+- Increasing family planning awareness
 
-The intervention relied on a **community-based model**, led by ASHA workers through regular home visits, paper-based registers, and monthly micro-plans. This manual model laid a strong foundation but revealed limitations as the program scaled.
+- Improving access to contraceptives to delay early pregnancy and for adequate spacing between
+pregnancies
+- Improving access to antenatal and home based postnatal and neonatal care services.
+- Identifying girls and young women with danger signs and linking them to appropriate
+secondary or tertiary health care services
+- Engaging and educating boys and young men in order to prevent child marriage and influence
+their attitudes and gender inequitable behaviours, including intimate partner violence.
+
+The intervention relied on a **community-based model**, led by ASHA workers through regular home
+visits, paper-based registers, and monthly micro-plans. This manual model laid a strong foundation
+for scaling up.
+
+The interventions were scaled through a network of NGOs in 120 villages in 5 of the most backward
+districts of Maharashtra. The impact of the interventions were reported in The Lancet as follows:
+
+**Efficacy of an intervention for improving the reproductive and sexual health of married adolescent
+girls and addressing the adverse consequences of early motherhood**
+
+**Findings:** Respondents from the intervention and control sites were similar for most key indicators.
+Median age at first birth increased at intervention sites from 16·9 years in 2008 (n=111, IQR
+16·4–17·4) to 18·1 years in 2010 (n=61, IQR 17·8–18·8). In 2010, use of contraceptives was
+significantly higher at intervention sites (256 [33·7%] of 759 girls) than at control sites (33 [6·4%] of
+516 girls; OR 7·45, 95% CI 5–11·Early antenatal registration was 78·7% (414 of 526 girls) versus
+54·7%, (151 of 276 girls; OR 2·93, 95% CI 2·11–4·06); minimum standard antenatal care was 56·1%,
+(295 of 526 girls) versus 24·3% (67 of 276 girls; OR 3·89, 95% CI 2·78–5·48); treatment for antenatal
+complications was 87·6% (205 of 234 girls) versus 77·1% (108 of 140 girls; OR 2·18, 95% CI
+1·21–3·12); treatment for postnatal and neonatal complications was 78·8% (123 of 156 girls) versus
+62.0% (49 of 79 girls; p=0·07); treatment use for reproductive tract infection or sexually transmitted
+infection was 60·4% (125 of 207) versus 28·9% (43 of 149; OR 3·76, 95% CI 2·34–6·05). Testing for
+HIV increased from 96 (11·7%) of 818 girls in 2008 to 446 (58·7%) of 759 girls in 2010 at the
+intervention sites compared with nine (1·8%) of 493 girls in 2008 to 82 (15·89%) of 516 girls in 2010
+at control sites.
+
+**Interpretation:** Focused, community based interventions, implemented by frontline health workers
+result in a rapid and significant improvement in utilization and coverage with reproductive health
+services among married adolescent girls. The interventions were implemented primarily through
+community health workers and auxiliary nurse midwives. With more than 900 000 community health
+workers and 140 000 auxiliary nurse midwives providing primary level care in India, replication of
+this strategy seems imminently feasible.
+
+Eventually the intervention was successfully scaled up through 7 primary health centres, in one
+block, exclusively through the Government health delivery system
 
 ## Problem Statement & Intervention 2: Improving Efficiency in Healthcare Delivery Through Digital Tools
 
 Despite successful interventions, service delivery inefficiencies emerged:
 
 - **Manual Paperwork**: Led to frequent human errors, missed visits, and delayed interventions.
-- **Frontline Worker Burden**: Excessive paperwork left less time for community engagement.
+- **Frontline Worker Burden**: Excessive paperwork left less time for community engagement and service provision.
 
 To overcome these, IHMP adopted the **Avni platform**, digitizing healthcare delivery across urban slums and rural villages.
 
 Key features of the Avni app:
 
-- **Visit Scheduling and Micro-Planning**: Automated schedules based on real-time health assessments, prioritizing high-risk cases.
+- **Census and target population listing**: leads to denominator based strategic
+planning
+- **Monthly Visit Scheduling and Micro-Planning**: Automated schedules based on real-time health assessments, prioritizing high-risk cases.
 - **Real-time Monitoring**: Supervisors track field activities instantly, identifying and addressing gaps.
 - **Job Aid for ASHAs**: The app supports symptom assessments and action guidance during visits.
-- **Counseling and Referrals**: It also facilitates real-time counseling, generates referral notes, and supports effective linkage to health services.
+- **Counseling**: It facilitates real-time need specific behaviour change
+communication, counselling and motivation.
+- **Referrals**: The App facilitates timely identification of danger signs and morbidity
+leading to efficient referral, and supports effective linkage to health services.
 
 <div style="width: 70%">
     <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/I2.webp">
@@ -63,7 +127,12 @@ Key features of the Avni app:
 The digital intervention led to significant improvements:
 
 - **Behavioral Changes**: Increased maternal service utilization and contraceptive use.
+- **Performance of health workers**: Frontline workers demonstrated effective use
+of the digital App. There was a measurable improvement in the performance of
+frontline health workers
 - **Quantitative Gains**: From 2021–2024, YMW (young married women) monthly visit coverage rose by 21.4 percentage points.
+- **Health Status changes**: There was a significant reduction in the burden of
+morbidity and maternal complications.
 - **Efficiency Gains**: ASHA workers reported higher job satisfaction, reduced paperwork, and better income through performance-based incentives.
 - **Monitoring and Coverage**: Real-time data allowed timely corrective actions, improving service coverage.
 
@@ -73,4 +142,11 @@ The digital intervention led to significant improvements:
 
 ## Conclusion
 
-IHMP’s project in Pune’s slums shows how digital tools like the Avni app can drive major improvements in public health interventions. Through early identification of health needs, real-time monitoring, and effective counseling, IHMP strengthened healthcare delivery and contributed to the holistic development of vulnerable communities. This success reaffirms IHMP’s mission to address gender inequities and improve health outcomes for women and children in disadvantaged settings.
+IHMP’s project in villages of Marathwada region of Maharashtra and slums in Pune
+city shows how digital tools like the Avni app can drive major improvements in public
+health interventions through early identification of health needs, effective counselling
+and behaviour modification and real-time monitoring, IHMP complemented and
+strengthened the formal healthcare delivery system and contributed to the holistic
+development of vulnerable adolescent girls and young women This success
+reaffirms IHMP’s mission to address gender inequities and improve health outcomes
+for adolescent girls, women and children in disadvantaged settings.
