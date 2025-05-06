@@ -142,11 +142,13 @@ morbidity and maternal complications.
 
 ## Conclusion
 
-IHMP’s project in villages of Marathwada region of Maharashtra and slums in Pune
-city shows how digital tools like the Avni app can drive major improvements in public
-health interventions through early identification of health needs, effective counselling
-and behaviour modification and real-time monitoring, IHMP complemented and
-strengthened the formal healthcare delivery system and contributed to the holistic
-development of vulnerable adolescent girls and young women This success
-reaffirms IHMP’s mission to address gender inequities and improve health outcomes
-for adolescent girls, women and children in disadvantaged settings.
+IHMP’s work in Maharashtra’s Marathwada region and Pune’s urban slums shows how digital tools like the Avni app can strengthen public health interventions. By enabling early identification of health needs, real-time monitoring, and effective counselling, the project has improved health outcomes for adolescent girls and young women in vulnerable communities.
+
+The model IHMP has developed is highly replicable and scalable—both in terms of its community-based strategy and the digital infrastructure powered by Avni.
+
+If you're interested in adopting a similar approach or want to learn more about how the Avni platform can support your initiatives:
+
+👉 [Schedule a call with us](https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText)
+📬 [Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)
+
+Let’s work together to scale impactful solutions for better health outcomes.

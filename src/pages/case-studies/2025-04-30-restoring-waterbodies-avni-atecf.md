@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: case-study
 title: Restoring Waterbodies How the Avni Gramin App, in Collaboration with ATECF, is Making a Lasting Impact
 date: 2025-04-30T10:00:00.000Z
 author: Anjali Bhagabati
