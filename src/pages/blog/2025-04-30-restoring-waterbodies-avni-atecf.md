@@ -41,6 +41,10 @@ The Avni-Gramin App makes it easier to collect, store, and manage data related t
 
 Avni-Gramin is an open-source, Android-based mobile app for recording real-time information about the various on-the-ground activities associated with a waterbody rejuvenation project. The app is a part of Avni, a digital tool that helps social impact organisations simplify workflows, track program progress, and make better decisions based on accurate, structured data.
 
+<div style="width: 70%">
+    <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/1.jpg">
+</div>
+
 ### Key Features of Avni-Gramin:
 
 - **Real-Time Data Collection:** CRPs can collect data on restoration activities immediately and upload it to the system, ensuring real-time tracking of project progress.
