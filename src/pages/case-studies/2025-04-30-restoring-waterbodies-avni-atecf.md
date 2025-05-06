@@ -91,4 +91,10 @@ If you are part of an NGO or a community-focused organisation working on project
 
 Join the growing number of organisations that are using Avni to make a difference in communities across India. Whether you are working on waterbody rejuvenation, improving access to health services, or addressing social security issues, Avni can help you achieve your goals more efficiently.
 
+If you're interested in adopting a similar approach or want to learn more about how the Avni platform can support your initiatives:
+
+👉 [Schedule a call with us](https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText)
+
+📬 [Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)
+
 ---
