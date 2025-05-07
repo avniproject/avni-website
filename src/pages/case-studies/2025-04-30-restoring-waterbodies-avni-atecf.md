@@ -7,7 +7,8 @@ description: With India's growing water crisis, the Rejuvenation of Waterbodies 
   and the Avni Gramin App are bringing lasting change by streamlining restoration efforts 
   through technology, empowering rural communities, and ensuring sustainable water access.
 featuredpost: false
-tags: - Waters
+tags: 
+    - Waters
 featuredimage: /img/2025-04-30-restoring-waterbodies-avni-atecf/R1.webp
 ---
 
@@ -79,7 +80,7 @@ The integration between Avni and Glific empowers NGOs to enhance their engagemen
 The Rejuvenating Water Bodies (RWB) project and the Avni platform were featured in the [Economic Survey of India 2024–25](https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap09.pdf) as a model of how grassroots efforts can be amplified through digital innovation. While RWB brings large-scale impact through community-led waterbody restoration, Avni enables this scale with structured, real-time data collection—even in remote areas. Their combined approach is now gaining national and global recognition as a replicable model for tech-enabled rural development. 
 
 <div style="width: 70%">
-    <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/ATECF_ES.png">
+    <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/ATECF_ES.jpeg">
 </div>
 
 ---
