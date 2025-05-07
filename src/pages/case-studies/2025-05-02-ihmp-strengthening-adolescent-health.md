@@ -137,7 +137,7 @@ morbidity and maternal complications.
 - **Monitoring and Coverage**: Real-time data allowed timely corrective actions, improving service coverage.
 
 <div style="width: 70%">
-    <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/I3.webp">
+    <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/IHMP.webp">
 </div>
 
 ## Conclusion
