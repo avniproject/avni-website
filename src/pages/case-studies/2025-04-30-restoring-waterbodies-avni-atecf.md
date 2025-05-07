@@ -7,6 +7,7 @@ description: With India's growing water crisis, the Rejuvenation of Waterbodies 
   and the Avni Gramin App are bringing lasting change by streamlining restoration efforts 
   through technology, empowering rural communities, and ensuring sustainable water access.
 featuredpost: false
+tags: - Waters
 featuredimage: /img/2025-04-30-restoring-waterbodies-avni-atecf/R1.webp
 ---
 
@@ -42,7 +43,7 @@ The Avni-Gramin App makes it easier to collect, store, and manage data related t
 Avni-Gramin is an open-source, Android-based mobile app for recording real-time information about the various on-the-ground activities associated with a waterbody rejuvenation project. The app is a part of Avni, a digital tool that helps social impact organisations simplify workflows, track program progress, and make better decisions based on accurate, structured data.
 
 <div style="width: 70%">
-    <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/1.jpg">
+    <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/78.webp">
 </div>
 
 ### Key Features of Avni-Gramin:
@@ -55,7 +56,6 @@ Avni-Gramin is an open-source, Android-based mobile app for recording real-time 
 - **Mobile Number Uniqueness:** A check is done on mobile number uniqueness to identify potential duplicates or fraudulent entries.
 - **OTP Verification:** A One-Time Password (OTP) verification system ensures that all user data is secure and verified, enhancing the overall trustworthiness of the platform.
 - **Structured Data Entry:** Customisable forms make it easy to enter data in a structured and consistent manner, ensuring accuracy in reporting and decision-making.
-
 
 
 ## Integration of Avni and Dalgo: Expanding Reach
@@ -76,7 +76,11 @@ The integration between Avni and Glific empowers NGOs to enhance their engagemen
 
 ## Scale and Credibility
 
-Avni has been adopted by over 60 projects across a wide range of sectors. Its impact extends beyond just waterbody restoration, with Avni being used in the fields of health, education, and social welfare. As a Digital Public Good, Avni has garnered global attention and is supported by organisations such as the United Nations and the Indian Government. Its inclusion in the Economic Survey of India 2024-25 is a testament to its effectiveness and credibility.
+The Rejuvenating Water Bodies (RWB) project and the Avni platform were featured in the [Economic Survey of India 2024–25](https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap09.pdf) as a model of how grassroots efforts can be amplified through digital innovation. While RWB brings large-scale impact through community-led waterbody restoration, Avni enables this scale with structured, real-time data collection—even in remote areas. Their combined approach is now gaining national and global recognition as a replicable model for tech-enabled rural development. 
+
+<div style="width: 70%">
+    <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/ATECF_ES.png">
+</div>
 
 ---
 
