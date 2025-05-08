@@ -36,7 +36,7 @@ The Avni-Gramin App makes it easier to collect, store, and manage data related t
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/R3.webp">
 </div>
 
-## [Case Study: ATECF Rejuvenating Water Bodies | Open-sourced Tool in Solving India's Water Crisis](https://www.youtube.com/watch?v=TRXE63EmLGY)
+## 🎥 [Video Case Study: ATECF Rejuvenating Water Bodies | Open-sourced Tool in Solving India's Water Crisis](https://www.youtube.com/watch?v=TRXE63EmLGY)
 
 
 ## Avni-Gramin: Empowering Communities, Simplifying Data
