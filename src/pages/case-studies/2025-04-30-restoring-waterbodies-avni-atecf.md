@@ -56,6 +56,7 @@ The Avni-Gramin App makes it easier to collect, store, and manage data related t
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/R3.webp">
 </div>
 
+
 <a href="https://www.youtube.com/watch?v=TRXE63EmLGY" target="_blank" rel="noopener noreferrer">
     <h2>Case Study: ATECF Rejuvenating Water Bodies | Open-sourced Tool in Solving India's Water Crisis</h2>
 </a>
@@ -98,7 +99,7 @@ The synergy between Avni-Gramin and Dalgo offers comprehensive tracking, reporti
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/R2.webp">
 </div>
 
-## Avni - Glific Integration:
+## Avni-Glific Integration:
 
 <p>
 The integration between Avni and
