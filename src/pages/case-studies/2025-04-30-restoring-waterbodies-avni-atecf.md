@@ -81,22 +81,42 @@ Avni-Gramin is an open-source, Android-based mobile app for recording real-time 
 - **Structured Data Entry:** Customisable forms make it easy to enter data in a structured and consistent manner, ensuring accuracy in reporting and decision-making.
 
 
-## Integration of Avni and [Dalgo](https://dalgo.org/): Expanding Reach
+## Integration of Avni and Dalgo: Expanding Reach
 
-To further enhance the power of Avni, it integrates seamlessly with Dalgo, a data aggregation tool that helps NGOs and community organisations scale their operations. This integration allows for deeper insights into the data collected and facilitates better decision-making across large-scale projects. The synergy between Avni-Gramin and Dalgo offers comprehensive tracking, reporting, and analysis capabilities, ensuring that organisations can manage their projects efficiently and effectively.
+<p>
+To further enhance the power of Avni, it integrates seamlessly with
+<a href="https://dalgo.org/" target="_blank" rel="noopener noreferrer">
+Dalgo
+</a>,
+a data aggregation tool that helps NGOs and community organisations scale their operations.
+This integration allows for deeper insights into the data collected and facilitates better decision-making across large-scale projects.
+The synergy between Avni-Gramin and Dalgo offers comprehensive tracking, reporting, and analysis capabilities, ensuring that organisations can manage their projects efficiently and effectively.
+</p>
+
 
 <div style="width: 70%">
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/R2.webp">
 </div>
 
-## Avni - [Glific](https://glific.org/) Integration:
+## Avni - Glific Integration:
 
-The integration between Avni and Glific empowers NGOs to enhance their engagement efforts by leveraging WhatsApp for communication, enabling organisations to automate and personalise interactions with beneficiaries. Glific supports interactive chats, allowing beneficiaries to respond, ask questions, or provide feedback through platforms like WhatsApp.
+<p>
+The integration between Avni and
+<a href="https://glific.org/" target="_blank" rel="noopener noreferrer">
+Glific
+</a>
+empowers NGOs to enhance their engagement efforts by leveraging WhatsApp for communication, enabling organisations to automate and personalise interactions with beneficiaries.
+Glific supports interactive chats, allowing beneficiaries to respond, ask questions, or provide feedback through platforms like WhatsApp.
+</p>
 
-> For a visual demonstration of how Avni and Glific work together, [do watch this video](https://www.youtube.com/watch?v=MufJOHVUQh0).
+<blockquote>
+For a visual demonstration of how Avni and Glific work together,
+<a href="https://www.youtube.com/watch?v=MufJOHVUQh0" target="_blank" rel="noopener noreferrer">
+do watch this video
+</a>.
+</blockquote>
 
 ---
-
 ## Scale and Credibility
 
 <p>
