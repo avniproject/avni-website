@@ -12,9 +12,22 @@ tags:
 featuredimage: /img/2025-04-30-restoring-waterbodies-avni-atecf/R1.webp
 ---
 
-India is facing an escalating water crisis. With the country’s water supply rapidly dwindling, [experts have warned that by 2030, India may fall into the category of "water-stressed nations](https://economictimes.indiatimes.com/news/economy/agriculture/by-2030-indias-water-demand-to-be-twice-the-available-supply-indicating-severe-water-scarcity-report/articleshow/64679218.cms?from=mdr)," with per capita water availability dropping below sustainable levels.
+<p>
+India is facing an escalating water crisis. With the country’s water supply rapidly dwindling,
+<a href="https://economictimes.indiatimes.com/news/economy/agriculture/by-2030-indias-water-demand-to-be-twice-the-available-supply-indicating-severe-water-scarcity-report/articleshow/64679218.cms?from=mdr" target="_blank" rel="noopener noreferrer">
+experts have warned that by 2030, India may fall into the category of "water-stressed nations"
+</a>,
+with per capita water availability dropping below sustainable levels.
+</p>
 
-To address this issue, the Rejuvenation of Waterbodies (RWB) Project by the [A.T.E. Chandra Foundation](https://www.ategroup.com/csr/#tab2) (ATECF) is making strides in restoring neglected water bodies throughout India. ATECF focuses on revitalising ponds, lakes, and other water bodies that have been neglected due to sedimentation and other issues, helping to increase their storage capacity and improve access to water for rural communities.
+<p>
+To address this issue, the Rejuvenation of Waterbodies (RWB) Project by the
+<a href="https://www.ategroup.com/csr/#tab2" target="_blank" rel="noopener noreferrer">
+A.T.E. Chandra Foundation
+</a> (ATECF) is making strides in restoring neglected water bodies throughout India.
+ATECF focuses on revitalising ponds, lakes, and other water bodies that have been neglected due to sedimentation and other issues,
+helping to increase their storage capacity and improve access to water for rural communities.
+</p>
 
 <div style="width: 70%">
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/R1.webp">
@@ -28,7 +41,14 @@ It has been driving large-scale waterbody rejuvenation efforts across nine state
 
 As the efforts to restore water bodies grow, the need for a streamlined, transparent way to manage and track the progress of restoration activities becomes crucial.
 
-To solve this, [ATECF collaborated with Avni and started using the Avni Gramin App](https://projecttech4dev.org/waterbody-rejuvenation-project-a-t-e-chandra-foundation/) as a digital tool for data collection for their Community Resource Persons (CRPs) working in the field.
+<p>
+To solve this,
+<a href="https://projecttech4dev.org/waterbody-rejuvenation-project-a-t-e-chandra-foundation/" target="_blank" rel="noopener noreferrer">
+ATECF collaborated with Avni and started using the Avni Gramin App
+</a>
+as a digital tool for data collection for their Community Resource Persons (CRPs) working in the field.
+</p>
+
 
 The Avni-Gramin App makes it easier to collect, store, and manage data related to waterbody restoration, such as silt removal, bund strengthening, and other critical interventions. The app’s simple interface and offline functionality ensure that even in areas with limited connectivity, data can still be recorded and updated.
 
@@ -79,7 +99,16 @@ The integration between Avni and Glific empowers NGOs to enhance their engagemen
 
 ## Scale and Credibility
 
-The Rejuvenating Water Bodies (RWB) project and the Avni platform were featured in the [Economic Survey of India 2024–25](https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap09.pdf) as a model of how grassroots efforts can be amplified through digital innovation. While RWB brings large-scale impact through community-led waterbody restoration, Avni enables this scale with structured, real-time data collection—even in remote areas. Their combined approach is now gaining national and global recognition as a replicable model for tech-enabled rural development. 
+<p>
+The Rejuvenating Water Bodies (RWB) project and the Avni platform were featured in the
+<a href="https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap09.pdf" target="_blank" rel="noopener noreferrer">
+Economic Survey of India 2024–25
+</a>
+as a model of how grassroots efforts can be amplified through digital innovation.
+While RWB brings large-scale impact through community-led waterbody restoration, Avni enables this scale with structured, real-time data collection—even in remote areas.
+Their combined approach is now gaining national and global recognition as a replicable model for tech-enabled rural development.
+
+</p>
 
 <div style="width: 70%">
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/ATECF_ES.jpeg">
@@ -100,8 +129,17 @@ Join the growing number of organisations that are using Avni to make a differenc
 
 If you're interested in adopting a similar approach or want to learn more about how the Avni platform can support your initiatives:
 
-👉 [Schedule a call with us](https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText)
+<p>
+👉 <a href="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText" target="_blank" rel="noopener noreferrer">
+Schedule a call with us
+</a>
+</p>
 
-📬 [Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)
+<p>
+📬 <a href="https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7" target="_blank" rel="noopener noreferrer">
+Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.
+</a>
+</p>
+
 
 ---
