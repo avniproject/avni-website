@@ -61,7 +61,7 @@ Avni-Gramin is an open-source, Android-based mobile app for recording real-time 
 - **Structured Data Entry:** Customisable forms make it easy to enter data in a structured and consistent manner, ensuring accuracy in reporting and decision-making.
 
 
-## Integration of Avni and Dalgo: Expanding Reach
+## Integration of Avni and [Dalgo](https://dalgo.org/): Expanding Reach
 
 To further enhance the power of Avni, it integrates seamlessly with Dalgo, a data aggregation tool that helps NGOs and community organisations scale their operations. This integration allows for deeper insights into the data collected and facilitates better decision-making across large-scale projects. The synergy between Avni-Gramin and Dalgo offers comprehensive tracking, reporting, and analysis capabilities, ensuring that organisations can manage their projects efficiently and effectively.
 
@@ -69,7 +69,7 @@ To further enhance the power of Avni, it integrates seamlessly with Dalgo, a dat
     <img src="/img/2025-04-30-restoring-waterbodies-avni-atecf/R2.webp">
 </div>
 
-## Avni-Glific Integration:
+## Avni - [Glific](https://glific.org/) Integration:
 
 The integration between Avni and Glific empowers NGOs to enhance their engagement efforts by leveraging WhatsApp for communication, enabling organisations to automate and personalise interactions with beneficiaries. Glific supports interactive chats, allowing beneficiaries to respond, ask questions, or provide feedback through platforms like WhatsApp.
 
