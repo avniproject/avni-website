@@ -9,6 +9,8 @@ description: >-
   using the Avni platform.
 featuredpost: false
 featuredimage: 
+tags:
+  - Health
 ---
 
 ## Introduction
@@ -136,6 +138,15 @@ morbidity and maternal complications.
 - **Efficiency Gains**: ASHA workers reported higher job satisfaction, reduced paperwork, and better income through performance-based incentives.
 - **Monitoring and Coverage**: Real-time data allowed timely corrective actions, improving service coverage.
 
+<h2>Case Study: IHMP | Digitising Health Programs for Adolescent Girls</h2>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=l8MKie7cSms&list=PLEy8ff0CKDBkFhqQ95itFuEJMf38HwLBx" target="_blank" rel="noopener noreferrer">
+     Click here to watch the video!
+  </a>
+</p>
+
+
 <div style="width: 70%">
     <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/IHMP.webp">
 </div>
@@ -148,8 +159,16 @@ The model IHMP has developed is highly replicable and scalable—both in terms o
 
 If you're interested in adopting a similar approach or want to learn more about how the Avni platform can support your initiatives:
 
-👉 [Schedule a call with us](https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText)
+<p>
+👉 <a href="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion?embed_domain=avniproject.org&embed_type=PopupText" target="_blank" rel="noopener noreferrer">
+Schedule a call with us
+</a>
+</p>
 
-📬 [Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)
+<p>
+📬 <a href="https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7" target="_blank" rel="noopener noreferrer">
+Subscribe to our newsletter to stay updated on new case studies, features, and implementation stories.
+</a>
+</p>
 
 Let’s work together to scale impactful solutions for better health outcomes.
