@@ -74,20 +74,46 @@ districts of Maharashtra. The impact of the interventions were reported in The L
 **Efficacy of an intervention for improving the reproductive and sexual health of married adolescent
 girls and addressing the adverse consequences of early motherhood**
 
-**Findings:** Respondents from the intervention and control sites were similar for most key indicators.
-Median age at first birth increased at intervention sites from 16·9 years in 2008 (n=111, IQR
-16·4–17·4) to 18·1 years in 2010 (n=61, IQR 17·8–18·8). In 2010, use of contraceptives was
-significantly higher at intervention sites (256 [33·7%] of 759 girls) than at control sites (33 [6·4%] of
-516 girls; OR 7·45, 95% CI 5–11·Early antenatal registration was 78·7% (414 of 526 girls) versus
-54·7%, (151 of 276 girls; OR 2·93, 95% CI 2·11–4·06); minimum standard antenatal care was 56·1%,
-(295 of 526 girls) versus 24·3% (67 of 276 girls; OR 3·89, 95% CI 2·78–5·48); treatment for antenatal
-complications was 87·6% (205 of 234 girls) versus 77·1% (108 of 140 girls; OR 2·18, 95% CI
-1·21–3·12); treatment for postnatal and neonatal complications was 78·8% (123 of 156 girls) versus
-62.0% (49 of 79 girls; p=0·07); treatment use for reproductive tract infection or sexually transmitted
-infection was 60·4% (125 of 207) versus 28·9% (43 of 149; OR 3·76, 95% CI 2·34–6·05). Testing for
-HIV increased from 96 (11·7%) of 818 girls in 2008 to 446 (58·7%) of 759 girls in 2010 at the
-intervention sites compared with nine (1·8%) of 493 girls in 2008 to 82 (15·89%) of 516 girls in 2010
-at control sites.
+**Findings:** 
+- **Baseline comparability:**  
+  Respondents from intervention and control sites were similar at the start for most key indicators.
+
+- **Age at first birth:**  
+  - Median age at first birth at intervention sites rose from **16.9 years** (2008) to **18.1 years** (2010).
+
+- **Contraceptive use:**  
+  - Intervention: **33.7%**  
+  - Control: **6.4%**  
+  - (OR 7.45, 95% CI 5–11)
+
+- **Early antenatal registration:**  
+  - Intervention: **78.7%**  
+  - Control: **54.7%**  
+  - (OR 2.93, 95% CI 2.11–4.06)
+
+- **Minimum standard antenatal care received:**  
+  - Intervention: **56.1%**  
+  - Control: **24.3%**  
+  - (OR 3.89, 95% CI 2.78–5.48)
+
+- **Treatment for antenatal complications:**  
+  - Intervention: **87.6%**  
+  - Control: **77.1%**  
+  - (OR 2.18, 95% CI 1.21–3.12)
+
+- **Treatment for postnatal/neonatal complications:**  
+  - Intervention: **78.8%**  
+  - Control: **62.0%**  
+  - (p = 0.07; marginal significance)
+
+- **Treatment for reproductive tract/sexually transmitted infections (RTI/STI):**  
+  - Intervention: **60.4%**  
+  - Control: **28.9%**  
+  - (OR 3.76, 95% CI 2.34–6.05)
+
+- **HIV testing:**  
+  - Intervention sites: Increased from **11.7%** (2008) to **58.7%** (2010)  
+  - Control sites: Increased from **1.8%** (2008) to **15.9%** (2010)
 
 **Interpretation:** Focused, community based interventions, implemented by frontline health workers
 result in a rapid and significant improvement in utilization and coverage with reproductive health
