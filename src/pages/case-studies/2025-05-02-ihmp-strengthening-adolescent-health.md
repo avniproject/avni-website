@@ -174,7 +174,7 @@ morbidity and maternal complications.
 
 
 <div style="width: 70%">
-    <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/IHMP.webp">
+    <img src="/img/2025-05-02-ihmp-strengthening-adolescent-health/I4.webp">
 </div>
 
 ## Conclusion
