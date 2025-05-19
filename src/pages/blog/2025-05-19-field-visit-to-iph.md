@@ -14,7 +14,8 @@ tags:
   - Field Visit
 ---
 
-# Field Visit to Kollegal Government Hospital: How Avni is Transforming Public Health Data Collection
+
+# Field Visit to Kollegal Government Hospital - How Avni is Transforming Public Health Data Collection
 
 As a developer on the Avni team, I recently had the opportunity to visit Kollegal Government Hospital during the regular monthly health check-up organized by the Institute of Public Health (IPH). This field trip wasn’t just a routine visit—it was an eye-opener into how our work is making a real-world impact in the field of public health. It provided me with invaluable insights into how technology is improving healthcare delivery at the grassroots level.
 
