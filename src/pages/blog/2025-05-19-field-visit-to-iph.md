@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Field Visit to Kollegal Government Hospital: How Avni is Transforming Public Health Data Collection
+title: Field Visit to Kollegal Government Hospital - How Avni is Transforming Public Health Data Collection
 date: 2025-05-19T10:00:00.000Z
 author: Siddharth Harsh Raj
 description: >
