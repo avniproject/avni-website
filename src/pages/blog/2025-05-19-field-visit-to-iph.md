@@ -15,13 +15,11 @@ tags:
 ---
 
 
-# Field Visit to Kollegal Government Hospital - How Avni is Transforming Public Health Data Collection
-
 As a developer on the Avni team, I recently had the opportunity to visit Kollegal Government Hospital during the regular monthly health check-up organized by the Institute of Public Health (IPH). This field trip wasn’t just a routine visit—it was an eye-opener into how our work is making a real-world impact in the field of public health. It provided me with invaluable insights into how technology is improving healthcare delivery at the grassroots level.
 
 ---
 
-## From Paper Chaos to Digital Efficiency
+### From Paper Chaos to Digital Efficiency
 
 Before Avni, health professionals at the hospital were buried under heaps of paperwork—registers, reports, and repetitive manual entries. This made data retrieval time-consuming and error-prone. 
 
@@ -35,7 +33,7 @@ Health workers can now spend more time with patients instead of paperwork.
 
 ---
 
-## Real-Time Insights from Real Users
+### Real-Time Insights from Real Users
 
 One of the highlights of the visit was the face-to-face interaction with doctors and field workers actively using the Avni app. These professionals shared how Avni has:
 
@@ -48,23 +46,23 @@ They also suggested thoughtful improvements—such as enhanced offline capabilit
 
 ---
 
-## Key Takeaways as a Developer
+### Key Takeaways as a Developer
 
-### 1. Empathy-Driven Development
+##### 1. Empathy-Driven Development
 
 Watching users in action helped me understand their day-to-day challenges better. It’s a reminder that every line of code should solve a real problem. Developing with empathy ensures that the product we create truly supports those who rely on it.
 
-### 2. Offline-First Design Matters
+##### 2. Offline-First Design Matters
 
 Rural and remote setups like Kollegal often deal with patchy internet. Avni’s offline-first approach proved to be a game changer, enabling seamless data entry and later synchronization without loss.
 
-### 3. Iterate Based on Field Feedback
+##### 3. Iterate Based on Field Feedback
 
 Field insights are gold. Even seemingly small UX tweaks suggested by users could significantly improve usability and adoption. Continuous feedback loops are essential for making a meaningful impact.
 
 ---
 
-## Final Thoughts
+### Final Thoughts
 
 This trip reinforced the importance of building tools that matter. Seeing Avni in action—reducing chaos, empowering healthcare professionals, and enhancing service delivery—was deeply fulfilling. It reminded me that as developers, we’re not just writing code; we’re crafting solutions that improve lives.
 
