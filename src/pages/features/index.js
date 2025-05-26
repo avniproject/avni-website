@@ -35,7 +35,7 @@ export default function Index() {
                             <a href="#health-features">Health specific features</a>
                         </div>
                         <div>
-                            <ExternalLink href="https://github.com/avniproject/avni-roadmap/projects/1?fullscreen=true&card_filter_query=label%3Acore-product">Roadmap for
+                            <ExternalLink href="https://github.com/orgs/avniproject/projects/2/views/7">Roadmap for
                                 upcoming features</ExternalLink>
                         </div>
                         <div>
