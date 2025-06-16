@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Building a social security benefits product - A developer's perspective
 date: 2025-05-12T10:00:00.000Z
 author: Pooja Harmalkar
-description: When Avni first launched (back then as OpenCHS), we had a grand vision: bake every community medicine protocol into our system so that every health program in India could use it. Supported by experts, we charged ahead—only to realize how naive we were.
+description: >-
 featuredpost: true
 featuredimage: 
 tags: 
