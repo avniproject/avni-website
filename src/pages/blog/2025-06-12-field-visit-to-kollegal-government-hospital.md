@@ -8,7 +8,7 @@ description: >
   Insights from a business development associate's field visit to Kollegal Government Hospital, highlighting the shift 
   from paper-based systems to efficient, real-time digital workflows.
 featuredpost: false
-featuredimage: /img/2025-06-04-rishika-iph-blog/R3.webp
+featuredimage: /img/2025-06-12-field-visit-to-kollegal-government-hospital/R3.webp
 tags:
   - Public Health
   - Field Visit
@@ -28,7 +28,7 @@ The health camp focused on sickle cell disease and followed a structured care fl
 - Follow-up Planning for Ongoing Care  
 
 <div style="width: 100%; max-width: 800px; padding: 24px 0;">  
-    <img src="/img/2025-06-04-rishika-iph-blog/R1.webp" 
+    <img src="/img/2025-06-12-field-visit-to-kollegal-government-hospital/R1.webp" 
          alt="Follow-up Planning for Ongoing Care" 
          style="width: 100%; height: auto; max-width: 600px; display: block;">
 </div>
@@ -71,7 +71,7 @@ These insights are incredibly valuable and help us shape both the product roadma
 A fun and interactive moment was an awareness activity for children on the "Do’s and Don’ts of Sickle Cell Disease." Children who answered correctly were rewarded—making healthcare education engaging and memorable.
 
 <div style="width: 100%; max-width: 800px; padding: 24px 0;">  
-    <img src="/img/2025-06-04-rishika-iph-blog/R2.webp" 
+    <img src="/img/2025-06-12-field-visit-to-kollegal-government-hospital/R2.webp" 
          alt="Health education quiz with children" 
          style="width: 100%; height: auto; max-width: 600px; display: block;">
 </div>
@@ -107,7 +107,7 @@ We’re not just building software—we’re empowering those who serve. A big t
 **We’re not just building apps—we’re enabling better health outcomes, one screen at a time.**
 
 <div style="width: 100%; max-width: 800px; padding: 48px;">  
-    <img src="/img/2025-06-04-rishika-iph-blog/R3.webp"  
+    <img src="/img/2025-06-12-field-visit-to-kollegal-government-hospital/R3.webp"  
          alt="Group photo or closing scene from the visit" 
          style="width: 100%; height: auto; max-width: 600px; display: block;">
 </div>
