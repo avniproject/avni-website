@@ -81,6 +81,19 @@ export default class SignupIndexPage extends React.Component {
                     <div className="columns">
                         <div className="column"/>
                         <div className="column">
+                            <article className="message">
+                                <div className="message-header is-centered" style={{backgroundColor: '#009688', padding: '4px', color: 'white', alignItems: 'center', alignContent: 'center'}}>
+                                    <p className={"is-centered"}><strong>Important</strong></p>
+                                    <br/>
+                                </div>
+                                <div className="message-body" style={{padding: '8px'}}>
+                                    <p><i>By filling this form, you will get a blank Avni instance for you to design your programme from scratch.</i> </p>
+                                    <br/>
+                                    <p><i>If you're just exploring or want to see how Avni works, we strongly recommend using one of the pre-built applications available on our <strong><a
+                                      href="/demo" style={{color: '#009688'}}>demo page</a></strong> instead. Please proceed with creating a new instance only if you're ready to start configuring your own programme.</i></p>
+                                </div>
+                            </article>
+
                             {status === Status.Success ?
                                 <div>
                                     <p className="title is-3">Fantastic {signeeName} !!!</p>
