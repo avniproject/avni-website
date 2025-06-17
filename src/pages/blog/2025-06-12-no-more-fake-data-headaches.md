@@ -127,7 +127,7 @@ The process was seamless: export locations.csv, grab sample templates from Admin
 - Accurate relationship modeling (families, pregnancy timelines)  
 - Data tailored to BI chart expectations  
 
-s**Why Windsurf worked best**  
+**Why Windsurf worked best**  
 - Knows Avni’s data model  
 - Reduces prompt verbosity  
 - Minimizes upload errors  
