@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: No More Fake Data Headaches- AI to the Rescue
-date: 2025-05-12T10:00:00.000Z
+date: 2025-06-12T10:00:00.000Z
 author: Pooja Harmalkar
 description: Manually crafting CSVs for this was pure drudgery. Then I turned to AI, stumbling from ChatGPT’s limitations to Grok’s quirks before landing on Windsurf, an AI that gets Avni like nobody’s business. This is my story of escaping comma-induced chaos.
   
-featuredpost: true
+featuredpost: false
 featuredimage: 
 tags:
 ---

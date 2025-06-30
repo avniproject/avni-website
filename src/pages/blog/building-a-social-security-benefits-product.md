@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Building a social security benefits product - A developer's perspective
-date: 2025-05-12T10:00:00.000Z
-author: Pooja Harmalkar
+date: 2025-06-14T10:00:00.000Z
+author: Vinay Venu
 description: >-
 featuredpost: true
 featuredimage: 
