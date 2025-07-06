@@ -12,12 +12,50 @@ export default class ContactUs extends React.Component {
         super(props);
         this.submitForm = this.submitForm.bind(this);
         this.state = {
-            status: Status.Initial
+            status: Status.Initial,
+            name: '',
+            email: '',
+            message: '',
+            errors: {
+                name: '',
+                email: '',
+                message: ''
+            }
         };
+    }
+
+    validateForm() {
+        const { name, email, message } = this.state;
+        let errors = { name: '', email: '', message: '' };
+        let formIsValid = true;
+
+        if (!name) {
+            formIsValid = false;
+            errors.name = 'Name is required';
+        }
+
+        if (!email) {
+            formIsValid = false;
+            errors.email = 'Email is required';
+        } else if (!/\S+@\S+\.\S+/.test(email)) {
+            formIsValid = false;
+            errors.email = 'Email is invalid';
+        }
+
+        if (!message) {
+            formIsValid = false;
+            errors.message = 'Message is required';
+        }
+
+        this.setState({ errors });
+        return formIsValid;
     }
 
     submitForm(ev) {
         ev.preventDefault();
+        if (!this.validateForm()) {
+            return;
+        }
         const form = ev.target;
         const data = new FormData(form);
         const xhr = new XMLHttpRequest();
@@ -36,7 +74,13 @@ export default class ContactUs extends React.Component {
         this.setState({status: Status.Processing});
     }
 
+    handleChange = (event) => {
+        const { name, value } = event.target;
+        this.setState({ [name]: value });
+    }
+
     render() {
+        const { errors } = this.state;
         return <span>
         <h1 className="has-text-centered is-size-3-mobile is-size-2-desktop has-text-weight-bold">Contact Us</h1>
         <p className="has-text-centered has-text-weight-bold">We respond to 100% of messages. Ask us anything.</p>
@@ -47,20 +91,23 @@ export default class ContactUs extends React.Component {
                 <div>
                     <label className="has-text-weight-bold">Message:</label>
                     <div style={{margin: "auto"}}>
-                        <textarea id="message" name="message" maxLength="6000" rows="7" style={{width: "100%"}}/>
+                        <textarea id="message" name="message" maxLength="6000" rows="7" style={{width: "100%"}} onChange={this.handleChange}/>
+                        {errors.message && <p className="has-text-danger">{errors.message}</p>}
                     </div>
                 </div>
                 <div className="has-text-left has-text-weight-bold" style={{width: "100%", display: "table"}}>
                     <div style={{width: "50%", float: "left"}}>
                         <label>Name:</label>
                         <div>
-                            <input type="text" className="form-control" id="name" name="name" required style={{width: "95%"}}/>
+                            <input type="text" className="form-control" id="name" name="name" required style={{width: "95%"}} onChange={this.handleChange}/>
+                            {errors.name && <p className="has-text-danger">{errors.name}</p>}
                         </div>
                     </div>
                     <div style={{width: "50%", float: "left"}}>
                         <label>Email:</label>
                         <div>
-                            <input type="email" className="form-control" id="email" name="_replyto" required style={{width: "100%"}}/>
+                            <input type="email" className="form-control" id="email" name="_replyto" required style={{width: "100%"}} onChange={this.handleChange}/>
+                            {errors.email && <p className="has-text-danger">{errors.email}</p>}
                         </div>
                     </div>
                 </div>
