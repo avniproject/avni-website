@@ -7,7 +7,7 @@ description: Manually crafting CSVs for this was pure drudgery. Then I turned to
   
 featuredpost: false
 featuredimage: 
-tags:
+tags: - Knowledge
 ---
 
 ## Generating Realistic Dummy Data for Avni UAT using AI
