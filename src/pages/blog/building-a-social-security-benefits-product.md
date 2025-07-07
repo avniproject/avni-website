@@ -5,7 +5,7 @@ date: 2025-06-14T10:00:00.000Z
 author: Vinay Venu
 description: >-
 featuredpost: true
-featuredimage: 
+featuredimage: /img/2025-06-14-building-a-social-security-benefit-product/1.png
 tags: 
 	- Social security
 ---
@@ -46,6 +46,13 @@ Here, the organisation typically works to get one specific benefit in the hands 
 Organisations here work at a population scale, often in partnership with the government. The idea is to enable a large vulnerable population to access one or a basket of schemes. Beneficiaries are given details of schemes and encouraged to apply.
 
 NGOs often work on lists provided by the government to identify potential beneficiaries. Frequently, call centres and mass communication tools such as flyers and advertisements are used for outreach.
+
+<div style="width: 100%; max-width: 800px; padding: 24px 0;">  
+    <img src="/img/2025-06-14-building-a-social-security-benefit-product/1.png" 
+         alt="" 
+         style="width: 100%; height: auto; max-width: 600px; display: block;">
+</div>
+
 
 ---
 
@@ -114,6 +121,12 @@ The beneficiary and the community worker then decide on the best possible scheme
 ### Process
 
 Saaras prefers a lightweight process on the app, leaving the complications of applying for a scheme to the users and the beneficiary. These users are knowledgeable in handling situations. All necessary actions are performed outside the app. Avni helps with maintaining status and gives reminders to follow-up where necessary.
+
+<div style="width: 100%; max-width: 800px; padding: 24px 0;">  
+    <img src="/img/2025-06-14-building-a-social-security-benefit-product/2.png" 
+         alt="" 
+         style="width: 100%; height: auto; max-width: 600px; display: block;">
+</div>
 
 ### Extending the system
 
