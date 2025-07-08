@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How We Delivered Offline Health Videos in Remote Areas Using Avni and a PWA
 date: 2025-07-08T10:00:00.000Z
-author: Kannan JK, ASHWINI Gudalur
+author: Pushpanathan.J (Kannan), ASHWINI Gudalur
 description: In this blog, Kannan from ASHWINI Gudalur shares how their team solved the challenge of delivering offline health videos in remote areas using Avni and a Progressive Web App. A hands-on story of innovation, field realities, and building scalable tech for impact.
 featuredpost: true
 featuredimage:
