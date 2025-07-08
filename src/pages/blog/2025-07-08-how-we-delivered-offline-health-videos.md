@@ -8,7 +8,6 @@ featuredpost: true
 featuredimage:
 tags: 
 	- Health
-	- Knowledge
 ---
 
 
