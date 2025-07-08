@@ -8,7 +8,6 @@ featuredpost: true
 featuredimage: /img/2025-06-14-building-a-social-security-benefit-product/1.png
 tags: 
 	- Social security
-	- Knowledge
 ---
 
 
