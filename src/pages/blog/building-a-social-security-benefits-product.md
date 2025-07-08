@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Building a social security benefits product - A developer's perspective
+title: Building a social security benefits solution - A developer's perspective
 date: 2025-06-14T10:00:00.000Z
 author: Vinay Venu
 description: >-
@@ -58,7 +58,7 @@ NGOs often work on lists provided by the government to identify potential benefi
 
 ## The Need
 
-Now we look at the requirements of a software product that helps with delivering social security.
+Now we look at the requirements of a software solution that helps with delivering social security.
 
 We will ignore model 4 in our discussion because it is a completely different beast. What we build for them will not be relevant for any of the other models. On to the components.
 
