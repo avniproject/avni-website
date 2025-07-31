@@ -1,7 +1,7 @@
 ---
 templateKey: case-study 
 title: Scoring for Equality- How Maitrayana Uses Avni to Measure Impact Through Sports
-date: 2025-05-28T10:00:00.000Z 
+date: 2025-07-31T10:00:00.000Z 
 author: Parth Halani
 description: 
 featuredpost: false 
@@ -47,7 +47,7 @@ Here’s how Maitrayana’s process flows using Avni:
 
 > The process begins with registering participants, followed by batch creation and program enrollment (e.g., EJP, Vriddhi, YPI Pragati). Field teams then use a Session Encounter Form to mark both the activity and attendance, with a dynamic list of participants per batch auto-populated.
 
-<div style="width: 30%; margin: auto; ">
+<div style="width: 80%; margin: auto; ">
     <img src="/img/2025-07-31-scoring-for-equality/1.webp">
 </div>
 
@@ -59,7 +59,7 @@ Below are a few screenshots from the Avni app that bring this workflow to life:
 - **Program Overview within a Batch**: Shows session history and enrollment details for each program the batch is a part of—be it EJP, Vriddhi, or YPI Pragati.  
 - **Session Attendance Form Summary**: Allows facilitators to quickly mark attendance and record activity details. The dynamic participant list ensures accuracy and saves time on the field.
 
-<div style="width: 30%; margin: auto; ">
+<div style="width: 80%; margin: auto; ">
     <img src="/img/2025-07-31-scoring-for-equality/2.webp">
 </div>
 
@@ -75,13 +75,13 @@ Maitrayana’s use of Avni doesn’t stop at field data capture—it’s activel
 
 - **Attendance Summary Reports**: Maitrayana tracks attendance trends across batches, sessions, and programs. A session-wise breakdown of attendance allows them to quickly identify drop-offs or engagement gaps.
 
-<div style="width: 30%; margin: auto; ">
+<div style="width: 80%; margin: auto; ">
     <img src="/img/2025-07-31-scoring-for-equality/3.webp">
 </div>
 
 - **Active Participant Dashboards**: Donor-wise participant engagement can be easily viewed using dashboards. This helps Maitrayana present granular data on how many girls are actively participating in each program funded by each donor.
 
-<div style="width: 30%; margin: auto; ">
+<div style="width: 80%; margin: auto; ">
     <img src="/img/2025-07-31-scoring-for-equality/4.webp">
 </div>
 
