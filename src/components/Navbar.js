@@ -68,13 +68,12 @@ export default class Navbar extends React.Component {
                     <Location>
                         {
                             ({location}) => {
-                                if (location.pathname !== '/signup')
-                                    return (
-                                        <div
-                                            id="navMenu"
-                                            className={`navbar-menu ${this.state.navBarActiveClass}`}
-                                            style={{marginLeft: '50px'}}
-                                        >
+                                return (
+                                    <div
+                                        id="navMenu"
+                                        className={`navbar-menu ${this.state.navBarActiveClass}`}
+                                        style={{marginLeft: '50px'}}
+                                    >
                                             <div className="navbar-start has-text-centered">
                                                 <Link to="/features"
                                                       activeClassName="active-nav-item"
@@ -147,7 +146,7 @@ export default class Navbar extends React.Component {
                                                 </div>
                                             </div>
                                         </div>
-                                    )
+                                )
                             }
                         }
                     </Location>
