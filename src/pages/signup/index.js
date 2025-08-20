@@ -395,27 +395,31 @@ export default class SignupIndexPage extends React.Component {
             <Layout>
                 <div style={formContainerStyle}>
                     <div style={formCardStyle}>
-                        <div style={headerStyle}>
-                            <div style={logoStyle}>A</div>
-                            <h1 style={titleStyle}>{SignupIndexPage.getTitleMessage(contactSource)}</h1>
-                            <p style={subtitleStyle}>
-                                Join Avni to expand its reach and enhance digital solutions for organizations worldwide.
-                            </p>
-                        </div>
-                        
-                        <div style={{background: '#EBF8FF', border: '1px solid #BEE3F8', borderRadius: '8px', padding: '1rem', marginBottom: '2rem'}}>
-                            <p style={{color: '#2B6CB0', fontSize: '14px', margin: 0}}>
-                                <strong>Important:</strong> By filling this form, you will get a Trial Avni instance. 
-                                If you're exploring, try our <a href="/demo" style={{color: '#FF6B35', textDecoration: 'underline'}}>demo page</a> instead.
-                            </p>
-                        </div>
+                        {status === Status.Initial && (
+                            <div>
+                                <div style={headerStyle}>
+                                    <div style={logoStyle}>A</div>
+                                    <h1 style={titleStyle}>{SignupIndexPage.getTitleMessage(contactSource)}</h1>
+                                    <p style={subtitleStyle}>
+                                        Join Avni to expand its reach and enhance digital solutions for organizations worldwide.
+                                    </p>
+                                </div>
+                            
+                                <div style={{background: '#EBF8FF', border: '1px solid #BEE3F8', borderRadius: '8px', padding: '1rem', marginBottom: '2rem'}}>
+                                    <p style={{color: '#2B6CB0', fontSize: '14px', margin: 0}}>
+                                        <strong>Important:</strong> By filling this form, you will get a Trial Avni instance. 
+                                        If you're exploring, try our <a href="/demo" style={{color: '#FF6B35', textDecoration: 'underline'}}>demo page</a> instead.
+                                    </p>
+                                </div>
+                            </div>
+                        )}
 
                         {status === Status.Success ? (
-                            <div style={{textAlign: 'center'}}>
-                                <div style={{...logoStyle, background: '#48BB78', fontSize: '32px'}}>✓</div>
-                                <h2 style={{...titleStyle, color: '#48BB78'}}>Welcome aboard, {signeeName}!</h2>
-                                <p style={{...subtitleStyle, marginBottom: '1rem'}}>{SignupIndexPage.getCongratulationMessage(contactSource)}</p>
-                                <p style={subtitleStyle}>You will receive an email with credentials at <strong>{email}</strong>.</p>
+                            <div style={{textAlign: 'center', padding: '4rem 2rem'}}>
+                                <div style={{...logoStyle, background: '#48BB78', fontSize: '64px', width: '120px', height: '120px', lineHeight: '120px', marginBottom: '2rem'}}>✓</div>
+                                <h2 style={{...titleStyle, color: '#48BB78', fontSize: '36px', marginBottom: '2rem'}}>Welcome aboard, {signeeName}!</h2>
+                                <p style={{...subtitleStyle, marginBottom: '2rem', fontSize: '18px', lineHeight: '1.6'}}>{SignupIndexPage.getCongratulationMessage(contactSource)}</p>
+                                <p style={{...subtitleStyle, fontSize: '16px', lineHeight: '1.5'}}>You will receive an email with credentials at <strong style={{color: '#FF6B35'}}>{email}</strong>.</p>
                             </div>
                         ) : (
                             <div>
