@@ -543,14 +543,14 @@ export default class SignupIndexPage extends React.Component {
                                             name="organisationType" 
                                             onChange={(e) => {
                                                 this.handleInputChange('organisationType', e.target.value);
-                                                this.setState({ showOtherOrgType: e.target.value === 'Others' });
+                                                this.setState({ showOtherOrgType: e.target.value === 'Other' });
                                             }}
                                         >
                                             <option value="">Select Organisation Type</option>
                                             <option value="NGO">NGO</option>
                                             <option value="Government">Government</option>
                                             <option value="Personal">Personal</option>
-                                            <option value="Others">Others</option>
+                                            <option value="Other">Other</option>
                                         </select>
                                         {this.state.validationErrors.organisationType && (
                                             <p style={{color: '#E53E3E', fontSize: '12px', marginTop: '0.25rem'}}>
