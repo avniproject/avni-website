@@ -430,7 +430,7 @@ export default class SignupIndexPage extends React.Component {
             <Layout>
                 <div style={formContainerStyle}>
                     <div style={formCardStyle}>
-                        {status === Status.Initial && (
+                        {status !== Status.Success && (
                             <div style={headerStyle}>
                                 <h1 style={titleStyle}>{SignupIndexPage.getPreSubmissionTitleMessage(contactSource)}</h1>
                                 <p style={subtitleStyle}>
