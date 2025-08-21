@@ -111,7 +111,7 @@ export default class SignupIndexPage extends React.Component {
         super(props);
         this.submitForm = this.submitForm.bind(this);
         this.state = {
-            status: Status.Initial,
+            status: Status.Success,
             signeeName: "Himesh Ravikumar",
             email: "himeshr@samanvayfoundations.org",
             phone: "",
@@ -336,7 +336,7 @@ export default class SignupIndexPage extends React.Component {
         };
         
         // Submit to n8n webhook
-        fetch('https://avniproject.app.n8n.cloud/webhook-test/avni-signup', {
+        fetch('https://avniproject.app.n8n.cloud/webhook/avni-signup', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
