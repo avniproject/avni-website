@@ -130,11 +130,12 @@ export default class SignupIndexPage extends React.Component {
         this.recaptchaRef = React.createRef();
     }
 
-    static getCongratulationMessage(contactSource) {
-        if (contactSource === Constants.Trial) return "Thanks for signing up for Avni! We are super excited to have you on board. We will contact you soon.";
-        if (contactSource === Constants.CustomPlan) return "Thanks for contacting us. We will contact you soon.";
-        if (contactSource === Constants.TrainingPlan) return "Thanks for signing up for Avni! We are super excited to have you on board. We will contact you soon.";
-        return "Oops something went wrong. Please email us at - avnipartnerships@samanvayfoundation.org";
+    static getCongratulationMessage(contactSource, signeeName) {
+        const firstName = signeeName ? signeeName.split(' ')[0] : 'there';
+        if (contactSource === Constants.Trial) return `Welcome aboard, ${firstName}!`;
+        if (contactSource === Constants.CustomPlan) return `Thank you, ${firstName}!`;
+        if (contactSource === Constants.TrainingPlan) return `Welcome to Avni Training, ${firstName}!`;
+        return `Welcome, ${firstName}!`;
     }
 
     static getSignupButtonLabel(contactSource) {
@@ -142,13 +143,46 @@ export default class SignupIndexPage extends React.Component {
         return "SIGNUP";
     }
 
-    static getTitleMessage(contactSource) {
+    static getPreSubmissionTitleMessage(contactSource) {
         switch(contactSource) {
             case Constants.CustomPlan: return "Contact Avni Sales Team";
             case Constants.Trial: return "Try Avni for free, for 30 days";
             case Constants.TrainingPlan: return "Signup for Avni Training";
             default: return "Try Avni for free, for 30 days";
         }
+    }
+
+    static getPostSubmissionTitleMessage(contactSource) {
+        switch(contactSource) {
+            case Constants.CustomPlan: return "Let's discuss your needs";
+            case Constants.Trial: return "You're all set!";
+            case Constants.TrainingPlan: return "Training enrollment complete";
+            default: return "You're all set!";
+        }
+    }
+
+    static getSubtitleMessage(contactSource, email) {
+        switch(contactSource) {
+            case Constants.Trial: 
+                return `We've sent your login details to ${email}. Log in and begin creating impact with your team.`;
+            case Constants.CustomPlan: 
+                return "Our team will get in touch with you soon to discuss your requirements and next steps.";
+            case Constants.TrainingPlan: 
+                return "Our team will get in touch with you soon with training details and schedule.";
+            default: 
+                return "Our team will get in touch with you soon with next steps.";
+        }
+    }
+
+    static getCallToAction(contactSource) {
+        if (contactSource === Constants.Trial) {
+            return {
+                text: "Check your inbox & get started",
+                url: "https://app.avniproject.org",
+                show: true
+            };
+        }
+        return { show: false };
     }
 
     static emailStyle(email) {
@@ -194,7 +228,7 @@ export default class SignupIndexPage extends React.Component {
         }
         
         // Check required fields
-        const requiredFields = ['name', 'email', 'organisationName', 'organisationType', 'sector'];
+        const requiredFields = ['name', 'email', 'organisationName', 'sector'];
         requiredFields.forEach(field => {
             if (!formData[field] || formData[field].trim() === '') {
                 if (!errors[field]) errors[field] = [];
@@ -256,12 +290,13 @@ export default class SignupIndexPage extends React.Component {
             country: country,
             countryName: countryName,
             organisationName: data.organisationName,
-            organisationType: data.organisationType,
+            organisationType: 'NGO',
             q8_additionalMessage: data.additionalMessage || '',
             sector: data.sector,
             otherSector: data.otherSector || '',
             otherOrgType: data.otherOrgType || '',
             source: data.source || '',
+            marketingConsent: this.state.marketingConsent,
             recaptcha: this.state.recaptchaValue
         };
         
@@ -396,30 +431,38 @@ export default class SignupIndexPage extends React.Component {
                 <div style={formContainerStyle}>
                     <div style={formCardStyle}>
                         {status === Status.Initial && (
-                            <div>
-                                <div style={headerStyle}>
-                                    <div style={logoStyle}>A</div>
-                                    <h1 style={titleStyle}>{SignupIndexPage.getTitleMessage(contactSource)}</h1>
-                                    <p style={subtitleStyle}>
-                                        Join Avni to expand its reach and enhance digital solutions for organizations worldwide.
-                                    </p>
-                                </div>
-                            
-                                <div style={{background: '#EBF8FF', border: '1px solid #BEE3F8', borderRadius: '8px', padding: '1rem', marginBottom: '2rem'}}>
-                                    <p style={{color: '#2B6CB0', fontSize: '14px', margin: 0}}>
-                                        <strong>Important:</strong> By filling this form, you will get a Trial Avni instance. 
-                                        If you're exploring, try our <a href="/demo" style={{color: '#FF6B35', textDecoration: 'underline'}}>demo page</a> instead.
-                                    </p>
-                                </div>
+                            <div style={headerStyle}>
+                                <h1 style={titleStyle}>{SignupIndexPage.getPreSubmissionTitleMessage(contactSource)}</h1>
+                                <p style={subtitleStyle}>
+                                    Join Avni to expand its reach and enhance digital solutions for organizations worldwide.
+                                </p>
                             </div>
                         )}
 
                         {status === Status.Success ? (
                             <div style={{textAlign: 'center', padding: '4rem 2rem'}}>
                                 <div style={{...logoStyle, background: '#48BB78', fontSize: '64px', width: '120px', height: '120px', lineHeight: '120px', marginBottom: '2rem'}}>✓</div>
-                                <h2 style={{...titleStyle, color: '#48BB78', fontSize: '36px', marginBottom: '2rem'}}>Welcome aboard, {signeeName}!</h2>
-                                <p style={{...subtitleStyle, marginBottom: '2rem', fontSize: '18px', lineHeight: '1.6'}}>{SignupIndexPage.getCongratulationMessage(contactSource)}</p>
-                                <p style={{...subtitleStyle, fontSize: '16px', lineHeight: '1.5'}}>You will receive an email with credentials at <strong style={{color: '#FF6B35'}}>{email}</strong>.</p>
+                                <h2 style={{...titleStyle, color: '#2D3748', fontSize: '28px', marginBottom: '1rem'}}>{SignupIndexPage.getPostSubmissionTitleMessage(contactSource)}</h2>
+                                <h3 style={{...titleStyle, color: '#48BB78', fontSize: '24px', marginBottom: '2rem', fontWeight: '600'}}>{SignupIndexPage.getCongratulationMessage(contactSource, signeeName)}</h3>
+                                <p style={{...subtitleStyle, marginBottom: '2rem', fontSize: '16px', lineHeight: '1.6', color: '#4A5568'}}>{SignupIndexPage.getSubtitleMessage(contactSource, email)}</p>
+                                {SignupIndexPage.getCallToAction(contactSource).show && (
+                                    <a 
+                                        href={SignupIndexPage.getCallToAction(contactSource).url}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        style={{
+                                            ...buttonStyle,
+                                            display: 'inline-block',
+                                            textDecoration: 'none',
+                                            marginTop: '1rem',
+                                            background: '#FF6B35',
+                                            fontSize: '16px',
+                                            fontWeight: '600'
+                                        }}
+                                    >
+                                        {SignupIndexPage.getCallToAction(contactSource).text}
+                                    </a>
+                                )}
                             </div>
                         ) : (
                             <div>
@@ -535,29 +578,8 @@ export default class SignupIndexPage extends React.Component {
                                             </p>
                                         )}
                                     </div>
-                                    <div style={{marginBottom: '1.5rem'}}>
-                                        <label style={{display: 'block', fontSize: '14px', fontWeight: '600', color: '#2D3748', marginBottom: '0.5rem'}}>Type of Organisation *</label>
-                                        <select 
-                                            style={{...inputStyle, borderColor: this.state.validationErrors.organisationType ? '#E53E3E' : '#E2E8F0'}}
-                                            required 
-                                            name="organisationType" 
-                                            onChange={(e) => {
-                                                this.handleInputChange('organisationType', e.target.value);
-                                                this.setState({ showOtherOrgType: e.target.value === 'Other' });
-                                            }}
-                                        >
-                                            <option value="">Select Organisation Type</option>
-                                            <option value="NGO">NGO</option>
-                                            <option value="Government">Government</option>
-                                            <option value="Personal">Personal</option>
-                                            <option value="Other">Other</option>
-                                        </select>
-                                        {this.state.validationErrors.organisationType && (
-                                            <p style={{color: '#E53E3E', fontSize: '12px', marginTop: '0.25rem'}}>
-                                                {this.state.validationErrors.organisationType.join(', ')}
-                                            </p>
-                                        )}
-                                    </div>
+                                    {/* Hidden field with NGO as default */}
+                                    <input type="hidden" name="organisationType" value="NGO" />
 
                                     {this.state.showOtherOrgType && (
                                         <div style={{marginBottom: '1.5rem'}}>
@@ -628,16 +650,8 @@ export default class SignupIndexPage extends React.Component {
                                         </select>
                                     </div>
 
-                                    {/* Additional Message */}
-                                    <div style={{marginBottom: '1.5rem'}}>
-                                        <label style={{display: 'block', fontSize: '14px', fontWeight: '600', color: '#2D3748', marginBottom: '0.5rem'}}>What do you want to use Avni for? (Optional)</label>
-                                        <textarea 
-                                            style={{...inputStyle, minHeight: '80px', resize: 'vertical'}}
-                                            name="additionalMessage" 
-                                            placeholder="Tell us about your use case and how Avni can help you..."
-                                            rows="3"
-                                        />
-                                    </div>
+                                    {/* Hidden field with empty default */}
+                                    <input type="hidden" name="additionalMessage" value="" />
 
                                     {/* reCAPTCHA */}
                                     <div style={{marginBottom: '1.5rem'}}>
@@ -671,7 +685,7 @@ export default class SignupIndexPage extends React.Component {
                                                 required
                                             />
                                             <span>
-                                                I agree with the <a href="https://github.com/avniproject/avni-client/blob/master/docs/PrivacyPolicy.md" target="_blank" style={{color: '#FF6B35', textDecoration: 'underline'}}>Avni Privacy Policy</a> and understand that my organization will process the data I collect in accordance with applicable data protection laws *
+                                                I agree with the <a href="/privacy-policy" target="_blank" style={{color: '#FF6B35', textDecoration: 'underline'}}>Avni Privacy Policy</a> and understand that my organization will process the data I collect in accordance with applicable data protection laws *
                                             </span>
                                         </label>
                                         {this.state.validationErrors.terms && (
