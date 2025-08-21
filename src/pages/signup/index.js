@@ -112,8 +112,8 @@ export default class SignupIndexPage extends React.Component {
         this.submitForm = this.submitForm.bind(this);
         this.state = {
             status: Status.Initial,
-            signeeName: "Himesh",
-            email: "himeshr@avni.org",
+            signeeName: "Himesh Ravikumar",
+            email: "himeshr@samanvayfoundations.org",
             phone: "",
             country: "IN",
             emailIconStyle: "icon is-right",
