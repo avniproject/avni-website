@@ -380,7 +380,7 @@ export default class SignupIndexPage extends React.Component {
         const logoStyle = {
             width: '60px',
             height: '60px',
-            background: '#FF6B35',
+            background: '#ff470f',
             borderRadius: '12px',
             display: 'flex',
             alignItems: 'center',
@@ -414,7 +414,7 @@ export default class SignupIndexPage extends React.Component {
         };
         
         const buttonStyle = {
-            background: '#FF6B35',
+            background: '#ff470f',
             border: 'none',
             borderRadius: '8px',
             color: 'white',
@@ -455,7 +455,7 @@ export default class SignupIndexPage extends React.Component {
                                             display: 'inline-block',
                                             textDecoration: 'none',
                                             marginTop: '1rem',
-                                            background: '#FF6B35',
+                                            background: '#ff470f',
                                             fontSize: '16px',
                                             fontWeight: '600'
                                         }}
@@ -549,7 +549,7 @@ export default class SignupIndexPage extends React.Component {
                                             defaultCountry="IN"
                                             style={{
                                                 '--PhoneInputCountryFlag-height': '1em',
-                                                '--PhoneInput-color--focus': '#FF6B35',
+                                                '--PhoneInput-color--focus': '#ff470f',
                                                 border: `2px solid ${this.state.validationErrors.phone ? '#E53E3E' : '#E2E8F0'}`,
                                                 borderRadius: '8px',
                                                 padding: '12px 16px'
@@ -685,7 +685,7 @@ export default class SignupIndexPage extends React.Component {
                                                 required
                                             />
                                             <span>
-                                                I agree with the <a href="/privacy-policy" target="_blank" style={{color: '#FF6B35', textDecoration: 'underline'}}>Avni Privacy Policy</a> and understand that my organization will process the data I collect in accordance with applicable data protection laws *
+                                                I agree with the <a href="/privacy-policy" target="_blank" style={{color: '#ff470f', textDecoration: 'underline'}}>Avni Privacy Policy</a> and understand that my organization will process the data I collect in accordance with applicable data protection laws *
                                             </span>
                                         </label>
                                         {this.state.validationErrors.terms && (
