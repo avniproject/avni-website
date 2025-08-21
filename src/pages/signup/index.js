@@ -133,22 +133,26 @@ export default class SignupIndexPage extends React.Component {
     static getCongratulationMessage(contactSource, signeeName) {
         const firstName = signeeName ? signeeName.split(' ')[0] : 'there';
         if (contactSource === Constants.Trial) return `Welcome aboard, ${firstName}!`;
-        if (contactSource === Constants.CustomPlan) return `Thank you, ${firstName}!`;
-        if (contactSource === Constants.TrainingPlan) return `Welcome to Avni Training, ${firstName}!`;
+        if (contactSource === Constants.CustomPlan) return `Thank you for considering Avni, ${firstName}!`;
+        if (contactSource === Constants.TrainingPlan) return `Thanks For Signing Up, ${firstName}!`;
         return `Welcome, ${firstName}!`;
     }
 
     static getSignupButtonLabel(contactSource) {
-        if (contactSource === Constants.CustomPlan) return "CONTACT US";
-        return "SIGN UP";
+        switch(contactSource) {
+            case Constants.CustomPlan: return "Explore How Others Use Avni";
+            case Constants.Trial: return "Start Free Trial";
+            case Constants.TrainingPlan: return "Get Started";
+            default: return "Start Free Trial";
+        }
     }
 
     static getPreSubmissionTitleMessage(contactSource) {
         switch(contactSource) {
-            case Constants.CustomPlan: return "Contact Avni Sales Team";
-            case Constants.Trial: return "Try Avni for free, for 30 days";
-            case Constants.TrainingPlan: return "Signup for Avni Training";
-            default: return "Try Avni for free, for 30 days";
+            case Constants.CustomPlan: return "Get a Custom Avni Plan for Your Organization";
+            case Constants.Trial: return "Start Your 30-Day Free Trial";
+            case Constants.TrainingPlan: return "Use Avni — with expert support";
+            default: return "Start Your 30-Day Free Trial";
         }
     }
 
@@ -172,9 +176,16 @@ export default class SignupIndexPage extends React.Component {
                     </span>
                 );
             case Constants.CustomPlan: 
-                return "Our team will get in touch with you soon to discuss your requirements and next steps.";
+                return (<span>We’ve received your request to discuss pricing and understand your requirements.
+                    <br />
+                    Our team will connect with you shortly to explore your needs and recommend the best Avni plan for your organization</span>);
             case Constants.TrainingPlan: 
-                return "Our team will get in touch with you soon with training details and schedule.";
+                return (<span>We’ve received your request for a guided onboarding.
+                    <br />
+                    Our team will contact you shortly to schedule your training and help you get started with Avni.
+                    <br />
+                    In the meantime, explore how organizations like yours use Avni to create impact.
+                    </span>);
             default: 
                 return "Our team will get in touch with you soon with next steps.";
         }
@@ -190,18 +201,22 @@ export default class SignupIndexPage extends React.Component {
                 };
             case Constants.CustomPlan:
                 return {
-                    text: "View case studies",
-                    url: "/case-studies",
+                    text: "Explore Our Capabilities",
+                    url: "/features",
                     show: true
                 };
             case Constants.TrainingPlan:
                 return {
-                    text: "View case studies",
+                    text: "Explore How Others Use Avni",
                     url: "/case-studies",
                     show: true
                 };
             default:
-                return { show: false };
+                return {
+                    text: "Explore How Others Use Avni",
+                    url: "/case-studies",
+                    show: true
+                };
         }
     }
 
@@ -460,7 +475,32 @@ export default class SignupIndexPage extends React.Component {
                         )}
 
                         {status === Status.Success ? (
-                            <div style={{textAlign: 'center', padding: '4rem 2rem'}}>
+                            <div style={{position: 'relative', textAlign: 'center', padding: '4rem 2rem'}}>
+                                <a 
+                                    href="/"
+                                    style={{
+                                        position: 'absolute',
+                                        top: '0.1rem',
+                                        right: '0.1rem',
+                                        borderRadius: '6px',
+                                        padding: '0.5rem 0.75rem',
+                                        fontSize: '24px',
+                                        color: '#718096',
+                                        textDecoration: 'none',
+                                        display: 'flex',
+                                        alignItems: 'center',
+                                        gap: '0.25rem',
+                                        transition: 'all 0.2s ease',
+                                        cursor: 'pointer'
+                                    }}
+                                    onMouseEnter={(e) => {
+                                        e.target.style.backgroundColor = '#F7FAFC';
+                                    }}
+                                    onMouseLeave={(e) => {
+                                    }}
+                                >
+                                    <span style={{fontSize: '24px'}}>×</span>
+                                </a>
                                 <div style={{...logoStyle, background: '#48BB78', fontSize: '64px', width: '120px', height: '120px', lineHeight: '120px', marginBottom: '2rem'}}>✓</div>
                                 <h2 style={{...titleStyle, color: '#2D3748', fontSize: '28px', marginBottom: '1rem'}}>{SignupIndexPage.getCongratulationMessage(contactSource, signeeName)}</h2>
                                 <p style={{...subtitleStyle, marginBottom: '2rem', fontSize: '16px', lineHeight: '1.6', color: '#4A5568'}}>{SignupIndexPage.getSubtitleMessage(contactSource, email)}</p>
