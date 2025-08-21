@@ -84,7 +84,7 @@ class PhoneValidator {
 
 // Name validation utilities
 class NameValidator {
-    static validateName(name, fieldName) {
+    static validateName(name, fieldName, disallowNumbers = true) {
         const errors = [];
         
         if (!name || name.trim().length === 0) {
@@ -92,10 +92,14 @@ class NameValidator {
             return { isValid: false, errors };
         }
         
-        // Check for invalid characters (allow letters, spaces, hyphens, apostrophes)
-        const nameRegex = /^[a-zA-Z\s\-']+$/;
+        // Check for invalid characters (allow letters, spaces, hyphens, apostrophes, and optionally numbers)
+        const nameRegex = disallowNumbers ? /^[a-zA-Z\s\-']+$/ : /^[a-zA-Z0-9\s\-']+$/;
+        const allowedChars = disallowNumbers ? 
+            'letters, spaces, hyphens, and apostrophes' : 
+            'letters, numbers, spaces, hyphens, and apostrophes';
+            
         if (!nameRegex.test(name.trim())) {
-            errors.push(`${fieldName} can only contain letters, spaces, hyphens, and apostrophes`);
+            errors.push(`${fieldName} can only contain ${allowedChars}`);
         }
         
         if (name.trim().length < 2) {
@@ -111,7 +115,7 @@ export default class SignupIndexPage extends React.Component {
         super(props);
         this.submitForm = this.submitForm.bind(this);
         this.state = {
-            status: Status.Success,
+            status: Status.Initial,
             signeeName: "Himesh Ravikumar",
             email: "himeshr@samanvayfoundations.org",
             phone: "",
@@ -247,7 +251,7 @@ export default class SignupIndexPage extends React.Component {
         }
         
         // Validate organization name
-        const orgValidation = NameValidator.validateName(formData.organisationName, 'Organisation Name');
+        const orgValidation = NameValidator.validateName(formData.organisationName, 'Organisation Name', false);
         if (!orgValidation.isValid) {
             errors.organisationName = orgValidation.errors;
         }
