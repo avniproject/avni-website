@@ -140,7 +140,7 @@ export default class SignupIndexPage extends React.Component {
 
     static getSignupButtonLabel(contactSource) {
         if (contactSource === Constants.CustomPlan) return "CONTACT US";
-        return "SIGNUP";
+        return "SIGN UP";
     }
 
     static getPreSubmissionTitleMessage(contactSource) {
@@ -181,14 +181,28 @@ export default class SignupIndexPage extends React.Component {
     }
 
     static getCallToAction(contactSource) {
-        if (contactSource === Constants.Trial) {
-            return {
-                text: "Get started",
-                url: "https://app.avniproject.org",
-                show: true
-            };
+        switch(contactSource) {
+            case Constants.Trial:
+                return {
+                    text: "Get started",
+                    url: "https://app.avniproject.org",
+                    show: true
+                };
+            case Constants.CustomPlan:
+                return {
+                    text: "View case studies",
+                    url: "/case-studies",
+                    show: true
+                };
+            case Constants.TrainingPlan:
+                return {
+                    text: "View case studies",
+                    url: "/case-studies",
+                    show: true
+                };
+            default:
+                return { show: false };
         }
-        return { show: false };
     }
 
     static emailStyle(email) {

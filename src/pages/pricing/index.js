@@ -61,7 +61,7 @@ export default function Index() {
                             </ol>
                             <p className="control full-centered">
                                 <a href={`/signup?${Constants.ContactSource}=${Constants.TrainingPlan}`}
-                                   className="is-primary button"><b>SIGNUP</b></a>
+                                   className="is-primary button"><b>SIGN UP</b></a>
                             </p>
                         </div>
                     </div>
