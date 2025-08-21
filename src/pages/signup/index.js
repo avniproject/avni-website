@@ -111,9 +111,9 @@ export default class SignupIndexPage extends React.Component {
         super(props);
         this.submitForm = this.submitForm.bind(this);
         this.state = {
-            status: "",
-            signeeName: "",
-            email: "",
+            status: Status.Success,
+            signeeName: "Himesh",
+            email: "himeshr@avni.org",
             phone: "",
             country: "IN",
             emailIconStyle: "icon is-right",
@@ -164,7 +164,13 @@ export default class SignupIndexPage extends React.Component {
     static getSubtitleMessage(contactSource, email) {
         switch(contactSource) {
             case Constants.Trial: 
-                return `We've sent your login details to ${email}. Log in and begin creating impact with your team.`;
+                return (
+                    <span>
+                        We've sent your login details to <strong style={{color: '#ff470f'}}>{email}</strong>. 
+                        <br />
+                        Log in and begin creating impact with your team.
+                    </span>
+                );
             case Constants.CustomPlan: 
                 return "Our team will get in touch with you soon to discuss your requirements and next steps.";
             case Constants.TrainingPlan: 
@@ -177,7 +183,7 @@ export default class SignupIndexPage extends React.Component {
     static getCallToAction(contactSource) {
         if (contactSource === Constants.Trial) {
             return {
-                text: "Check your inbox & get started",
+                text: "Get started",
                 url: "https://app.avniproject.org",
                 show: true
             };
@@ -367,7 +373,7 @@ export default class SignupIndexPage extends React.Component {
             borderRadius: '16px',
             boxShadow: '0 20px 40px rgba(0,0,0,0.1)',
             padding: '3rem',
-            maxWidth: '500px',
+            maxWidth: '625px',
             width: '100%',
             margin: '0 auto'
         };
@@ -434,7 +440,7 @@ export default class SignupIndexPage extends React.Component {
                             <div style={headerStyle}>
                                 <h1 style={titleStyle}>{SignupIndexPage.getPreSubmissionTitleMessage(contactSource)}</h1>
                                 <p style={subtitleStyle}>
-                                    Join Avni to expand its reach and enhance digital solutions for organizations worldwide.
+                                Grow with Avni as a digital partner, helping organizations everywhere enhance their solutions and reach.
                                 </p>
                             </div>
                         )}
@@ -442,8 +448,7 @@ export default class SignupIndexPage extends React.Component {
                         {status === Status.Success ? (
                             <div style={{textAlign: 'center', padding: '4rem 2rem'}}>
                                 <div style={{...logoStyle, background: '#48BB78', fontSize: '64px', width: '120px', height: '120px', lineHeight: '120px', marginBottom: '2rem'}}>✓</div>
-                                <h2 style={{...titleStyle, color: '#2D3748', fontSize: '28px', marginBottom: '1rem'}}>{SignupIndexPage.getPostSubmissionTitleMessage(contactSource)}</h2>
-                                <h3 style={{...titleStyle, color: '#48BB78', fontSize: '24px', marginBottom: '2rem', fontWeight: '600'}}>{SignupIndexPage.getCongratulationMessage(contactSource, signeeName)}</h3>
+                                <h2 style={{...titleStyle, color: '#2D3748', fontSize: '28px', marginBottom: '1rem'}}>{SignupIndexPage.getCongratulationMessage(contactSource, signeeName)}</h2>
                                 <p style={{...subtitleStyle, marginBottom: '2rem', fontSize: '16px', lineHeight: '1.6', color: '#4A5568'}}>{SignupIndexPage.getSubtitleMessage(contactSource, email)}</p>
                                 {SignupIndexPage.getCallToAction(contactSource).show && (
                                     <a 
@@ -460,7 +465,7 @@ export default class SignupIndexPage extends React.Component {
                                             fontWeight: '600'
                                         }}
                                     >
-                                        {SignupIndexPage.getCallToAction(contactSource).text}
+                                        {SignupIndexPage.getCallToAction(contactSource).text.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ')}
                                     </a>
                                 )}
                             </div>
