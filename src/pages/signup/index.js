@@ -111,7 +111,7 @@ export default class SignupIndexPage extends React.Component {
         super(props);
         this.submitForm = this.submitForm.bind(this);
         this.state = {
-            status: Status.Success,
+            status: Status.Initial,
             signeeName: "Himesh",
             email: "himeshr@avni.org",
             phone: "",
@@ -140,7 +140,7 @@ export default class SignupIndexPage extends React.Component {
 
     static getSignupButtonLabel(contactSource) {
         switch(contactSource) {
-            case Constants.CustomPlan: return "Explore How Others Use Avni";
+            case Constants.CustomPlan: return "Request a Call Back";
             case Constants.Trial: return "Start Free Trial";
             case Constants.TrainingPlan: return "Get Started";
             default: return "Start Free Trial";
@@ -782,7 +782,7 @@ export default class SignupIndexPage extends React.Component {
                                         type="submit"
                                         disabled={this.state.isSubmitting}
                                     >
-                                        {this.state.isSubmitting ? 'Creating account...' : SignupIndexPage.getSignupButtonLabel(contactSource)}
+                                        {this.state.isSubmitting ? 'Processing...' : SignupIndexPage.getSignupButtonLabel(contactSource)}
                                     </button>
 
                                     <input type="hidden" name="source" value={contactSource || 'direct'}/>
