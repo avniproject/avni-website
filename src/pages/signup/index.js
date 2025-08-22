@@ -136,17 +136,19 @@ export default class SignupIndexPage extends React.Component {
 
     static getCongratulationMessage(contactSource, signeeName) {
         const firstName = signeeName ? signeeName.split(' ')[0] : 'there';
-        if (contactSource === Constants.Trial) return `Welcome aboard, ${firstName}!`;
-        if (contactSource === Constants.CustomPlan) return `Thank you for considering Avni, ${firstName}!`;
-        if (contactSource === Constants.TrainingPlan) return `Thanks For Signing Up, ${firstName}!`;
-        return `Welcome, ${firstName}!`;
+        switch(contactSource) {
+            case Constants.CustomPlan: return `Thank you for considering Avni, ${firstName}!`;
+            case Constants.TrainingPlan: return `Thanks For Signing Up, ${firstName}!`;
+            case Constants.Trial:
+            default: return `Welcome aboard, ${firstName}!`;
+        }
     }
 
     static getSignupButtonLabel(contactSource) {
         switch(contactSource) {
             case Constants.CustomPlan: return "Request a Call Back";
-            case Constants.Trial: return "Start Free Trial";
             case Constants.TrainingPlan: return "Get Started";
+            case Constants.Trial:
             default: return "Start Free Trial";
         }
     }
@@ -154,8 +156,8 @@ export default class SignupIndexPage extends React.Component {
     static getPreSubmissionTitleMessage(contactSource) {
         switch(contactSource) {
             case Constants.CustomPlan: return "Get a Custom Avni Plan for Your Organization";
-            case Constants.Trial: return "Start Your 30-Day Free Trial";
             case Constants.TrainingPlan: return "Use Avni — with expert support";
+            case Constants.Trial:
             default: return "Start Your 30-Day Free Trial";
         }
     }
@@ -163,22 +165,14 @@ export default class SignupIndexPage extends React.Component {
     static getPostSubmissionTitleMessage(contactSource) {
         switch(contactSource) {
             case Constants.CustomPlan: return "Let's discuss your needs";
-            case Constants.Trial: return "You're all set!";
             case Constants.TrainingPlan: return "Training enrollment complete";
+            case Constants.Trial:
             default: return "You're all set!";
         }
     }
 
     static getSubtitleMessage(contactSource, email) {
         switch(contactSource) {
-            case Constants.Trial: 
-                return (
-                    <span>
-                        We've sent your login details to <strong style={{color: '#ff470f'}}>{email}</strong>. 
-                        <br />
-                        Log in and begin creating impact with your team.
-                    </span>
-                );
             case Constants.CustomPlan: 
                 return (<span>We’ve received your request to discuss pricing and understand your requirements.
                     <br />
@@ -190,19 +184,20 @@ export default class SignupIndexPage extends React.Component {
                     <br />
                     In the meantime, explore how organizations like yours use Avni to create impact.
                     </span>);
+            case Constants.Trial:
             default: 
-                return "Our team will get in touch with you soon with next steps.";
+                return (
+                    <span>
+                        We've sent your login details to <strong style={{color: '#ff470f'}}>{email}</strong>. 
+                        <br />
+                        Log in and begin creating impact with your team.
+                    </span>
+                );
         }
     }
 
     static getCallToAction(contactSource) {
         switch(contactSource) {
-            case Constants.Trial:
-                return {
-                    text: "Get started",
-                    url: "https://app.avniproject.org",
-                    show: true
-                };
             case Constants.CustomPlan:
                 return {
                     text: "Explore Our Capabilities",
@@ -215,10 +210,11 @@ export default class SignupIndexPage extends React.Component {
                     url: "/case-studies",
                     show: true
                 };
+            case Constants.Trial:
             default:
                 return {
-                    text: "Explore How Others Use Avni",
-                    url: "/case-studies",
+                    text: "Get started",
+                    url: "https://app.avniproject.org",
                     show: true
                 };
         }
@@ -391,7 +387,7 @@ export default class SignupIndexPage extends React.Component {
     render() {
         const parsed = queryString.parse(this.props.location.search);
         const {status, signeeName, email} = this.state;
-        const contactSource = parsed[Constants.ContactSource];
+        const contactSource = parsed[Constants.ContactSource] || Constants.Trial;
         const formContainerStyle = {
             minHeight: 'calc(100vh - 80px)', // Account for navbar height
             display: 'flex',
