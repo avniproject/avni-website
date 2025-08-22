@@ -69,6 +69,22 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
                     name: `twitter:description`,
                     content: metaDescription,
                 },
+                {
+                    name: `keywords`,
+                    content: `data collection, reporting platform, open-source, mobile data collection, algorithmic decision support, field service, Avni`,
+                },
+                {
+                    property: `og:url`,
+                    content: canonical,
+                },
+                {
+                    property: `og:site_name`,
+                    content: site.siteMetadata.title,
+                },
+                {
+                    name: `twitter:site`,
+                    content: site.siteMetadata.twitterHandle,
+                },
             ]
                 .concat(
                     metaImage
