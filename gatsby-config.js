@@ -110,6 +110,22 @@ module.exports = {
             },
         },
         {
+            resolve: 'gatsby-plugin-google-tagmanager',
+            options: {
+                id: 'AW-17511540130',
+                // Optional: Include in development environment
+                includeInDevelopment: false,
+                // Optional: Default data layer values
+                defaultDataLayer: {platform: 'gatsby'},
+                // Optional: Respect Do Not Track (DNT) browser setting
+                respectDNT: true,
+                // Optional: Exclude certain paths from tracking
+                exclude: ['/preview/**', '/do-not-track/'],
+                // Optional: Delay pageview event on route updates (e.g., for page transitions)
+                delayOnRouteUpdate: 0,
+            },
+        },
+        {
             resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
             options: {
                 develop: true, // Activates purging in npm run develop
