@@ -2,7 +2,7 @@
 templateKey: case-study 
 title: How Goonj Uses Avni to Digitise Offline Data Collection and Inventory Flow
 date: 2025-09-03T10:00:00.000Z 
-author: 
+author: Avni Team
 description: For over twenty-five years, Goonj has reshaped how India thinks about giving. Founded in 1999 with a single computer, it has grown into a nationwide movement working across thirty-one states and union territories. In the last ten years alone, more than sixty-three million kilograms of urban surplus have been channelled to rural communities, addressing disaster relief, rural development, and overlooked humanitarian challenges, while reducing the burden on urban landfills.
 featuredpost: false 
 featuredimage:
