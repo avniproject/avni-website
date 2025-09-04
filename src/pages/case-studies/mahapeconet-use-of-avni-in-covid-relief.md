@@ -6,7 +6,7 @@ description: >-
   Avni is used as a survey tool, and then as an MIS to keep tabs of Covid relief 
   activities.
 featuredstudy: false
-author: Vinay Venu
+author: Avni Team
 tags:
   - Survey
   - Case Study

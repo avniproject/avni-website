@@ -2,7 +2,7 @@
 templateKey: case-study 
 title: Empowering Waste Pickers Through Tech- How Hasiru Dala Scaled Impact Using Avni
 date: 2025-08-01T10:00:00.000Z 
-author: Anjali Bhagabati
+author: Avni Team
 description: 
 featuredpost: false 
 featuredimage:

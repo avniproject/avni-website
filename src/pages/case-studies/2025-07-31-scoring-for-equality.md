@@ -2,7 +2,7 @@
 templateKey: case-study 
 title: Scoring for Equality- How Maitrayana Uses Avni to Measure Impact Through Sports
 date: 2025-07-31T10:00:00.000Z 
-author: Parth Halani
+author: Avni Team
 description: 
 featuredpost: false 
 featuredimage:

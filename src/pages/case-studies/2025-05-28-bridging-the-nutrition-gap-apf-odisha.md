@@ -2,8 +2,8 @@
 templateKey: case-study 
 title: Bridging the Nutrition Gap - APF Odisha’s Data-Driven Maternal and Child Health Program Using Avni 
 date: 2025-05-28T10:00:00.000Z 
-author: Anjali Bhagabati 
-description: >-  
+author: Avni Team
+description: >
 featuredpost: false 
 featuredimage:
 tags:
