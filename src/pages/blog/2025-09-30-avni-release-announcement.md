@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Avni September Release
 date: 2025-09-30T20:30:00.000Z
 author: Avni Team
-featuredpost: false
+featuredpost: true
 description: 
 featuredimage:
 tags:
