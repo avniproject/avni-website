@@ -331,6 +331,7 @@ export default class SignupIndexPage extends React.Component {
             otherSector: data.otherSector || '',
             otherOrgType: data.otherOrgType || '',
             source: data.source || '',
+            sourceOfSignup: data.sourceOfSignup || '',
             marketingConsent: this.state.marketingConsent,
             recaptcha: this.state.recaptchaValue
         };
