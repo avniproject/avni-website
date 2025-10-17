@@ -12,4 +12,6 @@ const typography = new Typography({
   bodyFontFamily: ["Helvetica Neue", "Segoe UI", "Helvetica", "sans-serif"],
 })
 
+typography.injectStyles()
+
 export default typography

@@ -11,9 +11,6 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://www.google-analytics.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://assets.calendly.com" crossOrigin="anonymous" />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
@@ -28,6 +25,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
       </body>
+      <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     </html>
   )
 }

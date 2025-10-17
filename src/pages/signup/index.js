@@ -4,8 +4,7 @@ import queryString from 'query-string';
 import Constants from "../../Constants";
 import PhoneInput from 'react-phone-number-input';
 import ReCAPTCHA from "react-google-recaptcha";
-import { parsePhoneNumberFromString } from 'libphonenumber-js/min';
-import metadata from 'libphonenumber-js/metadata.min.json';
+import { parsePhoneNumber } from 'react-phone-number-input';
 import en from 'react-phone-number-input/locale/en.json';
 import 'react-phone-number-input/style.css';
 
@@ -305,7 +304,7 @@ export default class SignupIndexPage extends React.Component {
         
         if (this.state.phone) {
             try {
-                const phoneNumber = parsePhoneNumberFromString(this.state.phone);
+                const phoneNumber = parsePhoneNumber(this.state.phone);
                 if (phoneNumber && phoneNumber.country) {
                     country = phoneNumber.country;
                     countryName = en[phoneNumber.country] || 'Unknown';
@@ -608,7 +607,6 @@ export default class SignupIndexPage extends React.Component {
                                                 this.setState({ country: country || 'IN' });
                                             }}
                                             defaultCountry="IN"
-                                            metadata={metadata}
                                             style={{
                                                 '--PhoneInputCountryFlag-height': '1em',
                                                 '--PhoneInput-color--focus': '#ff470f',
