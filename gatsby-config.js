@@ -19,8 +19,6 @@ module.exports = {
                 ],
                 gtagConfig: {
                     anonymize_ip: true,
-                    send_page_view: false,
-                    transport_type: 'beacon',
                 },
                 pluginConfig: {
                     head: false,
