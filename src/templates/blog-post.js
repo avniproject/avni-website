@@ -4,7 +4,8 @@ import {kebabCase} from 'lodash';
 import {graphql, Link} from 'gatsby';
 import Layout from '../components/Layout';
 import Content, {HTMLContent} from '../components/Content';
-import Share from '../components/Share';
+import loadable from '@loadable/component'
+const Share = loadable(() => import('../components/Share'));
 import SEO from '../components/seo';
 
 export const BlogPostTemplate = ({

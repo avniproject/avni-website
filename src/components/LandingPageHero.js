@@ -2,11 +2,11 @@ import React from "react";
 import Navbar from "./Navbar"
 // import banner from '../img/cover.png'
 // import DiwaliBanner from '../img/diwali-banner.jpg'
-import {PopupText} from "react-calendly";
 import Constants from "../Constants";
 import SecondaryCTAButton from "./SecondaryCTAButton";
 import Img from "gatsby-image";
 import {graphql, useStaticQuery} from 'gatsby';
+import { Helmet } from "react-helmet";
 
 let subtitle = function (text) {
   return <p
@@ -24,8 +24,8 @@ export default function LandingPageHero() {
     query {
       file(relativePath: { eq: "cover.png" }) {
         childImageSharp {
-          fluid {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          fluid(maxWidth: 2000, quality: 70, toFormat: JPG) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
@@ -33,6 +33,14 @@ export default function LandingPageHero() {
   `)
   return (
     <div>
+      <Helmet>
+        <link
+          rel="preload"
+          as="image"
+          href={data.file.childImageSharp.fluid.src}
+          imagesrcset={data.file.childImageSharp.fluid.srcSet}
+        />
+      </Helmet>
       <div className="hero-head">
         <Navbar/>
       </div>
@@ -83,11 +91,12 @@ export default function LandingPageHero() {
           <div style={{paddingTop: '1rem', flexDirection: 'column', display: 'flex', alignItems: 'center'}}>
             <SecondaryCTAButton text="Try for free" link={`/signup?${Constants.ContactSource}=${Constants.Trial}`}/>
             <p className="button is-primary is-medium" style={{marginTop: 10}}>
-              <PopupText
-                text="Schedule a Demo"
-                url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
-                styles={{color: 'white', fontWeight: 'bold'}}
-              />
+              <a
+                href="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
+                style={{color: 'white', fontWeight: 'bold'}}
+              >
+                Schedule a Demo
+              </a>
             </p>
           </div>
         </div>

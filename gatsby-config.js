@@ -11,31 +11,21 @@ module.exports = {
     },
     plugins: [
         {
-            resolve: `gatsby-plugin-google-analytics`,
+            resolve: `gatsby-plugin-google-gtag`,
             options: {
-                trackingId: "UA-151665102-1",
-                // Defines where to place the tracking script - `true` in the head and `false` in the body
-                head: false,
-                // Setting this parameter is optional
-                anonymize: true,
-                // Setting this parameter is also optional
-                respectDNT: true,
-                // Avoids sending pageview hits from custom paths
-                exclude: ["/do-not-track/example/"],
-                // Delays sending pageview hits on route update (in milliseconds)
-                pageTransitionDelay: 0,
-                defer: true,
-                enableWebVitalsTracking: true,
-                // Enables Google Optimize using your container Id
-                // optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
-                // Enables Google Optimize Experiment ID
-                // experimentId: "YOUR_GOOGLE_EXPERIMENT_ID",
-                // Set Variation ID. 0 for original 1,2,3....
-                // variationId: "YOUR_GOOGLE_OPTIMIZE_VARIATION_ID",
-                // Any additional optional fields
-                // sampleRate: 5,
-                // siteSpeedSampleRate: 10,
-                // cookieDomain: "example.com",
+                trackingIds: [
+                    'G-Y3E7H5MDX8',
+                    'AW-17511540130'
+                ],
+                gtagConfig: {
+                    anonymize_ip: true,
+                },
+                pluginConfig: {
+                    head: false,
+                    respectDNT: true,
+                    delayOnRouteUpdate: 0,
+                    exclude: ['/preview/**', '/do-not-track/**'],
+                },
             },
         },
         'gatsby-plugin-react-helmet',
@@ -110,19 +100,12 @@ module.exports = {
             },
         },
         {
-            resolve: 'gatsby-plugin-google-tagmanager',
+            resolve: 'gatsby-plugin-webpack-bundle-analyser-v2',
             options: {
-                id: 'AW-17511540130',
-                // Optional: Include in development environment
-                includeInDevelopment: false,
-                // Optional: Default data layer values
-                defaultDataLayer: {platform: 'gatsby'},
-                // Optional: Respect Do Not Track (DNT) browser setting
-                respectDNT: true,
-                // Optional: Exclude certain paths from tracking
-                exclude: ['/preview/**', '/do-not-track/'],
-                // Optional: Delay pageview event on route updates (e.g., for page transitions)
-                delayOnRouteUpdate: 0,
+                analyzerMode: 'static',
+                reportFilename: 'bundle-report.html',
+                openAnalyzer: false,
+                disable: !process.env.ANALYZE_BUNDLE,
             },
         },
         {
@@ -130,6 +113,7 @@ module.exports = {
             options: {
                 develop: true, // Activates purging in npm run develop
                 purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
+                printRejected: true,
             },
         }, // must be after other CSS plugins
         'gatsby-plugin-netlify', // make sure to keep it last in the array

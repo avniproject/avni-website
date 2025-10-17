@@ -1,5 +1,4 @@
 import React from 'react';
-import {PopupText} from "react-calendly";
 
 let step = function (title, text) {
     return <div className="columns">
@@ -24,11 +23,12 @@ const Plan = ({}) => (
             <div className="column is-one-third"/>
             <div className="column is-one-third has-text-centered">
                 <p className="button is-primary is-medium">
-                    <PopupText
-                        text="Schedule a Demo"
-                        url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
-                        styles={{color: 'white', fontWeight: 'bold'}}
-                    />
+                    <a
+                        href="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
+                        style={{color: 'white', fontWeight: 'bold'}}
+                    >
+                        Schedule a Demo
+                    </a>
                 </p>
             </div>
             <div className="column is-one-third"/>

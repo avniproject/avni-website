@@ -3,7 +3,6 @@ import {Link} from 'gatsby'
 import logo from '../img/avni-logo-color.png'
 import {Location} from '@reach/router'
 import Constants from "../Constants";
-import {PopupText} from "react-calendly";
 
 
 export default class Navbar extends React.Component {
@@ -50,7 +49,10 @@ export default class Navbar extends React.Component {
                                     src={logo}
                                     alt="avni"
                                     className="logo"
-                                    style={{height: '50px'}}
+                                    width="276"
+                                    height="81"
+                                    decoding="async"
+                                    style={{height: '50px', width: 'auto'}}
                                 />
                             </Link>
                         </div>
@@ -136,11 +138,12 @@ export default class Navbar extends React.Component {
                                                         )
                                                         }
                                                         <p className="button is-primary" style={{marginRight: 12}}>
-                                                            <PopupText
-                                                                text="Schedule a Demo"
-                                                                url="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
-                                                                styles={{color:'white', fontWeight:'bold'}}
-                                                            />
+                                                            <a
+                                                                href="https://calendly.com/avnisupport-samanvayfoundation/product-demo-and-discussion"
+                                                                style={{color:'white', fontWeight:'bold'}}
+                                                            >
+                                                                Schedule a Demo
+                                                            </a>
                                                         </p>
                                                     </div>
                                                 </div>

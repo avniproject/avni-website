@@ -1,16 +1,17 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import {graphql} from "gatsby";
+import loadable from '@loadable/component'
 
 import Layout from "../components/Layout"
 import LandingPageHero from "../components/LandingPageHero";
 import ContactUs from "../components/ContactUs";
 import ValuePropositions from "../components/ValuePropositions";
-import Authority from "../components/Authority";
-import Plan from "../components/Plan";
-import Explanation from "../components/Explanation";
+const Authority = loadable(() => import(/* webpackChunkName: "authority" */ "../components/Authority"), { ssr: false });
+const Plan = loadable(() => import(/* webpackChunkName: "plan" */ "../components/Plan"), { ssr: false });
+const Explanation = loadable(() => import(/* webpackChunkName: "explanation" */ "../components/Explanation"), { ssr: false });
 import SEO from "../components/seo"
-import Testimonials from '../Testimonials';
+const Testimonials = loadable(() => import(/* webpackChunkName: "testimonials" */ '../Testimonials'), { ssr: false });
 
 export const IndexPageTemplate = ({
                                       features,
