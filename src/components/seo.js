@@ -12,6 +12,8 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
             description
             author
             siteUrl
+            twitterHandle
+            linkedinHandle
           }
         }
       }
@@ -23,6 +25,7 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
             ? `${site.siteMetadata.siteUrl}${metaImage.src}`
             : null;
     const canonical = pathname ? `${site.siteMetadata.siteUrl}${pathname}` : null;
+    const ogUrl = canonical || site.siteMetadata.siteUrl;
     return (
         <Helmet
             htmlAttributes={{
@@ -58,6 +61,18 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
                     content: `Website`,
                 },
                 {
+                    property: `og:url`,
+                    content: ogUrl,
+                },
+                {
+                    property: `og:site_name`,
+                    content: site.siteMetadata.title,
+                },
+                {
+                    name: `twitter:site`,
+                    content: site.siteMetadata.twitterHandle,
+                },
+                {
                     name: `twitter:creator`,
                     content: site.siteMetadata.author,
                 },
@@ -68,6 +83,10 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
                 {
                     name: `twitter:description`,
                     content: metaDescription,
+                },
+                {
+                    property: `article:author`,
+                    content: `https://www.linkedin.com/showcase/${site.siteMetadata.linkedinHandle}/`,
                 },
             ]
                 .concat(

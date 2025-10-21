@@ -7,6 +7,7 @@ module.exports = {
         description:
             'Open-source Mobile Data Collection and Reporting platform with algorithmic decision support',
         twitterHandle: '@avniproject',
+        linkedinHandle: 'avniproject',
         author: 'Avni'
     },
     plugins: [
