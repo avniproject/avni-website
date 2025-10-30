@@ -9,8 +9,10 @@ featuredimage: /img/2025-10-30-avni-launchpad-announcement/Avni_Launchpad.png
 tags:
 ---
 
-![](/img/2025-10-30-avni-launchpad-announcement/Avni_Launchpad.png)
-#### Announcing the Avni Launchpad Cohort 1
+<a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
+  <img src="/img/2025-10-30-avni-launchpad-announcement/Avni_Launchpad.png"/>
+</a>
+<br>
 
 Many NGOs running field-based programs are still on paper/spreadsheet-based or expensive systems. They want to switch to Avni, but sometimes struggle to make the leap or convince the decision makers of the value. So we are launching a very quick and in-expensive way to see the value of using Avni before investing further. 
 
@@ -21,18 +23,18 @@ The Avni Launchpad is a unique program tailored for NGOsand social enterprises r
 If you are an NGO looking to digitise your field-work, this workshop lets you digitally translate your program and see the value of it before investing further. Through guided learning, peer support, and powerful tools, we help you bring your idea to life - from concept to pilot - with confidence and ease.
 
 ### What You Get
-- The program:
+**The program:**
   - A blend of online sessions and an in-person workshop where we discuss good data practices, program definition, and learn to use Avni
   - Practical training with guidance at every step
   - Work alongside peers, share ideas, and solve challenges together
   - Learn how to scope your use case and design a full-fledged fieldwork MIS
   - Wrap up with a working prototype ready to test with your community
 
-- Incentives:
+**Incentives:**
   - Free Avni hosting & support (worth up to ₹ 30,000) until end of program
   - 10% discount on annual subscription, up to ₹ 21,000 for continued subscription beyond end of program
 
-  - Community Benefits:
+**Community Benefits:**
   - Join the Avni community - network with a vibrant group of change-makers
   - Ongoing support to scale your digital journey
 
@@ -48,9 +50,19 @@ You are an NGO who has
 
 <br>
 
-#### Details
-- Last Date **21st Nov, 2025 (11:59 PM IST)** 
-- Contact for queries: **avnipartnerships@samanvayfoundation.org**
+#### Key Dates
+![](/img/2025-10-30-avni-launchpad-announcement/timeline.png)
+
+| Week | Date | Event |
+|------|------|-------|
+| Week 1 | Oct 30 | Program announced |
+| Week 4 | Nov 21 | Application submissions closed |
+| Week 5 | Nov 24 | Cohort finalised |
+| Week 5 | Nov 25 | Orientation meeting & Training |
+| Week 5 | Nov 25 | Whatsapp group created |
+| Week 5 | Dec 1 | Usecase Presentation |
+| Week 6 | Dec 12 | 2 day In-person workshop starts |
+| Week 12 | Jan 30, 2026 | Learnings from the ground. Conclusion of the cohort |
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer" 
@@ -58,6 +70,8 @@ You are an NGO who has
     Apply Now
   </a>
 </div>
+
+Contact for queries: **avnipartnerships@samanvayfoundation.org**
 
 
 <br><br>
