@@ -79,4 +79,6 @@ You are an NGO who has
 
 Contact for queries: **avnipartnerships@samanvayfoundation.org**
 
+Learn more about Avni : [Join one of our upcoming webinars](/events) | [Read case studies](/case-studies) | [Read blogs](/blog)
+
 <br><br>
