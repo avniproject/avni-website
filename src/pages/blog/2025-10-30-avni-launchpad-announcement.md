@@ -5,14 +5,21 @@ date: 2025-10-30T20:30:00.000Z
 author: Avni Team
 featuredpost: true
 description: 
-featuredimage: /img/2025-10-30-avni-launchpad-announcement/Avni_Launchpad.png
+featuredimage: /img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png
 tags:
 ---
 
 <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
   <img src="/img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png"/>
 </a>
-<br>
+<div style="text-align: right; margin: 2rem 0;">
+  <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer" 
+     class="button is-primary is-medium"> 
+    Apply Now
+  </a>
+</div>
+
+#### Announcing the Avni Launchpad Cohort 1
 
 Many NGOs running field-based programs are still on paper/spreadsheet-based or expensive systems. They want to switch to Avni, but sometimes struggle to make the leap or convince the decision makers of the value. So we are launching a very quick and in-expensive way to see the value of using Avni before investing further. 
 
@@ -20,7 +27,7 @@ The Avni Launchpad is a unique program tailored for NGOs and social enterprises 
 
 ### Why Join the program?
 
-If you are an NGO looking to digitise your field-work, this workshop lets you digitally translate your program and see the value in a short span of time before investing further. Through guided learning, peer support, and powerful tools, we help you bring your idea to life - from concept to pilot - with confidence and ease.
+If you are an NGO looking to digitise your field-work, this workshop lets you digitally translate your program and see the value of it before investing further. Through guided learning, peer support, and powerful tools, we help you bring your idea to life - from concept to pilot - with confidence and ease.
 
 ### What You Get
 **The program:**
@@ -60,8 +67,6 @@ You are an NGO who has
 | Week 4 | Nov 21 | Application submissions closed |
 | Week 5 | Nov 24 | Cohort finalised |
 | Week 5 | Nov 25 | Orientation meeting & Training |
-| Week 5 | Nov 25 | Whatsapp group created |
-| Week 5 | Dec 1 | Usecase Presentation |
 | Week 6 | Dec 12 | 2 day In-person workshop starts |
 | Week 12 | Jan 30, 2026 | Learnings from the ground. Conclusion of the cohort |
 
@@ -73,6 +78,5 @@ You are an NGO who has
 </div>
 
 Contact for queries: **avnipartnerships@samanvayfoundation.org**
-
 
 <br><br>
