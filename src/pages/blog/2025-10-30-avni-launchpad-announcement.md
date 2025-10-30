@@ -12,12 +12,7 @@ tags:
 <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
   <img src="/img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png"/>
 </a>
-<div style="text-align: right; margin: 2rem 0;">
-  <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer" 
-     class="button is-primary is-medium"> 
-    Apply Now
-  </a>
-</div>
+
 
 #### Announcing the Avni Launchpad Cohort 1
 
