@@ -10,7 +10,7 @@ tags:
 ---
 
 <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
-  <img src="/img/2025-10-30-avni-launchpad-announcement/Avni_Launchpad.png"/>
+  <img src="/img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png"/>
 </a>
 <br>
 
@@ -24,15 +24,16 @@ If you are an NGO looking to digitise your field-work, this workshop lets you di
 
 ### What You Get
 **The program:**
-  - A blend of online sessions and an in-person workshop where we discuss good data practices, program definition, and learn to use Avni
+  - A blend of online sessions and a 2 day in-person workshop where we discuss good data practices, program definition, and learn to use Avni
+  - An Avni Champion assigned to you
   - Practical training with guidance at every step
-  - Work alongside peers, share ideas, and solve challenges together
+  - Collaborate with peers, share ideas, and solve challenges together
   - Learn how to scope your use case and design a full-fledged fieldwork MIS
   - Wrap up with a working prototype ready to test with your community
 
 **Incentives:**
-  - Free Avni hosting & support (worth up to ₹ 30,000) until end of program
-  - 10% discount on annual subscription, up to ₹ 21,000 for continued subscription beyond end of program
+  - Free Avni hosting & support (worth up to ₹ 30,000) until end of the launchpad program
+  - Get a 10% discount on the annual subscription, up to ₹21,000, when you continue your subscription after the program ends.
 
 **Community Benefits:**
   - Join the Avni community - network with a vibrant group of change-makers
@@ -40,8 +41,8 @@ If you are an NGO looking to digitise your field-work, this workshop lets you di
 
 ### Who Should Apply
 You are an NGO who has 
-- **Clear need for Avni** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time. Case studies on the website may help understand this more. If you are still not sure, please contact us through avnipartnerships@samanvayfoundation.org to discuss further.
-- **Bandwidth** - You can nominate someone in the organisation who will drive the pilot. The participant
+- **Clear need for Avni** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time. Take a look at the [case studies](/case-studies) to help understand this more. If you are still not sure, please contact us through avnipartnerships@samanvayfoundation.org to discuss further.
+- **Availability** - You can nominate someone in the organisation who will drive the pilot. The participant
   - Knows the pilot use-case
   - Can spend 5–7 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
   - Is comfortable with using smartphones, spreadsheets and setting up drop-down based applications like google forms.
