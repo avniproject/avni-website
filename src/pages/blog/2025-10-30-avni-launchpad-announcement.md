@@ -16,7 +16,7 @@ tags:
 
 Many NGOs running field-based programs are still on paper/spreadsheet-based or expensive systems. They want to switch to Avni, but sometimes struggle to make the leap or convince the decision makers of the value. So we are launching a very quick and in-expensive way to see the value of using Avni before investing further. 
 
-The Avni Launchpad is a unique program tailored for NGOsand social enterprises ready to take their first big step in digital transformation. Over a focused few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
+The Avni Launchpad is a unique program tailored for NGOs and social enterprises ready to take their first big step in digital transformation. Over a focused few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
 
 ### Why Join the program?
 
