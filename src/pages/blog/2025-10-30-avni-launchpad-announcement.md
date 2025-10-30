@@ -17,53 +17,54 @@ tags:
 
 #### Announcing the Avni Launchpad Cohort 1
 
-Many NGOs running field-based programs are still on paper/spreadsheet-based or expensive systems. They want to switch to Avni, but sometimes struggle to make the leap or convince the decision makers of the value. So we are launching a very quick and in-expensive way to see the value of using Avni before investing further. 
+Many NGOs running field-based programs are still on cumbersome paper/spreadsheet-based or expensive systems. Avni solves this problem by providing a low-code, AI-powered digital platform that helps organisations create offline-capable fieldwork applications and get real-time insights. </br> NGOs want to switch to Avni, but sometimes they struggle to take the leap or fail to convince the decision makers of its value. To ease this process, we are launching a very quick and in-expensive way to see the value of using Avni before investing further. 
 
-The Avni Launchpad is a unique program tailored for NGOs and social enterprises ready to take their first big step in digital transformation. Over a focused few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
+The Avni Launchpad is a unique cohort-based program tailored for NGOs and social enterprises ready to take their first big step in digital transformation. In a short time of a few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
 
 ### Why Join the program?
 
-If you are an NGO looking to digitise your field-work, this workshop lets you digitally translate your program and see the value of it before investing further. Through guided learning, peer support, and powerful tools, we help you bring your idea to life - from concept to pilot - with confidence and ease.
+If you’re an NGO working in the field, this program helps you explore how digital tools can make your work easier and more effective.
 
-### What You Get
-**The program:**
-  - A blend of online sessions and a 2 day in-person workshop where we discuss good data practices, program definition, and learn to use Avni
-  - An Avni Champion assigned to you
-  - Practical training with guidance at every step
-  - Collaborate with peers, share ideas, and solve challenges together
-  - Learn how to scope your use case and design a full-fledged fieldwork MIS
-  - Wrap up with a working prototype ready to test with your community
+**1. Learn to go digital**</br>
+Discover how to use Avni, a mobile app that helps you collect and manage data — even without internet.
 
-**Incentives:**
-  - Free Avni hosting & support (worth up to ₹ 30,000) until end of the launchpad program
-  - Get a 10% discount on the annual subscription, up to ₹21,000, when you continue your subscription after the program ends.
+**2. Save time and reduce errors**</br>
+Move from paper-based data collection to a simple digital system that’s faster, more reliable, and easy to manage.
 
-**Community Benefits:**
-  - Join the Avni community - network with a vibrant group of change-makers
-  - Ongoing support to scale your digital journey
+**3. Test before investing**</br>
+Experience the value of going digital through a guided pilot, before committing major time or funds. We are offering free hosting and support until the end of launchpad program and a 10% discount on annual subscription if you sign up before the program ends. **<span style="color:#ff470f">This could mean savings of 1 Lakh Rupees or more !</span>**
+
+**4. Get hands-on support and build capacity**</br>
+Work with mentors, peers, and our team to turn your idea into a working pilot ready for the field.
+
+**5. Access to Avni community**</br>
+Join the Avni community - network with vibrant group of change-makers
+
 
 ### Who Should Apply
 You are an NGO who has 
-- **Clear need for Avni** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time. Take a look at the [case studies](/case-studies) to help understand this more. If you are still not sure, please contact us through avnipartnerships@samanvayfoundation.org to discuss further.
+- **Clear need for Avni** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time.
+  - Take a look at the [case studies](/case-studies) to help understand this more. If you are still not sure, please contact us through Avni Partnerships- <mailto:avnipartnerships@samanvayfoundation.org> to discuss further.
 - **Availability** - You can nominate someone in the organisation who will drive the pilot. The participant
   - Knows the pilot use-case
   - Can spend 5–7 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
-  - Is comfortable with using smartphones, spreadsheets and setting up drop-down based applications like google forms.
+  - Is comfortable using smartphones, spreadsheets and setting up drop-down based applications like google forms.
   - Can attend a 2-day workshop in Bangalore
 - **Funds** - If you think the pilot works fine, you must be able to pay SaaS fees to continue with the work beyond the pilot phase. While you can make the decision on whether you would want to continue depending on the success of the pilot, it will be useful to know in advance if you would be able to raise funds if you find the app valuable
 
 <br>
 
 #### Key Dates
-![](/img/2025-10-30-avni-launchpad-announcement/timeline.png)
+![](/img/2025-10-30-avni-launchpad-announcement/launchpad_timeline.png)
 
-| Week | Date | Event |
-|------|------|-------|
-| Week 1 | Oct 30 | Program announced |
-| Week 4 | Nov 21 | Application submissions closed |
-| Week 5 | Nov 24 | Cohort finalised |
-| Week 5 | Nov 25 | Orientation meeting & Training |
-| Week 6 | Dec 12 | 2 day In-person workshop starts |
+| Week    | Date         | Event                                       |
+|---------|--------------|---------------------------------------------|
+| Week 1  | Oct 30       | Program announced                           |
+| Week 4  | Nov 21       | Application submissions closed              |
+| Week 5  | Nov 24       | Cohort finalised                            |
+| Week 5  | Nov 25       | Online Orientation meeting, Training & Prep-work |
+| Week 7  | Dec 12       | 2 day In-person workshop    |
+| Week 7  | Dec 13       | App ready for pilot     |
 | Week 12 | Jan 30, 2026 | Learnings from the ground. Conclusion of the cohort |
 
 <div style="text-align: center; margin: 2rem 0;">
