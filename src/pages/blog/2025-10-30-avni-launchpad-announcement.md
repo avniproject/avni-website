@@ -20,7 +20,7 @@ The Avni Launchpad is a unique program tailored for NGOsand social enterprises r
 
 ### Why Join the program?
 
-If you are an NGO looking to digitise your field-work, this workshop lets you digitally translate your program and see the value of it before investing further. Through guided learning, peer support, and powerful tools, we help you bring your idea to life - from concept to pilot - with confidence and ease.
+If you are an NGO looking to digitise your field-work, this workshop lets you digitally translate your program and see the value in a short span of time before investing further. Through guided learning, peer support, and powerful tools, we help you bring your idea to life - from concept to pilot - with confidence and ease.
 
 ### What You Get
 **The program:**
