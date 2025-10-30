@@ -13,6 +13,7 @@ tags:
   <img src="/img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png"/>
 </a>
 
+<br>
 
 #### Announcing the Avni Launchpad Cohort 1
 
