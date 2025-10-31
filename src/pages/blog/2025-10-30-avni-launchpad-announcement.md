@@ -17,7 +17,7 @@ tags:
 
 #### Announcing the Avni Launchpad Cohort 1
 
-Many NGOs running field-based programs are still on cumbersome paper/spreadsheet-based or expensive systems. Avni solves this problem by providing a low-code, AI-powered digital platform that helps organisations create offline-capable fieldwork applications and get real-time insights. </br> NGOs want to switch to Avni, but sometimes they struggle to take the leap or fail to convince the decision makers of its value. To ease this process, we are launching a very quick and in-expensive way to see the value of using Avni before investing further. 
+Many NGOs running field-based programs are still on cumbersome paper/spreadsheet-based or expensive systems. Avni solves this problem by providing a low-code, AI-powered digital platform that helps organisations create offline-capable fieldwork applications and get real-time insights. </br> NGOs want to switch to Avni, but sometimes they struggle to take the leap or fail to convince the decision makers of its value. To ease this process, we are launching a very quick and in-expensive way to **<span style="color:#ff470f">see the value of using Avni before investing further</span>**. 
 
 The Avni Launchpad is a unique cohort-based program tailored for NGOs and social enterprises ready to take their first big step in digital transformation. In a short time of a few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
 
