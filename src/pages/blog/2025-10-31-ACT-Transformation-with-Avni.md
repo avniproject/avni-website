@@ -7,7 +7,6 @@ featuredpost: true
 description: 
 featuredimage: /img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png
 tags:
-    - Partner Stories: Digital Journeys with Avni
     - User stories
     - Health
 ---
