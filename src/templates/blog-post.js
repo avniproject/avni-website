@@ -34,7 +34,7 @@ export const BlogPostTemplate = ({
                         <p className="subtitle is-6">
                             {date} by {author}
                         </p>
-                        <p>{description}</p>
+                        <p style={{fontStyle: 'italic'}}>{description}</p>
                         <PostContent content={content}/>
                         {tags && tags.length ? (
                             <div className="field is-grouped is-grouped-multiline" style={{marginTop: `4rem`}}>

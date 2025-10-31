@@ -4,7 +4,7 @@ title: Avni Launchpad - Digitize. Pilot. Transform
 date: 2025-10-30T20:30:00.000Z
 author: Avni Team
 featuredpost: true
-description: 
+description:
 featuredimage: /img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png
 tags:
 ---
