@@ -12,7 +12,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-  <img src="/img/2025-ACT-Transformation-with-Avni/AVNI User Trial.jpeg" height="80px"/>
+  <img src="/img/2025-ACT-Transformation-with-Avni/AVNI User Trial.jpeg" style="max-height: 100px;"/>
 </div>
 <br>
 
@@ -74,9 +74,6 @@ For ACT, Avni has not just digitised data — it has strengthened our foundation
 Animedh Charitable Trust (ACT) works to uplift vulnerable communities through livelihood development, women’s empowerment, and education initiatives.
 
 ###  Implementation Tips for the Web Team
-
-Animedh Charitable Trust (ACT) works to uplift vulnerable communities through livelihood development, women’s empowerment, and education initiatives.
-
 <br>
 1.Keep a clean two-column layout on desktop: text left, images right (alternating per section).
 
@@ -89,8 +86,8 @@ Animedh Charitable Trust (ACT) works to uplift vulnerable communities through li
 <br>
 4.Ensure accessibility: alt text for all images and compressed image sizes under ~200 KB.
 
-<br>
 
+<br/>
 Learn more about Avni : [Join one of our upcoming webinars](/events) | [Read case studies](/case-studies) | [Read blogs](/blog)
 
 <br><br>
