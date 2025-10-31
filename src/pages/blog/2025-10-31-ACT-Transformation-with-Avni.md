@@ -5,21 +5,24 @@ date: 2025-10-30T20:30:00.000Z
 author: Nivedita Desai, – Managing Trustee Animedh Charitable Trust (ACT)
 featuredpost: true
 description: 
-featuredimage: /img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png
+featuredimage: /img/2025-ACT-Transformation-with-Avni/AVNI User Trial.jpeg
 tags:
     - User stories
     - Health
 ---
 
+<div style="text-align: center;">
 <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
   <img src="/img/2025-ACT-Transformation-with-Avni/AVNI User Trial.jpeg"/>
 </a>
+</div>
 
 <br>
 
 #### Animedh Charitable Trust’s Transformation with Avni
 
-At Animedh Charitable Trust (ACT), our mission is to empower underprivileged communities through education, health, and livelihood programmes. As our work expanded, we realised our data systems needed to evolve too. Managing information through paper forms and spreadsheets had become time-consuming and prone to errors — affecting our ability to make timely, data-driven decisions.
+At Animedh Charitable Trust (ACT), our mission is to empower underprivileged communities through education, health, and livelihood programmes. As our work expanded, we realised our data systems needed to evolve too.
+Managing information through paper forms and spreadsheets had become time-consuming and prone to errors — affecting our ability to make timely, data-driven decisions.
 That’s when we began our journey with Avni, Samanvay Foundation’s open-source platform designed for field data collection and management in the social sector.
 
 ### Why We Chose Avni
@@ -34,7 +37,7 @@ The onboarding process was smooth and inclusive. Samanvay’s team provided hand
 
 Like many NGOs, we operate with limited resources and technical capacity. To make the most of Avni within our means, we adopted a hybrid model — using self-service for simpler configurations and relying on the Avni team for more complex setups.
 
-![Avni’s mobile interface allows field staff to record data even in low-connectivity areas.](/img/2025-ACT-Transformation-with-Avni/app_act.png "Avni’s mobile interface allows field staff to record data even in low-connectivity areas.")
+![Avni’s mobile interface allows field staff to record data even in low-connectivity areas.](/img/2025-ACT-Transformation-with-Avni/app_designer_act.png "Avni’s mobile interface allows field staff to record data even in low-connectivity areas.")
 
 This approach helped us manage costs while building in-house digital capacity, supported by Samanvay’s responsive guidance.
 
