@@ -12,11 +12,8 @@ tags:
 ---
 
 <div style="text-align: center;">
-<a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
-  <img src="/img/2025-ACT-Transformation-with-Avni/AVNI User Trial.jpeg"/>
-</a>
+  <img src="/img/2025-ACT-Transformation-with-Avni/AVNI User Trial.jpeg" height="80px"/>
 </div>
-
 <br>
 
 #### Animedh Charitable Trust’s Transformation with Avni
@@ -68,7 +65,7 @@ We also onboarded a Programme Lead, an M&E expert, and a Data Officer — a move
 
 Transitioning to a new digital system wasn’t without challenges. Some initial resistance and technical hiccups were natural. But with ongoing support from Samanvay and continuous learning, our team adapted quickly.
 
-![ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.](/img/2025-ACT-Transformation-with-Avni/AVNI User Training.jpeg "ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.")
+![ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.](/img/2025-ACT-Transformation-with-Avni/metabase_act.png "ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.")
 
 For ACT, Avni has not just digitised data — it has strengthened our foundation for impact.
 
