@@ -45,7 +45,7 @@ This approach helped us manage costs while building in-house digital capacity, s
 
 With Avni, our field officers now record beneficiary details, service updates, and community feedback directly on their smartphones — even in remote villages. Data syncs automatically once connectivity resumes, giving our management team near real-time insights into programme performance.
 
-![Avni dashboards provide AC : Time spent on data collation has reduced drastically.](/img/2025-ACT-Transformation-with-Avni/AVNI Live in Field.jpeg "Automatically plotted growth chart in App")
+![Avni dashboards provide AC : Time spent on data collation has reduced drastically.](/img/2025-ACT-Transformation-with-Avni/AVNI Live in Field.jpeg "Avni dashboards provide AC : Time spent on data collation has reduced drastically.")
 
 **1. Greater accuracy:**</br>
 Direct digital entry means fewer errors and duplications.
@@ -60,7 +60,7 @@ Field workers feel confident and valued using a tool built for their realities.
 
 Transitioning to a new digital system wasn’t without challenges. Some initial resistance and technical hiccups were natural. But with ongoing support from Samanvay and continuous learning, our team adapted quickly.
 
-![Samanvay team conducting a digital onboarding session for ACT’s field staff.](/img/2025-ACT-Transformation-with-Avni/AVNI User Training.jpeg "Automatically plotted growth chart in App")
+![Samanvay team conducting a digital onboarding session for ACT’s field staff.](/img/2025-ACT-Transformation-with-Avni/AVNI User Training.jpeg "Samanvay team conducting a digital onboarding session for ACT’s field staff")
 
 We also onboarded a Programme Lead, an M&E expert, and a Data Officer — a move that improved data alignment and ensured that every insight we gathered was both accurate and actionable.
 
@@ -68,7 +68,7 @@ We also onboarded a Programme Lead, an M&E expert, and a Data Officer — a move
 
 Our experience with Avni has shown us how technology, when rooted in empathy and practicality, can truly transform how NGOs operate. We’re now exploring more ways to use digital tools for monitoring, evaluation, and storytelling.
 
-![ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.](/img/2025-ACT-Transformation-with-Avni/AVNI Live in Field.jpeg "Automatically plotted growth chart in App")
+![ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.](/img/2025-ACT-Transformation-with-Avni/AVNI Live in Field.jpeg "ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.")
 
 For ACT, Avni has not just digitised data — it has strengthened our foundation for impact.
 
