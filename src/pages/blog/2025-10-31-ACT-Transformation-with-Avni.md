@@ -37,7 +37,7 @@ The onboarding process was smooth and inclusive. Samanvay’s team provided hand
 
 Like many NGOs, we operate with limited resources and technical capacity. To make the most of Avni within our means, we adopted a hybrid model — using self-service for simpler configurations and relying on the Avni team for more complex setups.
 
-![Avni’s mobile interface allows field staff to record data even in low-connectivity areas.](/img/2025-ACT-Transformation-with-Avni/app_designer_act.png "Avni’s mobile interface allows field staff to record data even in low-connectivity areas.")
+![ACT’s hybrid model allows simple configurations in-house while relying on Samanvay for advanced support.](/img/2025-ACT-Transformation-with-Avni/app_designer_act.png "ACT’s hybrid model allows simple configurations in-house while relying on Samanvay for advanced support.")
 
 This approach helped us manage costs while building in-house digital capacity, supported by Samanvay’s responsive guidance.
 
@@ -56,7 +56,7 @@ Real-time visibility has strengthened accountability with funders.
 **3. Empowered staff:**</br>
 Field workers feel confident and valued using a tool built for their realities.
 
-### Why We Chose Avni
+### Learning Through Change
 
 Transitioning to a new digital system wasn’t without challenges. Some initial resistance and technical hiccups were natural. But with ongoing support from Samanvay and continuous learning, our team adapted quickly.
 
@@ -64,11 +64,11 @@ Transitioning to a new digital system wasn’t without challenges. Some initial 
 
 We also onboarded a Programme Lead, an M&E expert, and a Data Officer — a move that improved data alignment and ensured that every insight we gathered was both accurate and actionable.
 
-### The Change on the Ground
+### Looking Ahead
 
-Our experience with Avni has shown us how technology, when rooted in empathy and practicality, can truly transform how NGOs operate. We’re now exploring more ways to use digital tools for monitoring, evaluation, and storytelling.
+Transitioning to a new digital system wasn’t without challenges. Some initial resistance and technical hiccups were natural. But with ongoing support from Samanvay and continuous learning, our team adapted quickly.
 
-![ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.](/img/2025-ACT-Transformation-with-Avni/AVNI Live in Field.jpeg "ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.")
+![ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.](/img/2025-ACT-Transformation-with-Avni/AVNI User Training.jpeg "ACT continues to strengthen its impact through data-driven, community-focused programmes with Avni.")
 
 For ACT, Avni has not just digitised data — it has strengthened our foundation for impact.
 
