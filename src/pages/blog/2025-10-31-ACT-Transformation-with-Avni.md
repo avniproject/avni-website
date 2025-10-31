@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Reflecting on Our Digital Journey: Animedh Charitable Trust’s Transformation with Avni
+title: Reflecting on Our Digital Journey - Animedh Charitable Trust’s Transformation with Avni
 date: 2025-10-30T20:30:00.000Z
 author: Nivedita Desai, – Managing Trustee Animedh Charitable Trust (ACT)
 featuredpost: true
