@@ -11,10 +11,9 @@ tags:
     - Health
 ---
 
-#### How Avni Helped Us Transform Field Data at Animedh Charitable Trust
-
 At Animedh Charitable Trust (ACT) our mission is to empower underserved communities through education, health, and livelihood programmes. As our work expanded, we realised our data systems needed to evolve too.
 Managing information through paper forms and spreadsheets had become time-consuming and prone to errors — affecting our ability to make timely, data-driven decisions.
+
 That’s when we began our journey to seek an optimal data management solution. We reached out to experienced partner NGOs  to understand how they had transitioned to more effective digital data management system in a cost-optimal way.
 After several consultations, we were referred to Samanvay Foundation and we began to explore Avni, Samanvay Foundation’s open-source platform designed for field data collection and management in the social sector.
 
@@ -72,8 +71,5 @@ Animedh Charitable Trust (ACT) works to improve the lives of children, youth, an
 We offer early childhood development, mental health initiatives, scholarships for girls, leadership and sports programs for youth, and vocational training, digital literacy, financial awareness, entrepreneurship, and WASH support for women.
 ACT has been working since 2012 on children’s education and women empowerment in Maharashtra.
 In 2017, we started rural outreach in the vulnerable tribal communities in 4 panchayats across Dadra & Nagar Haveli (DNH) through direct intervention programs like Project Nanhe Kadam - Early childhood development and disabilities support; Projects Mehek and Mantrana - Community mental health and emotional well-being of the children, youth and women of DNH.
-
-<br/>
-Learn more about Avni : [Join one of our upcoming webinars](/events) | [Read case studies](/case-studies) | [Read blogs](/blog)
 
 <br><br>
