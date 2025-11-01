@@ -40,7 +40,7 @@ Work with mentors, peers, and our team to turn your idea into a working pilot re
 **5. Access to Avni community**</br>
 Join the Avni community - network with vibrant group of change-makers
 
-**<span style="color:#ff470f">Overall this could mean savings of 1 Lakh Rupees or more ! 🤑</span>**
+**<span style="color:#ff470f">Overall this could mean savings of 1 Lakh Rupees or more !</span>**
 
 ### Who Should Apply
 You are an NGO who has 
@@ -52,7 +52,7 @@ You are an NGO who has
   - Can spend 5–7 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
   - Is comfortable using smartphones, spreadsheets and setting up drop-down based applications like google forms.
   - Can attend a 2-day workshop in Bangalore
-- **Funds** - If you think the pilot works fine, you must be able to pay SaaS fees to continue with the work beyond the pilot phase. While you can make the decision on whether you would want to continue depending on the success of the pilot, it will be useful to know in advance if you would be able to raise funds if you find the app valuable
+- **Sustainability** - While, you can make the decision on whether you would want to continue depending on the success of the pilot, it will be useful to know in advance if you will have the financial and other resources to sustain the operations beyond the pilot
 
 <br>
 
