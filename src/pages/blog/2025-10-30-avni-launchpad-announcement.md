@@ -32,7 +32,7 @@ Discover how to use Avni, a mobile app that helps you collect and manage data �
 Move from paper-based data collection to a simple digital system that’s faster, more reliable, and easy to manage.
 
 **3. Test before investing**</br>
-Experience the value of going digital through a guided pilot, before committing major time or funds. We are offering free hosting and support until the end of launchpad program and a 10% discount on annual subscription if you sign up before the program ends. **<span style="color:#ff470f">This could mean savings of 1 Lakh Rupees or more !</span>**
+Experience the value of going digital through a guided pilot, before committing major time or funds. We are offering free hosting and support until the end of launchpad program and a 10% discount on annual subscription if you sign up before the program ends. 
 
 **4. Get hands-on support and build capacity**</br>
 Work with mentors, peers, and our team to turn your idea into a working pilot ready for the field.
@@ -40,11 +40,13 @@ Work with mentors, peers, and our team to turn your idea into a working pilot re
 **5. Access to Avni community**</br>
 Join the Avni community - network with vibrant group of change-makers
 
+**<span style="color:#ff470f">Overall this could mean savings of 1 Lakh Rupees or more ! 🤑</span>**
 
 ### Who Should Apply
 You are an NGO who has 
 - **Clear need for Avni** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time.
-  - Take a look at the [case studies](/case-studies) to help understand this more. If you are still not sure, please contact us through Avni Partnerships- <mailto:avnipartnerships@samanvayfoundation.org> to discuss further.
+  - Take a look at the [case studies](/case-studies) to help understand this more. 
+  - If you are still not sure, please contact us through Avni Partnerships- <mailto:avnipartnerships@samanvayfoundation.org> to discuss further.
 - **Availability** - You can nominate someone in the organisation who will drive the pilot. The participant
   - Knows the pilot use-case
   - Can spend 5–7 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
@@ -76,6 +78,8 @@ You are an NGO who has
 
 Contact for queries: **avnipartnerships@samanvayfoundation.org**
 
-Learn more about Avni : [Join one of our upcoming webinars](/events) | [Read case studies](/case-studies) | [Read blogs](/blog)
+Who's trusting Avni : [APF (Health)](https://avniproject.org/case-studies/2025-05-28-bridging-the-nutrition-gap-apf-odisha) | [Goonj (Community Development)](https://avniproject.org/case-studies/2025-09-03-how-goonj-uses-avni) | [ATECF (Water)](https://avniproject.org/case-studies/dam-and-water-bodies-desilting-work-monitoring-1) | [CInI-Tata Trusts (Education)](https://avniproject.org/case-studies/2024-09-19-Scaling-Rural-Education) | [Hasiru Dala (Social Security)](https://avniproject.org/case-studies/2025-08-01-empowering-waste-pickers) | [JNPCT (Malnutrition)](https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study) | [IHMP](https://avniproject.org/case-studies/2025-05-02-ihmp-strengthening-adolescent-health), [Jan Swasthya Sahyog](https://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment), [Calcutta Kids](https://avniproject.org/case-studies/calcutta-kids-%E2%80%94-avni-implemented-for-maternal-and-child-health-program) & 50+ organisations
+
+Learn more : [Join one of our upcoming webinars](/events) | [Read case studies](/case-studies) | [Read blogs](/blog)
 
 <br><br>
