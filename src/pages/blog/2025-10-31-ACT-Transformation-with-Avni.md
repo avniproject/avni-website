@@ -73,6 +73,6 @@ ACT has been working since 2012 on children’s education and women empowerment 
 In 2017, we started rural outreach in the vulnerable tribal communities in 4 panchayats across Dadra & Nagar Haveli (DNH) through direct intervention programs like Project Nanhe Kadam - Early childhood development and disabilities support; Projects Mehek and Mantrana - Community mental health and emotional well-being of the children, youth and women of DNH.
 
 
-<img src="/img/2025-10-30-avni-launchpad-announcement/act_field_pic.png"/>
+<img src="/img/2025-ACT-Transformation-with-Avni/act_field_pic.png"/>
 
 <br><br>
