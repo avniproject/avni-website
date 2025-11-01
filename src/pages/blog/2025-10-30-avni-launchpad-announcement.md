@@ -17,7 +17,7 @@ tags:
 
 #### Announcing the Avni Launchpad Cohort 1
 
-Many NGOs running field-based programs are still on cumbersome paper/spreadsheet-based or expensive systems. Avni solves this problem by providing a low-code, AI-powered digital platform that helps organisations create offline-capable fieldwork applications and get real-time insights. </br> NGOs want to switch to Avni, but sometimes they struggle to take the leap or fail to convince the decision makers of its value. To ease this process, we are launching a very quick and in-expensive way to **<span style="color:#ff470f">see the value of using Avni before investing further</span>**. 
+Many NGOs running field-based programs are still on cumbersome paper/spreadsheet-based or expensive systems. Avni solves this problem by providing a low-code, AI-powered digital platform that helps organisations create offline-capable fieldwork applications and get real-time insights. </br> NGOs want to switch to Avni, but sometimes they struggle to take the leap or fail to convince the decision makers of its value. To ease this process, we are launching a very quick and inexpensive way to **<span style="color:#ff470f">see the value of using Avni before investing further</span>**. 
 
 The Avni Launchpad is a unique cohort-based program tailored for NGOs and social enterprises ready to take their first big step in digital transformation. In a short time of a few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
 
@@ -40,11 +40,11 @@ Work with mentors, peers, and our team to turn your idea into a working pilot re
 **5. Access to Avni community**</br>
 Join the Avni community - network with vibrant group of change-makers
 
-**<span style="color:#ff470f">Overall this could mean savings of 1 Lakh Rupees or more !</span>**
+**<span style="color:#ff470f">Overall this is savings of 1 Lakh Rupees or more !</span>**
 
 ### Who Should Apply
 You are an NGO who has 
-- **Clear need for Avni** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time.
+- **Suitability** - Avni fits best when you have a program that is run through a field workforce, and service is provided over a period of time.
   - Take a look at the [case studies](/case-studies) to help understand this more. 
   - If you are still not sure, please contact us through Avni Partnerships- <mailto:avnipartnerships@samanvayfoundation.org> to discuss further.
 - **Availability** - You can nominate someone in the organisation who will drive the pilot. The participant
@@ -52,7 +52,7 @@ You are an NGO who has
   - Can spend 5–7 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
   - Is comfortable using smartphones, spreadsheets and setting up drop-down based applications like google forms.
   - Can attend a 2-day workshop in Bangalore
-- **Sustainability** - While, you can make the decision on whether you would want to continue depending on the success of the pilot, it will be useful to know in advance if you will have the financial and other resources to sustain the operations beyond the pilot
+- **Sustainability** - You’ll decide whether to continue after seeing how the pilot works — but it’s helpful to assess beforehand whether you’ll have the funding and operational capacity to sustain the initiative beyond the pilot phase.
 
 <br>
 
@@ -78,7 +78,7 @@ You are an NGO who has
 
 Contact for queries: **avnipartnerships@samanvayfoundation.org**
 
-Who's trusting Avni : [APF (Health)](https://avniproject.org/case-studies/2025-05-28-bridging-the-nutrition-gap-apf-odisha) | [Goonj (Community Development)](https://avniproject.org/case-studies/2025-09-03-how-goonj-uses-avni) | [ATECF (Water)](https://avniproject.org/case-studies/dam-and-water-bodies-desilting-work-monitoring-1) | [CInI-Tata Trusts (Education)](https://avniproject.org/case-studies/2024-09-19-Scaling-Rural-Education) | [Hasiru Dala (Social Security)](https://avniproject.org/case-studies/2025-08-01-empowering-waste-pickers) | [JNPCT (Malnutrition)](https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study) | [IHMP](https://avniproject.org/case-studies/2025-05-02-ihmp-strengthening-adolescent-health), [Jan Swasthya Sahyog](https://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment), [Calcutta Kids](https://avniproject.org/case-studies/calcutta-kids-%E2%80%94-avni-implemented-for-maternal-and-child-health-program) & 50+ organisations
+Who's trusting Avni : [APF (Health)](https://avniproject.org/case-studies/2025-05-28-bridging-the-nutrition-gap-apf-odisha) | [Goonj (Community Development)](https://avniproject.org/case-studies/2025-09-03-how-goonj-uses-avni) | [ATECF (Water)](https://avniproject.org/case-studies/2025-04-30-restoring-waterbodies-avni-atecf) | [CInI-Tata Trusts (Education)](https://avniproject.org/case-studies/2024-09-19-Scaling-Rural-Education) | [Hasiru Dala (Social Security)](https://avniproject.org/case-studies/2025-08-01-empowering-waste-pickers) | [JNPCT (Malnutrition)](https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study) | [Maitrayana(Sports)](https://avniproject.org/case-studies/2025-07-31-scoring-for-equality) | [IHMP](https://avniproject.org/case-studies/2025-05-02-ihmp-strengthening-adolescent-health), [Jan Swasthya Sahyog](https://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment), [Calcutta Kids](https://avniproject.org/case-studies/calcutta-kids-%E2%80%94-avni-implemented-for-maternal-and-child-health-program), Sewa Rural & 50+ organisations
 
 Learn more : [Join one of our upcoming webinars](/events) | [Read case studies](/case-studies) | [Read blogs](/blog)
 

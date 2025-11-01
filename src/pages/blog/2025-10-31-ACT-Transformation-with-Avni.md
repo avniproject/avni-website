@@ -49,6 +49,8 @@ We saw improvements across the board:
 
 **4. More empowered staff:** – – field teams felt confident using technology.
 
+<img src="/img/2025-ACT-Transformation-with-Avni/act_field_pic.png" style="max-height: 90px;"/>
+
 ### Learning and Growing
 
 Like any big change, our transition wasn’t without challenges. There was initial hesitation from field staff and some technical learning curves.
@@ -73,6 +75,6 @@ ACT has been working since 2012 on children’s education and women empowerment 
 In 2017, we started rural outreach in the vulnerable tribal communities in 4 panchayats across Dadra & Nagar Haveli (DNH) through direct intervention programs like Project Nanhe Kadam - Early childhood development and disabilities support; Projects Mehek and Mantrana - Community mental health and emotional well-being of the children, youth and women of DNH.
 
 
-<img src="/img/2025-ACT-Transformation-with-Avni/act_field_pic.png"/>
+
 
 <br><br>
