@@ -116,7 +116,7 @@ Whether you are working on waterbody rejuvenation, improving access to health se
 
 ---
 
-👉 **[Schedule a call with us](#)**  
-📬 **[Subscribe to our newsletter](#)** to stay updated on new case studies, features, and implementation stories.
+👉 **[Schedule a call with us](https://avniproject.org/)**  
+📬 **[Subscribe to our newsletter](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)** to stay updated on new case studies, features, and implementation stories.
 
 ---

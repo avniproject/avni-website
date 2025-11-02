@@ -16,7 +16,7 @@ tags:
     <img src="/img/2025-ACT-Transformation-with-Avni/ACT_team.png">
 </div>
 
-At Animedh Charitable Trust (ACT) our mission is to empower underserved communities through education, health, and livelihood programmes. As our work expanded, we realised our data systems needed to evolve too.
+At [Animedh Charitable Trust (ACT)](https://animedhtrust.org/) our mission is to empower underserved communities through education, health, and livelihood programmes. As our work expanded, we realised our data systems needed to evolve too.
 Managing information through paper forms and spreadsheets had become time-consuming and prone to errors — affecting our ability to make timely, data-driven decisions.
 
 That’s when we began our journey to seek an optimal data management solution. We reached out to experienced partner NGOs  to understand how they had transitioned to more effective digital data management system in a cost-optimal way.
@@ -93,8 +93,8 @@ In 2017, we started rural outreach in the vulnerable tribal communities in 4 pan
 
 ---
 
-👉 **[Schedule a call with us](#)**  
-📬 **[Subscribe to our newsletter](#)** to stay updated on new case studies, features, and implementation stories.
+👉 **[Schedule a call with us](https://avniproject.org/)**  
+📬 **[Subscribe to our newsletter](https://avniproject.us17.list-manage.com/subscribe?u=5f3876f49a7603817af2856b9&id=c9fdedc9e7)** to stay updated on new case studies, features, and implementation stories.
 
 ---
 
