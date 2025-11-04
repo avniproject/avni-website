@@ -7,6 +7,7 @@ import Constants from "../Constants";
 import SecondaryCTAButton from "./SecondaryCTAButton";
 import Img from "gatsby-image";
 import {graphql, useStaticQuery} from 'gatsby';
+import LaunchpadRibbon from "./LaunchpadRibbon";
 
 let subtitle = function (text) {
   return <p
@@ -33,6 +34,7 @@ export default function LandingPageHero() {
   `)
   return (
     <div>
+      <LaunchpadRibbon/>
       <div className="hero-head">
         <Navbar/>
       </div>
