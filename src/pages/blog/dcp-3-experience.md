@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: DCP 3.0 Module 2 Experience
+title: "DCP 3.0: A Mentor's experience of the final module"
 date: 2025-11-12T13:52:00.000Z
 author: Himesh R
-description: A mentor's experience of the final module of Data Catalyst Program 3.0. Learning about data pipelines, witnessing grant pitches, and gaining insights into opportunities and challenges for NGOs in executing a data strategy.
+description: Learning about data pipelines, witnessing grant pitches, and gaining insights into opportunities and challenges for NGOs in executing a data strategy.
 
 featuredpost: false
 featuredimage: /img/2025-11-12-dcp-3-module-2/DCP_3_cohort.jpg
