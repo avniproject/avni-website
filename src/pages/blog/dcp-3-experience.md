@@ -8,10 +8,11 @@ description: A mentor's experience of the final module of Data Catalyst Program 
 featuredpost: false
 featuredimage: /img/2025-11-12-dcp-3-module-2/DCP_3_cohort.jpg
 tags:
-  - DCP 3.0
-  - Data Mentorship
+  - Data Collection
+  - Data Visualization
+  - Data Strategy
+  - Data Catalyst Program
   - Social Impact
-  - NGO Data Strategy
 ---
 
 The Data Catalyst Program (DCP) 3.0 once again brought me to Mirage Hotel, Mumbai for its second and final workshop from November 3-5, 2025. I met up with Anto at the airport, and since both of us felt like walking all the way from the airport to our hotel, a short distance of just 1.5 kms, we did just that, navigating some deadlocked traffic and scarce footpaths. At the hotel lobby, I met Athiruban, from my mentee organization [Sristi Foundation](https://sristivillage.org/) and we were both excited to pair on our Grant Pitch presentation.
@@ -25,6 +26,8 @@ The first day afternoon was a productive working session with Athiruban, focusin
 We worked through their presentation, identifying redundancies—particularly a duplication between their long-term impact section and the way forward. Consolidating these into one compact, powerful statement made the pitch significantly stronger.
 
 We then reviewed all the slides and referenced the Grant Pitch template to identify gaps in our presentation. We also added a section on the expected outputs and outcomes of the project.
+
+![](/img/2025-11-12-dcp-3-module-2/dcp-3-module-2-group.jpg)<pre>DCP 3.0 - Module 2 Group</pre>
 
 ### Evening: Scoring and Socializing
 
@@ -113,7 +116,7 @@ Most of the day was spent evaluating grant pitches from all 13 participant NGOs.
 
 **Well Labs: The Food Delivery Analogy**
 
-The most innovative approach Grant Pitch came from Well Labs, who explained their problem statement using a brilliant food delivery app analogy. Their example featured two models: "Granny's Home Cooked Meals" (curated, secret recipe) and an "Open Recipe Restaurant" (standardized, public recipe). This creative explanation made their complex data governance challenge easier to understand.
+The most innovative approach Grant Pitch came from [Well Labs](https://welllabs.org/), who explained their problem statement using a brilliant food delivery app analogy. Their example featured two models: "Granny's Home Cooked Meals" (curated, secret recipe) and an "Open Recipe Restaurant" (standardized, public recipe). This creative explanation made their complex data governance challenge easier to understand.
 
 What impressed me most was the sustainability and feasibility aspects of their solution. They had crafted a strategic process that would generate consistent outputs, that were valuable not just internally, but also for organizations outside their network.
 
@@ -129,7 +132,7 @@ That single example made their problem statement and solution crystal clear—th
 
 **Maitrayana: "Cute" and Avni-Focused**
 
-Maitrayana's presentation was delivered as a video recording, which was endearing in its own way. They spoke enthusiastically about leveraging [Avni](https://avniproject.org/) for their data collection needs and [Metabase](https://www.metabase.com/) for visualization, while pitching for grant funds to adopt [Glific](https://glific.org/) to capture qualitative data from beneficiaries during and post-program engagement.
+[Maitrayana's](https://maitrayana.in/) presentation was delivered as a video recording, which was endearing in its own way. They spoke enthusiastically about leveraging [Avni](https://avniproject.org/) for their data collection needs and [Metabase](https://www.metabase.com/) for visualization, while pitching for grant funds to adopt [Glific](https://glific.org/) to capture qualitative data from beneficiaries during and post-program engagement.
 
 As member of the Avni team, it was gratifying to see an organization using our platform as a core part of executing their data strategy.
 
@@ -155,7 +158,7 @@ We then went through another exercise, to come up with an action plan to address
 
 ## And the Winner Is...
 
-Finally, the moment of truth arrived. After all the presentations, peer scoring, and mentor evaluations were tallied, the DCP 3.0 grant winner was announced: **Nayi Disha**.
+Finally, the moment of truth arrived. After all the presentations, peer scoring, and mentor evaluations were tallied, the DCP 3.0 grant winner was announced: [**Nayi Disha**](https://nayi-disha.org/).
 
 The result aligned with my expectations. Their presentation was stellar and their technical approach was sound. The progress made over the four months was deemed authentic, based on the scores given by their mentor. They had successfully leveraged an in-house tech team to build a custom data collection app tailored to their specific needs while adopting [Apache Superset](https://superset.apache.org/) for visualization—a pragmatic solution.
 
@@ -200,6 +203,8 @@ As my Yoga teacher would say, "Showing up on the mat every day is all that matte
 
 ## Closing Thoughts
 
-I'm grateful to have been part of the DCP 3.0 journey—both as a mentor and as a Product Developer of a Data Collection Tool built for the Social Development Sector. The lessons from the DCP 3.0 journey will influence how I think about data strategy, /leadership, and sustainable change in the social development sector for years to come.
+I'm grateful to have been part of the DCP 3.0 journey—both as a mentor and as a Product Developer of a Data Collection Tool built for the Social Development Sector. The lessons from the DCP 3.0 journey will influence how I think about data strategy, leadership, and sustainable change in the sector for years to come.
 
 ----------------------------
+
+P.S. At the end for me, there was a dramatic run through the Mumbai Airport to get on to the plane, but that's a story for another time. ;-)
