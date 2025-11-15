@@ -52,7 +52,7 @@ The morning kicked off with an engaging session conducted by Prateeksha from [Pr
 
 We then did a mini exercise on building a data pipeline. The session demonstrated a practical approach to data cleaning: taking data from simple spreadsheets as input, using AI models to generate AppScripts code using well-crafted prompts, and then scheduling automated cleaning processes leveraging built-in capabilities of AppScripts. We also did simple visualization on the cleaned data using LookerStudio.
 
-On assessing [Avni](https://avniproject.org/) as per this data pipeline, it was evident to me, that our platform encompasses all those steps, albeit with a minor difference. Avni’s approach to data collection enforces required validations upfront, which ensures data quality at entry and eliminating need for data cleaning or missing value imputations.
+On assessing [Avni](https://avniproject.org/) as per this data pipeline, it was evident to me, that our platform encompasses all those steps, albeit with a minor difference. Avni’s approach to data collection enforces required validations upfront, which ensures data quality at entry and eliminates need for data cleaning or missing value imputations later on.
 
 What struck me most was the accessibility of the solution. No complex infrastructure needed—just Google Sheets, public AI Models, AppScripts and LookerStudio. This was exactly the kind of practical, low-barrier solution that many NGOs in our cohort could consider as a starting point for their data transformation journey.
 
