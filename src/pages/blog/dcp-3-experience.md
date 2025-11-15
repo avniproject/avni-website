@@ -52,6 +52,8 @@ The morning kicked off with an engaging session conducted by Prateeksha from [Pr
 
 We then did a mini exercise on building a data pipeline. The session demonstrated a practical approach to data cleaning: taking data from simple spreadsheets as input, using AI models to generate AppScripts code using well-crafted prompts, and then scheduling automated cleaning processes leveraging built-in capabilities of AppScripts. We also did simple visualization on the cleaned data using LookerStudio.
 
+On assessing [Avni](https://avniproject.org/) as per this data pipeline, it was evident to me, that our platform encompasses all those steps, albeit with a minor difference. Avni’s approach to data collection enforces required validations upfront, which ensures data quality at entry and eliminating need for data cleaning or missing value imputations.
+
 What struck me most was the accessibility of the solution. No complex infrastructure needed—just Google Sheets, public AI Models, AppScripts and LookerStudio. This was exactly the kind of practical, low-barrier solution that many NGOs in our cohort could consider as a starting point for their data transformation journey.
 
 ![](/img/2025-11-12-dcp-3-module-2/DataPipelineExercise.png)<pre>Data Pipeline Building Mini Exercise</pre>
@@ -98,7 +100,7 @@ We then worked through an additional problem independently. This hands-on exerci
 
 The second half of the day brought me back together for a Pairing session with Athiruban to finalize Sristi Foundation's grant pitch. After incorporating the feedback from Day 1 and adding clarity around our problem statement, solution, feasibility, cost breakdown, expected outcomes and outputs, the presentation felt crisp and precise. 
 
-I felt cautiously optimistic. The pitch wasn't perfect—our progress over the four months had been limited by bandwidth constraints—but it honestly reflected what we'd learned and what was realistically achievable in the near future.
+I felt cautiously optimistic. The pitch wasn't perfect—our progress over the four months had been limited by the NGO's bandwidth constraints—but it honestly reflected what we'd learned and what was realistically achievable in the near future.
 
 ### Stepping out of the hotel
 
@@ -195,7 +197,7 @@ Few organizations remained stuck with generic, non-scalable tools like Google Sh
 
 ### The Resource Allocation Challenge
 
-Perhaps the most universal challenge: time and bandwidth allocation. Several organizations struggled to dedicate sufficient resources to execute their Scope of Work from Module 1. 
+Perhaps the most universal challenge: time and bandwidth allocation by NGOs. Several organizations struggled to dedicate sufficient resources to execute their Scope of Work from Module 1. 
 
 As my Yoga teacher would say, "Showing up on the mat every day is all that matters!". If organizations commit to their data strategy and take small baby steps every day (or week), they will get there eventually.!
 
