@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: Charcha 2025: Reflections on Technology, Trust & the Power of Collaboration
+title: 'Charcha 2025: Reflections on Technology, Trust & the Power of Collaboration'
 date: 2025-11-28T10:00:00.000Z
 author: A Ashok Kumar
 description: Attending Charcha 2025 at the India Habitat Centre was a refreshing reminder of what is possible when technology, community, and collaboration come together with purpose. Over three days, as more than 1,500 people from government, civil society, and markets gathered under one roof, the conversations reaffirmed a simple truth: meaningful social impact is built through trust, shared learning, and a willingness to keep evolving.
