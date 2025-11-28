@@ -1,0 +1,84 @@
+/* events.css */
+.events-section {
+    padding: 2rem 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.calendar-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    background: white;
+}
+
+.responsive-iframe {
+    width: 100%;
+    border: none;
+    position: relative;
+    z-index: 1;
+}
+
+/* Desktop styles */
+@media (min-width: 769px) {
+    .calendar-wrapper {
+        height: 800px;
+    }
+
+    .responsive-iframe {
+        height: 800px;
+    }
+}
+
+/* Tablet styles */
+@media (max-width: 768px) {
+    .calendar-wrapper {
+        height: 600px;
+    }
+
+    .responsive-iframe {
+        height: 600px;
+    }
+}
+
+/* Mobile styles */
+@media (max-width: 480px) {
+    .calendar-wrapper {
+        height: 500px;
+    }
+
+    .responsive-iframe {
+        height: 500px;
+    }
+
+    .events-section {
+        padding: 1rem 0;
+    }
+}
+
+/* Ensure popups are visible */
+iframe {
+    pointer-events: auto !important;
+    overflow: visible !important;
+}
+
+/* Smooth transitions */
+.calendar-wrapper {
+    transition: height 0.3s ease-in-out;
+}
+
+/* Hover effect */
+@media (min-width: 769px) {
+    .calendar-wrapper:hover {
+        box-shadow: 0 7px 14px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
+        transform: translateY(-2px);
+    }
+}
