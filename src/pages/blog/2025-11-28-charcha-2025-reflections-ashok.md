@@ -1,9 +1,10 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: 'Charcha 2025: Reflections on Technology, Trust & the Power of Collaboration'
 date: 2025-11-28T10:00:00.000Z
 author: A Ashok Kumar
-description: 'Attending Charcha 2025 at the India Habitat Centre was a refreshing reminder of what is possible when technology, community, and collaboration come together with purpose. Over three days, as more than 1,500 people from government, civil society, and markets gathered under one roof, the conversations reaffirmed a simple truth: meaningful social impact is built through trust, shared learning, and a willingness to keep evolving.'
+description: >-
+  Attending Charcha 2025 at the India Habitat Centre was a refreshing reminder of what is possible when technology, community, and collaboration come together with purpose.
 featuredpost: false
 featuredimage: /img/2025-11-28-charcha-2025-reflections-ashok/1.jpg
 tags:
@@ -15,7 +16,8 @@ tags:
 
 <div style="width: 70%">
     <img src="/img/2025-11-28-charcha-2025-reflections-ashok/1.jpg">
-</div><p align="center"><i>Group photo at Charcha 2025 with Jitesh Rustagi (Dhwani Rural Information Systems) and Dhananjay Rathi (Litmus Ink)</i></p>
+</div>
+<p align="center"><i>Group photo at Charcha 2025 with Jitesh Rustagi (Dhwani Rural Information Systems) and Dhananjay Rathi (Litmus Ink)</i></p>
 
 Attending Charcha 2025 at the India Habitat Centre was a refreshing reminder of what is possible when technology, community, and collaboration come together with purpose. Over three days, as more than 1,500 people from government, civil society, and markets gathered under one roof, the conversations reaffirmed a simple truth: meaningful social impact is built through trust, shared learning, and a willingness to keep evolving.
 
@@ -29,17 +31,20 @@ Their stories, along with lightning talks by Saajha and Indus Action, made a pow
 
 I had the chance to facilitate two breakout discussions, both of which reaffirmed how deeply human the conversation around technology really is.
 
-### 1. Building Community Trust in Technology
+**1. Building Community Trust in Technology**
+
 Participants reflected on how data is collected in the communities they work with, and whether this process is transparent enough. The Digital Personal Data Protection Act (2023) came up frequently prompting discussions on how NGOs can prepare for evolving governance requirements.
 
-### 2. Building Tech Capacity Within NGOs
+**2. Building Tech Capacity Within NGOs**
+
 The second discussion centered on leadership readiness and digital skilling. Many agreed that even the best tools fail when teams do not feel confident using them, or when the organizational culture is resistant to change. The most successful tech journeys, we found, are the ones where people not platforms are prioritized.
 
 What stood out to me was the willingness of participants to share real challenges: failed pilots, staff hesitation, infrastructure gaps. These unfiltered stories offered valuable insights into what it takes to build tech-forward NGOs that remain empathetic and grounded.
 
 <div style="width: 70%">
     <img src="/img/2025-11-28-charcha-2025-reflections-ashok/2.jpg">
-</div><p align="center"><i>Post-session conversation with Vedprakash Sharma, CEO, B-ABLE Foundation, on livelihoods and skills for impact.</i></p>
+</div>
+<p align="center"><i>Post-session conversation with Vedprakash Sharma, CEO, B-ABLE Foundation, on livelihoods and skills for impact.</i></p>
 
 ## Conversations in Corridors: Meeting the Changemakers
 
@@ -59,7 +64,8 @@ A standout was the session on Assistive Technology for Livelihoods and Inclusion
 
 <div style="width: 70%">
     <img src="/img/2025-11-28-charcha-2025-reflections-ashok/3.jpg">
-</div><p align="center"><i>Networking with Shobhit Prakash, Head of Development at RNB Global University, and sharing how Avni can support research studies and field data collection.</i></p>
+</div>
+<p align="center"><i>Networking with Shobhit Prakash, Head of Development at RNB Global University, and sharing how Avni can support research studies and field data collection.</i></p>
 
 I also had opportunities to share Samanvay Foundation's work, especially how open-source tools like Avni support NGOs in becoming data-driven and building efficient, tech-enabled systems. Many organizations were eager to understand how such tools could empower their field teams or help them measure outcomes more effectively.
 
@@ -69,7 +75,8 @@ What made Charcha 2025 meaningful for me was not just the sessions, it was the s
 
 <div style="width: 70%">
     <img src="/img/2025-11-28-charcha-2025-reflections-ashok/4.jpg">
-</div><p align="center"><i>In conversation with Ayushi, Founder of Unmute, and Bharath from The Spark Forum on tech, safety, and community voice.</i></p>
+</div>
+<p align="center"><i>In conversation with Ayushi, Founder of Unmute, and Bharath from The Spark Forum on tech, safety, and community voice.</i></p>
 
 As the development sector continues to evolve, convenings like Charcha provide something irreplaceable: a space to listen, exchange, reflect, and reimagine. They spark new partnerships, deepen old ones, and remind us that change happens when we bring diverse voices to the same table, voices rooted in lived experience, innovation, and a shared commitment to equitable development.
 
