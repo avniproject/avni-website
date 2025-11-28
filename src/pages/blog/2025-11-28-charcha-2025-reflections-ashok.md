@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: 'blog-post'
 title: Charcha 2025: Reflections on Technology, Trust & the Power of Collaboration
 date: 2025-11-28T10:00:00.000Z
 author: A Ashok Kumar
