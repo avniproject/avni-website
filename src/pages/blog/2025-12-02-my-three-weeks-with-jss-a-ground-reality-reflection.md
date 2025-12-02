@@ -44,7 +44,23 @@ Lighter Moments That Balanced the Days
 
 <br/>
 
-Amid all the travel and conversations, a few lighter moments made the trip feel complete. Breakfast at Gadh Kaleva quickly became a favourite—especially the dahi kachori and rice dhokla. One evening turned into a relaxed singing session with the doctors, with me offering “technical support” on the side. And on another day, I paused just to take in the scenery around me—a reminder of the environment that shapes so much of this work.
+Amid all the travel and conversations, a few lighter moments made the trip feel complete. Breakfast at Gadh Kaleva quickly became a favourite—especially the dahi kachori and rice dhokla. One evening turned into a relaxed singing session with the doctors, with me offering “technical support” on the side.
+
+<div style="text-align:center;">
+  <iframe width="315" height="560" src="https://www.youtube.com/embed/sFNkrcJ6XuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p><i>Singing session at JSS</i></p>
+</div>
+
+<br/>
+
+And on another day, I paused just to take in the scenery around me—a reminder of the environment that shapes so much of this work.
+
+<div style="text-align:center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xRN0gCKLGfc?si=f7ECJHPRRRDYJEhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p><i>Breathtaking view at MP</i></p>
+</div>
+
+<br/>
 
 What I’m Taking Back
 
