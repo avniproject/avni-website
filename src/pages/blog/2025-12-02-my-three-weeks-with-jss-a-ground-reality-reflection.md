@@ -14,10 +14,10 @@ tags:
   - Reflections
 ---
 
-My time with JSS began on the road to Karanjia, where the CPHC program is set to begin. The PHC visit offered an early sense of the realities ahead—limited staff, stretched frontline teams, and basic infrastructure holding up a large share of community health work. Later that day, meeting villagers gave a more personal view of the challenges they face and the kind of support they feel could make a difference. That first day shaped the rest of the visit.
+My time with [JSS](https://www.jssbilaspur.org/) began on the road to Karanjia, where the CPHC program is set to begin. The PHC visit offered an early sense of the realities ahead—limited staff, stretched frontline teams, and basic infrastructure holding up a large share of community health work. Later that day, meeting villagers gave a more personal view of the challenges they face and the kind of support they feel could make a difference. That first day shaped the rest of the visit.
 
-<div style="text-align:center;">
-  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/seeing-healthcare.jpeg" style="max-width:50%; border-radius:6px;" />
+<div style="max-width:600px; margin:auto; text-align:center;">
+  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/seeing-healthcare.jpeg" style="width:100%; border-radius:6px;" />
   <p><i>Seeing healthcare up close: Mobile Medical Unit providing essential services under a tree.</i></p>
 </div>
 
@@ -33,12 +33,21 @@ Some moments simply stayed with me because of their setting. Travelling to Bahmi
 
 Back in the Anuppur office, I began what I had been looking forward to—spending time with Avni users. ANMs, supervisors, coordinators, and program staff walked me through their challenges: slow sync, confusing workflows, device limitations, small bugs, and the unpredictable nature of field travel and network. Many of these were not pure technical issues but reflections of real conditions. Sitting beside them as they worked helped me notice where extra steps or small friction points added up during the day.
 
+I also spent considerable time with Ravi and Minal, who were central to many of the discussions. They worked with me closely during the Phulwari review meetings, led the conversations, and helped surface the practical issues that teams deal with. These sessions added depth to my understanding of how Avni is used across programs and where improvements could make a difference.
+
+<div style="max-width:600px; margin:auto; text-align:center;">
+  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/jssblog3-COLLAGE.jpg" style="width:100%; border-radius:6px;" />
+  <p><i>Collage of moments from the JSS field visit</i></p>
+</div>
+
+<br/>
+
 Time at the JSS campus added another layer of perspective. A day at the OPD, where nearly 700 tokens were handled, showed the scale of work the team manages daily. Watching Bahmni run smoothly on a local network gave me a sense of what strong offline-first systems look like. When Dr Gajanan explained Bahmni’s patient identification workflow compared to Avni’s, the integration gap became clear. Field history sits in Avni; clinical history sits in Bahmni. Without a shared reference, context gets lost, and patients often cannot recall earlier diagnoses. It highlighted the importance of connecting these systems more meaningfully.
 
 ### Lighter Moments That Balanced the Days
 
-<div style="text-align:center;">
-  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/lightr-moment.jpeg" style="max-width:50%; border-radius:6px;" />
+<div style="max-width:600px; margin:auto; text-align:center;">
+  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/lightr-moment.jpeg" style="width:100%; border-radius:6px;" />
   <p><i>A lighter moment: Enjoying local delicacies and the scenic surroundings during the trip.</i></p>
 </div>
 
@@ -46,18 +55,32 @@ Time at the JSS campus added another layer of perspective. A day at the OPD, whe
 
 Amid all the travel and conversations, a few lighter moments made the trip feel complete. Breakfast at Gadh Kaleva quickly became a favourite—especially the dahi kachori and rice dhokla. One evening turned into a relaxed singing session with the doctors, with me offering “technical support” on the side.
 
-<div style="text-align:center;">
-  <iframe width="200" height="350" src="https://www.youtube.com/embed/sFNkrcJ6XuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p><i>Singing session at JSS</i></p>
+<div style="max-width:600px; margin:auto;">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+    <iframe 
+      src="https://www.youtube.com/embed/sFNkrcJ6XuI"
+      style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <p style="text-align:center;"><i>Singing session at JSS</i></p>
 </div>
 
 <br/>
 
 And on another day, I paused just to take in the scenery around me—a reminder of the environment that shapes so much of this work.
 
-<div style="text-align:center;">
-  <iframe width="400" height="225" src="https://www.youtube.com/embed/xRN0gCKLGfc?si=f7ECJHPRRRDYJEhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p><i>Breathtaking view at MP</i></p>
+<div style="max-width:600px; margin:auto;">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+    <iframe 
+      src="https://www.youtube.com/embed/xRN0gCKLGfc?si=f7ECJHPRRRDYJEhl"
+      style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <p style="text-align:center;"><i>Breathtaking view at MP</i></p>
 </div>
 
 <br/>
