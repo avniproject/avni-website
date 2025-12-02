@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: My Three Weeks With JSS: A Ground Reality Reflection
+title: 'My Three Weeks With JSS: A Ground Reality Reflection'
 date: 2025-12-02T10:00:00.000Z
 author: Md Taqi Afsar
 description: >
