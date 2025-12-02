@@ -49,13 +49,14 @@ Time at the JSS campus added another layer of perspective. A day at the OPD, whe
 Amid all the travel and conversations, a few lighter moments made the trip feel complete. Breakfast at Gadh Kaleva quickly became a favourite—especially the dahi kachori and rice dhokla. One evening turned into a relaxed singing session with the doctors, with me offering “technical support” on the side.
 
 <!-- Cloudinary Singing Session Video -->
-<div style="max-width:600px; margin:auto;">
-  <video controls style="width:100%; border-radius:8px;">
+<div style="text-align:center; margin: 20px 0;">
+  <video controls style="width:100%; max-width:350px; height:auto; border-radius:8px; object-fit:cover; display:inline-block;">
     <source src="https://res.cloudinary.com/dbpjhdnlh/video/upload/v1764667841/Singing_session_at_JSS_mrmuzh.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p style="text-align:center;"><i>Singing session at JSS</i></p>
+  <p><i>Singing session at JSS</i></p>
 </div>
+
 
 <br/>
 
