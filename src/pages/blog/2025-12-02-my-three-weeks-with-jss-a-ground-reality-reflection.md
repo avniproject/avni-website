@@ -35,13 +35,6 @@ Back in the Anuppur office, I began what I had been looking forward to—spendin
 
 I also spent considerable time with Ravi and Minal, who were central to many of the discussions. They worked with me closely during the Phulwari review meetings, led the conversations, and helped surface the practical issues that teams deal with. These sessions added depth to my understanding of how Avni is used across programs and where improvements could make a difference.
 
-<div style="max-width:600px; margin:auto; text-align:center;">
-  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/jssblog3-COLLAGE.jpg" style="width:100%; border-radius:6px;" />
-  <p><i>Collage of moments from the JSS field visit</i></p>
-</div>
-
-<br/>
-
 Time at the JSS campus added another layer of perspective. A day at the OPD, where nearly 700 tokens were handled, showed the scale of work the team manages daily. Watching Bahmni run smoothly on a local network gave me a sense of what strong offline-first systems look like. When Dr Gajanan explained Bahmni’s patient identification workflow compared to Avni’s, the integration gap became clear. Field history sits in Avni; clinical history sits in Bahmni. Without a shared reference, context gets lost, and patients often cannot recall earlier diagnoses. It highlighted the importance of connecting these systems more meaningfully.
 
 ### Lighter Moments That Balanced the Days
@@ -55,15 +48,12 @@ Time at the JSS campus added another layer of perspective. A day at the OPD, whe
 
 Amid all the travel and conversations, a few lighter moments made the trip feel complete. Breakfast at Gadh Kaleva quickly became a favourite—especially the dahi kachori and rice dhokla. One evening turned into a relaxed singing session with the doctors, with me offering “technical support” on the side.
 
+<!-- Cloudinary Singing Session Video -->
 <div style="max-width:600px; margin:auto;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
-    <iframe 
-      src="https://www.youtube.com/embed/sFNkrcJ6XuI"
-      style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-      frameborder="0"
-      allowfullscreen>
-    </iframe>
-  </div>
+  <video controls style="width:100%; border-radius:8px;">
+    <source src="https://res.cloudinary.com/dbpjhdnlh/video/upload/v1764667841/Singing_session_at_JSS_mrmuzh.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <p style="text-align:center;"><i>Singing session at JSS</i></p>
 </div>
 
@@ -71,15 +61,12 @@ Amid all the travel and conversations, a few lighter moments made the trip feel 
 
 And on another day, I paused just to take in the scenery around me—a reminder of the environment that shapes so much of this work.
 
+<!-- Cloudinary Breathtaking View Video -->
 <div style="max-width:600px; margin:auto;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
-    <iframe 
-      src="https://www.youtube.com/embed/xRN0gCKLGfc?si=f7ECJHPRRRDYJEhl"
-      style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-      frameborder="0"
-      allowfullscreen>
-    </iframe>
-  </div>
+  <video controls style="width:100%; border-radius:8px;">
+    <source src="https://res.cloudinary.com/dbpjhdnlh/video/upload/v1764668015/SSYouTube.online_Breathtaking_view_at_MP_720p_fvynhg.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <p style="text-align:center;"><i>Breathtaking view at MP</i></p>
 </div>
 
