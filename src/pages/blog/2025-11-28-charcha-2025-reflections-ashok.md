@@ -19,6 +19,8 @@ tags:
   <p><i>Group photo at Charcha 2025 with Jitesh Rustagi (Dhwani Rural Information Systems) and Dhananjay Rathi (Litmus Ink)</i></p>
 </div>
 
+<br/>
+
 Attending Charcha 2025 at the India Habitat Centre was a refreshing reminder of what is possible when technology, community, and collaboration come together with purpose. Over three days, as more than 1,500 people from government, civil society, and markets gathered under one roof, the conversations reaffirmed a simple truth: meaningful social impact is built through trust, shared learning, and a willingness to keep evolving.
 
 ## Technology at the Grassroots: Beyond Tools, Toward Trust
@@ -44,6 +46,8 @@ What stood out to me was the willingness of participants to share real challenge
   <p><i>Post-session conversation with Vedprakash Sharma, CEO, B-ABLE Foundation, on livelihoods and skills for impact.</i></p>
 </div>
 
+<br/>
+
 ## Conversations in Corridors: Meeting the Changemakers
 
 Outside the formal sessions, some of the most meaningful interactions happened in the hallways and courtyard. I met:
@@ -63,6 +67,8 @@ Throughout the event, I moved across themes ranging from assistive technology an
   <p><i>Networking with Shobhit Prakash, Head of Development at RNB Global University, discussing how Avni can support research studies and field data collection.</i></p>
 </div>
 
+<br/>
+
 I also had opportunities to share Samanvay Foundation's work, especially how open-source tools like Avni support NGOs in becoming data-driven and building efficient, tech-enabled systems. Many organizations were eager to understand how such tools could empower their field teams or help them measure outcomes more effectively.
 
 ## Looking Ahead: Why Convenings Like Charcha Matter
@@ -74,11 +80,8 @@ What made Charcha 2025 meaningful for me was not just the sessions—it was the 
   <p><i>In conversation with Ayushi, Founder of Unmute, and Bharath from The Spark Forum on tech, safety, and community voice.</i></p>
 </div>
 
+<br/>
+
 As the development sector continues to evolve, convenings like Charcha provide something irreplaceable: a space to listen, exchange, reflect, and reimagine. They spark new partnerships, deepen old ones, and remind us that change happens when we bring diverse voices to the same table—voices rooted in lived experience, innovation, and a shared commitment to equitable development.
 
 I walked away from Charcha 2025 with renewed energy and a clearer conviction: technology can accelerate impact, but it must always be guided by people, values, and accountability. And in moments when the path feels uncertain, gatherings like Charcha serve as a compass, grounding us in community and pushing us toward collective action.
-
----
-
-**[A Ashok Kumar](https://www.linkedin.com/in/a-ashok-kumar/)**  
-*Social Impact Consultant*
