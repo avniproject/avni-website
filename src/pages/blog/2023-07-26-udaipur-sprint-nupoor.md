@@ -32,7 +32,7 @@ We had insightful tech talks delivered from Social Bytes, The Agency Fund and th
 ![](/img/2023-07-26-udaipur-sprint-nupoor/WorkSessions.png)
 <span style="display:flex;justify-content:center;">Work sessions</span>
 
-## Engaging Field Visits:
+## Engaging Field Visit:
 Our visit to Aajeevika Bureau, witnessing their incredible work in legal awareness and advocacy within the labor sector and mainly with migrant workers, left a lasting impression. Their work starts with identifying issues, finding solutions along with the Government, and conducting various training programs. These programs consist of customized courses in order to provide training towards different employment skills. Their dedication and the vast scope of their initiatives are truly remarkable.
 
 ## Mesmerizing Moments:
