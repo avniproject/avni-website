@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/2025-01-12-A-Visit-To-Centre-For-Social-Justice-In-Ahmedabad/3.webp
 tags:
   - Health
-  - Field Visits
+  - Field Visit
 ---
 
 

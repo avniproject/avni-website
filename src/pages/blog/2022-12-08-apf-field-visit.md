@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/2022-12-08-field-visit-APF/goldilocks_kepler_image.png
 tags:
   - Health
-  - Field Visits
+  - Field Visit
 ---
 8th December, 2022 was an eventful day in my life. I went on a client visit to understand issues with the usage of one of our flagship software products, Avni. We were able to resolve some of the issues on the spot and made our client happy. No, it was not a foreign trip. Sorry our clients were not in suits. Nor we discussed in AC rooms.
 
