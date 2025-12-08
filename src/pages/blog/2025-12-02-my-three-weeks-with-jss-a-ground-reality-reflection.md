@@ -31,7 +31,7 @@ Some moments simply stayed with me because of their setting. Travelling to Bahmi
 
 ### Observations From the Field and Office
 
-Back in the Anuppur office, I began what I had been looking forward to—spending time with Avni users. ANMs, supervisors, coordinators, and program staff walked me through their challenges: slow sync, confusing workflows, device limitations, small bugs, and the unpredictable nature of field travel and network. Many of these were not pure technical issues but reflections of real conditions. Sitting beside them as they worked helped me notice where extra steps or small friction points added up during the day.
+Back in the Anuppur office, I began what I had been looking forward to the most—spending time with Avni’s frontline users. ANMs, supervisors, coordinators, and program staff walked me through how they use Avni in their day-to-day work. Sitting beside them as they entered data and navigated different workflows helped me understand the practical realities of field-based digital work—where network, workload, and on-the-ground situations shape how any system is experienced. These conversations helped me spot small opportunities to simplify steps, reduce friction, and make their routines even smoother.
 
 I also spent considerable time with Ravi and Minal, who were central to many of the discussions. They worked with me closely during the Phulwari review meetings, led the conversations, and helped surface the practical issues that teams deal with. These sessions added depth to my understanding of how Avni is used across programs and where improvements could make a difference.
 
