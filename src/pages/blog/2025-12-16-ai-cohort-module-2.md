@@ -20,18 +20,23 @@ The AI Cohort closing module was conducted at Quest Learning Observatory, Bengal
 
 ## Day 1: Learning from AI Practitioners
 
-### Digital Green: AI for Agricultural Knowledge
+### Digital Green
 
-The day began with a talk by Digital Green's founder on their initiative to provide advice to farmers about crop quality and pest protection. Their approach uses AI as a replacement for in-person engagement to solve for scale—a model that's free to use across several countries in Asia and Africa.
+The day began with a talk by Digital Green's founder on their initiative to provide advice to farmers about crop quality improvement and pest control. Their approach uses AI as a replacement for in-person engagement to solve the problem of scale and cost.
+
+I was curious about how they would sustain engagement on their app for an extended duration, when there are so many alternatives for people to get the requisite information in the traditional sense via peers, suppliers, etc.
 
 ### Kaapi's Evaluation Framework
 
-The Kaapi team from Tech4Dev demonstrated their evaluation framework for AI features built using an LLM-as-Judge approach. Key concepts included:
-- **Golden sets** for testing AI responses
-- **Quality and accuracy metrics** through batch processing
-- Productizing the capability for other social development organizations
+Akhilesh and Pragya from the Kaapi team demonstrated their evaluation framework for AI features built using an LLM-as-Judge approach. Key steps involved are:
+- Building "Golden sets" for evaluating AI request and response
+- Configuring the 
+    - AI Prompt
+    - AI Model and
+    - Vector database for knowledge base
+- Tracking the batch-processed AI responses for up to 2 primary indicators using the LLM-as-Judge approach
 
-This was particularly relevant for anyone building AI features that need consistent quality assurance as prompts and models evolve.
+They are close to productizing the capability for other social development organizations to use. This would be particularly relevant for anyone building AI features that need consistent quality assurance as prompts and models evolve over time.
 
 ### World Bank's AI Initiatives
 
@@ -39,7 +44,7 @@ Jerome from the World Bank presented three compelling projects:
 
 - **ImpactAI**: Identifying optimal policies for regions based on available data
 - **SocialAI**: Detecting hate speech in local languages and dialects—a nuanced challenge. Their intervention of showing positive affirmation messages in hate speech hotspots reduced online abuse by 2.3%, though the effect was short-lived
-- **ZeroHungerAI**: A program sponsored by Google to identify factors leading to food crises across 3rd world countries, enabling preventive interventions
+- **ZeroHungerAI**: A program sponsored by Google to identify factors leading to food crises across developing countries, enabling preventive interventions
 
 The session sparked extensive discussion around technical nuances of processing large-scale and/or multi-modal data. It also left me reflecting on the dual-use nature of such powerful tools in the hands of large corporate organizations.
 
@@ -50,16 +55,16 @@ The session sparked extensive discussion around technical nuances of processing 
 The second day featured presentations from all AI Cohort participants, each tackling unique problems:
 
 - **Avanti Fellows**: AI-generated performance summaries of key trends can enable personalized mentorship with less effort spent on preparation.
-- **InquiLab Foundation**: Evaluating Student Ideas using AI to solve for scale, where we have lakhs of ideas that need to be graded systematically with limited human resources.
+- **InquiLab Foundation**: Evaluating student ideas using AI to solve for scale, where lakhs of ideas need to be graded systematically with limited human resources.
 - **Quest**: An AI chatbot for students to learn more by themselves to bridge the gap of limited availability of teachers/trainers.
 - **IPE Global**: Statistical modeling to identify women at risk for low birth weight infant delivery.
 - **Simple Education Foundation**: A WhatsApp chatbot with AI to act as a Teacher Buddy, helping them with pedagogy for teaching a particular topic to students. 
 - **Sneha**: Statistical modeling to predict at-risk pregnancies.
 
-There was lot to learn from each of these presentations, some of the key takeaways were:
-- Custom personas for AI models trumps Generic models
+There was a lot to learn from each of these presentations. Some of the key takeaways were:
 - Solving for scale is key
-- AI can be leveraged at different stages of the project lifecycle providing a compounded impact to final outcome geared towards well-being of the beneficiary.
+- Custom personas for AI models trump generic models
+- AI can be leveraged at different stages of the project lifecycle, providing a compounded impact on the final outcome geared towards the well-being of beneficiaries.
 
 ### Our Presentation
 
@@ -85,7 +90,7 @@ The feedback was constructive:
 1. **Quantify impact**: Indicate the impact of using AI with specific numeric targets
 2. **Simplify Understanding**: Use simple language to explain Avni and AI features
 3. **Speed up Demonstration**: Make use of pre-recorded videos to demonstrate AI features
-4. **Address security**: Ensure that any AI generated content is screened for malicious intent before persisting it
+4. **Address security**: Ensure that any AI-generated content is screened for malicious intent before persisting it
 5. **Build in Monitoring**: Ensure that any complex rules written in the app are monitored for functionality and performance
 
 ---
@@ -99,7 +104,7 @@ Their solution uses Google Gemini AI's chatbot to navigate and infer insights fr
 
 ## Conclusion
 
-The T4D AI Cohort program provided much needed impetus for our organisation to explore AI in a structured manner and for adoption within our Avni Platform. It also provided an arena to learn from peers and mentors and to get invaluable feedback on various approaches possible and the challenges that come with it.
+The T4D AI Cohort program provided much-needed impetus for our organisation to explore AI in a structured manner and adopt it within our Avni Platform. It also provided an arena to learn from peers and mentors and to get invaluable feedback on various approaches possible and the challenges that come with it.
 
 AI has lowered the barriers of time, effort, and cost—making capabilities accessible today that seemed out of reach for most social development organizations, even just a few months ago.
 
