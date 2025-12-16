@@ -25,7 +25,7 @@ My time with [JSS](https://www.jssbilaspur.org/) began on the road to Karanjia, 
 
 ### Field Journey: Seeing Healthcare Up Close
 
-Across the next few days, I saw different parts of public health work unfold. At a school, a sickle cell screening drive was in progress—students moving in one by one, samples being sorted for confirmatory testing. In another village, the Mobile Medical Unit had set up under a large tree. Two ANMs and a lab technician handled BP checks, RBS, haemoglobin tests, basic treatments, and referrals. The MMU typically covers two villages a day and visits each Phulwari centre once a month to review children, medicines, and sanitation. The setup was minimal, yet it reached people who may not otherwise access care.
+Across the next few days, I saw different parts of public health work unfold. At a school, a sickle cell screening drive was in progress—students moving in one by one, samples being sorted for confirmatory testing. In another village, the Mobile Medical Unit had set up under a large tree. Two ANMs and a lab technician handled BP checks, RBS, haemoglobin tests, basic treatments, and referrals. For more detailed insights from this journey, <a href="https://www.linkedin.com/posts/mohammed-taqi-69b6b221b_its-been-exactly-16-daysat-the-time-of-activity-7395817954954788864-hi0X" target="_blank" rel="noopener noreferrer">click here to read more</a>. The MMU typically covers two villages a day and visits each Phulwari centre once a month to review children, medicines, and sanitation. The setup was minimal, yet it reached people who may not otherwise access care.
 
 Some moments simply stayed with me because of their setting. Travelling to Bahmini meant crossing a river—routine for the team but memorable for me. In Bahmini, I joined Chandrima, Prafull, Ravi, and Minal in discussions with the field staff. Their feedback was honest and grounded in their day-to-day work. Later, conversations with Phulwari supervisors became another highlight. Their clarity about their work and their confidence in how Avni supports them stood out.
 
@@ -34,6 +34,13 @@ Some moments simply stayed with me because of their setting. Travelling to Bahmi
 Back in the Anuppur office, I began what I had been looking forward to the most—spending time with Avni’s frontline users. ANMs, supervisors, coordinators, and program staff walked me through how they use Avni in their day-to-day work. Sitting beside them as they entered data and navigated different workflows helped me understand the practical realities of field-based digital work—where network, workload, and on-the-ground situations shape how any system is experienced. These conversations helped me spot small opportunities to simplify steps, reduce friction, and make their routines even smoother.
 
 I also spent considerable time with Ravi and Minal, who were central to many of the discussions. They worked with me closely during the Phulwari review meetings, led the conversations, and helped surface the practical issues that teams deal with. These sessions added depth to my understanding of how Avni is used across programs and where improvements could make a difference.
+
+<div style="max-width:600px; margin:auto; text-align:center;">
+  <img src="/img/2025-12-02-my-three-weeks-with-jss-a-ground-reality-reflection/jssblog3-COLLAGE.jpg" style="width:100%; border-radius:6px;" />
+  <p><i>Moments from the field: Discussions with Ravi, Minal, and the team during Phulwari review meetings.</i></p>
+</div>
+
+<br/>
 
 Time at the JSS campus added another layer of perspective. A day at the OPD, where nearly 700 tokens were handled, showed the scale of work the team manages daily. Watching Bahmni run smoothly on a local network gave me a sense of what strong offline-first systems look like. When Dr Gajanan explained Bahmni’s patient identification workflow compared to Avni’s, the integration gap became clear. Field history sits in Avni; clinical history sits in Bahmni. Without a shared reference, context gets lost, and patients often cannot recall earlier diagnoses. It highlighted the importance of connecting these systems more meaningfully.
 
