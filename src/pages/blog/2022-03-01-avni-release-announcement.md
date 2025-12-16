@@ -43,8 +43,6 @@ Analytics from data captured via Avni can be derived by connecting any BI tool e
 
 So introducing Avni canned reports where it understands the domain and smartly gives out-of the box insights which can be a good starter for organisations to start reviewing and making sense of their data without any extra cost. It also gives ability to explore data based on dimensions and pre-defined filters required in the domain.
 
-![](/img/features/avni_canned_reports.gif)
-<span style="display:flex;justify-content:center;">Avni Canned Analytics</span>
 
 
 
