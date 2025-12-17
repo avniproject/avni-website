@@ -102,7 +102,7 @@ We presented our work on AI-assisted features for [Avni](https://avniproject.org
 - Apply AI to generate insights from reports
 - Build Field Worker Capacity by providing organisations an AI-powered LMS
 
-The feedback was constructive:
+**The feedback received was constructive:**
 
 1. **Quantify impact**: Indicate the impact of using AI with specific numeric targets
 2. **Simplify Understanding**: Use simple language to explain Avni and AI features
