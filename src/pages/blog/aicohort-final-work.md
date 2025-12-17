@@ -5,7 +5,7 @@ date: 2025-12-17T16:50:00.000Z
 author: Om Bhardwaj
 description: Reflecting on four months of progress in bringing AI to Avni – from an assistant chatbot to making visit scheduling far easier for users.
 featuredpost: false
-featuredimage: /img/2025-09-30-ai-cohort-1/cover.png
+featuredimage: /img/aicohort-final-work/cover.png
 tags:
   - AI
   - Avni
