@@ -113,7 +113,7 @@ The feedback was constructive:
 ---
 ### Knowledge Management using AI
 
-We then had a session by [Sattva](https://www.sattva.co.in/) on leveraging Google Docs AI integrations for organizational knowledge management. The challenge: how do team members quickly find information about past projects—who was involved, what was learned, and what should be carried forward?
+We then had a session by Manohar from [Sattva](https://www.sattva.co.in/) on leveraging Google Docs AI integrations for organizational knowledge management. The challenge: how do team members quickly find information about past projects—who was involved, what was learned, and what should be carried forward?
 
 Their solution uses [Google Gemini AI's](https://workspace.google.com/solutions/ai/) chatbot to navigate and infer insights from their documentation, making institutional knowledge accessible and searchable across the organization.
 
