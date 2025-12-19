@@ -4,7 +4,7 @@ title: "AI Cohort Module 2: Exploring AI for Social Impact"
 date: 2025-12-16T10:00:00.000Z
 author: Himesh R
 description: >-
-    Reflections from the Tech4Dev AI Cohort closing module—learning from AI practitioners, presenting our work, and exploring the possibilities and challenges of AI in the social development sector.
+    My experience at the Tech4Dev AI Cohort closing module—learning from AI practitioners, presenting our work, and exploring the possibilities and challenges of AI in the social development sector.
 featuredpost: false
 featuredimage: /img/2025-12-16-ai-cohort-module-2/ai-cohort-cover.png
 tags:
@@ -30,7 +30,7 @@ I was curious about how they would sustain engagement on their app for an extend
 
 ### Kaapi's Evaluation Framework
 
-Akhilesh and Pragya from the Kaapi team demonstrated their evaluation framework for AI features built using an [LLM-as-Judge](https://www.confident-ai.com/blog/why-llm-as-a-judge-is-the-best-llm-evaluation-method) approach. Key steps involved are:
+Akhilesh and Prajna from the Kaapi team demonstrated their evaluation framework for AI features built using an [LLM-as-Judge](https://www.confident-ai.com/blog/why-llm-as-a-judge-is-the-best-llm-evaluation-method) approach. Key steps involved are:
 - Building ["Golden sets"](https://innodata.com/what-are-golden-datasets-in-ai/) for evaluating AI request and response
 - Configuring the 
     - AI Prompt
