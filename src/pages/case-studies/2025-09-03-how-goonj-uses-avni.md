@@ -7,7 +7,7 @@ description: For over twenty-five years, Goonj has reshaped how India thinks abo
 featuredpost: false 
 featuredimage:
 tags:
-- 
+- Case Study
 ---
 
 

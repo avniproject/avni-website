@@ -8,6 +8,7 @@ featuredpost: false
 featuredimage:
 tags:
 - Health
+- Case Study
 ---
 
 <div style="width: 30%; margin: auto; ">

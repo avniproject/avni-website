@@ -7,7 +7,8 @@ description:
 featuredpost: false 
 featuredimage:
 tags:
-- Waste Management
+- Waste Management 
+- Case Study
 ---
  
 

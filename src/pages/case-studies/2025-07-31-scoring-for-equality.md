@@ -9,6 +9,7 @@ featuredimage:
 tags:
 - Sports
 - Skill Development
+- Case Study
 ---
  
 

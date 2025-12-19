@@ -8,7 +8,9 @@ description: With India's growing water crisis, the Rejuvenation of Waterbodies 
   through technology, empowering rural communities, and ensuring sustainable water access.
 featuredpost: false
 tags: 
-    - Water
+- Water
+- Case Study
+
 featuredimage: /img/2025-04-30-restoring-waterbodies-avni-atecf/R1.webp
 ---
 
