@@ -8,7 +8,6 @@ featuredpost: false
 featuredimage: /img/aicohort-final-work/cover.png
 tags:
   - AI
-  - Avni
   - Chatbot
   - Data Collection
   - Social Impact
