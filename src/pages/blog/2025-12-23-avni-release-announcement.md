@@ -55,7 +55,7 @@ Previously, you could add images to questions and answer options—helpful for f
 This is especially useful for showing demonstrations, instructions, or visual confirmations to beneficiaries during data collection.
 
 <div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">  
-    <img src="/img/2025-12-23-avni-release-announcement/VideoAndImagesInConcepts.png" 
+    <img src="/img/2025-12-23-avni-release-announcement/videoInForms.gif" 
          style="width: 100%; height: auto; max-width: 400px; display: block;">
 </div>
 
