@@ -20,6 +20,7 @@ exports.createPages = async ({ actions, graphql }) => {
               frontmatter {
                 tags
                 templateKey
+                unlisted
               }
             }
           }

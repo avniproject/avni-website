@@ -25,7 +25,7 @@ export default () => (
       query BlogRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" }, unlisted: { ne: true } } }
         ) {
           edges {
             node {
@@ -37,6 +37,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
+                unlisted
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 author
