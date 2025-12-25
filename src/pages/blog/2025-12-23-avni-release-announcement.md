@@ -1,6 +1,5 @@
 ---
 templateKey: blog-post
-unlisted: true
 title: Avni December Release
 date: 2025-12-23T20:30:00.000Z
 author: Avni Team
@@ -48,11 +47,11 @@ We've also added two new AI-powered features:
 
 We've received great feedback on these AI features from participants in our Avni Launchpad program, and we have an exciting roadmap for more AI-powered capabilities across app setup, data collection, and reporting.
 
-### 🎬 Videos in Forms
+### 🎬 Rich Media Support for Better Communication
 
 Previously, you could add images to questions and answer options—helpful for field workers who may find visual cues easier to understand. Based on community feedback, we've now extended this to support **videos** as well!
 
-This is especially useful for showing demonstrations, instructions, or visual confirmations to beneficiaries during data collection.
+This is especially useful for counselling beneficiaries or guiding users during service delivery.
 
 <div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">  
     <img src="/img/2025-12-23-avni-release-announcement/videoInForms.gif" 

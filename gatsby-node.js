@@ -4,6 +4,15 @@ const { createFilePath } = require('gatsby-source-filesystem')
 const fs = require('fs-extra')
 const RSS = require('rss')
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      unlisted: Boolean
+    }
+  `)
+}
+
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
 
