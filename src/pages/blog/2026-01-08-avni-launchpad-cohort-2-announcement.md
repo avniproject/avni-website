@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Avni Launchpad Cohort 2 - Pilot. Strengthen. Scale.
+title: Avni Launchpad Cohort 2 - Digitize. Pilot. Transform
 date: 2026-01-07T20:30:00.000Z
 author: Avni Team
 featuredpost: true
@@ -21,6 +21,9 @@ Cohort 1 of the Avni Launchpad brought together a diverse group of forward-think
 Over just a few weeks, 10 participating organisations built and launched digital pilots using Avni across health, agriculture, education, and livelihoods.
 These pilots were configured, tested, and deployed — enabling teams to digitise data collection, streamline reporting, and gain real-time operational insights.
 The success and energy of Cohort 1 have laid a strong foundation for the launch of Cohort 2.
+
+![](/img/2025-12-22-avni-in-2025/Launchpad-1.png)
+<p>Glimpses of 2-day workshop in Bangalore | Avni Launchpad Cohort-1</p>
 
 Many NGOs running field-based programs are still on cumbersome paper/spreadsheet-based or expensive systems. Avni solves this problem by providing a low-code, AI-powered digital platform that helps organisations create offline-capable fieldwork applications and get real-time insights.
 NGOs want to switch to Avni, but sometimes they struggle to take the leap or fail to convince the decision makers of its value. To ease this process, Avni Launchpad provides a very quick and inexpensive way to **<span style="color:#ff470f">see the value of using Avni before investing further.</span>**
@@ -55,9 +58,9 @@ You are an NGO who has
   - If you are still not sure, please contact us through Avni Partnerships- <mailto:avnipartnerships@samanvayfoundation.org> to discuss further.
 - **Availability** - You can nominate someone in the organisation who will drive the pilot. The participant
   - Knows the pilot use-case
-  - Can spend 5–7 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
+  - Can spend 6-8 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
   - Is comfortable using smartphones, spreadsheets and setting up drop-down based applications like google forms.
-  - Can attend a 2-day workshop in Bangalore
+  - Can attend a 2-day workshop in New Delhi
 - **Sustainability** - You’ll decide whether to continue after seeing how the pilot works — but it’s helpful to assess beforehand whether you’ll have the funding and operational capacity to sustain the initiative beyond the pilot phase.
 
 <br>
@@ -65,15 +68,16 @@ You are an NGO who has
 #### Key Dates
 ![](/img/2026-01-08-avni-launchpad-cohort-2-announcement/launchpad_timeline.png)
 
-| Week       | Date            | Event                                       |
-|------------|-----------------|---------------------------------------------|
-| Week 1     | Jan 7           | Program announced                           |
-| Week 4     | Jan 27          | Application submissions closed              |
-| Week 5     | Feb 3           | Cohort finalised                            |
-| Week 6-9   | Feb 9 - Mar 8   | Online Orientation meeting, Training & Prep-work |
-| Week 10    | Mar 12 - 13     | 2 day In-person workshop -App ready for pilot|
-| Week 11-14 | Mar 17 - Apr 20 | App ready for pilot     |
-| Week 15    | Apr 27, 2026    | Learnings from the ground. Conclusion of the cohort |
+| Week       | Date            | Event                                                 |
+|------------|-----------------|-------------------------------------------------------|
+| Week 1     | Jan 7           | Program announced                                     |
+| Week 4     | Jan 27          | Application submissions closed                        |
+| Week 5     | Feb 3           | Cohort finalised                                      |
+| Week 5     | Feb 6           | Online Orientation meeting                            |
+| Week 6-9   | Feb 9 - Mar 8   | Scoping and App design                                |
+| Week 10    | Mar 12 - 13     | 2 day In-person workshop-App ready for pilot          |
+| Week 11-14 | Mar 17 - Apr 20 | Pilot                                                 |
+| Week 15    | Apr 27, 2026    | Learnings from the ground. Conclusion of the cohort-2 |
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer" 
