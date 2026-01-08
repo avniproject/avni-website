@@ -5,7 +5,7 @@ date: 2026-01-07T20:30:00.000Z
 author: Avni Team
 featuredpost: true
 description:
-featuredimage: /img/2025-10-30-avni-launchpad-announcement/launchpad_banner.png
+featuredimage: /img/2026-01-08-avni-launchpad-cohort-2-announcement/Avni Launchpad Cohort-2.png
 tags:
 ---
 
@@ -63,7 +63,7 @@ You are an NGO who has
 <br>
 
 #### Key Dates
-![](/img/2025-10-30-avni-launchpad-announcement/launchpad_timeline.png)
+![](/img/2026-01-08-avni-launchpad-cohort-2-announcement/launchpad_timeline.png)
 
 | Week       | Date            | Event                                       |
 |------------|-----------------|---------------------------------------------|
