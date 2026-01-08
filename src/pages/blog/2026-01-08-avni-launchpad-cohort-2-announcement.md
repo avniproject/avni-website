@@ -9,7 +9,7 @@ featuredimage: /img/2026-01-08-avni-launchpad-cohort-2-announcement/Avni Launchp
 tags:
 ---
 
-<a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfx2dywkTbQ7EJd_eTlv3G38xSAlSUroffSUW0JtJpv93wJww/viewform" target="_blank" rel="noopener noreferrer">
   <img src="/img/2026-01-08-avni-launchpad-cohort-2-announcement/Avni Launchpad Cohort-2.png"/>
 </a>
 
@@ -80,7 +80,7 @@ You are an NGO who has
 | Week 15    | Apr 27, 2026    | Learnings from the ground. Conclusion of the cohort-2 |
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://forms.gle/zD2A4cPRtpdcczPe9" target="_blank" rel="noopener noreferrer" 
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx2dywkTbQ7EJd_eTlv3G38xSAlSUroffSUW0JtJpv93wJww/viewform" target="_blank" rel="noopener noreferrer" 
      class="button is-primary is-medium"> 
     Apply Now
   </a>
