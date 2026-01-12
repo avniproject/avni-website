@@ -30,6 +30,8 @@ NGOs want to switch to Avni, but sometimes they struggle to take the leap or fai
 
 The Avni Launchpad is a unique cohort-based program tailored for NGOs and social enterprises ready to take their first big step in digital transformation. In a short time of a few weeks, selected organizations receive hands-on mentoring, tailored support, and free access to Avni’s robust platform to launch a real, working digital pilot that elevates program monitoring, field data, and reporting.
 
+![](/img/2025-12-22-avni-in-2025/Partner Testimonial Launchpad cohort-1.png)
+
 ### Why Join the program?
 
 If you’re an NGO working in the field, this program helps you explore how digital tools can make your work easier and more effective.
