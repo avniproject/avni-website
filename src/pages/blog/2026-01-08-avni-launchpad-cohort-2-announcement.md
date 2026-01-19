@@ -63,7 +63,7 @@ You are an NGO who has
   - Can spend 6-8 hours a week working on pilot scope, Avni setup and pilot rollout during the launchpad program timelines
   - Is comfortable using smartphones, spreadsheets and setting up drop-down based applications like google forms.
   - Can attend a 2-day workshop in New Delhi
-- **Sustainability** - You’ll decide whether to continue after seeing how the pilot works — but it’s helpful to assess beforehand whether you’ll have the funding and operational capacity to sustain the initiative beyond the pilot phase.
+- **Sustainability** - You’ll decide whether to continue after seeing how the pilot works — but it’s helpful to assess beforehand whether you’ll have the funding and operational capacity to sustain the initiative beyond the pilot phase. For post-pilot Avni Plans please refer [Self service offering.](https://avniproject.org/pricing/)
 
 <br>
 
