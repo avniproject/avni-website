@@ -73,7 +73,7 @@ You are an NGO who has
 | Week       | Date            | Event                                                 |
 |------------|-----------------|-------------------------------------------------------|
 | Week 1     | Jan 7           | Program announced                                     |
-| Week 4     | Jan 27          | Application submissions closed                        |
+| Week 4     | Jan 31          | Application submissions closed                        |
 | Week 5     | Feb 3           | Cohort finalised                                      |
 | Week 5     | Feb 6           | Online Orientation meeting                            |
 | Week 6-9   | Feb 9 - Mar 8   | Scoping and App design                                |
