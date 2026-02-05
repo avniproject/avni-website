@@ -34,7 +34,6 @@ export default function LandingPageHero() {
   `)
   return (
     <div>
-      <LaunchpadRibbon/>
       <div className="hero-head">
         <Navbar/>
       </div>
