@@ -7,6 +7,8 @@ featuredpost: false
 description: 
 featuredimage: /img/2025-12-23-avni-release-announcement/TemplatesFirstLogin.png
 tags:
+- release
+
 ---
 
 We're excited to share what's new in Avni this December! This release brings smarter AI-powered tools, ready-to-use templates, and richer media support to help you get started faster and deliver better on-field experiences.

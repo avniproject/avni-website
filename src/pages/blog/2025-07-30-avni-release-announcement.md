@@ -7,6 +7,7 @@ featuredpost: false
 description: 
 featuredimage:
 tags:
+- release
 ---
 
 We're excited to introduce Avni 14.0.0! This release is all about enhancing your experience—with smarter features, improved performance, and tools that make day-to-day work smoother. 

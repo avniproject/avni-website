@@ -7,6 +7,7 @@ featuredpost: false
 description: 
 featuredimage:
 tags:
+- release
 ---
 
 September was a month full of exciting updates! From smarter assistance to faster app building, here’s everything we worked on to make your Avni experience better.

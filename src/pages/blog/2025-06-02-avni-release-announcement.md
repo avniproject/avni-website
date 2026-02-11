@@ -7,6 +7,7 @@ description:
 featuredpost: false
 featuredimage: /img/2025-06-02-avni-release-announcement/hero.webp
 tags:
+- release
 ---
 <div style="width: 100%; padding: 48px;">  
     <img src="/img/2025-06-02-avni-release-announcement/generated-image.webp" 
