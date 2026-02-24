@@ -77,8 +77,8 @@ You are an NGO who has
 | Week 5     | Feb 3           | Cohort finalised                                      |
 | Week 5     | Feb 6           | Online Orientation meeting                            |
 | Week 6-9   | Feb 9 - Mar 8   | Scoping and App design                                |
-| Week 10    | Mar 12 - 13     | 2 day In-person workshop-App ready for pilot          |
-| Week 11-14 | Mar 17 - Apr 20 | Pilot                                                 |
+| Week 10    | Mar 16 - 17     | 2 day In-person workshop-App ready for pilot          |
+| Week 11-14 | Mar 18 - Apr 20 | Pilot                                                 |
 | Week 15    | Apr 27, 2026    | Learnings from the ground. Conclusion of the cohort-2 |
 
 <div style="text-align: center; margin: 2rem 0;">
