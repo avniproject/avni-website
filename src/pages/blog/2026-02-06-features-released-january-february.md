@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Avni Jan & Feb release
+title: Features released in January and early February
 date: 2026-02-06T20:30:00.000Z
 author: Avni Team
 featuredpost: false
@@ -10,7 +10,7 @@ tags:
   - release
 ---
 
-We're excited to share the latest features that have been rolled out in January and so far in February! This update focuses on improving field worker experience with better navigation capabilities, enhanced issue reporting, and improvements related to data uploads.
+We're excited to share the latest features that have been rolled out in January and early February! This update focuses on improving field worker experience with better navigation capabilities, enhanced issue reporting, and improvements related to data uploads.
 
 ### 📍 Location Navigation
 
