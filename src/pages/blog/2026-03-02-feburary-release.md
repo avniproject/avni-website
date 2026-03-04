@@ -17,32 +17,27 @@ Here's what's new in the Avni February release — covering updates for field us
 
 Avni's draft save feature now extends to program enrolments and their visits. If you're working with large forms where all information isn't available at once, you can save your progress as a draft and return to complete it later. These drafts remain on the device and are not synced to the server until the form is fully saved. Drafts that are left untouched for more than 30 days are automatically cleaned up.
 
-**Registration Draft**
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-03-02-feburary-release/regd.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-**Enrolment Draft**
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-03-02-feburary-release/enrd.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-**General Encounter Draft**
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-03-02-feburary-release/ged.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-**Program Encounter Draft**
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-03-02-feburary-release/ped.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <div style="text-align: center; flex: 1; min-width: 200px; max-width: 250px;">
+        <strong>Registration Draft</strong>
+        <img src="/img/2026-03-02-feburary-release/regd.gif"
+             style="width: 100%; height: auto; display: block; margin-top: 8px;">
+    </div>
+    <div style="text-align: center; flex: 1; min-width: 200px; max-width: 250px;">
+        <strong>Enrolment Draft</strong>
+        <img src="/img/2026-03-02-feburary-release/enrd.gif"
+             style="width: 100%; height: auto; display: block; margin-top: 8px;">
+    </div>
+    <div style="text-align: center; flex: 1; min-width: 200px; max-width: 250px;">
+        <strong>General Encounter Draft</strong>
+        <img src="/img/2026-03-02-feburary-release/ged.gif"
+             style="width: 100%; height: auto; display: block; margin-top: 8px;">
+    </div>
+    <div style="text-align: center; flex: 1; min-width: 200px; max-width: 250px;">
+        <strong>Program Encounter Draft</strong>
+        <img src="/img/2026-03-02-feburary-release/ped.gif"
+             style="width: 100%; height: auto; display: block; margin-top: 8px;">
+    </div>
 </div>
 
 To learn more about how draft save works across different form types, how to enable it, and key points to keep in mind, refer to the [Draft Save documentation](https://avni.readme.io/docs/draft-save).
