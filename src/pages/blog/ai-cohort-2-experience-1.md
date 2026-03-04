@@ -15,7 +15,7 @@ tags:
 
 The T4D AI Cohort 2 was conducted at Lemon Tree - Rishikesh on February 27-28, 2026.
 
-With AI being seen as an equalizer by some whilst being viewed as a destabilizing force by others, we at [Samanvay Foundation](https://samanvayfoundation.org) have reaped benefits by adopting AI in everyday tasks, be it Product development or Business outreach. Therefore, with the intention to learn more about technical possibilities and its impact on ground, we set off for the AI Cohort at Rishikesh, where Maha Lakshme and I represented Samanvay Foundation.
+With AI being seen as an equalizer by some whilst being viewed as a destabilizing force by others, we at <a href="https://samanvayfoundation.org" target="_blank" rel="noopener noreferrer">Samanvay Foundation</a> have reaped benefits by adopting AI in everyday tasks, be it Product development or Business outreach. Therefore, with the intention to learn more about technical possibilities and its impact on ground, we set off for the AI Cohort at Rishikesh, where Maha Lakshme and I represented Samanvay Foundation.
 
 ---
 
@@ -23,7 +23,7 @@ With AI being seen as an equalizer by some whilst being viewed as a destabilizin
 
 On reaching the Dehradun airport, I was able to catch-up with other participants of the AI-Cohort. I hitched a ride to the hotel with Vinay Sudhakaran, one of our mentors from the AI Cohort, where we got to know each other better, through our shared roots in Bengaluru. Also discussed travel plans in general and got a glimpse of Ganga and the Lit-up Janaki Sethu.
 
-At the Lemon-tree hotel, I finally met with Maha after a very long time. We went out on a short walk through the winding gullies of Rishikesh, to visit Sai Ghat. Along the journey, Maha and I discussed our priorities for the duration of the AI Cohort as well as general approach towards AI stream development in [Avni](https://avniproject.org).
+At the Lemon-tree hotel, I finally met with Maha after a very long time. We went out on a short walk through the winding gullies of Rishikesh, to visit Sai Ghat. Along the journey, Maha and I discussed our priorities for the duration of the AI Cohort as well as general approach towards AI stream development in <a href="https://avniproject.org" target="_blank" rel="noopener noreferrer">Avni</a>.
 
 At dinner, we met the rest of the AI Cohort participants and organizers. We then had dry-runs for the Introductory NGO presentations, with Vinay as Judge. He felt my presentation was too technical and not suitable for the audience at hand. He gave an example narration without Jargons or Avni specific terminology, which seemed so much better. I gave it a few tries to emulate, but wasn't able to crack it then. We decided to give it a rest so that it would sink in.
 
@@ -35,7 +35,7 @@ We had some good presentations from the NGOs, amongst which Madhi and Inquilab F
 
 For our presentation, I felt that I executed the story narration of Avni and our AI Problem statement to the best of my abilities. And as per feedback too, it seemed to be well received.
 
-We resumed our AI learning Journey with a session about AI Safety and Research done around Guardrails by [Tattle](https://tattle.co.in). We also had a followup of a technical implementation of Guardrails done by Kaapi team.
+We resumed our AI learning Journey with a session about AI Safety and Research done around Guardrails by <a href="https://tattle.co.in" target="_blank" rel="noopener noreferrer">Tattle</a>. We also had a followup of a technical implementation of Guardrails done by Kaapi team.
 
 After this we set off on our Mentoring session, to ideate on how to solve our AI problem statement. 
 ![Avni AI user journeys presented at AI Cohort 2](/img/2026-03-02-ai-cohort-2-rishikesh/AICohort2Roadmap.png)
@@ -53,7 +53,7 @@ I also spent time interacting with several other NGOs, from which I learnt about
 1. From Avanti-Fellows, I was excited about how they had earlier implemented a DB-chat AI assistant for querying a Database using simple english conversations.
 2. From Inquilab foundation, I learnt about outcome from their multi-model approach taken for AI based Idea Evaluator.
 
-Finally, I also spent time sharing our learning and resources from building the Avni AI Assistant with the [Glific](https://glific.org) team, who planned to implement a Dify based AI Assistant for their subscribers, as part of this AI Cohort.
+Finally, I also spent time sharing our learning and resources from building the Avni AI Assistant with the <a href="https://glific.org" target="_blank" rel="noopener noreferrer">Glific</a> team, who planned to implement a Dify based AI Assistant for their subscribers, as part of this AI Cohort.
 
 ## A journey inwards and experiencing bliss
 
@@ -66,7 +66,7 @@ After the yoga-practice we had a fascinating dinner time conversation with Lobo,
 ![Yoga session with Patrick at AI Cohort 2](/img/2026-03-02-ai-cohort-2-rishikesh/yoga-session.jpg)
 
 ## AI in Avni : The past, the present and the future
-The day started with an early morning working session where Erica from [Tech4Dev](https://projecttech4dev.org) and I discussed progress we made as part of AI Cohort 1 and our plan for the current AI cohort.
+The day started with an early morning working session where Erica from <a href="https://projecttech4dev.org" target="_blank" rel="noopener noreferrer">Tech4Dev</a> and I discussed progress we made as part of AI Cohort 1 and our plan for the current AI cohort.
 
 I demonstrated Avni capabilities built as part of AI Cohort 1:
 - The Avni Trial account Self-signup workflow
@@ -88,14 +88,14 @@ Maha, Vinay, Erica and I then teamed-up to get our hands dirty, trying out the p
 
 The takeaway from this session was that, it helped us brainstorm on leveraging Multi-agentic mode for deep work to be done with Avni AI Assistant.
 
-We then had some informative session about ["Behavioural change with Technology as a Lever"](https://www.reapbenefit.org/how) from Gautam (Reap Benefit). He talked about their program that harvested youth participation for crowd-sourcing water saving actions through "Jal Doots". He mentioned things that worked or didn't work for them, such as :
+We then had some informative session about <a href="https://www.reapbenefit.org/how" target="_blank" rel="noopener noreferrer">"Behavioural change with Technology as a Lever"</a> from Gautam (Reap Benefit). He talked about their program that harvested youth participation for crowd-sourcing water saving actions through "Jal Doots". He mentioned things that worked or didn't work for them, such as :
 - Simplifying Glific Flows triggers by using Missed Calls leveraging Exotel Integration
 - Increase in retention due to peer-pressure (the good way)
 - Simple Gamification for motivating youth
 - The adaptability of kids when they really want to get something done
 - Drop in engagement on using precise Geographical information
 
-After which, we had a final session on the Evals framework built by Kaapi team. [Kaapi](https://projecttech4dev.org/kaapi/), an open-source, API-first AI platform developed by Project Tech4Dev, it utilizes structured "Evals" to ensure AI responses are safe, accurate, and relevant for social impact organizations.
+After which, we had a final session on the Evals framework built by Kaapi team. <a href="https://projecttech4dev.org/kaapi/" target="_blank" rel="noopener noreferrer">Kaapi</a>, an open-source, API-first AI platform developed by Project Tech4Dev, it utilizes structured "Evals" to ensure AI responses are safe, accurate, and relevant for social impact organizations.
 
 ## Annotating Images and Intermittent vibing
 
@@ -115,7 +115,7 @@ We later walked around the ghat and witnessed some contemporary street dance per
 
 On our return back to the hotel, we had a fabulous dinner with one of the best Gajar Halwa I had tasted in some time. Overall, the stay at Lemon tree was really good with clean facilities and courteous staff.
 
-## Speedwalking, Tech-talks
+## Speedwalking and Tech-talks
 
 The next morning I had signed up for a hike to Neelkanth Hill in Rishikesh. We booked a cab, which ended up taking us very near to the summit. Due to time constraints we decided to just do a short ascent and descent all the way down the hill.
 
