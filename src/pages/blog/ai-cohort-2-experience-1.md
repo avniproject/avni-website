@@ -119,7 +119,7 @@ On our return back to the hotel, we had a fabulous dinner with one of the best G
 
 The next morning I had signed up for a hike to Neelkanth Hill in Rishikesh. We booked a cab, which ended up taking us very near to the summit. Due to time constraints we decided to just do a short ascent and descent all the way down the hill.
 
-I do regular hikes, treks and walking but the pace set by my fellow trekkers Lobo, Jerome and Karthikeyan was too quick for me to keep up. They did pause their relentless hike occasionally, to let me catch-up to them and after about half an hour or so, to my relief, we started our joyous descent. The trail was mostly empty, which gave us time to enjoy the hike discussing
+I do regular hikes, treks and walking but the pace set by my fellow trekkers Lobo, Jerome and Karthikeya was too quick for me to keep up. They did pause their relentless hike occasionally, to let me catch-up to them and after about half an hour or so, to my relief, we started our joyous descent. The trail was mostly empty, which gave us time to enjoy the hike discussing
 - AI use for development, how life has changed for a developer
 - Leveraging AI within platforms like Glific or Avni
 - Block-chain technology and its application for the development sector
