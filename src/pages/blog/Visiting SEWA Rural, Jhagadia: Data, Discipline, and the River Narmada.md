@@ -48,7 +48,7 @@ I will admit, I was surprised. In a relatively remote setting, SEWA Rural runs a
 
 What stayed with me was their commitment to affordability. Patients from tribal communities pay a fraction of the cost, and in cases of extreme financial hardship, treatment is provided free of cost. There was also an unattended snack counter operating on trust; you pick what you need and drop the money in a box or pay online(This is something you will never find in a city). It felt like a small but meaningful signal of the culture of responsibility here.
 
-![Hospital](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fourth.jpeg)
+![Hospital](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fourth.png)
 
 ## Learning Beyond Curriculum
 
