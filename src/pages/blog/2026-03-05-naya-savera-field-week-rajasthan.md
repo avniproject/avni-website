@@ -15,13 +15,13 @@ tags:
 
 As a database developer specializing in healthcare platforms like Avni, I love turning data dreams into field reality. From February 9th to 15th, 2026, I immersed myself in Jay Kay Puram Block, Sirohi District, Udaipur, Rajasthan, to drive the digitization of JK Lakshmi Cement's CSR gem: the "Naya Savera" Mother & Child program. My mission? Work shoulder-to-shoulder with the Naya Savera team for app User Acceptance Testing (UAT), conduct field visits, and deliver training to empower their health workers (VLMs)—all while bridging stacks of legacy paper records to the sleek new AVNI-integrated "Naya Savera" app, including their vital Mobile Clinic initiative.
 
-<img src="/img/2026-03-05-naya-savera-field-week-rajasthan/collage-intro.jpg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 24px 0;">
+![](/img/2026-03-05-naya-savera-field-week-rajasthan/collage-intro.jpg)
 
 ## Day-by-Day Collaboration: Iterative UAT with the Core Team
 
 The trip kicked off at their office, where I first encountered towers of paper registers—meticulously maintained records of pregnancies, vaccinations, child growth, and Mobile Clinic logs that I've photographed for reference. These were the "before" picture: vulnerable to loss, hard to analyze.
 
-<img src="/img/2026-03-05-naya-savera-field-week-rajasthan/collage-paper-registers.jpg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 24px 0;">
+![](/img/2026-03-05-naya-savera-field-week-rajasthan/collage-paper-registers.jpg)
 
 We shifted gears with close collaboration alongside Naya Savera team members, including the pivotal Vijaylaxmi ji. I handed over the Avni-integrated "Naya Savera" app for User Acceptance Testing (UAT). We dove into real-time feedback loops:
 
@@ -32,7 +32,7 @@ We shifted gears with close collaboration alongside Naya Savera team members, in
 
 This agile approach built trust and ownership fast, turning paper chaos into digital clarity—with Mobile Clinic data now mobile-ready.
 
-<img src="/img/2026-03-05-naya-savera-field-week-rajasthan/uat-training-session.jpg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 24px 0;">
+![](/img/2026-03-05-naya-savera-field-week-rajasthan/uat-training-session.jpg)
 
 ## Field Visits: Bringing Digitization to Life
 
@@ -44,7 +44,7 @@ We squeezed in 1-2 targeted field visits to showcase real-world application. Ami
 
 These visits grounded the tech in their daily grind.
 
-<img src="/img/2026-03-05-naya-savera-field-week-rajasthan/collage-field-visits.jpg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 24px 0;">
+![](/img/2026-03-05-naya-savera-field-week-rajasthan/collage-field-visits.jpg)
 
 ## Training Milestone: Two Days, 20 VLMs Empowered
 
@@ -53,7 +53,7 @@ The climax came on February 13th and 14th. The Naya Savera team arranged 20 VLMs
 - Day 1 (13th Feb): Basics to advanced—data entry, dashboards, troubleshooting, with live imports from paper scans.
 - Day 2 (14th Feb): Role-specific drills, with Vijaylaxmi ji co-facilitating. Group activities and Q&A ensured everyone left confident. Vijaylaxmi ji nailed her role, setting the stage for scaled rollouts.
 
-<img src="/img/2026-03-05-naya-savera-field-week-rajasthan/vlm-training-group-photo.jpg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 24px 0;">
+![](/img/2026-03-05-naya-savera-field-week-rajasthan/vlm-training-group-photo.jpg)
 
 ## Team Transformation: From Hesitation to Confidence
 

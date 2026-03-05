@@ -26,9 +26,7 @@ For example, in adolescent health interventions, baseline screenings help identi
 
 Our role during the visit was to work closely with the programme team to generate better reports and insights from the data. Often, teams are sitting on rich data but do not have the bandwidth to translate it into usable insights. We spent time writing queries, refining logic, validating outputs, and thinking through what kind of dashboards would genuinely support decision-making.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/first.jpeg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0 4px 0;">
-
-*That's us helping out with report generation*
+![That's us helping out with report generation](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/first.jpeg)
 
 ## People and Process
 
@@ -40,15 +38,11 @@ She asked me to imagine passing around a chocolate wrapped in multiple layers. E
 
 We visited a school where the adolescent health team was conducting screenings. Having worked on this implementation for several years, I had a mental image of how such visits would look, and reality matched that picture closely. The team arrived with equipment, conducted structured screenings, and followed clear protocols.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/second.jpeg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0 4px 0;">
-
-*In pics, Devendra Bhai is measuring Height and weight, Avantika Bein is measuring HB levels, and Jyotish Bhai(bottom right) is entering all the details in Avni*
+![In pics, Devendra Bhai is measuring Height and weight, Avantika Bein is measuring HB levels, and Jyotish Bhai(bottom right) is entering all the details in Avni](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/second.jpeg)
 
 In one village, we visited the home of a child who had dropped out of school and had been identified with severe anaemia. The visit involved follow-up, counselling both around nutrition and around encouraging continuation of education and skill development. The house had basic amenities like electricity, a television, and even a refrigerator. Mobile internet was available, though patchy. Like many Indian villages, it felt both familiar and quietly resilient.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/third.jpeg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0 4px 0;">
-
-*Village visit*
+![Village visit](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/third.jpeg)
 
 And then there was the hospital.
 
@@ -56,7 +50,7 @@ I will admit, I was surprised. In a relatively remote setting, SEWA Rural runs a
 
 What stayed with me was their commitment to affordability. Patients from tribal communities pay a fraction of the cost, and in cases of extreme financial hardship, treatment is provided free of cost. There was also an unattended snack counter operating on trust; you pick what you need and drop the money in a box or pay online(This is something you will never find in a city). It felt like a small but meaningful signal of the culture of responsibility here.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fourth.jpg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0;">
+![](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fourth.jpg)
 
 ## Learning Beyond Curriculum
 
@@ -64,17 +58,13 @@ We stayed at SEWA Rural's training centre, which also houses ITI students pursui
 
 The daily routine here is disciplined. The day begins at 6 am with prayer, followed by collective cleaning, where each student picks up a broom. It is a simple practice, but one that builds civic sense and shared ownership. Inspiration is drawn from thinkers like Swami Vivekananda and Mahatma Gandhi, and those values seem woven into daily life rather than displayed as slogans.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fifth.jpeg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0 4px 0;">
-
-*Training centre*
+![Training centre](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fifth.jpeg)
 
 ## A Workshop and Many Questions
 
 On our final day, we conducted a digital data entry workshop. My colleague Vinay led most of it, and I observed closely. What struck me was the engagement; nearly everyone in the room contributed, whether through questions, suggestions, or reflections. It is encouraging when users of a system feel comfortable enough to critique and improve it.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/sixth.jpeg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0 4px 0;">
-
-*Workshop*
+![Workshop](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/sixth.jpeg)
 
 ## Evenings by the Narmada
 
@@ -82,6 +72,4 @@ Work aside, we did get a quiet evening by the Narmada River. We visited temples 
 
 And yes, there was excellent home-cooked food one evening hosted by Shobha ben, including methi thepla and a buttermilk-based curry that I will remember for a while.
 
-<img src="/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/seventh.jpeg" style="width: 100%; height: auto; display: block; border-radius: 6px; margin: 16px 0 4px 0;">
-
-*The Narmada and Dinner at Shobha Bein's house :)*
+![The Narmada and Dinner at Shobha Bein's house](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/seventh.jpeg)
