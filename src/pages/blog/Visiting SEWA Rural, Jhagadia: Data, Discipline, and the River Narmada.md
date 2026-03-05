@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Visiting SEWA Rural, Jhagadia: Data, Discipline, and the River Narmada"
-date: 2025-02-12T13:00:00.000Z
+date: 2026-03-05T13:00:00.000Z
 author: Mohammed Taqi
 description: A first-hand look at SEWA Rural’s adolescent health work in Jhagadia and how Avni enabled data driven follow-ups, reporting, and real-world care, plus lessons in process, trust, and community
 
@@ -27,7 +27,6 @@ For example, in adolescent health interventions, baseline screenings help identi
 
 Our role during the visit was to work closely with the programme team to generate better reports and insights from the data. Often, teams are sitting on rich data but do not have the bandwidth to translate it into usable insights. We spent time writing queries, refining logic, validating outputs, and thinking through what kind of dashboards would genuinely support decision-making.  
 ![That's us helping out with report generation](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/first.jpeg)  
-That's us helping out with report generation
 
 ## People and Process
 
@@ -38,7 +37,7 @@ She asked me to imagine passing around a chocolate wrapped in multiple layers. E
 ## Field Visits: School, Village, and Hospital
 
 We visited a school where the adolescent health team was conducting screenings. Having worked on this implementation for several years, I had a mental image of how such visits would look, and reality matched that picture closely. The team arrived with equipment, conducted structured screenings, and followed clear protocols.![In pics, Devendra Bhai is measuring Height and weight, Avantika Bein is measuring HB levels, and Jyotish Bhai(bottom right) is entering all the details in Avni](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/second.jpeg)  
-In pics, Devendra Bhai is measuring Height and weight, Avantika Bein is measuring HB levels, and Jyotish Bhai(bottom right) is entering all the details in Avni.  
+
 In one village, we visited the home of a child who had dropped out of school and had been identified with severe anaemia. The visit involved follow-up, counselling both around nutrition and around encouraging continuation of education and skill development. The house had basic amenities like electricity, a television, and even a refrigerator. Mobile internet was available, though patchy. Like many Indian villages, it felt both familiar and quietly resilient.  
 ![Village visit](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/third.jpeg)
 
@@ -48,7 +47,7 @@ I will admit, I was surprised. In a relatively remote setting, SEWA Rural runs a
 
 What stayed with me was their commitment to affordability. Patients from tribal communities pay a fraction of the cost, and in cases of extreme financial hardship, treatment is provided free of cost. There was also an unattended snack counter operating on trust; you pick what you need and drop the money in a box or pay online(This is something you will never find in a city). It felt like a small but meaningful signal of the culture of responsibility here.
 
-![Hospital](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fourth.png)
+![](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/fourth.png)
 
 ## Learning Beyond Curriculum
 
@@ -68,4 +67,3 @@ Work aside, we did get a quiet evening by the Narmada River. We visited temples 
 
 And yes, there was excellent home-cooked food one evening hosted by Shobha ben, including methi thepla and a buttermilk-based curry that I will remember for a while.  
 ![The Narmada and Dinner at Shobha Bein's house :)](/img/Visiting-SEWA-Rural,-Jhagadia:-Data,-Discipline,-and-the-River-Narmada/seventh.jpeg)  
-The Narmada and Dinner at Shobha Bein's house :)
