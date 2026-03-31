@@ -21,7 +21,7 @@ For more details, refer to [avni-client#1859](https://github.com/avniproject/avn
 
 ### 1.2) Faster Select/Unselect All on Attendance forms
 
-The Select All and Unselect All actions on the Attendance form element were noticeably slow when dealing with a large number of subjects. This has been optimised — the operation now completes quickly, even with many entries.
+The Select All and Unselect All actions on the Attendance form element were noticeably slow when dealing with a large number of subjects — earlier it took more than 15 seconds. After the fix, the same operation now takes just 2 seconds.
 
 For more details, refer to [avni-client#1870](https://github.com/avniproject/avni-client/issues/1870).
 
