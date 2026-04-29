@@ -30,9 +30,9 @@ Setting up Avni for a new programme is not a one-person job today. At Samanvay, 
 
 Asking the program manager to do all three jobs themselves is hard. The Avni expertise needed is uneven across the three roles, and the loop between *what we need*, *what we built* and *does it actually work* is tight enough that one person ends up wearing all three hats — which most program managers reasonably do not want to do.
 
-But these three roles are *well-defined*. Each has a bounded job, with reasonably clear inputs and outputs. So our **chat-first AI Configurator** is essentially an attempt to replace this three-person team with three AI specialists working behind a single chat window — a Business Analyst that converses with the program manager and writes down the plan, an Implementer that turns the plan into a working Avni app, and a Quality Analyst that audits the result against the original requirements. The program manager stays on chat and walks away with a working Avni implementation in minutes, not hours.
+But these three roles are *well-defined*. Each has a bounded job, with reasonably clear inputs and outputs. So our **chat-first AI Configurator** is essentially an attempt to replace this three-person team with AI specialists working behind a single chat window. The program manager stays on chat and walks away with a working Avni implementation in minutes, not hours.
 
-The realisation that drove this design was that, *though the whole thing looks like an AI problem, most of it is actually predictable, repeatable plumbing* (what engineers call *deterministic*). The three lessons that follow are how we figured out which parts to leave to the AI, and which parts to nail down in plain code.
+The realisation that dawned on us through this exercise is that, *though the whole thing looks like an AI problem, most of it is actually predictable, repeatable plumbing* (what engineers call *deterministic*).
 
 ## What we built
 
@@ -40,9 +40,7 @@ The system is a stack of layers, each with one job.
 
 ![Tier architecture: User → Dify → Function Tool Calling service → Avni Backend → Database](/img/2026-04-29-deterministic-rails-agentic-judgement/architecture.png)
 
-A program manager types a message in chat. From that point on, three things happen behind the scenes. <a href="https://dify.ai" target="_blank" rel="noopener noreferrer">Dify</a> is **the Brains** — it reads the message, decides what should happen next (a clarifying question? draft a form? generate a rule?), and routes the work accordingly. Whenever a human needs to approve something, it pauses there. The Brains then talks to **Avni AI**, our own service of about 60 small helpers — **the Brawn** — that do the actual work: parsing uploaded documents, drafting the plan, assembling the final app, writing rules, and checking that everything is valid. Once everything checks out, the finished Avni app is handed off to the regular Avni system, which serves it to field workers exactly the same way as any other Avni app.
-
-Underneath sits a database — the same one any Avni installation uses — that stores the finished app and the data it collects.
+A program manager types a message in chat. From that point on, things happen behind the scenes. <a href="https://dify.ai" target="_blank" rel="noopener noreferrer">Dify</a> is **the Brains** — it reads the message, decides what should happen next (a clarifying question? draft a form? generate a rule?), and routes the work accordingly. Whenever a human needs to approve something, it pauses there. The Brains then talks to **Avni AI**, our own service of about 60 small helpers — **the Brawn** — that do the actual work: parsing uploaded documents, drafting the plan, assembling the final app, writing rules, and checking that everything is valid. Once everything checks out, the finished Avni app is handed off to the regular Avni system, which serves it to field workers exactly the same way as any other Avni app.
 
 A glimpse of the chat experience and the underlying tool calls flowing through:
 
@@ -56,7 +54,7 @@ The mantra we ended up with for this stack is *"Deterministic on the rails, agen
 
 ## Lesson 1 — Where to use AI, and where to use plain code
 
-Our first instinct was to throw the whole problem at the AI and see what came back. The output looked impressive in demos, but we could not verify it, and running the same input twice gave us slightly different answers — which is a problem if the result is a programme's data-collection app.
+Our first instinct was to throw the whole problem at the AI and see what came back. The output wasn't satisfactory, and we could not verify it, and running the same input twice gave us slightly different answers — which is a problem if the result is a programme's data-collection app.
 
 The rule we now follow is **write the rules down first**. If the work has clear, predictable rules — *turn this checklist into Avni forms, validate that all mandatory fields are filled* — we use plain code. If the input is fuzzy and we cannot pin the rules down — *like a conversation with a program manager* — we hand it to an AI specialist, with a tightly-scoped job.
 
@@ -106,7 +104,7 @@ The takeaway in one line — *small brain, clear job, surgical edits.*
 
 ## Lesson 3 — Build helpers that carry the load, not the AI
 
-The surprise here was that **the helpers we build are themselves part of the AI's prompt**. Hand the AI the entire configuration every time it asks a question, and it runs out of room within three calls — with nothing left for the actual work.
+This was the most painfully learnt lesson. The tools we started with weren't built with the AI in mind — they handed back everything they knew, every time. The AI ended up exhausting its working memory, or its allotted attempts, just figuring out the current state of affairs. Very little was left for the actual task.
 
 So the rule we now follow is: **every helper returns only what this turn needs — never the whole base.**
 
