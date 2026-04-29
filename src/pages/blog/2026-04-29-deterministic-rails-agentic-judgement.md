@@ -16,7 +16,7 @@ tags:
 
 I recently presented our Avni App Configurator work at the T4D AI Cohort 2 midpoint showcase. The aim of this post is to put down on paper the same content, with a little more room than slides allow.
 
-We at <a href="https://samanvayfoundation.org" target="_blank" rel="noopener noreferrer">Samanvay Foundation</a> have been building a chat-first AI Configurator for <a href="https://avniproject.org" target="_blank" rel="noopener noreferrer">Avni</a> for some months now. Along the way, we made our share of architectural mistakes and had to course-correct a few times. This post isn't really about the configurator itself — it is about three things we got wrong, and what we have learnt from the rebuild.
+We at <a href="https://samanvayfoundation.org" target="_blank" rel="noopener noreferrer">Samanvay Foundation</a> have been building a chat-first AI Configurator for <a href="https://avniproject.org" target="_blank" rel="noopener noreferrer">Avni</a> for some months now. Along the way, we had to course-correct a few times. This post isn't really about the configurator itself — it is about three major things we learnt along the way.
 
 ---
 
