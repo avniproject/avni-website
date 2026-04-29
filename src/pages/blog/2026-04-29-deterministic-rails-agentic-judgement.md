@@ -40,9 +40,9 @@ The system is a stack of layers, each with one job.
 
 ![Tier architecture: User → Dify → Function Tool Calling service → Avni Backend → Database](/img/2026-04-29-deterministic-rails-agentic-judgement/architecture.png)
 
-A program manager types a message in chat. From that point on, three things happen behind the scenes. <a href="https://dify.ai" target="_blank" rel="noopener noreferrer">Dify</a> is **the Brains** — it reads the message, decides what should happen next (a clarifying question? draft a form? generate a rule?), and routes the work accordingly. Whenever a human needs to approve something, it pauses there. The Brains then talks to **Avni AI**, our own service of about 60 small helpers — **the Brawn** — that do the actual work: parsing uploaded documents, drafting forms, generating reports, checking the configuration is valid. Once everything checks out, the finished Avni app is handed off to the regular Avni system, which serves it to field workers exactly the same way it would for a manually-built app.
+A program manager types a message in chat. From that point on, three things happen behind the scenes. <a href="https://dify.ai" target="_blank" rel="noopener noreferrer">Dify</a> is **the Brains** — it reads the message, decides what should happen next (a clarifying question? draft a form? generate a rule?), and routes the work accordingly. Whenever a human needs to approve something, it pauses there. The Brains then talks to **Avni AI**, our own service of about 60 small helpers — **the Brawn** — that do the actual work: parsing uploaded documents, drafting the plan, assembling the final app, writing rules, and checking that everything is valid. Once everything checks out, the finished Avni app is handed off to the regular Avni system, which serves it to field workers exactly the same way as any other Avni app.
 
-Underneath sits a database that quietly remembers everything that happened — useful for audit, and so the next conversation picks up where the last one left off.
+Underneath sits a database — the same one any Avni installation uses — that stores the finished app and the data it collects.
 
 A glimpse of the chat experience and the underlying tool calls flowing through:
 
@@ -74,7 +74,8 @@ In our case, the "rules written down" piece is the **spec** — a structured pla
 1. The input is open-ended — a conversation, a free-form document, an image
 2. We need judgement, not a lookup
 3. The user is asking for clarification, or going back and forth
-4. Examples in our case: figuring out what the program manager actually wants, drafting form text, auditing whether a configuration really meets the original goals
+4. The output is open-ended — drafting text, fixing a broken configuration, generating something from scratch
+5. Examples in our case: deciding which path to take, figuring out what the program manager actually wants, drafting form text, auditing whether a configuration really meets the original goals
 
 What ties the two halves together is a small set of shared notes — *where are we in the conversation, has the user approved this draft yet, how many times have we tried to fix this rule.* Both the AI side and the plain-code side read and update these notes, and that is how they stay in sync.
 
@@ -82,7 +83,7 @@ The takeaway in one line — *if you can write the rules down, use code; if you 
 
 ## Lesson 2 — One AI doing everything is a bad idea
 
-We started with one big AI specialist doing everything — listening to the program manager, drafting the app, writing rules, auditing the result. The more we asked it to do, the more it forgot. Small mistakes early on snowballed into bigger ones later, and every fix tended to redo the whole app from scratch.
+We started with one big AI generalist doing everything — listening to the program manager, drafting the app, writing rules, auditing the result. The more we asked it to do, the more it forgot. Small mistakes early on snowballed into bigger ones later, and every fix tended to redo the whole app from scratch.
 
 So we split the one big AI into a team of small AI specialists (engineers call these *agents*) — one specialist per job, each with a clear input and a clear output, and a hard limit on how long it gets to keep trying.
 
@@ -90,8 +91,8 @@ So we split the one big AI into a team of small AI specialists (engineers call t
 
 Four things changed for the better:
 1. **Less to confuse it** — each specialist sees only the slice of the world it needs.
-2. **Cheaper** — small inputs across many specialists adds up to less than one big input. The AI charges roughly per word, so this matters more than it sounds.
-3. **One job, done well** — clear inputs, clear outputs, fewer chances to drift.
+2. **Cheaper** — small inputs cost less than one big input. And because each specialist's setup looks the same on every call, we get a discount on the repeated parts.
+3. **One job, done well** — clear inputs, clear outputs, and a fixed number of tries before it stops and asks for help.
 4. **Edit, don't redo** — when something needs fixing, change one form or one rule, not the whole app.
 
 Five kinds of specialist recur often enough that we now name them:
@@ -99,26 +100,25 @@ Five kinds of specialist recur often enough that we now name them:
 2. **Planner** — break a task into ordered steps.
 3. **Synthesizer** — produce the artifact as per the plan.
 4. **Patcher** — edit one part, not regenerate.
-5. **Auditor** — checks the work, but doesn't change anything itself.
+5. **Inspector** — audits the work as a read-only critic, doesn't change anything itself.
 
 The takeaway in one line — *small brain, clear job, surgical edits.*
 
-## Lesson 3 — Treat the AI like a busy reader
+## Lesson 3 — Design the helpers for an AI, not a human
 
-The thing that surprised us most was that **everything you hand the AI counts against it**. The AI has limited working memory and pays per word for what it reads. If the helpers (the Brawn, from earlier) hand it the entire Avni manual every time it asks a question, it runs out of room within three calls and cannot go any deeper into the actual work.
+The surprise here was that **the helpers we build are themselves part of the AI's prompt**. Every byte a helper sends back sits in the AI's working memory the next turn, and the AI pays per word for it. If the Brawn hands the AI the entire configuration every time it asks a question, the AI runs out of room within three calls and cannot go any deeper into the actual work.
 
-So the rule we now follow is: **design every helper assuming an AI will be using it, and hand it only what is needed for the next step.**
+So the rule we now follow is: **design every helper assuming an AI will be using it, and hand back only what is needed for the next step.**
 
 ![Tool-design principles: sectional retrieval, response truncation, surgical edits, stateless, handles-not-payloads, defensive guards](/img/2026-04-29-deterministic-rails-agentic-judgement/tool-principles.png)
 
-Seven principles came out of this exercise:
-1. **Hand over the section, not the book** — when the AI asks about Forms, return the Forms, not the entire configuration.
+Six principles came out of this exercise:
+1. **Hand over the section, not the book** — when the AI asks about a particular form, return just that one form, not the whole configuration.
 2. **Cap the answer** — if there are 500 matches, send the top 20 and a count, not all 500.
 3. **Edit, don't rewrite** — let the AI change one rule in one form, instead of regenerating the form.
-4. **Preserve earlier work** — when something does need a redraft, merge in the user's earlier edits rather than overwriting them.
-5. **Don't carry the world around** — helpers don't keep their own memory. Anything that needs to persist lives in one shared notebook that everything reads from.
-6. **Use a bookmark, not the page** — when state is bulky (a 30-page document, a large Avni configuration), the AI gets a bookmark and a one-line summary, not the whole thing.
-7. **Check the door, both directions** — every helper validates what comes in and what goes out, refuses to keep retrying forever, and fails clearly when it cannot help.
+4. **Don't carry the world around** — helpers don't keep their own memory. Anything that needs to persist lives in one shared notebook, with separate helpers to save, modify or read from it.
+5. **Use a bookmark, not the page** — when state is bulky (a 30-page document, a large Avni configuration), the AI gets a bookmark and a one-line summary, not the whole thing.
+6. **Check the door, both directions** — every helper validates what comes in and what goes out, rejects oversized or malformed requests, and fails clearly when it cannot help.
 
 Before we did this, the AI was burnt out within the first three steps and could not go any deeper into the work. After, it uses **about a tenth of the words it used to per step** — so it can keep going for much longer, and the work it produces is more thorough.
 
@@ -150,7 +150,7 @@ What has been getting in the way is the workflow tool we built on top of (Dify).
 </ul>
 </details>
 
-More fundamentally, the kind of tool we picked — Dify, and its cousins like <a href="https://www.langchain.com" target="_blank" rel="noopener noreferrer">LangChain</a> and <a href="https://www.langchain.com/langgraph" target="_blank" rel="noopener noreferrer">LangGraph</a> — asks you to draw the whole workflow as a flowchart upfront, before you know what is going to happen. That works for simple, linear flows. It does not work when the AI needs to loop back, change its mind, or hand work between specialists. We ended up with workarounds piled on workarounds.
+More fundamentally, orchestrating **open-ended, long-horizon tasks** — the kind where the AI needs to loop back, change its mind, or hand work between specialists — using <a href="https://www.langchain.com" target="_blank" rel="noopener noreferrer">LangChain</a>, <a href="https://www.langchain.com/langgraph" target="_blank" rel="noopener noreferrer">LangGraph</a> or Dify was a lost cause for us. These tools ask you to draw the whole workflow as a flowchart upfront, before you know what is going to happen. That works for simple, linear flows. The configurator is not that. We ended up with workarounds piled on workarounds.
 
 So we are switching the brains of the system to **Claude managed agents** — a different kind of AI runtime where the AI plans its own steps as it goes, instead of being routed through a fixed flowchart. Same lessons, same shape — different conductor.
 
