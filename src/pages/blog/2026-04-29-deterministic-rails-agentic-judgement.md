@@ -134,8 +134,6 @@ What we are shipping next:
 5. Safety rails — preventing the AI from going off-rails on sensitive prompts
 6. Measuring how much faster the AI route is than the manual one
 
-What has been getting in the way is the workflow tool we built on top of (Dify). It is good for simple, linear chats, but the configurator is not that. A QA specialist needs to send the Implementer back with a fix; the Business Analyst sometimes needs to re-engage the program manager halfway through. We hit Dify's limits hard enough on each of these that we are switching tools.
-
 <details>
 <summary><strong>For the technically curious — what didn't work in Dify</strong></summary>
 <br/>
