@@ -104,25 +104,25 @@ Five kinds of specialist recur often enough that we now name them:
 
 The takeaway in one line — *small brain, clear job, surgical edits.*
 
-## Lesson 3 — Design the helpers for an AI, not a human
+## Lesson 3 — Build helpers that carry the load, not the AI
 
-The surprise here was that **the helpers we build are themselves part of the AI's prompt**. Every byte a helper sends back sits in the AI's working memory the next turn, and the AI pays per word for it. If the Brawn hands the AI the entire configuration every time it asks a question, the AI runs out of room within three calls and cannot go any deeper into the actual work.
+The surprise here was that **the helpers we build are themselves part of the AI's prompt**. Hand the AI the entire configuration every time it asks a question, and it runs out of room within three calls — with nothing left for the actual work.
 
-So the rule we now follow is: **design every helper assuming an AI will be using it, and hand back only what is needed for the next step.**
+So the rule we now follow is: **every helper returns only what this turn needs — never the whole base.**
 
 ![Tool-design principles: sectional retrieval, response truncation, surgical edits, stateless, handles-not-payloads, defensive guards](/img/2026-04-29-deterministic-rails-agentic-judgement/tool-principles.png)
 
 Six principles came out of this exercise:
-1. **Hand over the section, not the book** — when the AI asks about a particular form, return just that one form, not the whole configuration.
-2. **Cap the answer** — if there are 500 matches, send the top 20 and a count, not all 500.
-3. **Edit, don't rewrite** — let the AI change one rule in one form, instead of regenerating the form.
-4. **Don't carry the world around** — helpers don't keep their own memory. Anything that needs to persist lives in one shared notebook, with separate helpers to save, modify or read from it.
-5. **Use a bookmark, not the page** — when state is bulky (a 30-page document, a large Avni configuration), the AI gets a bookmark and a one-line summary, not the whole thing.
-6. **Check the door, both directions** — every helper validates what comes in and what goes out, rejects oversized or malformed requests, and fails clearly when it cannot help.
+1. **Hand over the section, not the book** — when the AI asks about a particular form, the helper finds it in the configuration and hands back just that one form. The AI doesn't have to wade through the rest.
+2. **Cap the answer** — if there are 500 matches, the helper picks the top 20 and a count. The AI never sees the rest.
+3. **Edit, don't rewrite** — when one rule needs to change, the helper opens the form, applies the patch, and saves it. The AI doesn't regenerate the whole thing.
+4. **Don't carry the world around** — helpers don't keep their own memory. Anything that needs to persist lives in a shared notebook, with separate helpers to save, modify, and read from it. The AI never has to hold state itself.
+5. **Use a bookmark, not the page** — when state is bulky (a 30-page document, a big Avni configuration), the helper keeps the bytes. The AI just gets a bookmark and a one-line summary.
+6. **Check the door, both directions** — every helper validates what comes in and what goes out, rejects oversized or malformed requests, and fails clearly when it cannot help. The AI doesn't have to recover from broken data.
 
 Before we did this, the AI was burnt out within the first three steps and could not go any deeper into the work. After, it uses **about a tenth of the words it used to per step** — so it can keep going for much longer, and the work it produces is more thorough.
 
-The takeaway here — *design the helper for the AI that will be using it.*
+The takeaway here — *the more the helpers carry, the further the AI can go.*
 
 ---
 
