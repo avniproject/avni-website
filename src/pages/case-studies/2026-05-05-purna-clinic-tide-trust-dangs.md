@@ -27,7 +27,7 @@ Delivering consistent care across a geographically dispersed tribal population h
 ---
 
 <div style="width: 80%; margin: auto; margin-top: 24px;">
-    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/programme-infograph.png" alt="Programme overview infographic">
+    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/programme-infograph.png">
 </div>
 
 ## Going Live with Avni
@@ -35,7 +35,7 @@ Delivering consistent care across a geographically dispersed tribal population h
 The programme went live on Avni on **4 August 2025**. The first two months were slow — 35 encounters in August, 49 in September — as the team got trained and the field workers found their footing with the app. Then in October, something shifted. Encounters jumped to **340 in a single month** as the field staff hit their stride and data collection scaled rapidly. Growth has continued every month since.
 
 <div style="width: 80%; margin: auto; margin-top: 16px; margin-bottom: 24px;">
-    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/encounters-growth-graph.png" alt="Monthly encounters growth graph">
+    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/encounters-growth-graph.png">
 </div>
 
 ## From Data Collection to Real-Time Action
@@ -49,15 +49,6 @@ With Avni in place, Purna Clinic moved beyond just replacing paper. Using Avni's
 All without any manual aggregation. What was a two-step process — paper in the field, Kobo at the desk — is now a single workflow.
 
 As of May 2026, Avni is tracking:
-
-| Metric | Count |
-|---|---|
-| Individuals tracked | **11,259** |
-| Household records | **58,303** |
-| Field workers on Avni | **86** |
-| Patients in chronic disease programme | **2,792** |
-| Medicine adherence rate | **89%** |
-| Growth in monthly encounters | **22×** |
 
 The chronic disease programme captures not just clinical data but household-level context, including government scheme access and document status. Of the 2,792 enrolled patients, **hypertension** is the most common condition, followed by diabetes, COPD, mental health conditions, and stroke.
 
