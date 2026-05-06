@@ -22,7 +22,7 @@ In just nine months:
     <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/programme-infograph.png">
 </div>
 
----
+
 
 All in a setting where many field workers had never used a smartphone before.
 
@@ -47,6 +47,8 @@ Before Avni, all field data at Purna Clinic was collected manually. Field worker
 As the programme grew, this created real constraints — follow-ups were difficult to track consistently, data remained fragmented, and analysis was slow and time-consuming.
 
 There was another layer to the challenge. Most of Purna's field workers had never used a smartphone before. Moving to any digital system meant a learning curve on top of already demanding fieldwork — in villages spread across two states, often with limited connectivity.
+
+---
 
 ## The Shift: Going Live with Avni
 
@@ -78,9 +80,11 @@ The chronic disease programme captures not just clinical data but household-leve
 
 ---
 
-## The Part That Surprised Everyone
+## Adoption in the Field: From First-Time Users to Confident Operators
 
-Perhaps the most unexpected outcome has been what happened with the field workers themselves. Many of them **used a smartphone for the first time through Avni**. The early weeks were hard — learning a new app on top of demanding fieldwork, in a setting with limited connectivity. But they got there. And then some.
+One of the most notable outcomes has been the adoption among field workers. Many started with no prior experience using smartphones. Today, they are not only using Avni for data collection but also exploring ways to access and use data directly on their devices.
+
+This shift — from hesitation to ownership — has been critical to sustaining the programme at scale.
 
 <div style="background-color: #f9f9f9; border-left: 4px solid #007acc; padding: 16px; margin: 24px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <i>"Data collection via Avni has been absolutely seamless. We now have real-time visibility into what follow-ups are pending and how our field staff is performing across the programme. What surprised me most is the field workers themselves — many of them used a phone for the first time with Avni, and now they're finding their own ways to access and use data. That kind of change doesn't happen with just any tool."</i>
@@ -90,19 +94,16 @@ Perhaps the most unexpected outcome has been what happened with the field worker
 
 ---
 
-## Adoption in the Field: From First-Time Users to Confident Operators
-
-One of the most notable outcomes has been the adoption among field workers. Many started with no prior experience using smartphones. Today, they are not only using Avni for data collection but also exploring ways to access and use data directly on their devices.
-
-This shift — from hesitation to ownership — has been critical to sustaining the programme at scale.
-
----
-
 ## A Foundation for Scalable Community Health
 
 For Purna Clinic, digitisation was not just about replacing paper. It enabled continuity of care across a dispersed population, visibility into programme performance, and the ability to scale operations without losing control. In a setting with limited infrastructure and first-time technology users, the programme demonstrates what's possible when the right systems are in place.
 
 ---
+
+## Explore What This Could Look Like for Your Programme
+
+If you're working on community health programmes and facing challenges with tracking, follow-ups, or scale, Purna Clinic's journey offers a practical example of what's possible. Learn how Avni can support your team in building a more connected, data-driven approach to care.
+
 
 ## A Note on This Case Study
 
@@ -128,6 +129,4 @@ Subscribe to our newsletter for more case studies and implementation stories.
 </a>
 </p>
 
-## Explore What This Could Look Like for Your Programme
 
-If you're working on community health programmes and facing challenges with tracking, follow-ups, or scale, Purna Clinic's journey offers a practical example of what's possible. Learn how Avni can support your team in building a more connected, data-driven approach to care.
