@@ -6,7 +6,7 @@ author: Nupoor Khandelwal
 description: >
   Purna Clinic in Morzira village, run by TIDE Trust, serves tribal communities across the Dang district of Gujarat. This is the story of how Avni helped them move from paper registers to real-time programme visibility — and what happened when field workers used a smartphone for the first time.
 featuredpost: false
-featuredimage:
+featuredimage: /img/2026-05-05-purna-clinic-tide-trust-dangs/purna-clinic-morzira.png
 tags:
 - Health
 - Case Study
@@ -14,11 +14,25 @@ tags:
 - Chronic Disease
 ---
 
-<div style="width: 80%; margin: auto;">
-    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/purna-clinic-morzira.png" alt="Purna Clinic, Morzira, Dang district, Gujarat">
+In the hills of the Dangs, one of Gujarat's most remote districts, Purna Clinic is rethinking how community health can be delivered — and managed — at scale.
+
+In just nine months:
+
+<div style="width: 80%; margin: auto; margin-top: 16px;">
+    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/programme-infograph.png">
 </div>
 
-## The Setting
+---
+
+All in a setting where many field workers had never used a smartphone before.
+
+---
+
+## About the Programme
+
+<div style="width: 80%; margin: auto; margin-bottom: 24px;">
+    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/purna-clinic-morzira.png" alt="Purna Clinic, Morzira, Dang district, Gujarat">
+</div>
 
 Dang is one of the most remote districts in Gujarat, at the Gujarat–Maharashtra border, with a 95% tribal population. In Morzira village, **Purna Clinic** — run by TIDE Trust — provides primary care to Bheel, Konkani, Kunbhi, and Gamit tribal communities across both states. The clinic sees 40–50 patients daily for everything from family medicine and physiotherapy to dental care and lab services, all at subsidised rates. Many of those patients are managing chronic conditions like hypertension and diabetes with limited access to district hospitals or government health schemes.
 
@@ -26,11 +40,15 @@ Delivering consistent care across a geographically dispersed tribal population h
 
 ---
 
-<div style="width: 80%; margin: auto; margin-top: 24px;">
-    <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/programme-infograph.png">
-</div>
+## The Challenge: Managing Care Without Visibility
 
-## Going Live with Avni
+Before Avni, all field data at Purna Clinic was collected manually. Field workers maintained paper registers and then re-entered everything into Kobo — every record touched twice, with no structured way to track patients over time, monitor follow-ups across villages, or aggregate data for programme decisions.
+
+As the programme grew, this created real constraints — follow-ups were difficult to track consistently, data remained fragmented, and analysis was slow and time-consuming.
+
+There was another layer to the challenge. Most of Purna's field workers had never used a smartphone before. Moving to any digital system meant a learning curve on top of already demanding fieldwork — in villages spread across two states, often with limited connectivity.
+
+## The Shift: Going Live with Avni
 
 The programme went live on Avni on **4 August 2025**. The first two months were slow — 35 encounters in August, 49 in September — as the team got trained and the field workers found their footing with the app. Then in October, something shifted. Encounters jumped to **340 in a single month** as the field staff hit their stride and data collection scaled rapidly. Growth has continued every month since.
 
@@ -38,7 +56,9 @@ The programme went live on Avni on **4 August 2025**. The first two months were 
     <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/encounters-growth-graph.png">
 </div>
 
-## From Data Collection to Real-Time Action
+---
+
+## What Changed: From Data Collection to Real-Time Action
 
 With Avni in place, Purna Clinic moved beyond just replacing paper. Using Avni's real-time dashboards, the programme team can now:
 
@@ -48,9 +68,15 @@ With Avni in place, Purna Clinic moved beyond just replacing paper. Using Avni's
 
 All without any manual aggregation. What was a two-step process — paper in the field, Kobo at the desk — is now a single workflow.
 
-As of May 2026, Avni is tracking:
+At scale, this shift is significant:
+
+- 11,259 individuals registered and tracked
+- 58,303 household records mapped, including socio-economic context
+- 2,792 patients actively enrolled in chronic care programmes
 
 The chronic disease programme captures not just clinical data but household-level context, including government scheme access and document status. Of the 2,792 enrolled patients, **hypertension** is the most common condition, followed by diabetes, COPD, mental health conditions, and stroke.
+
+---
 
 ## The Part That Surprised Everyone
 
@@ -61,6 +87,22 @@ Perhaps the most unexpected outcome has been what happened with the field worker
   <br><br>
   <strong>— Ms. Simran Jha, Public Health Executive, Purna Clinic / TIDE Trust</strong>
 </div>
+
+---
+
+## Adoption in the Field: From First-Time Users to Confident Operators
+
+One of the most notable outcomes has been the adoption among field workers. Many started with no prior experience using smartphones. Today, they are not only using Avni for data collection but also exploring ways to access and use data directly on their devices.
+
+This shift — from hesitation to ownership — has been critical to sustaining the programme at scale.
+
+---
+
+## A Foundation for Scalable Community Health
+
+For Purna Clinic, digitisation was not just about replacing paper. It enabled continuity of care across a dispersed population, visibility into programme performance, and the ability to scale operations without losing control. In a setting with limited infrastructure and first-time technology users, the programme demonstrates what's possible when the right systems are in place.
+
+---
 
 ## A Note on This Case Study
 
@@ -85,3 +127,7 @@ Schedule a call with us
 Subscribe to our newsletter for more case studies and implementation stories.
 </a>
 </p>
+
+## Explore What This Could Look Like for Your Programme
+
+If you're working on community health programmes and facing challenges with tracking, follow-ups, or scale, Purna Clinic's journey offers a practical example of what's possible. Learn how Avni can support your team in building a more connected, data-driven approach to care.
