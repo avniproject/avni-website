@@ -1,6 +1,6 @@
 ---
 templateKey: case-study
-title: In the Hills of the Dangs, a Clinic is Quietly Changing What Community Health Looks Like
+title: From Paper Registers to Real-Time Care: How Purna Clinic Digitised Community Health in the Dangs
 date: 2026-05-05T10:00:00.000Z
 author: Nupoor Khandelwal
 description: >
@@ -89,7 +89,7 @@ This shift — from hesitation to ownership — has been critical to sustaining 
 <div style="background-color: #f9f9f9; border-left: 4px solid #007acc; padding: 16px; margin: 24px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <i>"Data collection via Avni has been absolutely seamless. We now have real-time visibility into what follow-ups are pending and how our field staff is performing across the programme. What surprised me most is the field workers themselves — many of them used a phone for the first time with Avni, and now they're finding their own ways to access and use data. That kind of change doesn't happen with just any tool."</i>
   <br><br>
-  <strong>— Ms. Simran Jha, Public Health Executive, Purna Clinic / TIDE Trust</strong>
+  <strong>— Ms. Simran Jhaa, Public Health Executive, Purna Clinic / TIDE Trust</strong>
 </div>
 
 ---
@@ -105,9 +105,7 @@ For Purna Clinic, digitisation was not just about replacing paper. It enabled co
 If you're working on community health programmes and facing challenges with tracking, follow-ups, or scale, Purna Clinic's journey offers a practical example of what's possible. Learn how Avni can support your team in building a more connected, data-driven approach to care.
 
 
-## A Note on This Case Study
-
-This case study is based on Avni platform data, the original project documentation, and a conversation with Purna Clinic's programme coordinator. If you work with a community health programme and are dealing with similar challenges around tracking, follow-ups, or scale — Purna Clinic's journey is a practical example of what's possible.
+**Note —** This case study is based on Avni platform data, the original project documentation, and a conversation with Purna Clinic's programme coordinator. If you work with a community health programme and are dealing with similar challenges around tracking, follow-ups, or scale — Purna Clinic's journey is a practical example of what's possible.
 
 ---
 
