@@ -18,11 +18,9 @@ In the hills of the Dangs, one of Gujarat's most remote districts, Purna Clinic 
 
 In just nine months:
 
-<div style="width: 80%; margin: auto; margin-top: 16px;">
+<div style="width: 80%; margin: auto; margin-top: 16px; margin-bottom: 24px;">
     <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/programme-infograph.png">
 </div>
-
-
 
 All in a setting where many field workers had never used a smartphone before.
 
@@ -34,7 +32,7 @@ All in a setting where many field workers had never used a smartphone before.
     <img src="/img/2026-05-05-purna-clinic-tide-trust-dangs/purna-clinic-morzira.png" alt="Purna Clinic, Morzira, Dang district, Gujarat">
 </div>
 
-Dang is one of the most remote districts in Gujarat, at the Gujarat–Maharashtra border, with a 95% tribal population. In Morzira village, **Purna Clinic** — run by TIDE Trust — provides primary care to Bheel, Konkani, Kunbhi, and Gamit tribal communities across both states. The clinic sees 40–50 patients daily for everything from family medicine and physiotherapy to dental care and lab services, all at subsidised rates. Many of those patients are managing chronic conditions like hypertension and diabetes with limited access to district hospitals or government health schemes.
+Dang is one of the most remote districts in Gujarat, at the Gujarat–Maharashtra border, with a 95% tribal population. In Morzira village, **Purna Clinic** — run by [TIDE Trust](https://joyofhelping4u.com/wp-content/uploads/2023/11/Bhansali-trust-TIDE-project.pdf) — provides primary care to Bheel, Konkani, Kunbhi, and Gamit tribal communities across both states. The clinic sees 40–50 patients daily for everything from family medicine and physiotherapy to dental care and lab services, all at subsidised rates. Many of those patients are managing chronic conditions like hypertension and diabetes with limited access to district hospitals or government health schemes.
 
 Delivering consistent care across a geographically dispersed tribal population has always been challenging — and before Avni, tracking that care meant paper registers in the field and manual re-entry into Kobo at the desk, with no real-time visibility into follow-ups or how the programme was performing overall.
 
@@ -106,11 +104,6 @@ If you're working on community health programmes and facing challenges with trac
 
 ---
 
-
-**Note —** This case study is based on Avni platform data, the original project documentation, and a conversation with Purna Clinic's programme coordinator. If you work with a community health programme and are dealing with similar challenges around tracking, follow-ups, or scale — Purna Clinic's journey is a practical example of what's possible.
-
-
-Want to explore what Avni could look like for your programme? We'd love to talk.
 
 <p>
 📬 Reach out to us at <a href="mailto:avnipartnerships@samanvayfoundation.org">avnipartnerships@samanvayfoundation.org</a>
