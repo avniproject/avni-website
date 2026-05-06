@@ -1,6 +1,6 @@
 ---
 templateKey: case-study
-title: From Paper Registers to Real-Time Care: How Purna Clinic Digitised Community Health in the Dangs
+title: "From Paper Registers to Real-Time Care: How Purna Clinic Digitised Community Health in the Dangs"
 date: 2026-05-05T10:00:00.000Z
 author: Nupoor Khandelwal
 description: >
@@ -104,10 +104,11 @@ For Purna Clinic, digitisation was not just about replacing paper. It enabled co
 
 If you're working on community health programmes and facing challenges with tracking, follow-ups, or scale, Purna Clinic's journey offers a practical example of what's possible. Learn how Avni can support your team in building a more connected, data-driven approach to care.
 
+---
+
 
 **Note —** This case study is based on Avni platform data, the original project documentation, and a conversation with Purna Clinic's programme coordinator. If you work with a community health programme and are dealing with similar challenges around tracking, follow-ups, or scale — Purna Clinic's journey is a practical example of what's possible.
 
----
 
 Want to explore what Avni could look like for your programme? We'd love to talk.
 
