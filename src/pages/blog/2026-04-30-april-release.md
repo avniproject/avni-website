@@ -18,22 +18,22 @@ Here's what's new across the Avni April releases (v16.10.0 through v16.12.0) —
 Custom cards can now trigger actions directly from a dashboard, so users can act on a card without first navigating into a subject. The supported actions are **Do Visit** and **View Subject Profile**, and bundle upload supports the new action configuration end-to-end.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px 0;">
-    <div style="flex: 1 1 300px; max-width: 400px;">
+    <div style="flex: 0 1 calc(50% - 20px); min-width: 250px; max-width: 400px;">
         <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">One subject registered and Do Visit action configured</p>
         <img src="/img/2026-04-30-april-release/a1.gif"
              style="width: 100%; height: auto; display: block;">
     </div>
-    <div style="flex: 1 1 300px; max-width: 400px;">
+    <div style="flex: 0 1 calc(50% - 20px); min-width: 250px; max-width: 400px;">
         <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Multiple subjects registered and Do Visit action configured</p>
         <img src="/img/2026-04-30-april-release/a2.gif"
              style="width: 100%; height: auto; display: block;">
     </div>
-    <div style="flex: 1 1 300px; max-width: 400px;">
+    <div style="flex: 0 1 calc(50% - 20px); min-width: 250px; max-width: 400px;">
         <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">One subject registered and View Subject Profile action configured</p>
         <img src="/img/2026-04-30-april-release/a3.gif"
              style="width: 100%; height: auto; display: block;">
     </div>
-    <div style="flex: 1 1 300px; max-width: 400px;">
+    <div style="flex: 0 1 calc(50% - 20px); min-width: 250px; max-width: 400px;">
         <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Multiple subjects registered and View Subject Profile action configured</p>
         <img src="/img/2026-04-30-april-release/a4.gif"
              style="width: 100%; height: auto; display: block;">
