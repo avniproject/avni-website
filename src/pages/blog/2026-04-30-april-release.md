@@ -9,7 +9,7 @@ featuredimage:
 tags:
 ---
 
-Here's what's new across the Avni April releases (v16.10.0 through v16.12.0) — a big step forward on custom dashboards, several performance wins, deeper integrations, and a number of important bug fixes.
+Here's what's new across the Avni April releases (v16.10.0 through v16.12.0) — a big step forward on custom dashboards, several performance wins, and a number of important bug fixes.
 
 ## 1) Minor Enhancements
 
