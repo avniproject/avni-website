@@ -17,32 +17,27 @@ Here's what's new across the Avni April releases (v16.10.0 through v16.12.0) —
 
 Custom cards can now trigger actions directly from a dashboard, so users can act on a card without first navigating into a subject. The supported actions are **Do Visit** and **View Subject Profile**, and bundle upload supports the new action configuration end-to-end.
 
-#### One subject registered and Do Visit action configured
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-04-30-april-release/a1.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-#### Multiple subjects registered and Do Visit action configured
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-04-30-april-release/a2.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-#### One subject registered and View Subject Profile action configured
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-04-30-april-release/a3.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-#### Multiple subjects registered and View Subject Profile action configured
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-04-30-april-release/a4.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px 0;">
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">One subject registered and Do Visit action configured</p>
+        <img src="/img/2026-04-30-april-release/a1.gif"
+             style="width: 100%; height: auto; display: block;">
+    </div>
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Multiple subjects registered and Do Visit action configured</p>
+        <img src="/img/2026-04-30-april-release/a2.gif"
+             style="width: 100%; height: auto; display: block;">
+    </div>
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">One subject registered and View Subject Profile action configured</p>
+        <img src="/img/2026-04-30-april-release/a3.gif"
+             style="width: 100%; height: auto; display: block;">
+    </div>
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Multiple subjects registered and View Subject Profile action configured</p>
+        <img src="/img/2026-04-30-april-release/a4.gif"
+             style="width: 100%; height: auto; display: block;">
+    </div>
 </div>
 
 For more details, refer to [avni-client#1874](https://github.com/avniproject/avni-client/issues/1874), [avni-client#1887](https://github.com/avniproject/avni-client/issues/1887), [avni-client#1889](https://github.com/avniproject/avni-client/issues/1889), and [avni-webapp#1744](https://github.com/avniproject/avni-webapp/issues/1744).
@@ -53,14 +48,15 @@ A new "Custom design card" type lets implementers upload an HTML template paired
 
 This was built for partner organisations needing custom UI to display past form data with month-based filters and local-language support.
 
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-04-30-april-release/cd0.png"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
-</div>
-
-<div style="width: 100%; max-width: 400px; padding: 20px; margin: 0 auto;">
-    <img src="/img/2026-04-30-april-release/cd1.gif"
-         style="width: 100%; height: auto; max-width: 600px; display: block;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px 0;">
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <img src="/img/2026-04-30-april-release/cd0.png"
+             style="width: 100%; height: auto; display: block;">
+    </div>
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <img src="/img/2026-04-30-april-release/cd1.gif"
+             style="width: 100%; height: auto; display: block;">
+    </div>
 </div>
 
 For more details, refer to [avni-product#1849](https://github.com/avniproject/avni-product/issues/1849), [avni-product#1850](https://github.com/avniproject/avni-product/issues/1850), and [avni-product#1853](https://github.com/avniproject/avni-product/issues/1853).
