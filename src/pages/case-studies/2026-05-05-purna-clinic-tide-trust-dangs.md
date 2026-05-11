@@ -1,6 +1,6 @@
 ---
 templateKey: case-study
-title: "From Paper Registers to Real-Time Care: How Purna Clinic Digitised Community Health in the Dangs"
+title: "From Paper Registers to Real-Time Care: How Purna Clinic Digitised Community Health in the Dang"
 date: 2026-05-05T10:00:00.000Z
 author: Nupoor Khandelwal
 description: >
@@ -14,7 +14,7 @@ tags:
 - Chronic Disease
 ---
 
-In the hills of the Dangs, one of Gujarat's most remote districts, Purna Clinic is rethinking how community health can be delivered — and managed — at scale.
+In the hills of the Dang, one of Gujarat's most remote districts, Purna Clinic is rethinking how community health can be delivered — and managed — at scale.
 
 In just nine months:
 
@@ -67,12 +67,6 @@ With Avni in place, Purna Clinic moved beyond just replacing paper. Using Avni's
 * Quickly identify which communities need more attention
 
 All without any manual aggregation. What was a two-step process — paper in the field, Kobo at the desk — is now a single workflow.
-
-At scale, this shift is significant:
-
-- 11,259 individuals registered and tracked
-- 58,303 household records mapped, including socio-economic context
-- 2,792 patients actively enrolled in chronic care programmes
 
 The chronic disease programme captures not just clinical data but household-level context, including government scheme access and document status. Of the 2,792 enrolled patients, **hypertension** is the most common condition, followed by diabetes, COPD, mental health conditions, and stroke.
 
