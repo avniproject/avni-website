@@ -4,7 +4,7 @@ import queryString from 'query-string';
 import Constants from "../../Constants";
 import PhoneInput from 'react-phone-number-input';
 import ReCAPTCHA from "react-google-recaptcha";
-import { parsePhoneNumber } from 'react-phone-number-input';
+import { parsePhoneNumber, isValidPhoneNumber } from 'react-phone-number-input';
 import en from 'react-phone-number-input/locale/en.json';
 import 'react-phone-number-input/style.css';
 
@@ -43,8 +43,7 @@ class EmailValidator {
         }
         
         const domain = email.split('@')[1]?.toLowerCase();
-        const localPart = email.split('@')[0]?.toLowerCase();
-        
+
         // Check for disposable emails
         if (this.disposableEmailDomains.includes(domain)) {
             errors.push('Disposable email addresses are not allowed');
@@ -59,25 +58,20 @@ class EmailValidator {
         if (this.roleBasedEmails.some(role => email.toLowerCase().startsWith(role))) {
             errors.push('Role-based email addresses are not allowed');
         }
-        
-        // Check for duplicate email patterns (+ addressing)
-        if (localPart.includes('+')) {
-            errors.push('Email aliases with + are not allowed');
-        }
-        
+
         return { isValid: errors.length === 0, errors };
     }
 }
 
 // Phone validation utilities
 class PhoneValidator {
-    static validatePhone(phone) {
+    static validatePhone(phone, country) {
         const errors = [];
-        
-        if (!phone || phone.length < 10) {
-            errors.push('Please enter a valid phone number');
+
+        if (!isValidPhoneNumber(phone || '', country)) {
+            errors.push('Please enter a valid phone number for the selected country');
         }
-        
+
         return { isValid: errors.length === 0, errors };
     }
 }
@@ -140,7 +134,7 @@ export default class SignupIndexPage extends React.Component {
             case Constants.CustomPlan: return `Thank you for considering Avni, ${firstName}!`;
             case Constants.TrainingPlan: return `Thanks For Signing Up, ${firstName}!`;
             case Constants.Trial:
-            default: return `Welcome aboard, ${firstName}!`;
+            default: return `Thanks, ${firstName}!`;
         }
     }
 
@@ -167,7 +161,7 @@ export default class SignupIndexPage extends React.Component {
             case Constants.CustomPlan: return "Let's discuss your needs";
             case Constants.TrainingPlan: return "Training enrollment complete";
             case Constants.Trial:
-            default: return "You're all set!";
+            default: return "Hang tight — your trial is being set up";
         }
     }
 
@@ -185,12 +179,12 @@ export default class SignupIndexPage extends React.Component {
                     In the meantime, explore how organizations like yours use Avni to create impact.
                     </span>);
             case Constants.Trial:
-            default: 
+            default:
                 return (
                     <span>
-                        We've sent your login details to <strong style={{color: '#ff470f'}}>{email}</strong>. 
+                        We've received your request and are setting up your trial. You'll get a confirmation email at <strong style={{color: '#ff470f'}}>{email}</strong> within a few minutes.
                         <br />
-                        Log in and begin creating impact with your team.
+                        If you don't see it within 30 minutes (including in your spam folder), please write to <a href="mailto:avnipartnerships@samanvayfoundation.org" style={{color: '#ff470f'}}>avnipartnerships@samanvayfoundation.org</a> and we'll help.
                     </span>
                 );
         }
@@ -215,7 +209,7 @@ export default class SignupIndexPage extends React.Component {
                 return {
                     text: "Get started",
                     url: "https://app.avniproject.org",
-                    show: true
+                    show: false
                 };
         }
     }
@@ -241,7 +235,7 @@ export default class SignupIndexPage extends React.Component {
         }
         
         // Validate phone
-        const phoneValidation = PhoneValidator.validatePhone(this.state.phone);
+        const phoneValidation = PhoneValidator.validatePhone(this.state.phone, this.state.country);
         if (!phoneValidation.isValid) {
             errors.phone = phoneValidation.errors;
         }
@@ -504,6 +498,9 @@ export default class SignupIndexPage extends React.Component {
                                 </a>
                                 <div style={{...logoStyle, background: '#48BB78', fontSize: '64px', width: '120px', height: '120px', lineHeight: '120px', marginBottom: '2rem'}}>✓</div>
                                 <h2 style={{...titleStyle, color: '#2D3748', fontSize: '28px', marginBottom: '1rem'}}>{SignupIndexPage.getCongratulationMessage(contactSource, signeeName)}</h2>
+                                {contactSource === Constants.Trial && (
+                                    <h3 style={{...titleStyle, color: '#2D3748', fontSize: '20px', marginBottom: '1rem'}}>{SignupIndexPage.getPostSubmissionTitleMessage(contactSource)}</h3>
+                                )}
                                 <p style={{...subtitleStyle, marginBottom: '2rem', fontSize: '16px', lineHeight: '1.6', color: '#4A5568'}}>{SignupIndexPage.getSubtitleMessage(contactSource, email)}</p>
                                 {SignupIndexPage.getCallToAction(contactSource).show && (
                                     <a 
