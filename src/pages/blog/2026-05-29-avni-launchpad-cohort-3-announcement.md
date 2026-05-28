@@ -21,6 +21,8 @@ After the success of the first two cohorts, we are excited to announce the next 
 
 The earlier cohorts of Avni Launchpad brought together a diverse group of forward-thinking NGOs and social enterprises eager to embrace digital transformation in their field programs. Over just a few weeks, participating organisations built and launched digital pilots using Avni across sectors such as health, agriculture, education, and livelihoods. These pilots were configured, tested, and deployed successfully, enabling teams to digitise data collection, streamline reporting, improve monitoring, and gain real-time operational insights.
 
+![Glimpses from Avni Launchpad Cohort 1 and Cohort 2](/img/2026-05-29-avni-launchpad-cohort-3-announcement/cohort-glimpses.png)
+
 Building on this momentum, the upcoming cohort aims to create a broader ecosystem collaboration by including CSR teams, funding organisations, and technology consultants who are looking for scalable, low-cost, and effective digital solutions for social impact programs.
 
 Many organisations running field-based programs still rely on cumbersome paper-based processes, spreadsheets, or expensive enterprise systems. Avni addresses this challenge through a low-code, AI-powered digital platform that enables organisations to rapidly build offline-capable field applications and access real-time program insights.
