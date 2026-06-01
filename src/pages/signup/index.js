@@ -327,7 +327,8 @@ export default class SignupIndexPage extends React.Component {
             source: data.source || '',
             sourceOfSignup: data.sourceOfSignup || '',
             marketingConsent: this.state.marketingConsent,
-            recaptcha: this.state.recaptchaValue
+            recaptcha: this.state.recaptchaValue,
+            website: data.website || ''
         };
         
         // Submit to n8n webhook
@@ -768,8 +769,15 @@ export default class SignupIndexPage extends React.Component {
                                     </div>
 
                                     {/* Honeypot field for bot detection */}
-                                    <input type="text" name="_gotcha" style={{display: "none"}} />
-                                    
+                                    <input
+                                        type="text"
+                                        name="website"
+                                        tabIndex="-1"
+                                        autoComplete="off"
+                                        aria-hidden="true"
+                                        style={{position: 'absolute', left: '-9999px', opacity: 0, height: 0, width: 0}}
+                                    />
+
                                     {/* Submit Button */}
                                     <button 
                                         style={{
