@@ -28,33 +28,23 @@ The Avni May releases (v16.13.0 through v16.14.0) bring features that save field
 
 ## Smarter attendance tracking for education programs
 
-<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px 0;">
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px 0;">
     <div style="flex: 1; min-width: 250px;">
-        <div style="margin-bottom: 20px;">
-            <p style="font-weight: bold; text-align: center; margin-bottom: 10px; font-size: 13px;">Admin Configuration</p>
-            <img src="/img/2026-05-31-may-release/attendance-config.png" 
-                 style="width: 100%; height: auto; display: block; border-radius: 8px;">
-        </div>
+        <img src="/img/2026-05-31-may-release/attendance-feature.png" 
+             style="width: 100%; height: auto; display: block; border-radius: 8px;">
     </div>
     <div style="flex: 1; min-width: 250px;">
-        <div style="margin-bottom: 20px;">
-            <p style="font-weight: bold; text-align: center; margin-bottom: 10px; font-size: 13px;">Field Worker Experience</p>
-            <img src="/img/2026-05-31-may-release/attendance-mobile-marking.jpg" 
-                 style="width: 100%; height: auto; display: block; border-radius: 8px; margin-bottom: 12px;">
-            <img src="/img/2026-05-31-may-release/attendance-sheet.png" 
-                 style="width: 100%; height: auto; display: block; border-radius: 8px;">
-        </div>
+
+        <p>Attendance is now a <strong>first-class feature for group-based programs</strong> like learning centres. Instead of cobbling together workarounds, you can now:</p>
+        <ul style="margin-top: 12px; margin-left: 20px;">
+            <li>Define <strong>different types of attendance</strong> (present, absent, late — or whatever makes sense for your program)</li>
+            <li>Set up <strong>calendars reflecting your working days and local public holidays</strong> so absences are logged against actual scheduled days</li>
+            <li>Link an absence to a <strong>follow-up visit</strong> so supervisors know which students need a check-in</li>
+            <li>Get clean reports that distinguish between <strong>"form not filled today"</strong> and <strong>"no session was scheduled"</strong></li>
+        </ul>
+        <p style="margin-top: 16px;">Field workers receive <strong>native attendance flows on Android dashboards</strong>, making it fast and intuitive to mark attendance during daily sessions. Learn more in the <a href="https://avni.readme.io/docs/attendance" target="_blank">Attendance documentation</a> and <a href="https://avni.readme.io/docs/calendars" target="_blank">Calendars documentation</a>.</p>
     </div>
 </div>
-
-Attendance is now a **first-class feature for group-based programs** like learning centres. Instead of cobbling together workarounds, you can now:
-
-- Define **different types of attendance** (present, absent, late — or whatever makes sense for your program)
-- Set up **calendars reflecting your working days and local public holidays** so absences are logged against actual scheduled days
-- Link an absence to a **follow-up visit** so supervisors know which students need a check-in
-- Get clean reports that distinguish between **"form not filled today"** and **"no session was scheduled"**
-
-Field workers receive **native attendance flows on Android dashboards**, making it fast and intuitive to mark attendance during daily sessions. Learn more in the [Attendance documentation](https://avni.readme.io/docs/attendance) and [Calendars documentation](https://avni.readme.io/docs/calendars).
 
 ---
 
@@ -64,12 +54,12 @@ Field workers receive **native attendance flows on Android dashboards**, making 
     <div style="flex: 1; min-width: 250px;">
         <div style="display: flex; flex-direction: column; gap: 12px;">
             <div>
-                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Search with DOB filter</p>
+                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Configure DOB filter</p>
                 <img src="/img/2026-05-31-may-release/dob-filter-search.png" 
                      style="width: 100%; height: auto; display: block; border-radius: 8px;">
             </div>
             <div>
-                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Results matched</p>
+                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Search with DOB filter</p>
                 <img src="/img/2026-05-31-may-release/dob-filter-results.png" 
                      style="width: 100%; height: auto; display: block; border-radius: 8px;">
             </div>
