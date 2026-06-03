@@ -9,118 +9,134 @@ featuredimage:
 tags:
 ---
 
-The Avni May releases (v16.13.0 through v16.14.0) bring features that save field workers time, smarter attendance tracking for education programs, and enhanced data handling. Here's what's new.
+The Avni May releases (v16.13.0 through v16.14.0) bring powerful new capabilities to the platform. Here's what's new.
 
-## Share completed forms instantly with field teams
+## 📤 Share completed forms instantly
 
-<a href="https://github.com/avniproject/avni-client/issues/1904" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: opacity 0.3s ease;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-<div style="display: flex; gap: 40px; align-items: center; padding: 40px 0; cursor: pointer; border-radius: 8px;">
+<a href="https://github.com/avniproject/avni-client/issues/1904" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px); this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; cursor: pointer; border-radius: 12px; background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border-left: 4px solid #0066cc; box-shadow: 0 2px 8px rgba(0,102,204,0.08); transition: all 0.3s ease;">
     <div style="flex: 1; min-width: 250px;">
         <img src="/img/2026-05-31-may-release/share-feature.png" 
-             style="width: 100%; height: auto; display: block; border-radius: 8px;">
+             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
     <div style="flex: 1; min-width: 250px;">
-        <p>Field workers can now <strong>share a completed form directly from their device</strong> — no more re-entering information somewhere else. Forms can be sent as a neatly formatted <strong>PDF</strong> or as a <strong>WhatsApp message</strong>, making it easy to hand off information to colleagues, supervisors, or community members on the spot.</p>
-        <p style="margin-top: 16px;">Administrators can also set up <strong>automatic sharing</strong> so a form gets sent the moment it's saved, cutting out a manual step entirely. This is done through a new <code>WorkListUpdation</code> rule that triggers form sharing automatically, eliminating the need for field workers to manually share each completed form.</p>
-        <p style="margin-top: 12px; font-size: 13px; color: #0066cc; font-weight: 600;">→ Learn more on GitHub</p>
+        <p style="font-size: 14px; color: #0066cc; font-weight: 600; margin: 0 0 8px 0;">Share forms with one tap</p>
+        <p style="margin: 12px 0; line-height: 1.8;">Field workers can now <strong>share completed forms directly from their device</strong> — no more re-entering information. Forms can be sent as <strong>PDF</strong> or <strong>WhatsApp messages</strong>, making handoffs instant and effortless.</p>
+        <p style="margin: 12px 0; line-height: 1.8;">Administrators can set up <strong>automatic sharing</strong> so forms are sent the moment they're saved, completely removing the manual step.</p>
+        <p style="margin-top: 16px; font-size: 13px; color: #0066cc; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ View technical details</p>
     </div>
 </div>
 </a>
 
----
+<div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-## Smarter attendance tracking for education programs
+## 📋 Attendance tracking for group programs
 
-<a href="https://github.com/avniproject/avni-product/issues/1867" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: opacity 0.3s ease;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-<div style="display: flex; gap: 40px; align-items: center; padding: 40px 0; cursor: pointer; border-radius: 8px;">
+<a href="https://avni.readme.io/docs/attendance" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(76,175,80,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; cursor: pointer; border-radius: 12px; background: linear-gradient(135deg, #f1f8f4 0%, #ffffff 100%); border-left: 4px solid #4caf50; box-shadow: 0 2px 8px rgba(76,175,80,0.08); transition: all 0.3s ease;">
     <div style="flex: 1; min-width: 250px;">
         <img src="/img/2026-05-31-may-release/attendance-feature.png" 
-             style="width: 100%; height: auto; max-height: 400px; display: block; border-radius: 8px; object-fit: cover;">
+             style="width: 100%; height: auto; max-height: 400px; display: block; border-radius: 8px; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
     <div style="flex: 1; min-width: 250px;">
-        <p>Attendance is now a <strong>first-class feature for group-based programs</strong> like learning centres. Instead of cobbling together workarounds, you can now:</p>
-        <ul style="margin-top: 12px; margin-left: 20px;">
-            <li>Define <strong>different types of attendance</strong> (Morning, Afternoon, Remedial — or whatever makes sense for your program)</li>
-            <li>Set up <strong>calendars reflecting your working days and local public holidays</strong> so absences are logged against actual scheduled days</li>
-            <li>Link an absence to a <strong>follow-up visit</strong> so supervisors know which students need a check-in</li>
-            <li>Get clean reports that distinguish between <strong>"form not filled today"</strong> and <strong>"no session was scheduled"</strong></li>
+        <p style="font-size: 14px; color: #4caf50; font-weight: 600; margin: 0 0 8px 0;">Track attendance with calendars</p>
+        <p style="margin: 12px 0; line-height: 1.8;">Attendance is now a <strong>first-class feature for group-based programs</strong> like learning centres, with built-in calendar management.</p>
+        <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
+            <li>Define <strong>attendance types</strong> (Morning, Afternoon, Remedial — your choice)</li>
+            <li>Set up <strong>calendars</strong> reflecting your working days and holidays</li>
+            <li>Link absences to <strong>automatic follow-ups</strong></li>
+            <li>Get clean, accurate reports</li>
         </ul>
-        <p style="margin-top: 16px;">Field workers receive <strong>native attendance flows on Android dashboards</strong>, making it fast and intuitive to mark attendance during daily sessions. See <a href="https://avni.readme.io/docs/attendance" target="_blank">Attendance documentation</a> and <a href="https://avni.readme.io/docs/calendars" target="_blank">Calendars documentation</a>.</p>
-        <p style="margin-top: 12px; font-size: 13px; color: #0066cc; font-weight: 600;">→ Learn more on GitHub</p>
+        <p style="margin-top: 16px; font-size: 13px; color: #4caf50; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ Read the documentation</p>
     </div>
 </div>
 </a>
 
 ---
 
-## Find a person by date of birth — faster identity matching
+<div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-<a href="https://github.com/avniproject/avni-client/issues/1923" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: opacity 0.3s ease;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px 0; cursor: pointer; border-radius: 8px;">
+## 🔍 Search by exact date of birth
+
+<a href="https://github.com/avniproject/avni-client/issues/1923" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(255,152,0,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px; margin-bottom: 20px; cursor: pointer; border-radius: 12px; background: linear-gradient(135deg, #fff8f0 0%, #ffffff 100%); border-left: 4px solid #ff9800; box-shadow: 0 2px 8px rgba(255,152,0,0.08); transition: all 0.3s ease;">
     <div style="flex: 1; min-width: 250px;">
         <div style="display: flex; flex-direction: column; gap: 12px;">
             <div>
-                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Configure DOB filter</p>
+                <p style="font-weight: 600; text-align: center; margin-bottom: 8px; font-size: 12px; color: #666;">Configure DOB filter</p>
                 <img src="/img/2026-05-31-may-release/dob-filter-search.png" 
-                     style="width: 100%; height: auto; display: block; border-radius: 8px;">
+                     style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
             </div>
             <div>
-                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Search with DOB filter</p>
+                <p style="font-weight: 600; text-align: center; margin-bottom: 8px; font-size: 12px; color: #666;">Results matched</p>
                 <img src="/img/2026-05-31-may-release/dob-filter-results.png" 
-                     style="width: 100%; height: auto; display: block; border-radius: 8px;">
+                     style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
             </div>
         </div>
     </div>
     <div style="flex: 1; min-width: 250px;">
-        <p>When a field worker has a physical ID card or paper register in hand, they can now <strong>search for a beneficiary using their exact date of birth</strong>. This makes it much faster to pull up the right person in areas with common names — a real problem in communities where naming patterns are limited.</p>
-        <p style="margin-top: 16px;">The filter can be turned on or off by your system administrator from the existing <strong>Search Filters panel</strong>, keeping things flexible for different field scenarios. No more scrolling through dozens of "Ravi" or "Priya" to find the right one.</p>
-        <p style="margin-top: 12px; font-size: 13px; color: #0066cc; font-weight: 600;">→ Learn more on GitHub</p>
+        <p style="font-size: 14px; color: #ff9800; font-weight: 600; margin: 0 0 8px 0;">Faster lookups in common-name communities</p>
+        <p style="margin: 12px 0; line-height: 1.8;">Field workers with a physical ID card or register can now <strong>search by exact date of birth</strong>, instantly finding the right person even in communities with common naming patterns.</p>
+        <p style="margin: 12px 0; line-height: 1.8;">Administrators control the feature through the <strong>Search Filters panel</strong>, keeping it flexible for different deployment scenarios. No more scrolling through dozens of matches.</p>
+        <p style="margin-top: 16px; font-size: 13px; color: #ff9800; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ View technical details</p>
     </div>
 </div>
 </a>
 
 ---
 
-## Enhanced Data Entry App and Mobile parity
+<div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-**DEA (Data Entry App) got stronger:**
-- Registration concepts now display as **radio buttons** aligned with user sync attributes (<a href="https://github.com/avniproject/avni-webapp/issues/1161" target="_blank">avni-webapp#1161</a>)
-- The `user` and `myUserGroup` variables are now accessible across all DEA rules, giving you more control (<a href="https://github.com/avniproject/avni-webapp/issues/1250" target="_blank">avni-webapp#1250</a>)
-- Edit form rules now execute within DEA, with blocked edits shown as clear notifications (<a href="https://github.com/avniproject/avni-product/issues/1508" target="_blank">avni-product#1508</a>)
+## ⚙️ Enhanced platform capabilities
 
-**Mobile and web are now closer in feature parity:**
-- Sync settings, user group access controls, and edit form rules are now fully available on the mobile app
-- The `showAnswers` and `hideAnswers` functions now support coded and subject concept types everywhere, eliminating the need to duplicate option lists in your rules (<a href="https://github.com/avniproject/avni-client/issues/1736" target="_blank">avni-client#1736</a>)
+<div style="padding: 40px; margin-bottom: 20px; border-radius: 12px; background: linear-gradient(135deg, #f5f5f5 0%, #ffffff 100%); border-left: 4px solid #607d8b; box-shadow: 0 2px 8px rgba(96,125,139,0.08);">
+
+### Data Entry App improvements
+- Registration concepts now display as **radio buttons** aligned with attributes (<a href="https://github.com/avniproject/avni-webapp/issues/1161" target="_blank" style="color: #0066cc; font-weight: 500;">avni-webapp#1161</a>)
+- The `user` and `myUserGroup` variables accessible across all DEA rules (<a href="https://github.com/avniproject/avni-webapp/issues/1250" target="_blank" style="color: #0066cc; font-weight: 500;">avni-webapp#1250</a>)
+- Edit form rules now execute in DEA with clear notifications (<a href="https://github.com/avniproject/avni-product/issues/1508" target="_blank" style="color: #0066cc; font-weight: 500;">avni-product#1508</a>)
+
+### Mobile & web parity
+- Sync settings, access controls, and rules now fully available on mobile
+- `showAnswers`/`hideAnswers` now support all concept types everywhere (<a href="https://github.com/avniproject/avni-client/issues/1736" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1736</a>)
+
+</div>
 
 ---
 
-## Richer bulk data uploads
+## 📁 Richer bulk data uploads
+
+<div style="padding: 40px; margin-bottom: 20px; border-radius: 12px; background: linear-gradient(135deg, #fef3c7 0%, #ffffff 100%); border-left: 4px solid #d97706; box-shadow: 0 2px 8px rgba(217,119,6,0.08);">
 
 CSV bulk uploads now support:
-- **File attachments** (shared via Google Drive links) — no more manual file uploads
-- **Audio recordings** — so you're no longer limited to text-only fields when importing data in bulk
+- **File attachments** via Google Drive links — no manual uploads needed
+- **Audio recordings** — unlimited media types in bulk imports
 
-This is especially helpful when migrating from paper or legacy systems where you have historical files and media that need to come into Avni. (<a href="https://github.com/avniproject/avni-server/issues/896" target="_blank">avni-server#896</a>)
+Perfect for migrating from paper or legacy systems with historical files and media. (<a href="https://github.com/avniproject/avni-server/issues/896" target="_blank" style="color: #0066cc; font-weight: 500;">avni-server#896</a>)
+
+</div>
 
 ---
 
-## Tanuh partnership goes live
+<div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-<a href="https://github.com/avniproject/avni-infra/issues/91" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: opacity 0.3s ease;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px 0; cursor: pointer; border-radius: 8px;">
+## 🏢 Tanuh partnership goes live
+
+<a href="https://github.com/avniproject/avni-infra/issues/91" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(156,39,176,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px; margin-bottom: 20px; cursor: pointer; border-radius: 12px; background: linear-gradient(135deg, #f3e5f5 0%, #ffffff 100%); border-left: 4px solid #9c27b0; box-shadow: 0 2px 8px rgba(156,39,176,0.08); transition: all 0.3s ease;">
     <div style="flex: 1; min-width: 250px;">
         <img src="/img/2026-05-31-may-release/tanuh-dashboard.png" 
-             style="width: 100%; height: auto; display: block; border-radius: 8px;">
+             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
     <div style="flex: 1; min-width: 250px;">
-        <p>We're excited to announce that the <strong>first phase of our partnership with Tanuh</strong> is now live. This includes:</p>
-        <ul style="margin-top: 12px; margin-left: 20px;">
-            <li>A <strong>Tanuh-branded mobile app</strong> for field teams</li>
-            <li>A <strong>dedicated web portal</strong> for physician review workflows</li>
-            <li>A <strong>reporting dashboard</strong> (whitelabeled Metabase instance) — all hosted in India to meet local data requirements</li>
+        <p style="font-size: 14px; color: #9c27b0; font-weight: 600; margin: 0 0 8px 0;">Custom-branded app with India hosting</p>
+        <p style="margin: 12px 0; line-height: 1.8;">The <strong>first phase of our partnership with Tanuh</strong> is now live, featuring:</p>
+        <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
+            <li><strong>Tanuh-branded mobile app</strong> for field teams</li>
+            <li><strong>Web portal</strong> for physician workflows</li>
+            <li><strong>Reporting dashboard</strong> (whitelabeled Metabase) — India-hosted</li>
         </ul>
-        <p style="margin-top: 16px;">It's a great example of how Avni can be tailored to a specific organisation's needs from the ground up.</p>
-        <p style="margin-top: 12px; font-size: 13px; color: #0066cc; font-weight: 600;">→ Learn more on GitHub</p>
+        <p style="margin-top: 16px; font-size: 13px; color: #9c27b0; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ View infrastructure details</p>
     </div>
 </div>
 </a>
