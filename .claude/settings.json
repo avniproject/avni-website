@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(mv \"Screenshot 2026-06-03 at 3.08.14 PM.png\" \"attendance-config.png\")",
+      "Bash(mv \"Screenshot 2026-06-03 at 3.17.05 PM.png\" \"dob-filter-search.png\")",
+      "Bash(mv \"Screenshot 2026-06-03 at 3.17.23 PM.png\" \"dob-filter-results.png\")",
+      "Bash(mv 'Screenshot 2026-06-03 at 3.08.14 PM.png' attendance-config.png)",
+      "Bash(mv 'Screenshot 2026-06-03 at 3.17.05 PM.png' dob-filter-search.png)",
+      "Bash(mv 'Screenshot 2026-06-03 at 3.17.23 PM.png' dob-filter-results.png)"
     ]
   }
 }

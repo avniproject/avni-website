@@ -13,15 +13,14 @@ The Avni May releases (v16.13.0 through v16.14.0) bring features that save field
 
 ## Share completed forms instantly with field teams
 
-Field workers can now **share a completed form directly from their device** — no more re-entering information somewhere else. Forms can be sent as a neatly formatted **PDF** or as a **WhatsApp message**, making it easy to hand off information to colleagues, supervisors, or community members on the spot. 
-
-Administrators can also set up **automatic sharing** so a form gets sent the moment it's saved, cutting out a manual step entirely. This is done through a new `WorkListUpdation` rule that triggers form sharing automatically, eliminating the need for field workers to manually share each completed form.
-
-<div style="display: flex; justify-content: center; padding: 20px 0;">
-    <div style="flex: 1 1 300px; max-width: 400px;">
-        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Complete share workflow</p>
-        <img src="/img/2026-05-31-may-release/share-button.gif" 
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px 0;">
+    <div style="flex: 1; min-width: 250px;">
+        <img src="/img/2026-05-31-may-release/share-feature.png" 
              style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p>Field workers can now <strong>share a completed form directly from their device</strong> — no more re-entering information somewhere else. Forms can be sent as a neatly formatted <strong>PDF</strong> or as a <strong>WhatsApp message</strong>, making it easy to hand off information to colleagues, supervisors, or community members on the spot.</p>
+        <p style="margin-top: 16px;">Administrators can also set up <strong>automatic sharing</strong> so a form gets sent the moment it's saved, cutting out a manual step entirely. This is done through a new <code>WorkListUpdation</code> rule that triggers form sharing automatically, eliminating the need for field workers to manually share each completed form.</p>
     </div>
 </div>
 
@@ -29,34 +28,56 @@ Administrators can also set up **automatic sharing** so a form gets sent the mom
 
 ## Smarter attendance tracking for education programs
 
+<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px 0;">
+    <div style="flex: 1; min-width: 250px;">
+        <div style="margin-bottom: 20px;">
+            <p style="font-weight: bold; text-align: center; margin-bottom: 10px; font-size: 13px;">Admin Configuration</p>
+            <img src="/img/2026-05-31-may-release/attendance-config.png" 
+                 style="width: 100%; height: auto; display: block; border-radius: 8px;">
+        </div>
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <div style="margin-bottom: 20px;">
+            <p style="font-weight: bold; text-align: center; margin-bottom: 10px; font-size: 13px;">Field Worker Experience</p>
+            <img src="/img/2026-05-31-may-release/attendance-mobile-marking.jpg" 
+                 style="width: 100%; height: auto; display: block; border-radius: 8px; margin-bottom: 12px;">
+            <img src="/img/2026-05-31-may-release/attendance-sheet.png" 
+                 style="width: 100%; height: auto; display: block; border-radius: 8px;">
+        </div>
+    </div>
+</div>
+
 Attendance is now a **first-class feature for group-based programs** like learning centres. Instead of cobbling together workarounds, you can now:
 
 - Define **different types of attendance** (present, absent, late — or whatever makes sense for your program)
 - Set up **calendars reflecting your working days and local public holidays** so absences are logged against actual scheduled days
 - Link an absence to a **follow-up visit** so supervisors know which students need a check-in
-- Get clean reports that distinguish between **"form not filled today"** and **"no session was scheduled"** — a small but meaningful difference that keeps your data accurate and your team accountable
+- Get clean reports that distinguish between **"form not filled today"** and **"no session was scheduled"**
 
-Field workers receive **native attendance flows on Android dashboards**, making it fast and intuitive to mark attendance during daily sessions. Administrators can configure attendance types with custom reason concepts (like "sick", "traveling", "holiday") and even trigger automatic follow-up encounters when certain conditions are met.
-
-<div style="display: flex; justify-content: center; padding: 20px 0;">
-    <div style="flex: 1 1 300px; max-width: 400px;">
-        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Attendance workflow with calendar and types</p>
-        <p style="text-align: center; font-size: 14px; color: #999; font-style: italic;">Video coming soon</p>
-    </div>
-</div>
+Field workers receive **native attendance flows on Android dashboards**, making it fast and intuitive to mark attendance during daily sessions. Learn more in the [Attendance documentation](https://avni.readme.io/docs/attendance) and [Calendars documentation](https://avni.readme.io/docs/calendars).
 
 ---
 
 ## Find a person by date of birth — faster identity matching
 
-When a field worker has a physical ID card or paper register in hand, they can now **search for a beneficiary using their exact date of birth**. This makes it much faster to pull up the right person in areas with common names — a real problem in communities where naming patterns are limited.
-
-The filter can be turned on or off by your system administrator from the existing **Search Filters panel**, keeping things flexible for different field scenarios.
-
-<div style="display: flex; justify-content: center; padding: 20px 0;">
-    <div style="flex: 1 1 300px; max-width: 400px;">
-        <p style="font-weight: bold; text-align: center; margin-bottom: 10px;">Search by date of birth filter</p>
-        <p style="text-align: center; font-size: 14px; color: #999; font-style: italic;">Video coming soon</p>
+<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px 0;">
+    <div style="flex: 1; min-width: 250px;">
+        <div style="display: flex; flex-direction: column; gap: 12px;">
+            <div>
+                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Search with DOB filter</p>
+                <img src="/img/2026-05-31-may-release/dob-filter-search.png" 
+                     style="width: 100%; height: auto; display: block; border-radius: 8px;">
+            </div>
+            <div>
+                <p style="font-weight: bold; text-align: center; margin-bottom: 8px; font-size: 13px;">Results matched</p>
+                <img src="/img/2026-05-31-may-release/dob-filter-results.png" 
+                     style="width: 100%; height: auto; display: block; border-radius: 8px;">
+            </div>
+        </div>
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p>When a field worker has a physical ID card or paper register in hand, they can now <strong>search for a beneficiary using their exact date of birth</strong>. This makes it much faster to pull up the right person in areas with common names — a real problem in communities where naming patterns are limited.</p>
+        <p style="margin-top: 16px;">The filter can be turned on or off by your system administrator from the existing <strong>Search Filters panel</strong>, keeping things flexible for different field scenarios. No more scrolling through dozens of "Ravi" or "Priya" to find the right one.</p>
     </div>
 </div>
 
@@ -87,13 +108,21 @@ This is especially helpful when migrating from paper or legacy systems where you
 
 ## Tanuh partnership goes live
 
-We're excited to announce that the **first phase of our partnership with Tanuh** is now live. This includes:
-
-- A **Tanuh-branded mobile app** for field teams
-- A **dedicated web portal** for physician review workflows
-- A **reporting dashboard** (whitelabeled Metabase instance) — all hosted in India to meet local data requirements
-
-It's a great example of how Avni can be tailored to a specific organisation's needs from the ground up.
+<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px 0;">
+    <div style="flex: 1; min-width: 250px;">
+        <img src="/img/2026-05-31-may-release/tanuh-dashboard.png" 
+             style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p>We're excited to announce that the <strong>first phase of our partnership with Tanuh</strong> is now live. This includes:</p>
+        <ul style="margin-top: 12px; margin-left: 20px;">
+            <li>A <strong>Tanuh-branded mobile app</strong> for field teams</li>
+            <li>A <strong>dedicated web portal</strong> for physician review workflows</li>
+            <li>A <strong>reporting dashboard</strong> (whitelabeled Metabase instance) — all hosted in India to meet local data requirements</li>
+        </ul>
+        <p style="margin-top: 16px;">It's a great example of how Avni can be tailored to a specific organisation's needs from the ground up.</p>
+    </div>
+</div>
 
 ---
 
