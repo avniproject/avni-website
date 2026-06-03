@@ -31,7 +31,7 @@ The Avni May releases (v16.13.0 through v16.14.0) bring features that save field
 <div style="display: flex; gap: 40px; align-items: center; padding: 40px 0;">
     <div style="flex: 1; min-width: 250px;">
         <img src="/img/2026-05-31-may-release/attendance-feature.png" 
-             style="width: 100%; height: auto; display: block; border-radius: 8px;">
+             style="width: 100%; height: auto; max-height: 400px; display: block; border-radius: 8px; object-fit: cover;">
     </div>
     <div style="flex: 1; min-width: 250px;">
         <p>Attendance is now a <strong>first-class feature for group-based programs</strong> like learning centres. Instead of cobbling together workarounds, you can now:</p>
@@ -128,16 +128,5 @@ This is especially helpful when migrating from paper or legacy systems where you
 Join our [Avni community on Discord](https://discord.gg/VRZQYdcyuG) to share your thoughts, ask questions, and get the latest updates.
 
 For the complete technical details, see the [v16.13 release notes](https://github.com/avniproject/avni-product/releases/tag/v16.13.0) and [v16.14 release notes](https://github.com/avniproject/avni-product/releases/tag/v16.14.0) on GitHub.
-
----
-
-<div style="margin: 40px 0; text-align: center;">
-  <p style="font-size: 14px; color: #666; margin-bottom: 12px;">Share this post</p>
-  <div style="display: flex; gap: 12px; justify-content: center;">
-    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20Avni%20May%202026%20Release&url=https://avniproject.org/blog/2026-05-31-may-release" target="_blank" style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #1DA1F2; color: white; border-radius: 6px; text-decoration: none; font-size: 13px; font-weight: 500;">Twitter</a>
-    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://avniproject.org/blog/2026-05-31-may-release" target="_blank" style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #0A66C2; color: white; border-radius: 6px; text-decoration: none; font-size: 13px; font-weight: 500;">LinkedIn</a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https://avniproject.org/blog/2026-05-31-may-release" target="_blank" style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #1877F2; color: white; border-radius: 6px; text-decoration: none; font-size: 13px; font-weight: 500;">Facebook</a>
-  </div>
-</div>
 
 Need a walkthrough or have questions? Feel free to [schedule a demo call here](https://avniproject.org/).
