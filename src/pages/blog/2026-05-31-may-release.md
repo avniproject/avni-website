@@ -11,7 +11,7 @@ tags:
 
 The Avni May releases (v16.13.0 through v16.14.0) bring powerful new capabilities to the platform. Here's what's new.
 
-## 📤 Share completed forms instantly
+## Share completed forms instantly
 
 <a href="https://github.com/avniproject/avni-client/issues/1904" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px); this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 <div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; cursor: pointer; background: #ffffff; transition: all 0.3s ease;">
@@ -30,7 +30,7 @@ The Avni May releases (v16.13.0 through v16.14.0) bring powerful new capabilitie
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-## 📋 Attendance tracking for group programs
+## Attendance tracking for group programs
 
 <a href="https://avni.readme.io/docs/attendance" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 <div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; cursor: pointer; background: #ffffff; transition: all 0.3s ease;">
@@ -56,7 +56,7 @@ The Avni May releases (v16.13.0 through v16.14.0) bring powerful new capabilitie
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-## 🔍 Search by exact date of birth
+## Search by exact date of birth
 
 <a href="https://github.com/avniproject/avni-client/issues/1923" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 <div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px; margin-bottom: 20px; cursor: pointer; background: #ffffff; transition: all 0.3s ease;">
@@ -87,9 +87,9 @@ The Avni May releases (v16.13.0 through v16.14.0) bring powerful new capabilitie
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-## ⚙️ Enhanced platform capabilities
+## Enhanced platform capabilities
 
-<div style="padding: 40px; margin-bottom: 20px; background: #ffffff; border-left: 4px solid #0066cc; box-shadow: 0 2px 8px rgba(0,102,204,0.08);">
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
 
 ### Data Entry App improvements
 - Registration concepts now display as **radio buttons** aligned with attributes (<a href="https://github.com/avniproject/avni-webapp/issues/1161" target="_blank" style="color: #0066cc; font-weight: 500;">avni-webapp#1161</a>)
@@ -104,9 +104,9 @@ The Avni May releases (v16.13.0 through v16.14.0) bring powerful new capabilitie
 
 ---
 
-## 📁 Richer bulk data uploads
+## Richer bulk data uploads
 
-<div style="padding: 40px; margin-bottom: 20px; background: #ffffff; border-left: 4px solid #0066cc; box-shadow: 0 2px 8px rgba(0,102,204,0.08);">
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
 
 CSV bulk uploads now support:
 - **File attachments** via Google Drive links — no manual uploads needed
@@ -120,7 +120,7 @@ Perfect for migrating from paper or legacy systems with historical files and med
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
-## 🏢 Tanuh partnership goes live
+## Tanuh partnership goes live
 
 <a href="https://github.com/avniproject/avni-infra/issues/91" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 <div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px; margin-bottom: 20px; cursor: pointer; background: #ffffff; transition: all 0.3s ease;">
