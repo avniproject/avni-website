@@ -136,7 +136,7 @@ Perfect for migrating from paper or legacy systems with historical files and med
             <li><strong>Web portal</strong> for physician workflows</li>
             <li><strong>Reporting dashboard</strong> (whitelabeled Metabase) — India-hosted</li>
         </ul>
-        <p style="margin-top: 16px; font-size: 13px; color: #0066cc; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ View infrastructure details</p>
+        <p style="margin-top: 16px; font-size: 13px; color: #0066cc; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ Learn more</p>
     </div>
 </div>
 </a>
