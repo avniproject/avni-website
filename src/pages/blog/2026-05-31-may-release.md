@@ -118,31 +118,6 @@ Perfect for migrating from paper or legacy systems with historical files and med
 
 ---
 
-<div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
-
-## Tanuh partnership goes live
-
-<a href="https://github.com/avniproject/avni-infra/issues/91" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-<div style="display: flex; gap: 40px; align-items: flex-start; padding: 40px; margin-bottom: 20px; cursor: pointer; background: #ffffff; transition: all 0.3s ease;">
-    <div style="flex: 1; min-width: 250px;">
-        <img src="/img/2026-05-31-may-release/tanuh-dashboard.png" 
-             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    </div>
-    <div style="flex: 1; min-width: 250px;">
-        <p style="font-size: 14px; color: #0066cc; font-weight: 600; margin: 0 0 8px 0;">Custom-branded app with India hosting</p>
-        <p style="margin: 12px 0; line-height: 1.8;">The <strong>first phase of our partnership with Tanuh</strong> is now live, featuring:</p>
-        <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
-            <li><strong>Tanuh-branded mobile app</strong> for field teams</li>
-            <li><strong>Web portal</strong> for physician workflows</li>
-            <li><strong>Reporting dashboard</strong> (whitelabeled Metabase) — India-hosted</li>
-        </ul>
-        <p style="margin-top: 16px; font-size: 13px; color: #0066cc; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ Learn more</p>
-    </div>
-</div>
-</a>
-
----
-
 ## What's coming next
 
 - **Platform performance improvements** to make the app faster and more reliable on slow networks
