@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "T4D Ecosystem Partners Meet"
+title: "A new ecosystem and Plenty of hope"
 date: 2026-06-20T12:00:00.000Z
 author: Mohit Kumar
 featuredpost: false
@@ -15,7 +15,7 @@ tags:
 
 Let me set the context first. I am new to this sector which people call the "Development" sector. I wonder how and why this name came about. Makes me feel as if other sectors are "Non-development" sectors — that is definitely not true. The other sectors, at least the majority of them, have definitely contributed to the development (whatever one's interpretation of the word "development" may be). I am very sure of that. But that is a debate for some other day (some other blog).
 
-So coming back to me being new to this sector. Yes, that's true. It's not even a month since I joined Samanvay. But what a ride it has been in the last few weeks. I visited **Gadlur Adivasi Hospital** ([Ashwini](https://ashwini.org/)) where I accompanied the field workers in tribal villages and saw the kind of impact solutions like Avni have been creating on the ground for the last 10 years. Also visited [Astitva](https://www.astitva.ngo/) to understand their concerns in adopting our solution. Met the [One-All](https://www.one-all.in/) team at their office to understand the kind of good work they are doing using Frisbee as a sport among the kids coming from marginalised sections of our society.
+So coming back to me being new to this sector. Yes, that's true. It's not even a month since I joined Samanvay. But what a ride it has been in the last few weeks. I visited **Gudalur Adivasi Hospital** ([Ashwini](https://ashwini.org/)) where I accompanied the field workers in tribal villages and saw the kind of impact solutions like Avni have been creating on the ground for the last 10 years. Also visited [Astitva](https://www.astitva.ngo/) to understand their concerns in adopting our solution. Met the [One-All](https://www.one-all.in/) team at their office to understand the kind of good work they are doing using Frisbee as a sport among the kids coming from marginalised sections of our society.
 
 Last but not least, I got a rare opportunity that I had not expected at least in the first month of joining. I was in the basement of one of the architectural marvels (QLO). The area is called the Maker's Garage — where one is supposed to tinker with stuff and create something. And we were supposed to do exactly that — tinker with our brains together and see what we could create for the sector that we are catering to.
 
