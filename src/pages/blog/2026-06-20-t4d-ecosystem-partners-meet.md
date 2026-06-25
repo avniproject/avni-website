@@ -19,7 +19,7 @@ So coming back to me being new to this sector. Yes, that's true. It's not even a
 
 Last but not least, I got a rare opportunity that I had not expected at least in the first month of joining. I was in the basement of one of the architectural marvels (QLO). The area is called the Maker's Garage — where one is supposed to tinker with stuff and create something. And we were supposed to do exactly that — tinker with our brains together and see what we could create for the sector that we are catering to.
 
-It started with quick introductions of the participants (Pacta, Civic Data Labs, Tattle, Samanvay, T4D, BeCause, Tamuku). The introduction itself blew my mind. I had never imagined the kind of work that was already being done by these players in this sector. Every player had a unique problem to solve in the ecosystem. Finding the right problems itself is not an easy task. But everyone somehow got it right. And to my amazement, everyone had some working solution (although at different levels of maturity).
+It started with quick introductions of the participants (Pacta, Civic Data Labs, Tattle, Samanvay, [T4D](https://projecttech4dev.org/), BeCause, Tamuku). The introduction itself blew my mind. I had never imagined the kind of work that was already being done by these players in this sector. Every player had a unique problem to solve in the ecosystem. Finding the right problems itself is not an easy task. But everyone somehow got it right. And to my amazement, everyone had some working solution (although at different levels of maturity).
 
 Two things that I found common:
 
@@ -56,4 +56,4 @@ And we had a group photograph towards the end!! All Smiles!!
 
 I personally could not have asked for a better beginning for myself. Thanks to all the participants!!
 
-*PS: QLO is amazing! I would definitely recommend this place for events like this. The food was delicious. The stay was very comfortable. All thanks to the organisers — Ashana and Aishwarya from T4D.*
+*PS: QLO is amazing! I would definitely recommend this place for events like this. The food was delicious. The stay was very comfortable. All thanks to the organisers — Ashana and Aishwarya from [T4D](https://projecttech4dev.org/).*
