@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "From Weeks to a Day: How AI Is Changing the Way NGO Field Apps Are Built"
+title: "From Few Weeks to Few Days: How AI Is Changing the Way NGO Field Apps Are Built"
 date: 2026-06-23T12:00:00.000Z
 author: Maha Lakshme S
 featuredpost: false
@@ -87,6 +87,17 @@ The final presentation was in front of funders and ecosystem partners — many o
 The ~300 rules Priya once hand-wrote over weeks are drafted on day one. She reviews and refines instead of typing from scratch. Overall effort reduction: **30–50% per implementation.**
 
 ---
+## What This Unlocks for the Social Sector
+
+The impact of faster implementation is not just about Samanvay's efficiency. It compounds.
+
+- **Faster** — programmes go live in days, not weeks since Priya need not setup/type everything from scratch.
+- **Cheaper** — lower cost per implementation means smaller NGOs that could not previously afford custom apps can now access them.
+- **Sustainable** — the same implementation team can serve significantly more partners without proportional growth in headcount.
+
+And because Avni is open-source infrastructure — a shared digital public good — every improvement to Avni AI benefits every NGO on the platform, for free. Built once, compounded everywhere.
+
+---
 
 ## AI at the Edge — Beyond App Generation
 
@@ -112,18 +123,6 @@ Each NGO team were assigned external mentors for periodic guidance.
 <img src="/img/2026-06-23-ai-cohort-2-final/team_pic_with_mentor.jpeg" />
 <p><i>Team with mentor, Vinay Sudhakaran on left</i></p>
 </div>
-
----
-
-## What This Unlocks for the Social Sector
-
-The impact of faster implementation is not just about Samanvay's efficiency. It compounds.
-
-- **Faster** — programmes go live in days, not weeks since Priya need not setup/type everything from scratch. 
-- **Cheaper** — lower cost per implementation means smaller NGOs that could not previously afford custom apps can now access them.
-- **Sustainable** — the same implementation team can serve significantly more partners without proportional growth in headcount.
-
-And because Avni is open-source infrastructure — a shared digital public good — every improvement to Avni AI benefits every NGO on the platform, for free. Built once, compounded everywhere.
 
 ---
 
