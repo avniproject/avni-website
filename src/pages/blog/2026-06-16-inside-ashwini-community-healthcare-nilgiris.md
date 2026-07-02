@@ -50,7 +50,7 @@ If the first day helped us understand ASHWINI's philosophy, the second day showe
 
 Early in the morning, we joined one of the community health teams for their field visits. Driving through coffee estates, forest roads, and small tribal settlements, we reached one of the villages where the health workers had asked parents to gather with their young children.
 
-![Children health monitoring](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-4.jpg)
+![With the community health team](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-4.jpg)
 
 ### Monitoring Every Child
 
@@ -61,7 +61,7 @@ Some were shy.
 
 Some cried the moment they were placed on the weighing scale — just like children anywhere else.
 
-![ASHWINI](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-9.jpg)
+![Children health monitoring](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-9.jpg)
 
 The team patiently measured every child's height and weight, assessed their nutritional status, and explained the results to the parents.
 
@@ -69,7 +69,7 @@ Every child already had a profile in Avni.
 
 The health worker simply searched for the child's name, opened their history, entered the latest measurements, and instantly compared them with previous visits. Growth charts helped them identify whether the child was improving or slipping into malnutrition. Even in villages with no network connectivity, the data was captured offline and synced automatically once they returned to an area with internet access.
 
-![Anganwadi visit](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-6.jpg)
+![Community health worker using Avni](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-6.jpg)
 
 But what impressed me wasn't the technology. It was the conversation that followed.
 
@@ -89,7 +89,7 @@ If a child was undernourished, the discussion immediately shifted towards practi
 
 Families with young children receive roasted groundnuts. Pregnant and lactating mothers receive groundnuts and dates as nutritional supplements. Infants are provided with Sattu Maavu, a nutritious mix made from ragi and pulses.
 
-![Community health worker using Avni](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-7.jpg)
+![Nutritional supplements](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-7.jpg)
 
 
 As we spoke to the team, we realised how complex the challenge really is. Many families own only small pieces of land. Wild elephants and boars frequently destroy their crops. Vegetables are not commonly part of their daily diet. Even fortified rice supplied through government schemes is sometimes discarded because families mistake the darker grains for poor-quality rice.
@@ -114,8 +114,8 @@ The team explained how the Anganwadi plays an important role in improving childr
 
 What struck me was that ASHWINI's role doesn't end with identifying an undernourished child. They continuously work with parents, Anganwadi workers, and the community to ensure children actually attend the centre and receive the nutrition they need.
 
-![Community nutrition programme](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-5.jpg)
-![Community nutrition programme](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-10.jpg)
+![](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-5.jpg)
+![Anganwadi Visit](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-10.jpg)
 
 ### A Visit That Taught Me About Dignity
 
@@ -146,8 +146,6 @@ It was equally fascinating to see how Bahmni is used within the Gudalur Adivasi 
 One of the most valuable parts of the visit was hearing feedback directly from the people who use Avni every day. One suggestion was the need for a **single-page beneficiary summary** — health workers often want a quick snapshot of a person's complete history without navigating through multiple screens. Having important information such as previous visits, chronic conditions, nutrition status, pregnancy details, and recent observations available on a single page would help them make quicker and better-informed decisions during field visits.
 
 ## What I Brought Back
-
-![ASHWINI team](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-8.jpg)
 
 Before this visit, I thought of healthcare mostly in terms of hospitals, doctors, medicines, and reports. ASHWINI showed me something very different.
 
