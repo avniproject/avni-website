@@ -38,6 +38,7 @@ Every village has health workers who know the families personally. They know who
 What impressed me the most was how holistic their approach is. They don't just treat illness. They work on nutrition, maternal and child health, mental health, adolescent health, substance abuse, livelihoods, and social issues that directly influence people's well-being.
 
 ![ASHWINI](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-2.jpg)
+![Gudalur Adivasi Hospital](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-3.jpg)
 
 As we stepped into the Gudalur Adivasi Hospital, another thing immediately caught my attention — it didn't feel like a typical hospital.
 
@@ -49,34 +50,51 @@ If the first day helped us understand ASHWINI's philosophy, the second day showe
 
 Early in the morning, we joined one of the community health teams for their field visits. Driving through coffee estates, forest roads, and small tribal settlements, we reached one of the villages where the health workers had asked parents to gather with their young children.
 
-![Field visit](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-3.jpg)
+![Children health monitoring](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-4.jpg)
 
 ### Monitoring Every Child
 
-One by one, parents arrived carrying their children. Some children happily walked in. Some were shy. Some cried the moment they were placed on the weighing scale — just like children anywhere else.
+One by one, parents arrived carrying their children.
+
+Some children happily walked in.
+Some were shy.
+
+Some cried the moment they were placed on the weighing scale — just like children anywhere else.
+
+![ASHWINI](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-9.jpg)
 
 The team patiently measured every child's height and weight, assessed their nutritional status, and explained the results to the parents.
 
-Every child already had a profile in Avni. The health worker simply searched for the child's name, opened their history, entered the latest measurements, and instantly compared them with previous visits. Growth charts helped them identify whether the child was improving or slipping into malnutrition. Even in villages with no network connectivity, the data was captured offline and synced automatically once they returned to an area with internet access.
+Every child already had a profile in Avni.
 
-![Children health monitoring](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-4.jpg)
+The health worker simply searched for the child's name, opened their history, entered the latest measurements, and instantly compared them with previous visits. Growth charts helped them identify whether the child was improving or slipping into malnutrition. Even in villages with no network connectivity, the data was captured offline and synced automatically once they returned to an area with internet access.
+
+![Anganwadi visit](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-6.jpg)
 
 But what impressed me wasn't the technology. It was the conversation that followed.
 
 The health workers didn't simply record numbers. They asked questions.
 
 *"Has the child been eating properly?"*
+
 *"Is the child attending the Anganwadi?"*
+
 *"Has the child been sick recently?"*
+
 *"What food is available at home?"*
 
-Every answer helped them understand the bigger picture. If a child was undernourished, the discussion immediately shifted towards practical solutions. Families with young children receive roasted groundnuts. Pregnant and lactating mothers receive groundnuts and dates as nutritional supplements. Infants are provided with Sattu Maavu, a nutritious mix made from ragi and pulses.
+Every answer helped them understand the bigger picture.
+
+If a child was undernourished, the discussion immediately shifted towards practical solutions.
+
+Families with young children receive roasted groundnuts. Pregnant and lactating mothers receive groundnuts and dates as nutritional supplements. Infants are provided with Sattu Maavu, a nutritious mix made from ragi and pulses.
+
+![Community health worker using Avni](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-7.jpg)
+
 
 As we spoke to the team, we realised how complex the challenge really is. Many families own only small pieces of land. Wild elephants and boars frequently destroy their crops. Vegetables are not commonly part of their daily diet. Even fortified rice supplied through government schemes is sometimes discarded because families mistake the darker grains for poor-quality rice.
 
 It reminded me that solving malnutrition isn't simply about providing food. It's about understanding behaviour, culture, beliefs, livelihoods, and economics.
-
-![Community nutrition programme](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-5.jpg)
 
 ### Meeting an Elderly Stroke Patient
 
@@ -94,9 +112,10 @@ Later, we visited an Anganwadi where the team was following up with children who
 
 The team explained how the Anganwadi plays an important role in improving children's nutrition by providing regular meals and monitoring their growth. For many children, this is the most nutritious meal they receive in a day.
 
-![Anganwadi visit](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-6.jpg)
-
 What struck me was that ASHWINI's role doesn't end with identifying an undernourished child. They continuously work with parents, Anganwadi workers, and the community to ensure children actually attend the centre and receive the nutrition they need.
+
+![Community nutrition programme](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-5.jpg)
+![Community nutrition programme](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-10.jpg)
 
 ### A Visit That Taught Me About Dignity
 
@@ -117,8 +136,6 @@ As someone who works on Avni every day, this visit was incredibly special.
 Most of my interaction with organisations happens over emails, implementation calls, feature discussions, and support requests. We build workflows, review forms, discuss enhancements, and resolve issues — often without seeing the people behind the data.
 
 At ASHWINI, I finally got to see what happens beyond the screen.
-
-![Community health worker using Avni](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-7.jpg)
 
 I watched community health workers use Avni naturally during every home visit. Whether it was searching for a child's profile, recording height and weight, reviewing growth charts, tracking a pregnant mother's health, or identifying children who needed nutritional intervention, Avni had become an integral part of their daily work.
 
@@ -143,6 +160,6 @@ As I travelled back from Gudalur, I found myself thinking less about software an
 
 Before this visit, Avni was simply a product I worked on. After this visit, it became something whose impact I could actually see.
 
-![ASHWINI](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-9.jpg)
+
 
 Those two days reminded me why we build what we build. And that is something I will carry with me for a very long time.
