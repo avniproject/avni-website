@@ -5,7 +5,7 @@ date: 2026-06-16T12:00:00.000Z
 author: Anjali Bhagabati
 featuredpost: false
 description: A visit to ASHWINI in Gudalur revealed a healthcare system built not on institutions, but on trust, compassion, and an extraordinary understanding of the communities it serves.
-featuredimage:
+featuredimage: /img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-1.jpg
 tags:
   - Health
   - Community Health
