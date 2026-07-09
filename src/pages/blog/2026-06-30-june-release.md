@@ -12,10 +12,15 @@ tags:
 
 ## On-device AI, fully offline
 
-<div style="padding: 0 0 20px 0; background: #ffffff;">
-    <p style="margin: 12px 0; line-height: 1.8;">The Android app can now run AI models directly on the phone, with no internet needed. A form can trigger a model on a photo a field worker just took and <strong>automatically fill in the result</strong> — even inside repeating sections of a form.</p>
-    <p style="margin: 12px 0; line-height: 1.8;">Less manual entry, fewer errors, in places where connectivity can't be relied on.</p>
-    <p style="margin-top: 16px; font-size: 13px; font-weight: 600;"><a href="https://github.com/avniproject/avni-client/pull/1929" target="_blank" style="color: #0066cc; text-decoration: none;">→ View technical details</a></p>
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; background: #ffffff;">
+    <div style="flex: 1; min-width: 250px;">
+        <img src="/img/2026-06-30-june-release/AI_oral_screening_demo.gif" style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p style="margin: 12px 0; line-height: 1.8;">The Android app can now run AI models directly on the phone, with no internet needed. A form can trigger a model on a photo a field worker just took and <strong>automatically fill in the result</strong> — even inside repeating sections of a form.</p>
+        <p style="margin: 12px 0; line-height: 1.8;">Less manual entry, fewer errors, in places where connectivity can't be relied on.</p>
+        <p style="margin-top: 16px; font-size: 13px; font-weight: 600;"><a href="https://github.com/avniproject/avni-client/pull/1929" target="_blank" style="color: #0066cc; text-decoration: none;">→ View technical details</a></p>
+    </div>
 </div>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
@@ -138,7 +143,5 @@ The individual filter on the "Do visit" action card has been removed, making tha
 ### Share Feedback and Stay Updated!
 
 Join our [Avni community on Discord](https://discord.gg/VRZQYdcyuG) to share your thoughts, ask questions, and get the latest updates.
-
-For the complete technical details, see the release notes on GitHub.
 
 Need a walkthrough or have questions? Feel free to [schedule a demo call here](https://avniproject.org/).
