@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "AI in Samanvay : How we actually build and run the Avni platform now"
 date: 2026-07-10T10:00:00.000Z
 author: Himesh R
-description: Story of a small team leveraging AI to amplify results
+description: The honest, mildly funny version of "we use AI to build software."
 featuredpost: false
 featuredimage: /img/2026-07-10-ai-across-the-avni-lifecycle/lifecycle.png
 tags:
@@ -13,7 +13,7 @@ tags:
   - Social Impact
 ---
 
-Every few weeks someone asks how a team our size ships this much. The lazy answer is "AI." The honest answer is longer, funnier, and has a lot more humans in it than you'd think.
+Yes, we use AI for basically everything. No, it hasn't replaced anyone. What follows is the honest, occasionally funny version — the commands we run, and the humans who still make the calls.
 
 We build and run Avni — open-source software 70+ organisations use to reach over a million people. We can't hire an engineer when a bunch of NGOs show up. So this year we handed AI the boring 80% of every job and kept the 20% that actually needs to be owned by a human.
 
@@ -21,14 +21,14 @@ Here's the whole thing on one screen. Then the receipts.
 
 ## The whole thing : on one screen
 
-| Stage | The command | What AI does | Who decides |
-|---|---|---|---|
-| **Scope** | `/analyse` | maps what the NGO needs, splits config vs code, estimates | a person |
-| **Design** | `/spec` · `/spec-review` | reads the live code, drafts the spec, checks it against reality | a person |
-| **Build** | `/implement` · `/code-review` | plans, writes the code + tests, reviews the diff | a person |
-| **Release & QA** | `/test-charter` · `/capture-bug` | ranks what's risky, writes and fixes the tests, files the bug | QA |
-| **Support** | `/triage` · `/datafix` | reads the ticket, drafts the reply, writes the fix | a person |
-| **Orchestrate** | `conductor` | pulls every open thread into one prioritised list | a person |
+| Stage | The command | What AI does | Who decides   |
+|---|---|---|---------------|
+| **Scope** | `/analyse` | maps what the NGO needs, splits config vs code, estimates | a person      |
+| **Design** | `/spec` · `/spec-review` | reads the live code, drafts the spec, checks it against reality | a person      |
+| **Build** | `/implement` · `/code-review` | plans, writes the code + tests, reviews the diff | a person      |
+| **Release & QA** | `/test-charter` · `/capture-bug` | ranks what's risky, writes and fixes the tests, files the bug | QA (the boss) |
+| **Support** | `/triage` · `/datafix` | reads the ticket, drafts the reply, writes the fix | a person      |
+| **Orchestrate** | `conductor` | pulls every open thread into one prioritised list | a person      |
 
 Every row ends the same way: **AI drafts, a human decides.** That last column never changes. That's the whole trick.
 
@@ -87,14 +87,8 @@ It's also brilliant where there's a pattern to copy and merely okay where there 
 **Did you fire everyone and let a robot do it?**
 No. We fired the boring parts. The people are all still here, doing the 20% that needed them the whole time.
 
-**Isn't this just AI hype with a nonprofit logo on it?**
-Fair suspicion. The tell is the "who decides" column above — it's a person in every row. If AI were really running the show, we'd have shipped something catastrophic by now. Ask us again in a year.
-
 **When does it screw up?**
 Constantly, confidently. It'll write a spec that reads great and is wrong, or a fix that's subtly off. That's the entire reason nothing ships on the AI's say-so.
-
-**We're a smaller team than you. Can we do this?**
-Probably, and cheaper than you'd think — most of the above is open source plus an off-the-shelf coding agent. The hard part isn't the tools, it's the discipline of not believing them. Come talk to us.
 
 **Honestly, how much of this is you and how much is the AI?**
 The typing is mostly AI. The judgement is mostly us. Turns out the second one was the actual job all along.
@@ -112,4 +106,4 @@ Most of it is public. The ops repos that run our day-to-day (`avni-product-ops`,
 
 ---
 
-*This blog was written using AI, inspired by Kevin Hart. If you got any problems with that, you know where to find me.*
+_DISCLAIMER : *This blog was written using AI, inspired by Kevin Hart. If you got any problems with that, you know where to find me.*_
