@@ -56,17 +56,19 @@ In our QA repo, AI *wrote* the tests — Maestro flows for the Android app, Play
 
 ## Support : a ticket, minus the busywork
 
-A support ticket lands. `/triage` reads it, works out whether it's a settings mix-up, a data problem, or a real bug, and drafts the reply in plain language — no jargon, no internal IDs, no personal data. This is where the guardrails get strict, because it's the one stage that touches real people's data.
-
-So the rules are hard, not vibes. `/investigate` runs pre-vetted, read-only queries against a production *replica* — the connection is read-only by construction, and the AI will refuse to so much as write an `UPDATE`. Every query is scoped to a single organisation and can't reach across into anyone else's data; who ran what, and when, gets logged — the results never do. `/report` drafts read-only analytics and never touches a live dashboard. And `/datafix`, the one place data actually gets corrected, only ever *writes a SQL file* for a human to review and run — there is no write connection to any database in that workspace at all.
+A support ticket lands. `/triage` reads it, works out whether it's a settings mix-up, a data problem, or a real bug, and drafts the reply in plain language — no jargon, no internal IDs, no personal data.  `/report` drafts read-only analytics and never touches a live dashboard. And `/datafix`, the one place data actually gets corrected, only ever *writes a SQL file* for a human to review and run — there is no write connection to any database in that workspace at all.
 
 AI does the reading and the drafting. **A human hits send, and a human runs the fix.**
 
 ## Orchestrate : the part that runs the humans
 
-This is the one that surprises people, and honestly the heaviest AI use of the lot. Running a platform across ten repos means work arrives everywhere at once — a board, an inbox, a chat thread, an SOP nobody's opened in a month. `conductor` fans a small squad of agents across all of it, notices the same thing showing up in four places, and folds it into one prioritised list of what's actually urgent versus what merely feels it. `conductor-execute` then takes the parts that are just drafting — an estimate, an analysis, a reply — and fans *those* out to parallel agents too, one writing while another checks its work.
+This is the one that surprises people — and honestly the heaviest AI use of the lot.
 
-It's turtles all the way down: agents coordinating the agents. But it stops and asks the second it can't tell whose call something is. **The human is the only thing that actually decides.**
+Running a platform this size, the work never arrives in one place. A request shows up on a task board, another in email, a third in a chat message, a fourth in some checklist nobody's opened in a month. Just keeping track of it all is a full-time job on its own.
+
+So we don't. `conductor` is an AI that reads every one of those places for us, spots when the same thing is sitting in four of them, and hands back a single ranked list: here's what's genuinely urgent, here's what only *feels* urgent, here's what can wait. Then `conductor-execute` takes the items that are really just "go write something" — an estimate, a short analysis, a reply — and drafts them ahead of time, with a second AI checking the first one's work, so we start from a draft instead of a blank page.
+
+The catch is the whole point: it never actually decides anything. The moment it can't tell whose job something is, it stops and asks. **The human is the only thing that decides.**
 
 ## What it looks like : a normal afternoon
 
