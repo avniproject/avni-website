@@ -5,6 +5,7 @@ date: 2026-07-10T10:00:00.000Z
 author: Himesh R
 description: Story of a small team leveraging AI to amplify results
 featuredpost: false
+featuredimage: /img/2026-07-10-ai-across-the-avni-lifecycle/lifecycle.png
 tags:
   - AI
   - Software Engineering
@@ -41,6 +42,14 @@ Then a last sanity check before it ships. We confirm every story marked for the 
 When something breaks, a rough note — often a sentence and a screenshot — becomes a proper bug report: steps to reproduce it, a suggested severity, a check against issues we already have open, and a first guess at which recent change caused it. A person reads it before it's filed. When the cause isn't obvious, the same evidence-first approach traces it through the system instead of jumping to a fix, and every incident we close leaves behind a short written runbook — what broke, why, and how we fixed it — so the next person doesn't start from scratch.
 
 Under all of it is the quieter problem a small team across ten codebases lives with every day: requests landing on a board, in an inbox, in a chat thread, with no easy way to tell what's urgent from what merely feels urgent. Pulling that into one prioritised view used to eat a real chunk of the week. It's now mostly automatic — though it still stops and asks whenever it can't tell whose call something is.
+
+## What's still hard
+
+None of this is free, and a few things still bite:
+
+- **AI output gets believed too easily.** A spec or a bug report reads well, so it's tempting to wave it through — and a fluent, confident artifact is not the same as a correct one. The human review gates exist precisely because AI work gets trusted on easy belief.
+- **It's strongest on pattern-replication.** When a feature has clear analogs already in the codebase, AI is quick and reliable. Genuinely novel design — and the estimates that ride on it — still need human judgement, and we've learned not to over-trust either.
+- **Grounding it in the real code is everything.** Working "from memory" produced specs that were confident and wrong; having AI read the live codebase before it writes anything was the single biggest change in whether we can trust what comes out.
 
 ![Four terminal sessions, each doing a different kind of AI-assisted work across the lifecycle — scoping a new deployment, building a feature, release QA, and triaging a support ticket](/img/2026-07-10-ai-across-the-avni-lifecycle/lifecycle.png)
 
