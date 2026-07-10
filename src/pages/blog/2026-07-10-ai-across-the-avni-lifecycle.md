@@ -13,35 +13,60 @@ tags:
   - Social Impact
 ---
 
-A year ago, if you'd asked us to imagine "usage of AI in software development", we'd not have come up with anything more than "a coding assistant that converts pseudo-code into a syntactically accurate program". That's being done now, but it's the least interesting thing we use AI for.
+Every few weeks someone asks how a team our size ships this much. The lazy answer is "AI." The honest answer is longer, funnier, and has a lot more humans in it than you'd think.
 
-We're a small team building and running Avni, an open-source platform that reaches over a million beneficiaries across 70-plus organisations. We can't hire people every time we take on a new organisation, so over the last year we've pushed AI into nearly every stage of the work — not just writing code, but working out what a new organisation needs before any code is written, checking a design against the real codebase, running release QA, and pulling a scattered stream of requests into one prioritised list. Here's the whole arc, and where a human still steps in.
+We build and run Avni — open-source software 70+ organisations use to reach over a million people. We can't hire an engineer when a bunch of NGOs show up. So this year we handed AI the boring 80% of every job and kept the 20% that actually needs to be owned by a human.
 
-## Before any code : scoping and estimates
+Here's the whole thing on one screen. Then the receipts.
 
-When a new organisation comes to us, someone has to work out what their field programme needs and how much of it Avni already does — what to track, the forms to capture it, the workflows, the rules and the reports. AI now does a first pass at that mapping and sorts each requirement into "just configuration" or "real development", and then a person refines it. Our estimates lean on the same habit: instead of guessing, we calibrate against a running record of how long comparable features actually took. And when we honestly don't know whether something is feasible, we build a quick prototype before we put a number in front of anyone.
+## The whole thing : on one screen
 
-## Design : from the code, not from memory
+| Stage | The command | What AI does | Who decides |
+|---|---|---|---|
+| **Scope** | `/analyse` | maps what the NGO needs, splits config vs code, estimates | a person |
+| **Design** | `/spec` · `/spec-review` | reads the live code, drafts the spec, checks it against reality | a person |
+| **Build** | `/implement` · `/code-review` | plans, writes the code + tests, reviews the diff | a person |
+| **Release & QA** | `/test-charter` · `/capture-bug` | ranks what's risky, writes and fixes the tests, files the bug | QA |
+| **Support** | `/triage` · `/datafix` | reads the ticket, drafts the reply, writes the fix | a person |
+| **Orchestrate** | `conductor` | pulls every open thread into one prioritised list | a person |
 
-Once a feature is worth building, we don't write the spec from imagination. AI reads the live codebase first: does the data model really behave the way we assume, does the sync between the field app and the server work the way similar features already do, and what have we forgotten. That feeds a spec we refine section by section, then cut into stories detailed enough that an engineer who's never touched Avni can pick one up and get it right. A separate pass then checks each spec against a fixed list — including the thing that's easiest to skip under deadline: does this still hold up at the scale of a large, real deployment.
+Every row ends the same way: **AI drafts, a human decides.** That last column never changes. That's the whole trick.
 
-## Building it : two teams, one habit
+## Scope : what does this NGO even need
 
-On the platform side, the hard thinking is already done: we deliberately frontload design and spec, so by the time a story reaches a developer the big decisions are settled. From there it moves fast. The developer plans the change, has AI generate the code against that plan along with its tests, runs an AI code review over the result, and tries it out themselves. A second engineer then runs their own AI-assisted review of the change. We work straight onto master or the release branch — no pull requests — so the safeguard isn't a merge gate: it's the design agreed up front, plus an AI review and a peer review on every change.
+An NGO turns up wanting Avni for, say, a maternal-health programme. Before anyone writes a line of code, `/analyse` maps what they need onto what Avni already does — who gets tracked, the forms, the workflows, the rules — and sorts each piece into "just configuration" or "actually needs code." `/impl-scope` turns that into a scoped estimate, calibrated against the fifty-odd setups we've already done instead of a number pulled from the sky.
 
-The implementation team — the folks who configure Avni for a single organisation — feel the same pressure from a different angle. Their job is turning requirements into forms, workflows and rules, and generating that organisation's configuration. We've built tooling that gets a first pass at that config from a structured spec, drawing on a knowledge base of roughly fifty past setups. The harder half — taking loosely structured input like a PDF, a spreadsheet or a call transcript and reliably generating the conditional rules behind each form — is in pilot, still being improved. A person reviews everything before it goes live.
+If we're not sure something's even possible, we build a throwaway prototype before we promise anyone a date. **We decide what's in.**
 
-## Release : QA and a sanity check
+## Design : read the code, then write the spec
 
-With per-change review already behind us and the tests written alongside the code, QA spends its time where it matters most — on the release as a whole, not on re-checking every change by hand. We generate a focused, risk-ranked test plan that reads what changed across a release (a data-sync or database change matters far more than a cosmetic tweak) and points testers at the hours that actually count. Underneath it, a library of real-world test cases grows release over release, so a case we fought for once doesn't quietly get forgotten.
+Here's the unglamorous secret: the spec is written *from the code*, not from memory. `/spec` has AI read the live codebase first — does the data model actually work the way we assume, does it sync the way similar features already do, what are we forgetting — and only then drafts the spec. `/spec-review` checks that draft back against real code across our repos: invented endpoints, missing pieces, will-it-survive-a-big-org. `/story` cuts it into work small enough that someone who's never seen Avni could pick it up.
 
-Then a last sanity check before it ships. We confirm every story marked for the release is really done, that its code actually landed on the release branch, and that nothing meant for a later release slipped in early — the kind of gap that used to surface only when someone hit a bug in the field.
+Boring? Extremely. It's also exactly why the next stage is fast. **We sign it off.**
 
-## Running it : support and coordination
+## Build : straight to master, no ceremony
 
-When something breaks, a rough note — often a sentence and a screenshot — becomes a proper bug report: steps to reproduce it, a suggested severity, a check against issues we already have open, and a first guess at which recent change caused it. A person reads it before it's filed. When the cause isn't obvious, we trace it through the system instead of guessing at a fix, and every incident we close leaves behind a short written runbook — what broke, why, and how we fixed it — so the next person doesn't start from scratch.
+A story lands. `/implement` plans the change, writes the code and the tests against that plan, and the developer runs the thing to confirm it actually works — revolutionary, I know.
 
-Under all of it is the quieter problem a small team across ten codebases lives with every day: requests landing on a board, in an inbox, in a chat thread, with no easy way to tell what's urgent from what merely feels urgent. Pulling that into one prioritised view used to eat a real chunk of the week. It's now mostly automatic — though it still stops and asks whenever it can't tell whose call something is.
+Then the part people get weird about: **we stopped reading diffs line by line.** Every change gets an AI `/code-review` pass — the author runs it, a peer runs it again — and we argue with what it flags. We didn't fire the reviewers. We fired the ritual where a human squints at 400 lines at 6pm pretending to catch a race condition. Straight to `master`, no pull requests. The seatbelt isn't a merge gate — it's the design we agreed up front, plus two reviews on every change. **A person still owns the merge.**
+
+## Release & QA : test what's scary, skip what's not
+
+Not every change deserves a human tester. `/test-charter` reads what actually changed in a release, ranks it by blast radius — a sync or database change is a different animal from a button colour — and points QA at the scary parts. Low-risk changes that already carry tests and a `/code-review` ship on that evidence; nobody re-pokes them by hand. `verify_release.py` then does the unglamorous border check: is every story really done, did the code actually land on the release branch, did anything sneak in that belongs to next month.
+
+The tests themselves? In our QA repo, AI *wrote* them — Maestro flows for the Android app, Playwright for the web console — and, more usefully, it *validates them against the live app and fixes them when they break*, telling a real regression apart from a flaky script. One of those harnesses drove the real web console against production, tailed the server log (read-only) alongside, and caught a template action that blew up with an HTTP 500 nobody had managed to reproduce. When something breaks in the field, `/capture-bug` turns "sync spins forever, here's a screenshot" into a proper report with the suspect commit already named, and `/diagnose` chases the root cause. **QA calls what ships.**
+
+## Support : a ticket, minus the busywork
+
+A support ticket lands. `/triage` reads it, works out whether it's a settings mix-up, a data problem, or a real bug, and drafts the reply — plain language, no jargon, no IDs. If it needs a look at real data, `/investigate` runs a pre-vetted, read-only query against a production replica (it will flat-out refuse to write). If a dashboard's off, `/report`. And when data genuinely has to be corrected, `/datafix` writes a careful, reviewable SQL file — and then stops, because there is no write connection to the database in that workspace at all.
+
+AI does the reading and the drafting. **A human hits send, and a human runs the fix.**
+
+## Orchestrate : the part that runs the humans
+
+This is the one that surprises people, and honestly the heaviest AI use of the lot. Running a platform across ten repos means work arrives everywhere at once — a board, an inbox, a chat thread, an SOP nobody's opened in a month. `conductor` fans a small squad of agents across all of it, notices the same thing showing up in four places, and folds it into one prioritised list of what's actually urgent versus what merely feels it. `conductor-execute` then takes the parts that are just drafting — an estimate, an analysis, a reply — and fans *those* out to parallel agents too, one writing while another checks its work.
+
+It's turtles all the way down: agents coordinating the agents. But it stops and asks the second it can't tell whose call something is. **The human is the only thing that actually decides.**
 
 ## What it looks like : a normal afternoon
 
@@ -51,19 +76,38 @@ Under all of it is the quieter problem a small team across ten codebases lives w
 
 ## The honest part : what's still hard
 
-None of this comes for free. The failure we watch for hardest is our own — AI writes a spec or a bug report that reads so well we're tempted to wave it through, and a confident, fluent answer is the easiest kind to be wrong about. The review gates are there to catch exactly that: us trusting good writing too quickly.
+None of this comes for free, and the failure we watch for hardest is our own. AI writes a spec that reads beautifully and is quietly wrong, and a confident, fluent answer is the easiest kind to wave through. The review gates exist for exactly that — us trusting good writing too fast.
 
-It's also at its best where there's a pattern to copy — a feature with close cousins already in the codebase. Ask it for something genuinely new, or the estimate that comes with it, and the judgement stays ours. And the lesson that changed the most: it has to work from the real code, not from memory. Left to recall how the system behaves, it will tell you confidently and be wrong — so now it reads the actual code before writing a line.
+It's also brilliant where there's a pattern to copy and merely okay where there isn't. Give it a feature with close cousins already in the codebase and it flies; ask for something genuinely new, or the estimate that rides on it, and the judgement is still ours. And the lesson we paid for: it has to work from the real code, not from memory. Left to recall how the system behaves, it will tell you confidently, and be wrong.
+
+## The Q&A : what people actually ask
+
+**Did you fire everyone and let a robot do it?**
+No. We fired the boring parts. The people are all still here, doing the 20% that needed them the whole time.
+
+**Isn't this just AI hype with a nonprofit logo on it?**
+Fair suspicion. The tell is the "who decides" column above — it's a person in every row. If AI were really running the show, we'd have shipped something catastrophic by now. Ask us again in a year.
+
+**When does it screw up?**
+Constantly, confidently. It'll write a spec that reads great and is wrong, or a fix that's subtly off. That's the entire reason nothing ships on the AI's say-so.
+
+**We're a smaller team than you. Can we do this?**
+Probably, and cheaper than you'd think — most of the above is open source plus an off-the-shelf coding agent. The hard part isn't the tools, it's the discipline of not believing them. Come talk to us.
+
+**Honestly, how much of this is you and how much is the AI?**
+The typing is mostly AI. The judgement is mostly us. Turns out the second one was the actual job all along.
 
 ## Under the hood : the tooling
 
-For the technically curious, the stack behind the above:
+For the people who scrolled straight here — the stack:
 
-- **The codebase.** Avni is open source across roughly ten repositories at [github.com/avniproject](https://github.com/avniproject) — the Android field app (`avni-client`), the server (`avni-server`), the web console (`avni-webapp`), the shared data models (`avni-models`), the reporting pipeline (`avni-etl`), the rules configuration (`rules-config`) and the infrastructure (`avni-infra`), among others.
-- **Where the day-to-day happens.** A lot of this lives outside the product code, in operational repositories — `avni-product-ops` (release readiness, risk-ranked test plans, cross-repo triage, and the prioritised view of what to work on next), `avni-support-ops` (turning support tickets into fixes), a shared `avni-skills` library the rest of the team draws on, and `data-fixes` (scripted, reviewed corrections to live data at scale). Several of these are private, but the working style is identical to the code: written down, versioned, and reviewed before it runs.
-- **The agent.** Most of this runs through Claude Code (Anthropic), on Claude Opus and Sonnet, working directly against those repositories.
-- **Our process, written down.** The pipeline above — scope, spec, break into stories, implement, diagnose, turn a rough note into a bug report, generate a test plan, review, verify a release — lives as reusable *skills* and multi-agent *workflows* (packaged instructions and multi-step scripts anyone on the team can invoke by name), so the same discipline is a single command away. For the core engineering habits (think before building, test-first, debug systematically, verify before calling it done) we build on the open-source *superpowers* toolkit from Anthropic's official Claude Code marketplace rather than reinventing them.
-- **Connected tools (MCP).** The agent reaches GitHub (issues, commits and project boards), Google Workspace (docs and sheets), and a real browser through Playwright for exercising the web console during testing.
-- **Supporting pieces.** A local mirror of every open issue for fast triage; scripts that check a release is genuinely ready to ship; a knowledge base of past setups that seeds new configuration.
+- **The code** is open source across roughly ten repos at [github.com/avniproject](https://github.com/avniproject): the Android app, the server, the web console, the reporting pipeline, the rules and the infra.
+- **The agent** is Claude Code (Anthropic), on Opus and Sonnet, working straight against those repos.
+- **The commands** above — `/analyse`, `/implement`, `/triage`, `conductor` and friends — are our own reusable *skills* and multi-agent *workflows*: the pipeline, written down, so anyone on the team is one word away from it. For the engineering habits underneath, we lean on the open-source *superpowers* toolkit rather than reinventing them.
+- **The reach** is via MCP — the agent talks to GitHub, Google Workspace, a real browser for testing, and read-only production data. Never a write connection where it shouldn't have one.
 
-The platform itself is fully open source on public GitHub; the day-to-day operational tooling is a mix of public and private. If any of it is useful to your team, get in touch — we're glad to share how it works.
+Most of it is public. The ops repos that run our day-to-day (`avni-product-ops`, `avni-support-ops`, `avni-qa`) are a mix of public and private, but the working style is identical: written down, versioned, reviewed before it runs. If any of it's useful to your team, get in touch — we're glad to share how it works.
+
+---
+
+*This blog was written using AI, inspired by Kevin Hart. If you got any problems with that, you know where to find me.*
