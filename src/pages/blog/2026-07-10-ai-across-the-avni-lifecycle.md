@@ -48,7 +48,7 @@ Boring? Extremely. It's also exactly why the next stage is fast. **We sign it of
 
 A story lands. `/implement` plans the change, writes the code and the tests against that plan, and the developer runs the thing to confirm it actually works — revolutionary, I know.
 
-Then the part people get weird about: **we stopped reading diffs line by line.** Every change gets an AI `/code-review` pass — the author runs it, a peer runs it again — and we argue with what it flags. We didn't fire the reviewers. We fired the ritual where a human squints at 400 lines at 6pm pretending to catch a race condition. Straight to `master`, no pull requests. The seatbelt isn't a merge gate — it's the design we agreed up front, plus two reviews on every change. **A person still owns the merge.**
+Then the part people get weird about: **we stopped reading diffs line by line.** Every change gets an AI `/code-review` pass — the author runs it, a peer runs it again — and we argue with what it flags. We didn't fire the reviewers. We fired the ritual where a human squints at 400 lines at 6pm pretending to catch a race condition. Straight to `master`, no pull requests. The seatbelt isn't a merge gate — it's a design we agreed up front, plus a few reviews on every change after a compulsive shake-up, and finally a dummy test the developer runs themselves. **A person still owns the merge.**
 
 ## Release & QA : test what's scary, skip what's not
 
