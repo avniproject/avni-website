@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "AI in Samanvay : How we actually build and run the Avni platform now"
 date: 2026-07-10T10:00:00.000Z
 author: Himesh R
-description: A tour through where a small team now leans on AI — scoping, design, build, QA, release, support — and where we still keep a person on every call that matters.
+description: Story of a small team leveraging AI to amplify results
 featuredpost: false
 tags:
   - AI
