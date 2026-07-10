@@ -42,6 +42,10 @@ When something breaks, a rough note — often a sentence and a screenshot — be
 
 Under all of it is the quieter problem a small team across ten codebases lives with every day: requests landing on a board, in an inbox, in a chat thread, with no easy way to tell what's urgent from what merely feels urgent. Pulling that into one prioritised view used to eat a real chunk of the week. It's now mostly automatic — though it still stops and asks whenever it can't tell whose call something is.
 
+![Four terminal sessions, each doing a different kind of AI-assisted work across the lifecycle — scoping a new deployment, building a feature, release QA, and triaging a support ticket](/img/2026-07-10-ai-across-the-avni-lifecycle/lifecycle.png)
+
+*A normal afternoon: AI doing a different kind of work in each pane — scoping, building, testing, triaging — with a person on the end of every one.*
+
 ## Under the hood : the tooling
 
 For the technically curious, the stack behind the above:
