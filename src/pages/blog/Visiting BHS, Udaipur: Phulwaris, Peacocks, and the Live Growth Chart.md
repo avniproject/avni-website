@@ -73,7 +73,7 @@ The language gaps were real. In a few places the app had missing translations, a
 
 What stayed with me from day one wasn't the workers who breezed through it. It was the ones who didn't, who were hesitant, not with their phones, which they knew perfectly well, but with a whole new app they suddenly had to learn, and who one entry at a time, got comfortable enough to be registering children by the end of the day anyway.
 
-![A Phulwari worker registering a child on Avni](/img/Visiting-BHS,-Udaipur:-Phulwaris,-Peacocks,-and-the-Live-Growth-Chart/Image7.jpg)
+![](/img/Visiting-BHS,-Udaipur:-Phulwaris,-Peacocks,-and-the-Live-Growth-Chart/Image7.jpg)
 
 Day two was calmer. We moved on to filling out anthropometry forms, anthropometry being the measurement side of growth monitoring, for the children we'd registered the day before. The form is mercifully simple: weight, height (taken once every three months), and any illness the child might have.
 
@@ -90,8 +90,7 @@ Think about what that replaces. No trip to the clinic. No hunting down a nurse. 
 
 ## Going Live and Giving Pradeep His Week Back
 
-![The exact moment BHS went live with Avni](/img/Visiting-BHS,-Udaipur:-Phulwaris,-Peacocks,-and-the-Live-Growth-Chart/Image9.jpg)  
-The exact moment BHS went live with Avni :)
+![The exact moment BHS went live with Avni :)](/img/Visiting-BHS,-Udaipur:-Phulwaris,-Peacocks,-and-the-Live-Growth-Chart/Image9.jpg)  
 
 The production setup was completed the day after the training, and the PROD users and credentials were ready the day after that. Each of the 18 active Phulwaris received its own user \- one centre, one worker, one login. On that same day, the workers began registering and enrolling children using the app for real. That, to me, is the headline. BHS did not just attend a training. They went live.
 
