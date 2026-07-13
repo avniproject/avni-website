@@ -12,15 +12,13 @@ tags:
   - Social Impact
 ---
 
-# Visiting BHS, Udaipur: Phulwaris, Peacocks, and the Live Growth Chart
-
 For a long time, my whole relationship with Basic HealthCare Services lived on a screen. Calls, config changes, messages. Screen to screen. In June that changed. I spent six days on the ground in Udaipur, training the people who would actually use the thing we'd been building: the Phulwari workers of BHS.
 
 So this is an account of those six days. The rollout, the people, a heat I was in no way built for and one second where a paper register turned into a live growth chart and quietly ended a week's worth of manual arithmetic. That second is really what this whole blog is about. Everything else is just how I got there.
 
 ## Healthcare as a Human Right
 
-Basic HealthCare Services (BHS) is a not-for-profit founded in 2012 in Udaipur, Rajasthan. It was started by a group of public health professionals around a simple, stubborn idea: that good primary healthcare is a human right and not a privilege, and that it should reach the people who are usually the last to receive it. In their case, that means tribal and migrant communities in some of the remotest pockets of southern Rajasthan, where food scarcity and child malnutrition are part of daily life for a large share of families.
+Basic HealthCare Services [(BHS)](https://www.bhs.org.in/) is a not-for-profit founded in 2012 in Udaipur, Rajasthan. It was started by a group of public health professionals around a simple, stubborn idea: that good primary healthcare is a human right and not a privilege, and that it should reach the people who are usually the last to receive it. In their case, that means tribal and migrant communities in some of the remotest pockets of southern Rajasthan, where food scarcity and child malnutrition are part of daily life for a large share of families.
 
 The work runs across a few connected interventions:
 
