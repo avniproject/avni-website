@@ -12,12 +12,10 @@ tags:
 
 ## AI Models Update Without an App Release
 
-<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; background: #ffffff;">
-    <div style="flex: 1; min-width: 250px;">
-        <p style="margin: 12px 0; line-height: 1.8;">Organizations using on-device AI models can now receive updates through regular sync — <strong>no app release needed</strong>. Models are delivered securely, encrypted both in transit and on the device, keeping field operations running smoothly without waiting for new app versions.</p>
-        <p style="margin: 12px 0; line-height: 1.8;">Perfect for teams iterating on AI-powered workflows or fixing model behavior without coordinating app updates.</p>
-        <p style="margin-top: 16px; font-size: 13px; font-weight: 600;"><a href="https://github.com/avniproject/avni-server/issues/1019" target="_blank" style="color: #0066cc; text-decoration: none;">→ View technical details</a></p>
-    </div>
+<div style="padding: 0 0 20px 0; background: #ffffff;">
+    <p style="margin: 12px 0; line-height: 1.8;">Organizations using on-device AI models can now receive updates through regular sync — <strong>no app release needed</strong>. Models are delivered securely, encrypted both in transit and on the device, keeping field operations running smoothly without waiting for new app versions.</p>
+    <p style="margin: 12px 0; line-height: 1.8;">Perfect for teams iterating on AI-powered workflows or fixing model behavior without coordinating app updates.</p>
+    <p style="margin-top: 16px; font-size: 13px; font-weight: 600;"><a href="https://github.com/avniproject/avni-server/issues/1019" target="_blank" style="color: #0066cc; text-decoration: none;">→ View technical details</a></p>
 </div>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
