@@ -147,7 +147,7 @@ How people are trained. How knowledge is shared. How new workers are supported. 
 
 These invisible systems determine whether visible outcomes last.
 
-Throughout the visit, Sangwari reminded me of something I had been reflecting on since Anuppur.
+Throughout the visit, Sangwari reminded me of something I had been reflecting on since [Anuppur](/blog/2026-07-04-stories-that-never-reach-us/).
 
 Healthcare is rarely transformed by one big breakthrough. It changes because thousands of small systems begin working together.
 
@@ -159,7 +159,7 @@ Individually, these actions seem insignificant. Together, they become healthcare
 
 On my final evening in Mainpat, I walked back towards the homestay. The orchards were quiet. The training centre across the road had fallen silent after a long day.
 
-I found myself thinking about how different this visit had been from Anuppur. JSS showed me what decades of patient institution-building can create.
+I found myself thinking about how different this visit had been from [Anuppur](/blog/2026-07-04-stories-that-never-reach-us/). JSS showed me what decades of patient institution-building can create.
 
 Sangwari showed me something equally important. How those journeys begin.
 
