@@ -31,9 +31,13 @@ Ashwini and Nisha became my guides over the next two days.
 
 There were no polished presentations waiting for us. Instead, there were conversations. Lots of them.
 
-Conversations about children. Nutrition. Apps. Government systems. Village workers. Migration. Trust.
+Conversations about children.
+
+Nutrition. Apps. Government systems. Village workers. Migration. Trust.
 
 And the thousand tiny decisions that determine whether healthcare actually reaches a family.
+
+---
 
 ## Finding the Child Before the Illness Does
 
@@ -45,7 +49,9 @@ Everything else seemed to flow from that idea.
 
 Sangwari's work begins long before a child reaches a doctor.
 
-Community workers identify children showing early signs of severe malnutrition. Families are counselled. Nutrition is monitored. Pregnant women are followed up. Vaccination status is checked. When required, children are referred to clinics.
+Community workers identify children showing early signs of severe malnutrition.
+
+Families are counselled. Nutrition is monitored. Pregnant women are followed up. Vaccination status is checked. When required, children are referred to clinics.
 
 It sounds straightforward when written like this. It isn't.
 
@@ -62,6 +68,8 @@ The answer wasn't a sophisticated software system. It was *relationships*.
 The community workers knew families by name. They knew who had migrated. Who had returned. Whose child had been ill. Who needed another visit.
 
 Healthcare, here, looked remarkably human.
+
+---
 
 ## The Kuniya Clinic
 
@@ -81,6 +89,8 @@ The waiting area was full. Most patients belonged to tribal communities. Nobody 
 
 Trust, I realised once again, is probably healthcare's most valuable infrastructure.
 
+---
+
 ## A Mud House That Was Not Just a Mud House
 
 Later that day we visited one of Sangwari's nutrition homes. Calling it a "centre" almost feels misleading. It was simply a mud house. Except it wasn't.
@@ -89,11 +99,15 @@ Inside lived something much bigger than the building itself. Two didis were cari
 
 The walls had been painted using natural colours. The rooms were spotless. Everything had its place. The children were completely at ease. One corner stored food. Another held records.
 
-We tasted the sattu that forms an important part of the children's nutritional support. Simple. Nutritious. Practical.
+We tasted the sattu that forms an important part of the children's nutritional support.
+
+Simple. Nutritious. Practical.
 
 The didis showed us their records. Every ration distributed. Every medicine given. Every child visited. Every follow-up done.
 
 Once again, I found myself wondering why we continue to believe that "good systems" only exist inside modern offices. Sometimes they exist inside mud houses.
+
+---
 
 ## The Training Session
 
@@ -129,9 +143,17 @@ One discussion during the training stayed with me.
 
 The trainers repeatedly reminded everyone not to become obsessed with the app.
 
-First understand the child. Then understand the nutrition. Then understand the program. Only then worry about the data.
+First understand the child.
+
+Then understand the nutrition.
+
+Then understand the program.
+
+Only then worry about the data.
 
 That felt like an important lesson for anyone working in digital health. Technology should never become the centre of the conversation. People should.
+
+---
 
 ## The Systems We Do Not Measure
 
@@ -143,7 +165,17 @@ But perhaps we should pay more attention to something else.
 
 Their systems. Not the software systems. Human systems.
 
-How people are trained. How knowledge is shared. How new workers are supported. How mistakes are discussed. How trust is built. How communities participate.
+How people are trained.
+
+How knowledge is shared.
+
+How new workers are supported.
+
+How mistakes are discussed.
+
+How trust is built.
+
+How communities participate.
 
 These invisible systems determine whether visible outcomes last.
 
@@ -154,6 +186,8 @@ Healthcare is rarely transformed by one big breakthrough. It changes because tho
 A village worker identifies a child early. A nutrition didi prepares another meal. A nurse follows up. A doctor diagnoses on time. Someone updates a register. Someone fixes a bug in an app. Someone makes another home visit.
 
 Individually, these actions seem insignificant. Together, they become healthcare.
+
+---
 
 ## Where Journeys Begin
 

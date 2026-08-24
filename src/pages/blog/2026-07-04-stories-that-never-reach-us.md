@@ -28,7 +28,13 @@ I came back with something completely different.
 
 I came back with stories.
 
-Stories that rarely make newspaper headlines. Stories that never trend on social media. Stories that quietly keep thousands of people alive.
+Stories that rarely make newspaper headlines.
+
+Stories that never trend on social media.
+
+Stories that quietly keep thousands of people alive.
+
+---
 
 ## Where Innovation Actually Begins
 
@@ -56,13 +62,17 @@ Sometimes governments simply recognize what has already proven to work.
 
 That, perhaps, is one of JSS's greatest contributions—not merely treating patients, but quietly influencing how India thinks about public health. Its work has consistently combined community care, training, research and system design, helping strengthen public health policy over decades.
 
+---
+
 ## Stories, Not Presentations
 
 The next few hours were spent meeting members of the JSS team.
 
 One spoke passionately about epilepsy. Another walked us through years of work on sickle cell disease.
 
-These weren't PowerPoint presentations. They were stories of people. Families. Villages. Years of follow-up. The kind of diseases that don't disappear after a prescription. The kind that requires relationships more than medicines.
+These weren't PowerPoint presentations. They were stories of people. Families. Villages. Years of follow-up.
+
+The kind of diseases that don't disappear after a prescription. The kind that requires relationships more than medicines.
 
 Later, we visited the Anuppur district hospital where in one corner of the hospital was a modest room allocated to JSS. No grand infrastructure. No impressive branding.
 
@@ -71,6 +81,8 @@ Just people quietly diagnosing sickle cell disease, ensuring patients entered th
 ![The JSS room at the Anuppur district hospital](/img/2026-07-04-stories-that-never-reach-us/anuppur-1.png)
 
 It struck me how many extraordinary things in healthcare happen inside very ordinary rooms.
+
+---
 
 ## Deeper into Pushprajgarh
 
@@ -94,6 +106,8 @@ The children, meanwhile, had absolutely no interest in healthcare. They were bus
 
 Sometimes joy survives despite everything.
 
+---
+
 ## The Phulwari Near Ural Waterfall
 
 Our final visit that day was to a Phulwari centre near the beautiful Ural waterfall.
@@ -114,6 +128,8 @@ No dashboards. No software. Just commitment.
 
 I found myself writing a small note in the visitor register. A simple thank you — which somehow felt inadequate for the kind of amazing work that I experienced.
 
+---
+
 ## Lunch Beside the Waterfall
 
 Lunch happened much later than expected. We sat beside the waterfall. Driver. Field staff. Everyone eating the same food. No hierarchy. No VIP arrangements — something much better than that. Just people sharing a meal after a long day of work.
@@ -125,6 +141,8 @@ Sometimes organisations reveal themselves not in boardrooms but during lunch.
 Watching the team laugh with each other, discussing villages, patients and tomorrow's plans, I realised why institutions like JSS survive for decades.
 
 People don't stay because the work is easy. They stay because the work has meaning.
+
+---
 
 ## The India We Rarely Hear About
 
@@ -139,6 +157,8 @@ But somewhere inside forests like these, thousands of health workers wake up eve
 If they succeed, nothing dramatic happens. Children remain healthy. Pregnancies remain safe. Epilepsy gets treated. Sickle cell disease is diagnosed early. Nutrition improves.
 
 The absence of tragedy rarely becomes news. Perhaps that is why we rarely hear these stories.
+
+---
 
 ## What Technology Can and Cannot Do
 
@@ -157,6 +177,8 @@ I was thinking about trust.
 Technology can digitise data. It cannot replace relationships.
 
 And public health, at its core, is built on relationships.
+
+---
 
 ## The Train Back
 

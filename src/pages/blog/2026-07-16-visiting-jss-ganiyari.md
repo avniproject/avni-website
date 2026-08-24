@@ -17,6 +17,8 @@ Until this trip, the development sector was something I had only read about. I w
 
 This is an account of that week: a hospital, a forest, an OPD room I did not want to leave, a village where the phone showed no bars at all, and a two-year-old who had been diagnosed with diabetes. That last one is really what this blog is about. Everything else is how I got there.
 
+---
+
 ## Care as a Right, Not a Privilege
 
 Jan Swasthya Sahyog (JSS) was started in the late 1990s by a group of doctors, many of them trained at AIIMS, who decided to build a health system for rural and tribal central India instead of practising in a city. Since 2000 they have run a referral centre near Ganiyari village in Bilaspur district, Chhattisgarh. The people they serve — largely Gond and Baiga families from forest and forest-fringe villages — are the ones the health system usually reaches last, if at all.
@@ -32,6 +34,8 @@ The work spreads wider than the hospital:
 
 The mission statement is up on the wall near the entrance, in English and Hindi: high-quality, patient-focused care with equity and dignity, because access to good healthcare is the right of every human being. Mission statements are cheap. What struck me over the next few days was how literally this one gets applied — in the rate card hanging right above it, in the way patients and their families are spoken to, in what the team chooses to build in-house rather than buy.
 
+---
+
 ## Getting There, and a Detour to Deer
 
 We reached Bilaspur a day before the work started, which left an afternoon free, so we went to Kanan Pendari Zoological Garden. It is a large, wooded park, and we went around it on safari. Mostly deer — herds of them, entirely uninterested in us.
@@ -43,6 +47,8 @@ I did not think much of it at the time. It turned out to be a decent orientation
 The other thing I should mention early, because it shaped every day after, is the food. The JSS mess serves simple, local, properly nutritious meals — dal, rice, rajma, a seasonal vegetable, and salad on a steel thali. After a week of listening to doctors talk about diet, the consistency was hard to miss. What the campus eats is what the doctors recommend.
 
 ![Lunch at the JSS mess](/img/2026-07-16-visiting-jss-ganiyari/jss-3.png)
+
+---
 
 ## Days in the OPD With Dr Gaja
 
@@ -58,6 +64,8 @@ Dr Gaja also took me through Bahmni end to end: registration, consultation notes
 
 The point Dr Gaja kept coming back to was the Bahmni–Avni integration. A person seen by a health worker in a village and the same person seen at the Ganiyari OPD should not be two unrelated records. Right now the story of that person breaks at the hospital gate, and both systems are less useful for it. Of everything on my list from this trip, this is the one with the most weight behind it.
 
+---
+
 ## The Case for Prevention
 
 Then came the session that I have not been able to shake.
@@ -72,6 +80,8 @@ I have spent a fair amount of my life around the idea that these are lifestyle p
 
 What I liked was how concrete his advice was. Not a diet plan nobody can afford, but a few daily exercises and a better roti — wheat flour with ground flaxseed and roasted chana mixed in. Small changes that fit inside what a household already cooks and what it can already buy.
 
+---
+
 ## The AppTech Workshop
 
 A short walk from the OPD is the appropriate technology workshop, which was one of the quiet highlights of the trip. Hospital equipment gets maintained and repaired here, and where something does not exist at a price that makes sense, it gets built — including portable power units assembled from a battery, an inverter and a charger, so that a clinic or a field visit is not at the mercy of the power supply.
@@ -79,6 +89,8 @@ A short walk from the OPD is the appropriate technology workshop, which was one 
 ![A portable power unit, built on campus](/img/2026-07-16-visiting-jss-ganiyari/jss-7.png)
 
 It is the same instinct as everything else at JSS, applied to hardware instead of medicine.
+
+---
 
 ## Shivtarai, Bamhni, and the Road Between
 
@@ -89,6 +101,8 @@ At Bamhni we visited a phulwari and also met a snake, which the team treated as 
 ![A community meeting at one of the sub-centres](/img/2026-07-16-visiting-jss-ganiyari/jss-8.png)
 
 At both centres we met the health workers doing the harder half of this work: mobilising people, running sessions, following up on households, explaining the same thing patiently for the tenth time to someone who has every reason to be sceptical. Watching a village meeting come together in a room with no projector and no slides is a useful correction for anyone who designs software in an office.
+
+---
 
 ## Where the Network Ends
 
@@ -104,6 +118,8 @@ On the ground, the change is real.
 
 ![Walking through the dashboard, over tea, at the end of the day](/img/2026-07-16-visiting-jss-ganiyari/jss-10.png)
 
+---
+
 ## Sitting With the People Who Use It
 
 Back at the hospital, we sat down with the senior health workers from all three sub-centres. We went through the problems they were hitting in Avni; fixed what could be fixed on the spot; and took their questions — all of them.
@@ -113,6 +129,8 @@ I also spent time explaining why Avni exists: that it is built for the person st
 ![Feedback session with health workers at Ganiyari](/img/2026-07-16-visiting-jss-ganiyari/jss-11.png)
 
 We then sat with the MCH team on their experience of Bahmni — what works, what gets in the way, and what they would change. Between the two sessions, we came away with feedback far more specific than anything we would have arrived at over a call.
+
+---
 
 ## What the Field Taught Me
 
@@ -124,11 +142,15 @@ Three things I did not have before this week:
 
 **The distance worth closing is informational.** Not only the distance to the hospital but also the distance between what a family knows about staying well and what anyone has ever told them. Every record that reaches the right person shortens it a little.
 
+---
+
 ## Gadh Kalewa, and the Way Home
 
 On the last day we ate at Gadh Kalewa, where the menu is entirely traditional Chhattisgarhi — steamed rice-flour preparations, a green chutney and a red one that I respected from a safe distance. A good, unhurried end to the week.
 
 ![Authentic Chhattisgarhi food at Gadh Kalewa](/img/2026-07-16-visiting-jss-ganiyari/jss-12.png)
+
+---
 
 ## Closing Thoughts
 
