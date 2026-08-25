@@ -150,7 +150,9 @@ Was it making data collection easier? Was it useful to the women? Was it making 
 
 And then I watched one of the artisans take out a phone and start entering her production information.
 
-![An artisan entering her production details in Avni](/img/2026-08-06-udgam-handicrafts-mumbai/udgam-5.gif)
+<div style="text-align: center;">
+  <img src="/img/2026-08-06-udgam-handicrafts-mumbai/udgam-5.gif" alt="An artisan entering her production details in Avni" style="max-width: 100%;">
+</div>
 
 Someone told me that some of the women using Avni today had once barely known how to use a smartphone.
 
