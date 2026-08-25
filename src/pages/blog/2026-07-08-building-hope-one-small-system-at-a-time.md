@@ -77,9 +77,15 @@ We later visited the Kuniya clinic. From outside, it looked unremarkable. Inside
 
 Patients first stopped at registration. Then moved to the doctor. Some went for laboratory investigations. Others walked directly to the pharmacy. One small room handled dressing and minor procedures.
 
-![Registration at the Kuniya clinic](/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-1.png)
+<div style="text-align: center;">
+  <img src="/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-1.png" alt="Registration at the Kuniya clinic" style="max-width: 100%;">
+  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">Registration at the Kuniya clinic</div>
+</div>
 
-![Inside the clinic](/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-2.png)
+<div style="text-align: center;">
+  <img src="/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-2.png" alt="Inside the clinic" style="max-width: 100%;">
+  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">Inside the clinic</div>
+</div>
 
 Everything was modest. Nothing looked expensive. Yet nothing appeared chaotic either.
 
@@ -127,13 +133,22 @@ Questions kept coming.
 
 Every question represented someone trying to serve families better.
 
-![A training session for community health workers](/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-3.png)
+<div style="text-align: center;">
+  <img src="/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-3.png" alt="A training session for community health workers" style="max-width: 100%;">
+  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">A training session for community health workers</div>
+</div>
 
 The application itself is still evolving. A few issues surfaced that had escaped earlier testing. Nobody complained. Screenshots were taken. Feedback was noted. Workarounds were discussed.
 
-![The Avni home dashboard, in Hindi](/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-4.png)
+<div style="text-align: center;">
+  <img src="/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-4.png" alt="The Avni home dashboard, in Hindi" style="max-width: 100%;">
+  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">The Avni home dashboard, in Hindi</div>
+</div>
 
-![Screening figures for children under three](/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-5.png)
+<div style="text-align: center;">
+  <img src="/img/2026-07-08-building-hope-one-small-system-at-a-time/mainpat-5.png" alt="Screening figures for children under three" style="max-width: 100%;">
+  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">Screening figures for children under three</div>
+</div>
 
 Everyone seemed remarkably comfortable with one simple truth. The software was still work-in-progress.
 
