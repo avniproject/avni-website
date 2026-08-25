@@ -78,10 +78,7 @@ Later, we visited the Anuppur district hospital where in one corner of the hospi
 
 Just people quietly diagnosing sickle cell disease, ensuring patients entered the healthcare system before complications consumed their lives.
 
-<div style="text-align: center;">
-  <img src="/img/2026-07-04-stories-that-never-reach-us/anuppur-1.png" alt="The JSS room at the Anuppur district hospital" style="max-width: 100%;">
-  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">The JSS room at the Anuppur district hospital</div>
-</div>
+![The JSS room at the Anuppur district hospital](/img/2026-07-04-stories-that-never-reach-us/anuppur-1.png)
 
 It struck me how many extraordinary things in healthcare happen inside very ordinary rooms.
 
@@ -101,15 +98,9 @@ Some had walked for several kilometres. Some carried children. Some simply waite
 
 Medicines were dispensed. Blood pressures checked. Symptoms discussed. Advice given.
 
-<div style="text-align: center;">
-  <img src="/img/2026-07-04-stories-that-never-reach-us/anuppur-2.png" alt="Consultations under way at the Mobile Medical Unit" style="max-width: 100%;">
-  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">Consultations under way at the Mobile Medical Unit</div>
-</div>
+![Consultations under way at the Mobile Medical Unit](/img/2026-07-04-stories-that-never-reach-us/anuppur-2.png)
 
-<div style="text-align: center;">
-  <img src="/img/2026-07-04-stories-that-never-reach-us/anuppur-3.png" alt="A Mobile Medical Unit visit, recorded in Avni" style="max-width: 100%;">
-  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">A Mobile Medical Unit visit, recorded in Avni</div>
-</div>
+![A Mobile Medical Unit visit, recorded in Avni](/img/2026-07-04-stories-that-never-reach-us/anuppur-3.png)
 
 The children, meanwhile, had absolutely no interest in healthcare. They were busy being children. Running. Laughing. Curious about the strangers visiting their school.
 
@@ -125,10 +116,7 @@ Nothing had prepared me for what I was about to see.
 
 The centre itself was simple. Almost minimal. But every corner reflected care. Ten children were sleeping peacefully together under a large mosquito net. The room was spotless. Everything had its place.
 
-<div style="text-align: center;">
-  <img src="/img/2026-07-04-stories-that-never-reach-us/anuppur-4.png" alt="Children at the Phulwari centre" style="max-width: 100%;">
-  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">Children at the Phulwari centre</div>
-</div>
+![Children at the Phulwari centre](/img/2026-07-04-stories-that-never-reach-us/anuppur-4.png)
 
 The Phulwari Didi welcomed us with the quiet confidence of someone who had repeated these routines hundreds of times.
 
@@ -146,10 +134,7 @@ I found myself writing a small note in the visitor register. A simple thank you 
 
 Lunch happened much later than expected. We sat beside the waterfall. Driver. Field staff. Everyone eating the same food. No hierarchy. No VIP arrangements — something much better than that. Just people sharing a meal after a long day of work.
 
-<div style="text-align: center;">
-  <img src="/img/2026-07-04-stories-that-never-reach-us/anuppur-5.png" alt="Lunch beside the Ural waterfall" style="max-width: 100%;">
-  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">Lunch beside the Ural waterfall</div>
-</div>
+![Lunch beside the Ural waterfall](/img/2026-07-04-stories-that-never-reach-us/anuppur-5.png)
 
 Sometimes organisations reveal themselves not in boardrooms but during lunch.
 
@@ -185,10 +170,7 @@ Technology doesn't solve healthcare. People do. Technology simply helps good peo
 
 When I saw community health workers maintaining detailed records, visiting households and following up with families over months and years, I wasn't thinking about apps or software.
 
-<div style="text-align: center;">
-  <img src="/img/2026-07-04-stories-that-never-reach-us/anuppur-6.png" alt="The maternal health dashboard in Avni" style="max-width: 100%;">
-  <div style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 6px;">The maternal health dashboard in Avni</div>
-</div>
+![The maternal health dashboard in Avni](/img/2026-07-04-stories-that-never-reach-us/anuppur-6.png)
 
 I was thinking about trust.
 
