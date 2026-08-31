@@ -25,36 +25,57 @@ tags:
 
 ## Attendance That Remembers
 
-<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
-    <p style="margin: 12px 0; line-height: 1.8;">Two important fixes to the attendance flow ensure data stays accurate:</p>
-    <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
-        <li><strong>Fixed: Reopening old attendance forms</strong> — When reopening a form from the past, the system now checks if a student was eligible *on that date*, not today. This prevents accidentally erasing attendance history for students who have since left the program. (<a href="https://github.com/avniproject/avni-client/issues/1983" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1983</a>)</li>
-        <li><strong>Better absence tracking</strong> — When marking a student absent for "Other" reasons, you can now add a written note specific to that student, making it easier to understand the full context of an absence. (<a href="https://github.com/avniproject/avni-client/issues/1982" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1982</a>)</li>
-    </ul>
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; background: #ffffff;">
+    <div style="flex: 1; min-width: 250px;">
+        <img src="/img/2026-07-31-july-release/attendance.gif"
+             alt="Attendance flow on the mobile app"
+             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p style="margin: 12px 0; line-height: 1.8;">Two important fixes to the attendance flow ensure data stays accurate:</p>
+        <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
+            <li><strong>Fixed: Reopening old attendance forms</strong> — When reopening a form from the past, the system now checks if a student was eligible *on that date*, not today. This prevents accidentally erasing attendance history for students who have since left the program. (<a href="https://github.com/avniproject/avni-client/issues/1983" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1983</a>)</li>
+            <li><strong>Better absence tracking</strong> — When marking a student absent for "Other" reasons, you can now add a written note specific to that student, making it easier to understand the full context of an absence. (<a href="https://github.com/avniproject/avni-client/issues/1982" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1982</a>)</li>
+        </ul>
+    </div>
 </div>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
 ## Faster Form Filling
 
-<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
-    <p style="margin: 12px 0; line-height: 1.8;">Two enhancements that save time when working with larger datasets:</p>
-    <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
-        <li><strong>Search inside dropdowns</strong> — Coded answer lists now include a search box, just like address fields already did. When a dropdown has many options, field workers can now type to filter instead of scrolling. (<a href="https://github.com/avniproject/avni-client/issues/1845" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1845</a>)</li>
-        <li><strong>File uploads in Question Groups</strong> — Multi-select file upload now works correctly inside a Question Group on the mobile app, enabling more flexible form structures. (<a href="https://github.com/avniproject/avni-client/issues/1803" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1803</a>)</li>
-    </ul>
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; background: #ffffff;">
+    <div style="flex: 1; min-width: 250px;">
+        <img src="/img/2026-07-31-july-release/searchwithincoded.gif"
+             alt="Typing in the search box to filter a coded answer list"
+             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p style="margin: 12px 0; line-height: 1.8;">Two enhancements that save time when working with larger datasets:</p>
+        <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
+            <li><strong>Search inside dropdowns</strong> — Coded answer lists now include a search box, just like address fields already did. When a dropdown has many options, field workers can now type to filter instead of scrolling. (<a href="https://github.com/avniproject/avni-client/issues/1845" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1845</a>)</li>
+            <li><strong>File uploads in Question Groups</strong> — Multi-select file upload now works correctly inside a Question Group on the mobile app, enabling more flexible form structures. (<a href="https://github.com/avniproject/avni-client/issues/1803" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1803</a>)</li>
+        </ul>
+    </div>
 </div>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
 ## Quicker Form Building
 
-<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
-    <p style="margin: 12px 0; line-height: 1.8;">Form design just got more intuitive in App Designer:</p>
+<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; background: #ffffff;">
+    <div style="flex: 1; min-width: 250px;">
+        <img src="/img/2026-07-31-july-release/dragdrop-inside-qg.gif"
+             alt="Dragging a question to reorder it inside a Question Group in App Designer"
+             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 1; min-width: 250px;">
+        <p style="margin: 12px 0; line-height: 1.8;">Form design just got more intuitive in App Designer:</p>
         <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
             <li><strong>Drag-and-drop reordering</strong> — Rearrange questions within a Question Group by dragging, no need to delete and recreate (<a href="https://github.com/avniproject/avni-webapp/issues/1781" target="_blank" style="color: #0066cc; font-weight: 500;">avni-webapp#1781</a>)</li>
             <li><strong>Bulk decision uploads</strong> — Import multiple decisions at once instead of entering them one by one (<a href="https://github.com/avniproject/avni-webapp/issues/1789" target="_blank" style="color: #0066cc; font-weight: 500;">avni-webapp#1789</a>)</li>
         </ul>
+    </div>
 </div>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
