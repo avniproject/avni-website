@@ -12,17 +12,20 @@ tags:
 
 ## AI Models Update Without an App Release
 
-<div style="padding: 0 0 20px 0; background: #ffffff;">
+<a href="https://github.com/avniproject/avni-product/issues/1880" target="_blank" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;" onmouseover="this.style.opacity='0.95'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,102,204,0.15)';" onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+<div style="padding: 40px; margin-bottom: 20px; cursor: pointer; background: #ffffff; transition: all 0.3s ease;">
+    <p style="font-size: 14px; color: #0066cc; font-weight: 600; margin: 0 0 8px 0;">Update AI models over sync</p>
     <p style="margin: 12px 0; line-height: 1.8;">Organizations using on-device AI models can now receive updates through regular sync — <strong>no app release needed</strong>. Models are delivered securely, encrypted both in transit and on the device, keeping field operations running smoothly without waiting for new app versions.</p>
     <p style="margin: 12px 0; line-height: 1.8;">Perfect for teams iterating on AI-powered workflows or fixing model behavior without coordinating app updates.</p>
-    <p style="margin-top: 16px; font-size: 13px; font-weight: 600;"><a href="https://github.com/avniproject/avni-product/issues/1880" target="_blank" style="color: #0066cc; text-decoration: none;">→ View technical details</a></p>
+    <p style="margin-top: 16px; font-size: 13px; color: #0066cc; font-weight: 600; display: flex; align-items: center; gap: 6px;">→ View technical details</p>
 </div>
+</a>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
 
 ## Attendance That Remembers
 
-<div style="padding: 0 0 20px 0; background: #ffffff;">
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
     <p style="margin: 12px 0; line-height: 1.8;">Two important fixes to the attendance flow ensure data stays accurate:</p>
     <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
         <li><strong>Fixed: Reopening old attendance forms</strong> — When reopening a form from the past, the system now checks if a student was eligible *on that date*, not today. This prevents accidentally erasing attendance history for students who have since left the program. (<a href="https://github.com/avniproject/avni-client/issues/1983" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1983</a>)</li>
@@ -34,7 +37,7 @@ tags:
 
 ## Faster Form Filling
 
-<div style="padding: 0 0 20px 0; background: #ffffff;">
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
     <p style="margin: 12px 0; line-height: 1.8;">Two enhancements that save time when working with larger datasets:</p>
     <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
         <li><strong>Search inside dropdowns</strong> — Coded answer lists now include a search box, just like address fields already did. When a dropdown has many options, field workers can now type to filter instead of scrolling. (<a href="https://github.com/avniproject/avni-client/issues/1845" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1845</a>)</li>
@@ -46,7 +49,7 @@ tags:
 
 ## Quicker Form Building
 
-<div style="padding: 0 0 20px 0; background: #ffffff;">
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
     <p style="margin: 12px 0; line-height: 1.8;">Form design just got more intuitive in App Designer:</p>
         <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
             <li><strong>Drag-and-drop reordering</strong> — Rearrange questions within a Question Group by dragging, no need to delete and recreate (<a href="https://github.com/avniproject/avni-webapp/issues/1781" target="_blank" style="color: #0066cc; font-weight: 500;">avni-webapp#1781</a>)</li>
@@ -58,7 +61,7 @@ tags:
 
 ## Safer Setup and Reporting
 
-<div style="padding: 0 0 20px 0; background: #ffffff;">
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
     <p style="margin: 12px 0; line-height: 1.8;">Infrastructure improvements that make configuration more robust and reporting faster:</p>
     <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
         <li><strong>Move address levels between organizations</strong> — An organization's "lowest address level" setting can now be transferred without breaking references, making it safe to reorganize. (<a href="https://github.com/avniproject/avni-server/issues/871" target="_blank" style="color: #0066cc; font-weight: 500;">avni-server#871</a>)</li>
