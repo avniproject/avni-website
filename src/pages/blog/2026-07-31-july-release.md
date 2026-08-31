@@ -115,14 +115,6 @@ tags:
 
 ---
 
-## What's coming in August
-
-- **Mobile app database migration** — Moving to a faster, more efficient local database schema
-- **Guided-camera capture** — Enhanced camera workflows for screening and diagnostic forms
-- **De-identified data sync** — New privacy option for syncing data without personal identifiers
-
----
-
 ### Share Feedback and Stay Updated!
 
 Join our [Avni community on Discord](https://discord.gg/VRZQYdcyuG) to share your thoughts, ask questions, and get the latest updates.
