@@ -44,19 +44,12 @@ tags:
 
 ## Faster Form Filling
 
-<div style="display: flex; gap: 40px; align-items: center; padding: 40px; margin-bottom: 20px; background: #ffffff;">
-    <div style="flex: 1; min-width: 250px;">
-        <img src="/img/2026-07-31-july-release/searchwithincoded.gif"
-             alt="Typing in the search box to filter a coded answer list"
-             style="max-height: 420px; width: auto; max-width: 100%; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    </div>
-    <div style="flex: 1; min-width: 250px;">
-        <p style="margin: 12px 0; line-height: 1.8;">Two enhancements that save time when working with larger datasets:</p>
-        <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
-            <li><strong>Search inside dropdowns</strong> — Coded answer lists now include a search box, just like address fields already did. When a dropdown has many options, field workers can now type to filter instead of scrolling. (<a href="https://github.com/avniproject/avni-client/issues/1845" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1845</a>)</li>
-            <li><strong>File uploads in Question Groups</strong> — Multi-select file upload now works correctly inside a Question Group on the mobile app, enabling more flexible form structures. (<a href="https://github.com/avniproject/avni-client/issues/1803" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1803</a>)</li>
-        </ul>
-    </div>
+<div style="padding: 40px; margin-bottom: 20px; background: #ffffff;">
+    <p style="margin: 12px 0; line-height: 1.8;">Two enhancements that save time when working with larger datasets:</p>
+    <ul style="margin: 12px 0; margin-left: 20px; line-height: 1.8;">
+        <li><strong>Search inside dropdowns</strong> — Coded answer lists now include a search box, just like address fields already did. When a dropdown has many options, field workers can now type to filter instead of scrolling. (<a href="https://github.com/avniproject/avni-client/issues/1845" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1845</a>)</li>
+        <li><strong>File uploads in Question Groups</strong> — Multi-select file upload now works correctly inside a Question Group on the mobile app, enabling more flexible form structures. (<a href="https://github.com/avniproject/avni-client/issues/1803" target="_blank" style="color: #0066cc; font-weight: 500;">avni-client#1803</a>)</li>
+    </ul>
 </div>
 
 <div style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #e0e0e0, transparent); margin: 40px 0;"></div>
