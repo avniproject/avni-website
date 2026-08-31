@@ -29,7 +29,7 @@ tags:
     <div style="flex: 1; min-width: 250px;">
         <img src="/img/2026-07-31-july-release/attendance.gif"
              alt="Attendance flow on the mobile app"
-             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+             style="max-height: 420px; width: auto; max-width: 100%; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
     <div style="flex: 1; min-width: 250px;">
         <p style="margin: 12px 0; line-height: 1.8;">Two important fixes to the attendance flow ensure data stays accurate:</p>
@@ -48,7 +48,7 @@ tags:
     <div style="flex: 1; min-width: 250px;">
         <img src="/img/2026-07-31-july-release/searchwithincoded.gif"
              alt="Typing in the search box to filter a coded answer list"
-             style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+             style="max-height: 420px; width: auto; max-width: 100%; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
     <div style="flex: 1; min-width: 250px;">
         <p style="margin: 12px 0; line-height: 1.8;">Two enhancements that save time when working with larger datasets:</p>
