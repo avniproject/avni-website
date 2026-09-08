@@ -116,4 +116,4 @@ Away from the training, the BHS staff turned out to be wonderful company \- my n
 
 Six days, one connecting flight, a great many peacocks, around 50 workers trained, 18 Phulwaris live, and one growth chart that drew itself and quietly retired a week's worth of manual arithmetic. By every measure I care about, the rollout was a success - and a more joyful one than I had expected.
 
-Onwards to the next visit - with offline support, complete translations, and, with any luck, that trek.
+Onwards to the next visit - with offline support, complete translations, and, with any luck, that trek with [Mansi](https://www.linkedin.com/in/mansi-tripathi-1000592a4/), [Shruti](https://www.linkedin.com/in/shruthi-madhu-b564402a0/) and [Ritik](https://www.linkedin.com/in/ritik-singh-854762229/).
