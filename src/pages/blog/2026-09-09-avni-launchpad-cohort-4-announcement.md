@@ -29,7 +29,6 @@ These pilots helped teams move from paper-based processes and spreadsheets to di
   <img src="/img/2026-09-09-avni-launchpad-cohort-4-announcement/cohort-glimpses.jpg"
        alt="Glimpses from previous Avni Launchpad cohorts"
        style="width: 100%; height: auto; display: block; border-radius: 8px;">
-  <p style="text-align: center; font-size: 13px; color: #666; margin-top: 8px;"><i>Glimpses from previous Avni Launchpad cohorts</i></p>
 </div>
 
 Building on these experiences, the West and East India Cohort is an opportunity to work more closely with organisations across both regions, including those serving rural, remote and low-connectivity communities, contexts for which Avni has been specifically designed.
