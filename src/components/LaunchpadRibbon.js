@@ -191,7 +191,7 @@ const LaunchpadRibbon = () => {
 
           {/* CTA Button */}
           <Link
-            to="/blog/2026-05-29-avni-launchpad-cohort-3-announcement/"
+            to="/blog/2026-09-09-avni-launchpad-cohort-4-announcement/"
             className={`ribbon-button ${showPulse ? 'pulse-animation' : ''}`}
             style={{
               backgroundColor: '#ffd700',
