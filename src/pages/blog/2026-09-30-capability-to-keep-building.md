@@ -26,7 +26,7 @@ The organisations in the room were working on very different problems, but had a
 
 That question was at the core of everything and for everyone in the room.
 
-![Participants of the Tech4Dev workshop](/img/2026-09-30-capability-to-keep-building/group-photo.jpg)
+<img src="/img/2026-09-30-capability-to-keep-building/group-photo.jpg" alt="Participants of the Tech4Dev workshop" style="display: block; width: 70%; max-width: 600px; height: auto; margin: 24px auto; border-radius: 6px;" />
 
 ---
 
