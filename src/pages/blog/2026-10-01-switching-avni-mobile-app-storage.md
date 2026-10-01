@@ -68,10 +68,6 @@ We start at two or three organisations a week, then pick up the pace. Large orga
 
 Out goes Realm. In comes SQLite, through op-sqlite, with SQLCipher for encryption. We didn't rewrite the app. We built a layer on SQLite that behaves like Realm, and it translates rules written in Realm's query language to SQL as they run.
 
-Shapes like `SUBQUERY` and `@count` often can't be translated, and some rules filter in plain JavaScript. Either way the app loads every matching record. Realm made that nearly free. SQLite builds a full object from every row. In August, one dashboard card on a 32,000-subject organisation took 3 milliseconds on Realm and 34 seconds on SQLite. Almost none of that was the query itself. Nearly all of it was building objects and filtering them.
-
-So we wrote a scanner. It read 68,826 rules across all 697 organisations on our server, old trial ones included. 207 had at least one rule worth checking. The best news was in the zeros. The two patterns that could have given wrong answers, `@links` and `ALL`/`NONE`, appear in no rule anywhere. Everything else it found is a speed risk, which is what the visit fixes.
-
 The design notes are public, starting with the [technical overview](https://github.com/avniproject/avni-client/blob/18.0/docs/RealmToSqliteOverview.md).
 
 ---
