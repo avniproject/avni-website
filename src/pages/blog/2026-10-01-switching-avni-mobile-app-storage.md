@@ -37,6 +37,8 @@ So we brought in a new runner: one of the most widely used databases in the worl
 
 Update the app and every user stays exactly where they are. A handover starts only when an administrator adds a user to the **SQLite Migration** user group, and they sync. We do that together with each organisation, on a date agreed with it.
 
+There is nothing to do yet. Avni's delivery and support team will contact your organisation with the details, including the date, before any of your users move.
+
 That group sits in every organisation's admin screen. Please don't use it yourself. A baton passed before both runners are ready is how it gets dropped. A user can be handed back, but only with the platform team, and their phone downloads all its data again.
 
 ## Before the handover : what your organisation does
