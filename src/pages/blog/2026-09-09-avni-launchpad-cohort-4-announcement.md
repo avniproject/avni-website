@@ -5,15 +5,17 @@ date: 2026-09-09T10:00:00.000Z
 author: Avni Team
 featuredpost: true
 description:
-featuredimage: /img/2026-09-09-avni-launchpad-cohort-4-announcement/launchpad-cohort-4-banner.png
+featuredimage: /img/2026-09-09-avni-launchpad-cohort-4-announcement/launchpad-cohort-4-banner-deadline-extended.png
 tags:
 ---
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOozSQIl8Ablh_9AH4EHu9l87_MEgsaL8shQL2cLvU2hlr5g/viewform" target="_blank" rel="noopener noreferrer">
-  <img src="/img/2026-09-09-avni-launchpad-cohort-4-announcement/launchpad-cohort-4-banner.png"/>
+  <img src="/img/2026-09-09-avni-launchpad-cohort-4-announcement/launchpad-cohort-4-banner-deadline-extended.png"/>
 </a>
 
 <br>
+
+> **📢 Update (5th October 2026):** The application deadline has been extended to **Friday, 9th October 2026**. [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSdOozSQIl8Ablh_9AH4EHu9l87_MEgsaL8shQL2cLvU2hlr5g/viewform)
 
 #### Announcing Avni Launchpad 4.0 – West and East India Cohort
 
@@ -184,7 +186,7 @@ Please consider the following before applying:
 | Week | Date | Event |
 |---|---|---|
 | Week 1 | 9th September | Avni Launchpad 4.0 announced |
-| Week 4 | 5th October | Application submissions close |
+| Week 5 | 9th October (Friday) | Application submissions close (extended) |
 | Week 5 | 12th October | Cohort finalised |
 | Week 5 | 12th October | Online orientation |
 | Week 6–10 | 13th October – 13th November | Scoping and app design |
@@ -199,7 +201,7 @@ Please consider the following before applying:
 
 If your organisation has a field program that could benefit from better data collection, beneficiary tracking, monitoring or workflow management, Avni Launchpad 4.0 allows you to explore the solution with hands-on support before making a larger investment.
 
-Applications for the Avni Launchpad 4.0 – West and East India Cohort are now open.
+Applications for the Avni Launchpad 4.0 – West and East India Cohort are now open until **Friday, 9th October 2026**.
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOozSQIl8Ablh_9AH4EHu9l87_MEgsaL8shQL2cLvU2hlr5g/viewform" target="_blank" rel="noopener noreferrer"
