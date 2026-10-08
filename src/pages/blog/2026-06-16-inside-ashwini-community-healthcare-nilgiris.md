@@ -23,7 +23,7 @@ As part of the Avni team, my colleague Mohit Kumar and I travelled to Gudalur to
 
 The drive from Bangalore to Gudalur, Tamil Nadu, slowly transformed from busy highways into winding roads surrounded by coffee plantations, forests, and mist-covered hills. It felt like we were entering a completely different world.
 
-![The road to Gudalur](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-1.jpg)
+![The road to Gudalur](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-1@2x.jpg)
 
 ASHWINI has been working in the Gudalur Valley for over three decades, serving more than 20,000 Adivasis living across 320 hamlets in Gudalur and Pandalur taluks of the Nilgiris. Over the years, it has built a community-owned healthcare system that reaches people where they live rather than expecting them to always come to a hospital.
 
@@ -61,7 +61,7 @@ Some were shy.
 
 Some cried the moment they were placed on the weighing scale — just like children anywhere else.
 
-![Children health monitoring](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-9.jpg)
+![Children health monitoring](/img/2026-06-16-inside-ashwini-community-healthcare-nilgiris/ashwini-9@2x.jpg)
 
 The team patiently measured every child's height and weight, assessed their nutritional status, and explained the results to the parents.
 

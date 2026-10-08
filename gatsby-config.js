@@ -83,7 +83,13 @@ module.exports = {
                             // the content container as this plugin uses this as the
                             // base for generating different widths of each image.
                             maxWidth: 2048,
-                            showCaptions: true
+                            showCaptions: true,
+                            // Opt-in retina images: a file named like photo@2x.jpg is shown at half
+                            // its pixel width, so it stays sharp on high-density screens.
+                            // Every other image gets no extra style and renders as before.
+                            wrapperStyle: fluid => /@2x\.[a-z]+$/i.test(fluid.originalName || '')
+                                ? `max-width: ${Math.round(fluid.presentationWidth / 2)}px; margin-left: auto; margin-right: auto;`
+                                : ''
                         },
                     },
                     {

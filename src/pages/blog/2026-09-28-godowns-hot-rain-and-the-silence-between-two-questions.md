@@ -5,14 +5,14 @@ date: 2026-09-28T10:00:00.000Z
 author: Mohammed Taqi
 description: Ten days with CCDT's Project Suraksha team in Bhiwandi.
 featuredpost: false
-featuredimage: /img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/team-selfie.jpg
+featuredimage: /img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/team-selfie@2x.jpg
 tags:
   - Data Collection
   - Training
   - Social Impact
 ---
 
-![The CCDT Project Suraksha team in Bhiwandi](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/team-selfie.jpg)
+![The CCDT Project Suraksha team in Bhiwandi](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/team-selfie@2x.jpg)
 
 I landed in Mumbai on the 6th of September and took a cab out to Bhiwandi the same evening.
 
@@ -26,7 +26,7 @@ I live in Bangalore. In Bangalore, rain is a negotiation that ends well: it rain
 
 ## The room
 
-![Community Mobilisers practising on the app during training](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/training-room.jpg)
+![Community Mobilisers practising on the app during training](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/training-room@2x.jpg)
 
 CCDT has been working in Maharashtra for around three decades. In Bhiwandi, the office I was working out of isn't primarily a health office at all — it's the home of AAROHAN, a programme where kids and teenagers come in to learn computers from the ground up. Typing, Excel, beginner to advanced. So my training venue for the week was a room full of desktops, normally occupied by teenagers learning to type, temporarily occupied by twenty-two adults learning an app.
 
@@ -94,7 +94,7 @@ That's a dropdown I'd been treating as a dropdown.
 
 ## Thursday: outside
 
-![A Community Mobiliser and a health official talking to a family in a lane in Bhiwandi](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/field-visit-lane.jpg)
+![A Community Mobiliser and a health official talking to a family in a lane in Bhiwandi](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/field-visit-lane@2x.jpg)
 
 On Thursday morning Vishal and Qasim ran a session on Kobo Toolbox, which the team will use for the baseline survey, and then we all went out into the field. First time the app was going to be used live, with real households, by people who had been trained on it three days earlier.
 
@@ -104,7 +104,7 @@ And this is the part of the trip I keep coming back to.
 
 Nida and Rinkal were excellent. They opened the conversation confidently, moved into the registration questions without fumbling, asked them in the right order and the right tone. No hesitation at all.
 
-![Recording a household visit on the tablet](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/household-visit.jpg)
+![Recording a household visit on the tablet](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/household-visit@2x.jpg)
 
 Then the beneficiary answered. And Nida looked down at the tablet to record it.
 
