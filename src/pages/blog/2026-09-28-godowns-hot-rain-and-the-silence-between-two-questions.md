@@ -12,8 +12,7 @@ tags:
   - Social Impact
 ---
 
-<img src="/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/team-selfie.jpg" alt="The CCDT Project Suraksha team in Bhiwandi" style="display: block; width: 70%; max-width: 600px; height: auto; margin: 24px auto 8px; border-radius: 6px;" />
-<p style="text-align: center; font-style: italic; font-size: 0.9rem; color: #6b6b6b; margin-bottom: 24px;">The CCDT Project Suraksha team in Bhiwandi</p>
+![The CCDT Project Suraksha team in Bhiwandi](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/team-selfie.jpg)
 
 I landed in Mumbai on the 6th of September and took a cab out to Bhiwandi the same evening.
 
@@ -27,8 +26,7 @@ I live in Bangalore. In Bangalore, rain is a negotiation that ends well: it rain
 
 ## The room
 
-<img src="/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/training-room.jpg" alt="Community Mobilisers practising on the app during training" style="display: block; width: 70%; max-width: 600px; height: auto; margin: 24px auto 8px; border-radius: 6px;" />
-<p style="text-align: center; font-style: italic; font-size: 0.9rem; color: #6b6b6b; margin-bottom: 24px;">Community Mobilisers practising on the app during training</p>
+![Community Mobilisers practising on the app during training](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/training-room.jpg)
 
 CCDT has been working in Maharashtra for around three decades. In Bhiwandi, the office I was working out of isn't primarily a health office at all — it's the home of AAROHAN, a programme where kids and teenagers come in to learn computers from the ground up. Typing, Excel, beginner to advanced. So my training venue for the week was a room full of desktops, normally occupied by teenagers learning to type, temporarily occupied by twenty-two adults learning an app.
 
@@ -96,8 +94,7 @@ That's a dropdown I'd been treating as a dropdown.
 
 ## Thursday: outside
 
-<img src="/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/field-visit-lane.jpg" alt="A Community Mobiliser and a health official talking to a family in a lane in Bhiwandi" style="display: block; width: 70%; max-width: 600px; height: auto; margin: 24px auto 8px; border-radius: 6px;" />
-<p style="text-align: center; font-style: italic; font-size: 0.9rem; color: #6b6b6b; margin-bottom: 24px;">A Community Mobiliser and a health official talking to a family in a lane in Bhiwandi</p>
+![A Community Mobiliser and a health official talking to a family in a lane in Bhiwandi](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/field-visit-lane.jpg)
 
 On Thursday morning Vishal and Qasim ran a session on Kobo Toolbox, which the team will use for the baseline survey, and then we all went out into the field. First time the app was going to be used live, with real households, by people who had been trained on it three days earlier.
 
@@ -107,8 +104,7 @@ And this is the part of the trip I keep coming back to.
 
 Nida and Rinkal were excellent. They opened the conversation confidently, moved into the registration questions without fumbling, asked them in the right order and the right tone. No hesitation at all.
 
-<img src="/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/household-visit.jpg" alt="Recording a household visit on the tablet" style="display: block; width: 70%; max-width: 600px; height: auto; margin: 24px auto 8px; border-radius: 6px;" />
-<p style="text-align: center; font-style: italic; font-size: 0.9rem; color: #6b6b6b; margin-bottom: 24px;">Recording a household visit on the tablet</p>
+![Recording a household visit on the tablet](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/household-visit.jpg)
 
 Then the beneficiary answered. And Nida looked down at the tablet to record it.
 
@@ -158,8 +154,7 @@ I wrote that down. It's the best description of data quality I've heard, and nob
 
 None of that — the heat, the doorstep interrogations, the three days of relentless questions — fully prepared me for how this team treated me once the training hours ended.
 
-<img src="/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/ganesh-chaturthi-and-meals.jpg" alt="Ganesh Chaturthi, home-cooked meals, and the team" style="display: block; width: 70%; max-width: 600px; height: auto; margin: 24px auto 8px; border-radius: 6px;" />
-<p style="text-align: center; font-style: italic; font-size: 0.9rem; color: #6b6b6b; margin-bottom: 24px;">Ganesh Chaturthi, home-cooked meals, and the team</p>
+![Ganesh Chaturthi, home-cooked meals, and the team](/img/2026-09-28-godowns-hot-rain-and-the-silence-between-two-questions/ganesh-chaturthi-and-meals.jpg)
 
 One of the CMs invited me to her home for Ganesh Chaturthi. I went, sat through the pooja, ate more than I should have. Mariam (another CM) and her mother had prepared me breakfast one morning, dinner on another. On one of those evenings she and Saima (another CM) found out I hadn't bought anything to take home for my sister, and more or less marched me to a shop to fix that. Vishal also turned out to be a wonderful cook. He hosted me one evening — he and his wife had put together three kinds of seafood: two fried fish (Bombay duck and sardines) and a prawn curry. Honestly, after being a little overwhelmed by eating out every day, that food reminded me of home.
 
