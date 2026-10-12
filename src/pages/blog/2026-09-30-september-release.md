@@ -4,7 +4,7 @@ title: Avni September Release
 date: 2026-09-30T12:00:00.000Z
 author: Avni Team
 featuredpost: false
-description: Structured Approval and Rejection forms, a fix for hidden buttons on Android 16, clearer media sync errors, and an attendance report that refreshes in about a minute instead of hours. Here's what changed.
+description: Structured Approval and Rejection forms, a fix for hidden buttons on Android 16, clearer media sync errors, and a much faster attendance report. Here's what changed.
 featuredimage:
 tags:
   - release
@@ -81,8 +81,8 @@ tags:
 ## Performance improvements
 
 <div style="padding: 0 0 20px 0; background: #ffffff;">
-    <p style="font-weight: 700; margin: 12px 0 8px 0;">Attendance report refreshes in about a minute, not hours</p>
-    <p style="margin: 12px 0; line-height: 1.8;">For organisations that track attendance, refreshing the attendance report used to take one to two hours. It now takes under a minute and a half. The report's contents are unchanged. (<a href="https://github.com/avniproject/avni-etl/issues/175" target="_blank" style="color: #0066cc; font-weight: 500;">avni-etl#175</a>)</p>
+    <p style="font-weight: 700; margin: 12px 0 8px 0;">Faster attendance report</p>
+    <p style="margin: 12px 0; line-height: 1.8;">For organisations that track attendance, the attendance report now refreshes many times faster, typically in about a minute or less. The report's contents are unchanged. (<a href="https://github.com/avniproject/avni-etl/issues/175" target="_blank" style="color: #0066cc; font-weight: 500;">avni-etl#175</a>)</p>
 </div>
 
 ---
