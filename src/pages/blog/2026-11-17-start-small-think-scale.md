@@ -43,25 +43,6 @@ We worked through the necessary changes in a couple of weeks and got the applica
 
 The rollout was ambitious — intended to support monitoring across more than 2,600 waterbodies in 21 districts of Maharashtra, involving approximately 1,250 users.
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 24px 0;">
-<div style="flex: 1; min-width: 140px; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px; text-align: center;">
-<p style="font-size: 28px; font-weight: 700; color: #0066cc; margin: 0;">2,600+</p>
-<p style="font-size: 14px; margin: 4px 0 0 0;">waterbodies</p>
-</div>
-<div style="flex: 1; min-width: 140px; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px; text-align: center;">
-<p style="font-size: 28px; font-weight: 700; color: #0066cc; margin: 0;">21</p>
-<p style="font-size: 14px; margin: 4px 0 0 0;">districts of Maharashtra</p>
-</div>
-<div style="flex: 1; min-width: 140px; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px; text-align: center;">
-<p style="font-size: 28px; font-weight: 700; color: #0066cc; margin: 0;">~1,250</p>
-<p style="font-size: 14px; margin: 4px 0 0 0;">users</p>
-</div>
-<div style="flex: 1; min-width: 140px; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px; text-align: center;">
-<p style="font-size: 28px; font-weight: 700; color: #0066cc; margin: 0;">21 Mar 2019</p>
-<p style="font-size: 14px; margin: 4px 0 0 0;">live for field use</p>
-</div>
-</div>
-
 KPMG, which was supporting ATECF as the programme management unit, coordinated programme monitoring. Web Access helped with requirements and coordination, while Samanvay adapted OpenCHS and implemented the application.
 
 To support the project, we introduced capabilities for managing entities other than people, capturing videos and images, and recording geographic information.
@@ -108,26 +89,7 @@ During Jal Chaupal, <a href="https://in.linkedin.com/in/amrtha-kasturi-rangan-55
 
 I found that particularly interesting because it made clear that this was a conscious choice, not merely a consequence of limited resources.
 
-Over the years, ATECF has also explored how different open-source products can complement one another:
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 24px 0;">
-<div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;">
-<p style="font-size: 13px; color: #0066cc; font-weight: 700; margin: 0 0 6px 0;">CLART GIS</p>
-<p style="margin: 0;">for landscape planning</p>
-</div>
-<div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;">
-<p style="font-size: 13px; color: #0066cc; font-weight: 700; margin: 0 0 6px 0;"><a href="/" style="color: #0066cc;">AVNI</a></p>
-<p style="margin: 0;">for field operations</p>
-</div>
-<div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;">
-<p style="font-size: 13px; color: #0066cc; font-weight: 700; margin: 0 0 6px 0;"><a href="https://glific.org/" target="_blank" rel="noopener noreferrer" style="color: #0066cc;">GLIFIC</a></p>
-<p style="margin: 0;">for communication and support</p>
-</div>
-<div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;">
-<p style="font-size: 13px; color: #0066cc; font-weight: 700; margin: 0 0 6px 0;"><a href="https://dalgo.org/" target="_blank" rel="noopener noreferrer" style="color: #0066cc;">DALGO</a></p>
-<p style="margin: 0;">for data pipelines and analytics</p>
-</div>
-</div>
+Over the years, ATECF has also explored how different open-source products can complement one another — CLART GIS for landscape planning, [Avni](/) for field operations, <a href="https://glific.org/" target="_blank" rel="noopener noreferrer">Glific</a> for communication and support, and <a href="https://dalgo.org/" target="_blank" rel="noopener noreferrer">Dalgo</a> for data pipelines and analytics.
 
 Rather than expecting one product to solve every problem, ATECF has been willing to bring together different tools and invest in making them work together.
 
@@ -175,13 +137,7 @@ Technology is often introduced into development programmes primarily to collect 
 
 The larger potential is to make the everyday work of people involved in implementation easier.
 
-<div style="background-color: #f9f9f9; border-left: 4px solid #007acc; padding: 16px 20px; margin: 24px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<ul style="margin: 0; margin-left: 20px; line-height: 1.8;">
-<li>Can a village-level worker initiate and track a request without navigating multiple disconnected processes?</li>
-<li>Can approvals move faster?</li>
-<li>Can programme managers identify bottlenecks early?</li>
-</ul>
-</div>
+Can a village-level worker initiate and track a request without navigating multiple disconnected processes? Can approvals move faster? Can programme managers identify bottlenecks early?
 
 For us at Samanvay, this reinforced an important direction for Avni.
 
