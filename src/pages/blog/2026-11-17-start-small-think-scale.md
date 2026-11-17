@@ -4,6 +4,7 @@ title: "Start Small, Think Scale: Seven Years of Learning with ATECF"
 date: 2026-11-17T10:00:00.000Z
 author: Arjun Khandelwal
 featuredpost: false
+featuredimage: /img/2026-11-17-start-small-think-scale/atecf-recognition.jpg
 description: >-
   Reflections from Jal Chaupal 2026 on seven years with A.T.E. Chandra Foundation's Rejuvenation of Water Bodies programme: how an unexpected phone call in 2019 turned OpenCHS into Avni, and what the programme teaches about scale, open source, philanthropy and ownership.
 tags:
@@ -47,7 +48,7 @@ KPMG, which was supporting ATECF as the programme management unit, coordinated p
 
 To support the project, we introduced capabilities for managing entities other than people, capturing videos and images, and recording geographic information.
 
-The bigger change, however, was in how we started thinking about the platform itself.
+**The bigger change, however, was in how we started thinking about the platform itself.**
 
 We realised that many of the needs we were solving for in healthcare were common to other community programmes too: configurable forms, an offline mobile application that works in local languages, longitudinal tracking, and tools that are easy for frontline workers to use.
 
@@ -75,13 +76,13 @@ Over the years, the technology continued to evolve alongside the programme.
 
 During Jal Chaupal, <a href="https://indiaspora.org/philanthropy_leaders/amit-and-archana-chandra/" target="_blank" rel="noopener noreferrer">Amit Chandra</a> described how the RWB model itself had evolved across geographies. An approach developed around fertile silt needed to be adapted in Rajasthan, where the characteristics of the silt were different. Local governments, implementation partners and local knowledge helped shape those adaptations.
 
-It was a reminder that scaling is not simply about replicating the same solution everywhere. You need to start somewhere, learn from implementation and keep adapting — while making choices that allow the solution to grow.
+It was a reminder that **scaling is not simply about replicating the same solution everywhere**. You need to start somewhere, learn from implementation and keep adapting — while making choices that allow the solution to grow.
 
 ---
 
 ## Don't reinvent the wheel
 
-One of the most inspiring aspects of ATECF's approach is its deliberate decision not to build everything from scratch.
+One of the most inspiring aspects of ATECF's approach is **its deliberate decision not to build everything from scratch**.
 
 ATECF had the resources to commission a completely new technology platform. Instead, it chose to leverage existing products and solutions, adapt them to its needs, invest in improving them, and contribute back.
 
@@ -107,7 +108,7 @@ For me, that is one of the most powerful possibilities of open-source technology
 
 Another important theme at Jal Chaupal was the complementary roles of philanthropy, government and civil society.
 
-I particularly appreciated how Amit and Archana Chandra spoke about philanthropy as strategic, patient and risk capital.
+I particularly appreciated how Amit and Archana Chandra spoke about **philanthropy as strategic, patient and risk capital**.
 
 Philanthropic funding creates space to experiment, test approaches and strengthen solutions before taking them to scale. But philanthropy cannot be expected to fund large-scale implementation indefinitely.
 
@@ -135,7 +136,7 @@ That was significant.
 
 Technology is often introduced into development programmes primarily to collect data and generate reports. While useful, this represents only part of the opportunity.
 
-The larger potential is to make the everyday work of people involved in implementation easier.
+**The larger potential is to make the everyday work of people involved in implementation easier.**
 
 Can a village-level worker initiate and track a request without navigating multiple disconnected processes? Can approvals move faster? Can programme managers identify bottlenecks early?
 
@@ -151,7 +152,7 @@ The conversation also challenged us to think about additional capabilities that 
 
 The RWB journey has had its share of technology adoption challenges. We experienced some of these right from the first rollout in 2019.
 
-ATECF deserves considerable credit for recognising that adopting technology requires much more than procuring software.
+ATECF deserves considerable credit for recognising that **adopting technology requires much more than procuring software**.
 
 It requires investing in people, providing implementation support, addressing difficulties as they emerge, and continuing to strengthen systems over time.
 
@@ -171,7 +172,7 @@ Another conversation that stayed with me was the one Hiral facilitated with <a h
 
 I had first met Nimesh bhai during our early work on the RWB pilot. Reconnecting after several years was a pleasure.
 
-He has a wonderful way of explaining important ideas through simple stories. One point he made was about the importance of people having their own stake in something — having some skin in the game. He explained how this not only creates greater ownership, but also preserves people's dignity and helps them make more thoughtful decisions.
+He has a wonderful way of explaining important ideas through simple stories. One point he made was about the importance of people having their own stake in something — **having some skin in the game**. He explained how this not only creates greater ownership, but also preserves people's dignity and helps them make more thoughtful decisions.
 
 This resonated with me because of something we have believed at Samanvay from the beginning. While Avni is open-source software, we have consciously chosen not to offer our implementation and support services to NGOs entirely free of charge. Even a subsidised contribution helps create a sense of ownership and commitment.
 
@@ -179,7 +180,7 @@ This resonated with me because of something we have believed at Samanvay from th
 
 I found myself connecting these ideas to the journey ahead for Avni.
 
-We have spent years building a platform that NGOs can use to strengthen their programmes. But for Avni to become a truly sustainable digital public good, the organisations using it need to become more than customers.
+We have spent years building a platform that NGOs can use to strengthen their programmes. But for Avni to become a truly sustainable digital public good, **the organisations using it need to become more than customers**.
 
 They should be able to influence its direction, contribute improvements, share their experiences and help other organisations adopt it.
 
